@@ -43,3 +43,10 @@ button {
   font-weight: bold;
   cursor: pointer;
 }
+footer {
+  text-align: center;
+}
+
+footer a:hover {
+  text-decoration: none;
+}

@@ -50,3 +50,20 @@ footer {
 footer a:hover {
   text-decoration: none;
 }
+
+nav {
+  font-family: 'Alegreya', serif;
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
+
+.nav-link {
+  margin-right: 1.5rem;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}

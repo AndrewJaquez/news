@@ -4,76 +4,53 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Simple News</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f9f9f9;
-      color: #222;
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-    }
-
-    h1 {
-      font-size: 2rem;
-      margin-bottom: 1rem;
-    }
-
-    .article {
-      background: #fff;
-      border-radius: 8px;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.1);
-      margin-bottom: 1.5rem;
-      padding: 1rem 1.5rem;
-    }
-
-    .article h2 {
-      font-size: 1.25rem;
-      margin: 0 0 0.5rem;
-    }
-
-    .article p {
-      font-size: 0.95rem;
-      line-height: 1.6;
-    }
-
-    .article a {
-      display: inline-block;
-      margin-top: 0.5rem;
-      color: #0066cc;
-      text-decoration: none;
-    }
-
-    .article a:hover {
-      text-decoration: underline;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css" />
 </head>
+
 <body>
   <h1>📰 Simple News</h1>
-  <div id="news-container">Loading news...</div>
+  <div id="news-container">Loading articles...</div>
 
-  <script>
-    fetch('news.json')
-      .then(response => response.json())
-      .then(data => {
-        const container = document.getElementById('news-container');
-        container.innerHTML = ''; // Clear loading text
-        data.forEach(article => {
-          const div = document.createElement('div');
-          div.className = 'article';
-          div.innerHTML = `
-            <h2>${article.title}</h2>
+<script>
+  fetch('news.json')
+    .then(response => response.json())
+    .then(articles => {
+      const container = document.getElementById('news-container');
+      container.innerHTML = '';
+
+      articles.forEach((article, index) => {
+        const div = document.createElement('div');
+
+        const summaryId = `summary-${index}`;
+
+        div.innerHTML = `
+          <h2 style="display: flex; align-items: center; gap: 0.5rem;">
+            ${article.title}
+            <button aria-expanded="false" aria-controls="${summaryId}" style="all: unset; cursor: pointer; font-size: 1.2rem;">+</button>
+          </h2>
+          <div id="${summaryId}" style="display: none;">
             <p>${article.summary}</p>
-            <a href="${article.link}" target="_blank">Read full article</a>
-          `;
-          container.appendChild(div);
+          </div>
+        `;
+
+        const button = div.querySelector("button");
+        const summary = div.querySelector(`#${summaryId}`);
+
+        button.addEventListener("click", () => {
+          const isOpen = summary.style.display === "block";
+          summary.style.display = isOpen ? "none" : "block";
+          button.textContent = isOpen ? "+" : "–";
+          button.setAttribute("aria-expanded", String(!isOpen));
         });
-      })
-      .catch(err => {
-        document.getElementById('news-container').textContent = 'Failed to load news.';
-        console.error(err);
+
+        container.appendChild(div);
       });
-  </script>
+    })
+    .catch(err => {
+      document.getElementById('news-container').innerText = 'Failed to load news.';
+      console.error(err);
+    });
+</script>
+
 </body>
 </html>

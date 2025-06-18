@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+  font-family: 'Alegreya', serif;
+  background: #ffffff;
+  color: #000000;
+  margin: 0 auto;
+  max-width: 700px;
+  padding: 2rem 1rem;
+  line-height: 1.75;
+  font-size: 1.05rem;
+}
+
+h1 {
+  font-size: 2.25rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin: 1.75rem 0 0.5rem;
+}
+
+p {
+  margin: 0.5rem 0 1rem;
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+a:hover {
+  text-decoration: none;
+}
+button {
+  font-family: inherit;
+  background: none;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}

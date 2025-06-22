@@ -36,6 +36,7 @@ a {
 a:hover {
   text-decoration: none;
 }
+
 button {
   font-family: inherit;
   background: none;
@@ -43,6 +44,7 @@ button {
   font-weight: bold;
   cursor: pointer;
 }
+
 footer {
   text-align: center;
 }
@@ -62,52 +64,6 @@ nav {
   text-decoration: none;
   color: black;
   font-weight: bold;
-}
-
-.nav-link:hover {
-  text-decoration: underline;
-}
-/* ===== World Globe Styles ===== */
-
-html, body {
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  height: 100%;
-  background: #ffffff;
-  font-family: 'Alegreya', serif;
-}
-
-#globe-container {
-  position: absolute;
-  top: 0; left: 0; bottom: 0; right: 0;
-}
-
-#headline-panel {
-  position: absolute;
-  top: 1rem;
-  right: 1rem;
-  background: white;
-  color: black;
-  padding: 1rem;
-  max-width: 300px;
-  border-left: 1px solid #ccc;
-  font-size: 0.95rem;
-  display: none;
-}
-
-nav {
-  position: absolute;
-  top: 1rem;
-  left: 1rem;
-  z-index: 2;
-}
-
-.nav-link {
-  margin-right: 1rem;
-  font-weight: bold;
-  text-decoration: none;
-  color: black;
 }
 
 .nav-link:hover {

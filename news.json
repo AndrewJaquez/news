@@ -1,8 +1,18 @@
 [
   {
+    "title": "Why a G.O.P. Medicaid Requirement Could Set States Up for Failure",
+    "link": "https://www.nytimes.com/2025/06/28/upshot/republicans-medicaid-work-requirement.html",
+    "summary": "The Republicans’ big bill would require most states to build technology systems quickly and with little funding."
+  },
+  {
     "title": "How the Supreme Court’s Injunction Ruling Expands Trump’s Power",
     "link": "https://www.nytimes.com/2025/06/28/us/supreme-court-trump-executive-branch-power.html",
     "summary": "The court tied the hands of judges at a time when Congress has been cowed and internal executive branch constraints have been steamrolled."
+  },
+  {
+    "title": "Courts Will Have to Grapple With New Limits on Their Power",
+    "link": "https://www.nytimes.com/2025/06/28/us/politics/injunctions-what-comes-next.html",
+    "summary": "The Supreme Court has set a new, higher bar for judges seeking to block Trump administration policies nationwide. But some legal routes remain open."
   },
   {
     "title": "A Triumphant Supreme Court Term for Trump, Fueled by Emergency Rulings",
@@ -15,19 +25,9 @@
     "summary": "Mass immigration arrests have led to overcrowding in detention facilities, with reports of unsanitary and inhumane conditions."
   },
   {
-    "title": "Newsom Signs Budget That Includes Health Care Cuts for Undocumented Immigrants",
-    "link": "https://www.nytimes.com/2025/06/27/us/newsom-budget-immigrant-health.html",
-    "summary": "Gov. Gavin Newsom of California signed a budget bill on Friday that depends in part on rolling back those benefits to help close a $12 billion deficit."
-  },
-  {
-    "title": "Trump Officials to End Deportation Protections for Haitian Immigrants",
-    "link": "https://www.nytimes.com/2025/06/28/us/politics/trump-deportation-haiti-immigrants.html",
-    "summary": "The move continues the administration’s campaign of revoking special protections for migrants from some of the most unstable places in the world."
-  },
-  {
-    "title": "Amid War With Israel, Iran Pursues Enemies From Within",
-    "link": "https://www.nytimes.com/2025/06/28/world/middleeast/iran-israel-conflict-spies.html",
-    "summary": "Iranian authorities are sweeping up hundreds of people deemed suspected spies or infiltrators. Some worry the campaign could become a broader crackdown on political opponents and minorities."
+    "title": "Israel and U.S. Smashed Iran Nuclear Site That Grew After Trump Quit 2015 Accord",
+    "link": "https://www.nytimes.com/2025/06/28/science/iran-nuclear-uranium-metal.html",
+    "summary": "Nuclear experts say the president’s rejection of the restrictive deal forced him to neutralize an Iranian threat of his own making."
   },
   {
     "title": "Iran Holds State Funeral for Military Commanders and Nuclear Scientists",
@@ -35,14 +35,14 @@
     "summary": "A procession of marchers honored prominent figures killed during the 12-day war with Israel."
   },
   {
-    "title": "Senate Blocks War Powers Resolution to Limit Trump’s Ability to Strike Iran Again",
-    "link": "https://www.nytimes.com/2025/06/27/us/politics/trump-war-powers-iran-strike.html",
-    "summary": "The vote against the measure was mostly along party lines, with Republicans opposing it and Democrats almost unanimously in favor."
+    "title": "Is Pope Leo a Man of Action on Sexual Abuse Cases? Or the Opposite?",
+    "link": "https://www.nytimes.com/2025/06/28/world/americas/pope-leo-catholic-church-sexual-abuse-peru-bishop-prevost.html",
+    "summary": "For some survivors, he was a hero. Others who reported abuse said he failed them."
   },
   {
-    "title": "Why a G.O.P. Medicaid Requirement Could Set States Up for Failure",
-    "link": "https://www.nytimes.com/2025/06/28/upshot/republicans-medicaid-work-requirement.html",
-    "summary": "The Republicans’ big bill would require most states to build technology systems quickly and with little funding."
+    "title": "Takeaways From a Times Investigation of the Pope’s Legacy on Sex Abuse",
+    "link": "https://www.nytimes.com/2025/06/28/world/americas/pope-leo-sex-abuse-investigation-takeaways.html",
+    "summary": "As a bishop in Peru, Pope Leo XIV’s handling of two abuse cases was a study in contrasts, siding strongly with victims in one and accused of failing them in the other."
   },
   {
     "title": "Mark Zuckerberg and Priscilla Chan Narrow CZI’s Focus to Science Efforts",
@@ -50,24 +50,39 @@
     "summary": "The tech titan and his wife once had sprawling ambitions for their Chan Zuckerberg Initiative. Now their efforts in politics, education and housing have been cut back to focus on science."
   },
   {
-    "title": "Can Donors Fill the Major Budget Holes Universities Face Under Trump?",
-    "link": "https://www.nytimes.com/2025/06/28/us/donors-universities-funding-gaps-trump-administration.html",
-    "summary": "In their fund-raising appeals, some schools are citing the vast sums in federal funding that they stand to lose. Others appear to be keeping mum to avoid angering the White House."
+    "title": "Golden Arches in a War Zone: McDonald’s Thrives in Ukraine",
+    "link": "https://www.nytimes.com/2025/06/28/world/europe/ukraine-mcdonalds.html",
+    "summary": "The American fast-food giant plans to open about 10 new restaurants in Ukraine this year, a testament to the country’s rebounding economy and its enduring love of Big Macs."
   },
   {
-    "title": "Top American Academics Flock to Toronto as Trump Threatens U.S. Colleges",
-    "link": "https://www.nytimes.com/2025/06/28/world/canada/trump-universities-professors-toronto.html",
-    "summary": "The University of Toronto has attracted several U.S. professors amid turmoil between American higher-education institutions and the Trump administration."
+    "title": "Newsom Signs Budget That Includes Health Care Cuts for Undocumented Immigrants",
+    "link": "https://www.nytimes.com/2025/06/27/us/newsom-budget-immigrant-health.html",
+    "summary": "Gov. Gavin Newsom of California signed a budget bill on Friday that depends in part on rolling back those benefits to help close a $12 billion deficit."
   },
   {
-    "title": "University of Virginia President Resigns Under Pressure From Trump Administration",
-    "link": "https://www.nytimes.com/2025/06/27/us/politics/uva-president-resigns-jim-ryan-trump.html",
-    "summary": "The Justice Department had demanded that James E. Ryan step down in order to help resolve a civil rights investigation into the school."
+    "title": "Democrats Cheer Hollywood Tax Breaks They Once Called ‘Corporate Welfare’",
+    "link": "https://www.nytimes.com/2025/06/28/arts/california-film-tax-credits-democrats-newsom.html",
+    "summary": "California politicians once derided a $50 million proposal by Arnold Schwarzenegger. With the support of unions, they’re now strongly backing a $750 million subsidy."
+  },
+  {
+    "title": "How 5 States Are Trying to Lure Hollywood Productions",
+    "link": "https://www.nytimes.com/2025/06/28/arts/hollywood-film-tax-credits-incentives.html",
+    "summary": "States have spent at least $25 billion to attract movie and TV filming. Texas and New York are increasing their subsidies, while Georgia and Louisiana are broadening their programs."
+  },
+  {
+    "title": "Budapest Pride Parade Was Bigger Than Ever, Despite Orban’s Ban",
+    "link": "https://www.nytimes.com/2025/06/28/world/europe/hungary-orban-gay-pride.html",
+    "summary": "Prime Minister Viktor Orban’s party enacted the ban, but Budapest’s mayor allowed the event to go on. The police sat on the sidelines."
+  },
+  {
+    "title": "Chinese Police Detain Dozens of Writers Over Gay Erotic Online Novels",
+    "link": "https://www.nytimes.com/2025/06/28/world/asia/china-boys-love-women.html",
+    "summary": "The genre known as Boys’ Love, stories written mostly by and for straight women, has been in the authorities’ sights for years."
   },
   {
     "title": "Free Buses and Child Care. A Rent Freeze. Can Zohran Mamdani Achieve His Plans?",
     "link": "https://www.nytimes.com/2025/06/28/nyregion/mamdani-policies-economy-housing-buses-childcare.html",
-    "summary": "The Democratic mayoral hopeful promises free child care, a $30 minimum wage and a massive tax hike on the city’s  corporations. But much is not within a mayor’s control."
+    "summary": "The Democratic mayoral hopeful promises free child care, a $30 minimum wage and a massive tax hike on the city’s corporations. But much is not within a mayor’s control."
   },
   {
     "title": "Mamdani and Other Younger Democrats Are No Longer Waiting Their Turn",
@@ -75,29 +90,14 @@
     "summary": "Three very different politicians — from New York, Virginia and New Jersey — won elections this month with a common theme: leadership for the next generation."
   },
   {
-    "title": "At Bezos’ Venetian Wedding: Buzz, Bling and Backlash",
-    "link": "https://www.nytimes.com/2025/06/28/world/europe/bezos-sanchez-venice-wedding.html",
-    "summary": "The over-the-top party in the photogenic Italian city mixed Hollywood, Silicon Valley and political overtones."
+    "title": "Is Mostafa Asal, Squash World Champion, Testing The Rules, or Cheating?",
+    "link": "https://www.nytimes.com/2025/06/28/business/mostafa-asal-squash-cheating.html",
+    "summary": "Even Mostafa Asal’s coach admits his player sometimes goes too far. But an anonymous YouTuber is crying foul play, with videos to make the point."
   },
   {
-    "title": "Budapest Pride Parade Will Go On Despite Orban’s Ban. How Will He Respond?",
-    "link": "https://www.nytimes.com/2025/06/28/world/europe/hungary-orban-gay-pride.html",
-    "summary": "Prime Minister Viktor Orban’s party enacted the ban, trying to create a dilemma for the opposition leader. Now it is the government that faces a tough choice."
-  },
-  {
-    "title": "What Happened in the Closing Arguments of the Sean Combs Trial",
-    "link": "https://www.nytimes.com/2025/06/28/arts/music/sean-combs-diddy-trial-closing-arguments.html",
-    "summary": "The jurors will begin deliberating on Monday. The music mogul has pleaded not guilty to sex trafficking and racketeering conspiracy."
-  },
-  {
-    "title": "Gen Z, It Turns Out, Is Great at Saving for Retirement",
-    "link": "https://www.nytimes.com/2025/06/28/business/retirement/gen-z-retirement-savings.html",
-    "summary": "They are contributing to their 401(k)s much earlier than millennials did, reports show, and young women in particular are being aggressive about saving."
-  },
-  {
-    "title": "Is ‘No Buy’ July the Best Way to Trim Your Spending?",
-    "link": "https://www.nytimes.com/2025/06/27/your-money/no-buy-july-budgeting.html",
-    "summary": "One proponent argues that fiscal fasting pushes people to confront their spending habits. But other financial experts prefer a more consistent approach to budgeting."
+    "title": "We Know Where the Supreme Court’s Change of Heart Has Come From",
+    "link": "https://www.nytimes.com/2025/06/28/opinion/supreme-court-ketanji-jackson.html",
+    "summary": "The justices’ strange about-face has a source."
   },
   {
     "title": "Obfuscating on Obliterating",
@@ -105,33 +105,28 @@
     "summary": "Trump schools the Ayatollah on the fine art of truth telling."
   },
   {
-    "title": "Belarus Is a Warning",
-    "link": "https://www.nytimes.com/2025/06/28/opinion/belarus-democracy-lukashenko.html",
-    "summary": "I’m going to tell you how the people in charge of my country made the truth a crime."
-  },
-  {
     "title": "Better Half",
     "link": "https://www.nytimes.com/2025/06/28/briefing/better-half.html",
     "summary": "The midpoint of the year is an opportune moment to look back at where we’ve been, and set our sights for where we want to go."
   },
   {
+    "title": "At Bezos’ Venetian Wedding: Buzz, Bling and Backlash",
+    "link": "https://www.nytimes.com/2025/06/28/world/europe/bezos-sanchez-venice-wedding.html",
+    "summary": "The over-the-top party in the photogenic Italian city mixed Hollywood, Silicon Valley and political overtones."
+  },
+  {
+    "title": "Stars Passing Near the Sun Could Cause Planets to Collide or Be Ejected, Paper Says",
+    "link": "https://www.nytimes.com/2025/06/28/science/sun-solar-system-collisions-stars.html",
+    "summary": "Stars passing close to the sun could cause planets to collide, including with Earth, or even be ejected as rogue planets, new simulations show."
+  },
+  {
+    "title": "Baltimore Takes a Gamble to Reverse Decades of Neglect",
+    "link": "https://www.nytimes.com/2025/06/26/realestate/baltimore-housing-redlining-vacant-buildings.html",
+    "summary": "In the “birthplace of redlining,” an ambitious plan to promote homeownership and restore neighborhoods plagued by vacant houses is taking hold."
+  },
+  {
     "title": "The Supreme Court’s Same-Sex Marriage Ruling Impact on Trans Youth",
     "link": "https://www.nytimes.com/2025/06/28/us/same-sex-marriage-transgender-youth.html",
     "summary": "Ten years after their Supreme Court win, some veterans of the marriage equality battles see a shared struggle for transgender rights."
-  },
-  {
-    "title": "Is the Local Weed Store the New Place to Hang Out?",
-    "link": "https://www.nytimes.com/2025/06/28/nyregion/is-the-local-weed-store-the-new-place-to-hang-out.html",
-    "summary": "Young adults are drinking less alcohol and seeking more connection, and New York’s dispensaries are putting themselves out there as alternative gathering spaces."
-  },
-  {
-    "title": "Thai Protesters Vent Their Exasperation With the Prime Minister",
-    "link": "https://www.nytimes.com/2025/06/28/world/asia/thailand-protesters-prime-minister.html",
-    "summary": "The political turmoil set off by a leaked phone conversation shows no sign of easing, in a country where demonstrations have helped oust governments before."
-  },
-  {
-    "title": "Woman Was ‘Most Likely’ Bitten by Shark at Jones Beach, Scientists Say",
-    "link": "https://www.nytimes.com/2025/06/27/nyregion/shark-bite-jones-beach-new-york.html",
-    "summary": "The woman had minor cuts to her left foot and leg after being bitten on Wednesday. She was transported to a hospital for injuries that were not life-threatening, officials said."
   }
 ]

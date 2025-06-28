@@ -1,38 +1,63 @@
 [
   {
+    "title": "How the Supreme Court’s Injunction Ruling Expands Trump’s Power",
+    "link": "https://www.nytimes.com/2025/06/28/us/supreme-court-trump-executive-branch-power.html",
+    "summary": "The court tied the hands of judges at a time when Congress has been cowed and internal executive branch constraints have been steamrolled."
+  },
+  {
+    "title": "A Triumphant Supreme Court Term for Trump, Fueled by Emergency Rulings",
+    "link": "https://www.nytimes.com/2025/06/28/us/supreme-court-trump-victories.html",
+    "summary": "Using truncated procedures, the six-justice conservative majority gave a green light to many of the president’s most assertive initiatives."
+  },
+  {
+    "title": "Concerns Grow Over Dire Conditions in Immigrant Detention",
+    "link": "https://www.nytimes.com/2025/06/28/us/immigrant-detention-conditions.html",
+    "summary": "Mass immigration arrests have led to overcrowding in detention facilities, with reports of unsanitary and inhumane conditions."
+  },
+  {
+    "title": "Newsom Signs Budget That Includes Health Care Cuts for Undocumented Immigrants",
+    "link": "https://www.nytimes.com/2025/06/27/us/newsom-budget-immigrant-health.html",
+    "summary": "Gov. Gavin Newsom of California signed a budget bill on Friday that depends in part on rolling back those benefits to help close a $12 billion deficit."
+  },
+  {
+    "title": "Trump Officials to End Deportation Protections for Haitian Immigrants",
+    "link": "https://www.nytimes.com/2025/06/28/us/politics/trump-deportation-haiti-immigrants.html",
+    "summary": "The move continues the administration’s campaign of revoking special protections for migrants from some of the most unstable places in the world."
+  },
+  {
+    "title": "Amid War With Israel, Iran Pursues Enemies From Within",
+    "link": "https://www.nytimes.com/2025/06/28/world/middleeast/iran-israel-conflict-spies.html",
+    "summary": "Iranian authorities are sweeping up hundreds of people deemed suspected spies or infiltrators. Some worry the campaign could become a broader crackdown on political opponents and minorities."
+  },
+  {
+    "title": "Iran Holds State Funeral for Military Commanders and Nuclear Scientists",
+    "link": "https://www.nytimes.com/2025/06/28/world/middleeast/iran-funerals-israel-war.html",
+    "summary": "A procession of marchers honored prominent figures killed during the 12-day war with Israel."
+  },
+  {
     "title": "Senate Blocks War Powers Resolution to Limit Trump’s Ability to Strike Iran Again",
     "link": "https://www.nytimes.com/2025/06/27/us/politics/trump-war-powers-iran-strike.html",
     "summary": "The vote against the measure was mostly along party lines, with Republicans opposing it and Democrats almost unanimously in favor."
   },
   {
-    "title": "Judge Strikes Down Trump Order Targeting Susman Godfrey Law Firm",
-    "link": "https://www.nytimes.com/2025/06/27/us/politics/trump-susan-godfrey-law-firm-order.html",
-    "summary": "The ruling completed a clean sweep for the handful of law firms that took the risk of fighting the Trump administration in court, rather than accepting punitive conditions."
+    "title": "Why a G.O.P. Medicaid Requirement Could Set States Up for Failure",
+    "link": "https://www.nytimes.com/2025/06/28/upshot/republicans-medicaid-work-requirement.html",
+    "summary": "The Republicans’ big bill would require most states to build technology systems quickly and with little funding."
   },
   {
-    "title": "Don Bacon, House Republican Who Often Criticizes Trump, Won’t Seek Re-election",
-    "link": "https://www.nytimes.com/2025/06/27/us/politics/don-bacon-retiring.html",
-    "summary": "The departure of the five-term lawmaker from Nebraska enhances Democrats’ chances of picking up a seat in the narrowly divided House."
+    "title": "Mark Zuckerberg and Priscilla Chan Narrow CZI’s Focus to Science Efforts",
+    "link": "https://www.nytimes.com/2025/06/28/technology/mark-zuckerberg-priscilla-chan-czi.html",
+    "summary": "The tech titan and his wife once had sprawling ambitions for their Chan Zuckerberg Initiative. Now their efforts in politics, education and housing have been cut back to focus on science."
   },
   {
-    "title": "Trump Says U.S. Ending Trade Talks With Canada Over Digital Services Taxes",
-    "link": "https://www.nytimes.com/2025/06/27/business/trump-ends-canada-trade-talks.html",
-    "summary": "The president said he would cease negotiations and impose new tariffs because of Canada’s imminent, new digital services taxes."
+    "title": "Can Donors Fill the Major Budget Holes Universities Face Under Trump?",
+    "link": "https://www.nytimes.com/2025/06/28/us/donors-universities-funding-gaps-trump-administration.html",
+    "summary": "In their fund-raising appeals, some schools are citing the vast sums in federal funding that they stand to lose. Others appear to be keeping mum to avoid angering the White House."
   },
   {
-    "title": "S&P 500 Hits a Record High, Surging Through Trump Turmoil",
-    "link": "https://www.nytimes.com/2025/06/27/business/sp-500-record-trump.html",
-    "summary": "The index has regained all the ground it lost in March and early April, when President Trump proposed his broad array of tariffs."
-  },
-  {
-    "title": "Trump Encourages Powell to Resign in Latest Attack on the Fed Chair",
-    "link": "https://www.nytimes.com/2025/06/27/business/trump-powell-federal-reserve-resign.html",
-    "summary": "Jerome H. Powell, whose term does not expire until May, has argued that the central bank can afford to be patient about cutting interest rates amid uncertainty about the economic outlook."
-  },
-  {
-    "title": "How Long-term Compounding Multiplies the Awesome Power of the Stock Market",
-    "link": "https://www.nytimes.com/2025/06/27/business/stock-market-investing-index-funds.html",
-    "summary": "Time is the secret ingredient of investing, a market veteran says. Over many decades, diversified stock index funds have produced extraordinary results."
+    "title": "Top American Academics Flock to Toronto as Trump Threatens U.S. Colleges",
+    "link": "https://www.nytimes.com/2025/06/28/world/canada/trump-universities-professors-toronto.html",
+    "summary": "The University of Toronto has attracted several U.S. professors amid turmoil between American higher-education institutions and the Trump administration."
   },
   {
     "title": "University of Virginia President Resigns Under Pressure From Trump Administration",
@@ -40,14 +65,19 @@
     "summary": "The Justice Department had demanded that James E. Ryan step down in order to help resolve a civil rights investigation into the school."
   },
   {
-    "title": "Harvard and University of Toronto Announce a Contingency Plan for Some International Students",
-    "link": "https://www.nytimes.com/2025/06/27/us/harvard-international-students-university-of-toronto.html",
-    "summary": "Students at the Kennedy School of Government can study online or finish their degrees at the University of Toronto."
+    "title": "Free Buses and Child Care. A Rent Freeze. Can Zohran Mamdani Achieve His Plans?",
+    "link": "https://www.nytimes.com/2025/06/28/nyregion/mamdani-policies-economy-housing-buses-childcare.html",
+    "summary": "The Democratic mayoral hopeful promises free child care, a $30 minimum wage and a massive tax hike on the city’s  corporations. But much is not within a mayor’s control."
   },
   {
-    "title": "Jeff Bezos and Lauren Sánchez Tie the Knot",
-    "link": "https://www.nytimes.com/2025/06/27/world/europe/jeff-bezos-lauren-sanchez-married.html",
-    "summary": "The bride announced the marriage on Friday night in an Instagram post under the name Lauren Sánchez Bezos."
+    "title": "Mamdani and Other Younger Democrats Are No Longer Waiting Their Turn",
+    "link": "https://www.nytimes.com/2025/06/27/us/politics/mamdani-sherrill-spanberger-younger-democrats.html",
+    "summary": "Three very different politicians — from New York, Virginia and New Jersey — won elections this month with a common theme: leadership for the next generation."
+  },
+  {
+    "title": "At Bezos’ Venetian Wedding: Buzz, Bling and Backlash",
+    "link": "https://www.nytimes.com/2025/06/28/world/europe/bezos-sanchez-venice-wedding.html",
+    "summary": "The over-the-top party in the photogenic Italian city mixed Hollywood, Silicon Valley and political overtones."
   },
   {
     "title": "Budapest Pride Parade Will Go On Despite Orban’s Ban. How Will He Respond?",
@@ -55,63 +85,53 @@
     "summary": "Prime Minister Viktor Orban’s party enacted the ban, trying to create a dilemma for the opposition leader. Now it is the government that faces a tough choice."
   },
   {
-    "title": "In Birthright Citizenship Case, Supreme Court Limits Power of Judges to Block Trump Policies",
-    "link": "https://www.nytimes.com/2025/06/27/us/supreme-court-birthright-citizenship.html",
-    "summary": "The ruling clears a major hurdle to President Trump’s agenda and could reshape American citizenship, at least temporarily, as lower court challenges proceed."
+    "title": "What Happened in the Closing Arguments of the Sean Combs Trial",
+    "link": "https://www.nytimes.com/2025/06/28/arts/music/sean-combs-diddy-trial-closing-arguments.html",
+    "summary": "The jurors will begin deliberating on Monday. The music mogul has pleaded not guilty to sex trafficking and racketeering conspiracy."
   },
   {
-    "title": "What the Supreme Court’s Ruling Will Mean for Birthright Citizenship",
-    "link": "https://www.nytimes.com/2025/06/27/us/politics/27nat-birthright-citizenship-impacts.html",
-    "summary": "The ruling left unsettled the question of whether children born to immigrants without full legal status in the United States are entitled to automatic citizenship. So what happens now?"
+    "title": "Gen Z, It Turns Out, Is Great at Saving for Retirement",
+    "link": "https://www.nytimes.com/2025/06/28/business/retirement/gen-z-retirement-savings.html",
+    "summary": "They are contributing to their 401(k)s much earlier than millennials did, reports show, and young women in particular are being aggressive about saving."
   },
   {
-    "title": "Minnesota Rep. Melissa Hortman and Husband Lie in State Alongside Their Dog, Gilbert",
-    "link": "https://www.nytimes.com/2025/06/27/us/politics/minnesota-melissa-hortman-dog-lying-in-state.html",
-    "summary": "Gilbert, Representative Melissa Hortman’s dog, is being honored at the State Capitol with Ms. Hortman and her husband, Mark. They were all killed in a shooting at their home this month."
+    "title": "Is ‘No Buy’ July the Best Way to Trim Your Spending?",
+    "link": "https://www.nytimes.com/2025/06/27/your-money/no-buy-july-budgeting.html",
+    "summary": "One proponent argues that fiscal fasting pushes people to confront their spending habits. But other financial experts prefer a more consistent approach to budgeting."
   },
   {
-    "title": "Chinese Police Detain Dozens of Writers Over Gay Erotic Online Novels",
-    "link": "https://www.nytimes.com/2025/06/28/world/asia/china-boys-love-women.html",
-    "summary": "The genre known as Boys’ Love, stories written mostly by and for straight women, has been in the authorities’ sights for years."
+    "title": "Obfuscating on Obliterating",
+    "link": "https://www.nytimes.com/2025/06/28/opinion/trump-iran-ayatollah-khamenei.html",
+    "summary": "Trump schools the Ayatollah on the fine art of truth telling."
   },
   {
-    "title": "Authorities Rescue Girl Whose Mother Livestreamed Her Sexual Abuse",
-    "link": "https://www.nytimes.com/2025/06/27/us/online-child-abuse.html",
-    "summary": "The 9-year-old from Vietnam was abused by her mother for customers watching on smartphone apps in the U.S. and elsewhere. The mother said she needed the money."
+    "title": "Belarus Is a Warning",
+    "link": "https://www.nytimes.com/2025/06/28/opinion/belarus-democracy-lukashenko.html",
+    "summary": "I’m going to tell you how the people in charge of my country made the truth a crime."
   },
   {
-    "title": "A Special ‘Climate’ Visa? People in Tuvalu Are Applying Fast.",
-    "link": "https://www.nytimes.com/2025/06/27/climate/a-special-climate-visa-people-in-tuvalu-are-applying-fast.html",
-    "summary": "Nearly half the citizens of the tiny Pacific Island nation have already applied in a lottery for Australian visas amid an existential threat from global warming and sea-level rise."
+    "title": "Better Half",
+    "link": "https://www.nytimes.com/2025/06/28/briefing/better-half.html",
+    "summary": "The midpoint of the year is an opportune moment to look back at where we’ve been, and set our sights for where we want to go."
   },
   {
-    "title": "The Supreme Court’s Intolerable Ruling on Birthright Citizenship",
-    "link": "https://www.nytimes.com/2025/06/27/opinion/birthright-citizenship-case-supreme-court.html",
-    "summary": "The court didn’t rule on the legality of Trump’s order, but it didn’t have to."
+    "title": "The Supreme Court’s Same-Sex Marriage Ruling Impact on Trans Youth",
+    "link": "https://www.nytimes.com/2025/06/28/us/same-sex-marriage-transgender-youth.html",
+    "summary": "Ten years after their Supreme Court win, some veterans of the marriage equality battles see a shared struggle for transgender rights."
   },
   {
-    "title": "The Internet Needs Sex",
-    "link": "https://www.nytimes.com/2025/06/27/opinion/pornography-restrictions-free-speech-obscenity.html",
-    "summary": "And an internet without it is one that offers a pale shadow of human potential and possibility."
+    "title": "Is the Local Weed Store the New Place to Hang Out?",
+    "link": "https://www.nytimes.com/2025/06/28/nyregion/is-the-local-weed-store-the-new-place-to-hang-out.html",
+    "summary": "Young adults are drinking less alcohol and seeking more connection, and New York’s dispensaries are putting themselves out there as alternative gathering spaces."
   },
   {
-    "title": "Getty Villa Is Reopening in Los Angeles After Palisades Fire",
-    "link": "https://www.nytimes.com/2025/06/27/arts/design/getty-villa-reopen-after-fire.html",
-    "summary": "Although the museum’s artwork was unscathed, roughly 1,400 trees on the property burned during the Palisades fire. Visible traces of the devastation are intentional."
+    "title": "Thai Protesters Vent Their Exasperation With the Prime Minister",
+    "link": "https://www.nytimes.com/2025/06/28/world/asia/thailand-protesters-prime-minister.html",
+    "summary": "The political turmoil set off by a leaked phone conversation shows no sign of easing, in a country where demonstrations have helped oust governments before."
   },
   {
-    "title": "Tech C.E.O. Pays $400,000 to Conduct the Toronto Symphony",
-    "link": "https://www.nytimes.com/2025/06/27/arts/music/mandle-cheung-toronto-symphony-mahler.html",
-    "summary": "Mandle Cheung, a 78-year-old amateur conductor, led a performance of Mahler’s “Resurrection” Symphony over the objections of some musicians."
-  },
-  {
-    "title": "Sean ‘Diddy’ Combs Trial: Takeaways From Defense’s Closing Arguments",
-    "link": "https://www.nytimes.com/2025/06/27/arts/music/sean-combs-diddy-trial-defense-closings.html",
-    "summary": "Mr. Combs’s lead lawyer made a final appeal to the jury, arguing in often sarcastic tones that the government’s evidence contradicted its case against the hip-hop mogul."
-  },
-  {
-    "title": "Newsom Signs Budget That Includes Health Care Cuts for Undocumented Immigrants",
-    "link": "https://www.nytimes.com/2025/06/27/us/newsom-budget-immigrant-health.html",
-    "summary": "Gov. Gavin Newsom of California signed a budget bill on Friday that depends in part on rolling back those benefits to help close a $12 billion deficit."
+    "title": "Woman Was ‘Most Likely’ Bitten by Shark at Jones Beach, Scientists Say",
+    "link": "https://www.nytimes.com/2025/06/27/nyregion/shark-bite-jones-beach-new-york.html",
+    "summary": "The woman had minor cuts to her left foot and leg after being bitten on Wednesday. She was transported to a hospital for injuries that were not life-threatening, officials said."
   }
 ]

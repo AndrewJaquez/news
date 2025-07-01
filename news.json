@@ -1,8 +1,23 @@
 [
   {
+    "title": "The Dollar Has Its Worst Start to a Year Since 1973",
+    "link": "https://www.nytimes.com/2025/06/30/business/dollar-decline-trump.html",
+    "summary": "It has continued to slide even as President Trump has backed down from his tariff threats and the U.S. stock market has recovered from its losses."
+  },
+  {
+    "title": "Canada’s Digital Tax U-turn Highlights Trump and Carney’s Tariff Negotiation Tactics",
+    "link": "https://www.nytimes.com/2025/06/30/world/canada/canada-digital-tax-tariff-negotiations-trump.html",
+    "summary": "After President Trump suspended trade talks with Canada over its controversial digital services tax, Ottawa scrapped it to get back to the negotiating table."
+  },
+  {
     "title": "Trump’s Threat of More Tariffs Slows Trade Deals",
     "link": "https://www.nytimes.com/2025/06/30/business/economy/trump-tariffs-trade-deals.html",
     "summary": "As America’s largest trading partners race toward deals, they are increasingly worried about being hit with future tariffs on their critical industries."
+  },
+  {
+    "title": "Trump Steps Up Pressure Campaign on Powell With Handwritten Note",
+    "link": "https://www.nytimes.com/2025/06/30/business/trump-powell-fed-handwritten-note.html",
+    "summary": "President Trump has repeatedly attacked Jerome H. Powell, chair of the Federal Reserve, for resisting his demands for lower interest rates."
   },
   {
     "title": "Here Are the Republican Senators Who May Revolt on Trump’s Bill",
@@ -10,24 +25,84 @@
     "summary": "Senate Republicans can afford to lose no more than three of their own votes on the bill, but two already are opposed and others remained undecided."
   },
   {
-    "title": "Trump Vowed to Dismantle MS-13. His Deal With Bukele Threatens That Effort.",
-    "link": "https://www.nytimes.com/2025/06/30/us/politics/trump-bukele-ms-13-immigrants.html",
-    "summary": "Top gang leaders being sent back to El Salvador were part of a lengthy federal investigation that has amassed evidence of a corrupt pact between the Bukele government and MS-13."
+    "title": "The Republicans in Congress Who Are Opting to Self-Deport From Washington",
+    "link": "https://www.nytimes.com/2025/06/30/us/politics/tillis-bacon-trump-gop.html",
+    "summary": "Feeling out of step with President Trump’s G.O.P., Senator Thom Tillis and Representative Don Bacon are deciding to retire."
   },
   {
-    "title": "Trump Administration Finds Harvard Failed to Address Harassment of Jewish Students on Campus",
-    "link": "https://www.nytimes.com/2025/06/30/us/politics/trump-harvard-civil-rights-law.html",
-    "summary": "The university had recently restarted talks with the White House regarding a potential deal after months of fighting in court."
+    "title": "Senate’s New A.I. Moratorium Proposal Draws Fresh Criticism",
+    "link": "https://www.nytimes.com/2025/06/30/us/politics/senates-new-ai-moratorium-proposal-draws-fresh-criticism.html",
+    "summary": "Language in the chamber’s spending bill says that state laws related to A.I. cannot pose an “undue or disproportionate burden” to tech companies."
   },
   {
-    "title": "Supreme Court Agrees to Hear Major Campaign Finance Challenge",
-    "link": "https://www.nytimes.com/2025/06/30/us/politics/supreme-court-campaign-finance.html",
-    "summary": "The case involves a challenge to federal limits on how much political parties can spend in coordination with candidates."
+    "title": "Bryan Kohberger, Suspect in Idaho Student Murders, Accepts Plea Deal",
+    "link": "https://www.nytimes.com/2025/06/30/us/idaho-murders-bryan-kohberger-plea.html",
+    "summary": "Bryan Kohberger, a former criminology student, was set to go on trial this summer in the stabbing deaths of four University of Idaho students."
+  },
+  {
+    "title": "Idaho Murders Suspect Felt ‘No Emotion’ and ‘Little Remorse’ as a Teen",
+    "link": "https://www.nytimes.com/2023/01/13/us/idaho-murders-bryan-kohberger.html",
+    "summary": "Messages and online posts from the Ph.D. student now charged with four murders show that he was once detached and suicidal before he became fascinated with criminals’ minds."
+  },
+  {
+    "title": "‘The Bear’ Is Back, but Where’s the Beef?",
+    "link": "https://www.nytimes.com/2025/06/30/arts/television/the-bear-season-4-review.html",
+    "summary": "The restaurant’s business challenge in Season 4 — balancing comfort food and haute cuisine — is also a metaphor for the show’s creative issues."
+  },
+  {
+    "title": "Could a Michelin Star Actually Save the Restaurant in ‘The Bear?’",
+    "link": "https://www.nytimes.com/2025/06/27/dining/the-bear-michelin-star-season-4.html",
+    "summary": "In Season 4 of the hit FX show, accolades are on the mind of Carmy Berzatto and his staff. But how much do they help real businesses?"
+  },
+  {
+    "title": "‘The Bear’ Season 4: Here Are the Cameos",
+    "link": "https://www.nytimes.com/2025/06/28/arts/television/the-bear-season-4-cameos.html",
+    "summary": "“The Bear” returned for its fourth season this week with high-stakes restaurant drama and high-wattage cameos."
+  },
+  {
+    "title": "Appeals Court Weighs Trump’s Use of Alien Enemies Act for Deportations",
+    "link": "https://www.nytimes.com/2025/06/30/us/politics/appeals-court-trump-alien-enemies-act-deportations.html",
+    "summary": "The case is likely to be the first to reach the Supreme Court on the substantive issue of the president’s invocation of a rarely used wartime law."
+  },
+  {
+    "title": "Why Trump Had So Many Supreme Court Wins",
+    "link": "https://www.nytimes.com/video/us/100000010256773/why-trump-had-so-many-supreme-court-wins.html",
+    "summary": "The New York Times Supreme Court reporter Adam Liptak recaps this Supreme Court term, which was defined by a disproportionate amount of emergency docket cases. Liptak explains why these cases tended to go in the Trump administration’s favor."
+  },
+  {
+    "title": "NYC Panel Approves Rent Increases, a Key Issue for Mamdani and Adams",
+    "link": "https://www.nytimes.com/2025/06/30/nyregion/nyc-mamdani-adams-rent-increase.html",
+    "summary": "Mayor Eric Adams, who appointed the Rent Guidelines Board, has attacked Zohran Mamdani’s pledge to freeze the rent if he becomes mayor."
+  },
+  {
+    "title": "Landlords Say They’re Struggling. Rents Keep Going Up. What Gives?",
+    "link": "https://www.nytimes.com/2025/06/18/nyregion/nyc-landlords-rent-stabilization.html",
+    "summary": "New York City could soon raise rents on some of its most affordable apartments to help landlords who say they aren’t earning enough. But renters say they’re hurting, too."
+  },
+  {
+    "title": "Gulf States Lead Push to Invest in New Syria",
+    "link": "https://www.nytimes.com/2025/06/30/world/middleeast/gulf-states-invest-syria-iran.html",
+    "summary": "The fall of the Syrian dictator Bashar al-Assad has opened a window for wealthy Gulf countries to expand their influence as the sway of Iran diminishes."
+  },
+  {
+    "title": "Trump Lifts Sanctions on Syria, Tightening His Embrace of Its New Leader",
+    "link": "https://www.nytimes.com/2025/06/30/us/politics/trump-syria-sanctions.html",
+    "summary": "U.S. officials said sanctions against targets such as its central bank would end, but they would remain on Syria’s former dictator, Bashar al-Assad."
+  },
+  {
+    "title": "Cartel Fighters Make a Desperate Alliance That Could Transform Underworld",
+    "link": "https://www.nytimes.com/2025/06/30/world/americas/mexico-sinaloa-cartel-fighters.html",
+    "summary": "The Sinaloa Cartel, the world’s most-feared fentanyl trafficker, is reeling from an internal war and a U.S.-Mexican crackdown. Its fate could upend global criminal networks."
+  },
+  {
+    "title": "The War Within the Sinaloa Cartel Explained",
+    "link": "https://www.nytimes.com/2025/06/30/world/americas/sinaloa-cartel-mexico.html",
+    "summary": "One of the world’s most powerful criminal syndicates is facing a government crackdown and internal war after the son of a drug lord betrayed his partner."
   },
   {
     "title": "Judge Amir Ali Has One of the Hardest Jobs In Washington",
     "link": "https://www.nytimes.com/2025/06/30/magazine/federal-judge-amir-ali-trump-usaid.html",
-    "summary": "Amir Ali joined D.C.’s court of appeals just weeks before Trump took office. It’s been tumultuous ever since."
+    "summary": "Amir Ali joined the D.C. Federal District Court just weeks before Trump took office. It’s been tumultuous ever since."
   },
   {
     "title": "‘The Bomb Lady’ and the Forerunner of the ‘Bunker Buster’ Used in Iran",
@@ -35,24 +110,14 @@
     "summary": "While a child in wartime Vietnam, Anh Duong vowed to one day help the soldiers who saved her. She and her Navy team helped revolutionize American munitions."
   },
   {
-    "title": "Idaho Sniper Shooting Leaves 2 Firefighters Dead",
-    "link": "https://www.nytimes.com/2025/06/29/us/coeur-dalene-idaho-shooting-ambush.html",
-    "summary": "Firefighters were responding to a blaze in the panhandle of Idaho when the shooting happened, a sheriff said. The body of a suspect was recovered on Sunday evening."
+    "title": "Fordo Nuclear Site Work Taking Place in Iran, Satellate Images Show",
+    "link": "https://www.nytimes.com/2025/06/30/world/middleeast/iran-fordo-satellite-imagery.html",
+    "summary": "Amid competing assessments of how badly the enrichment facility was damaged in U.S. strikes, Iran appears to be making its own inspection."
   },
   {
-    "title": "Suspected Gunman Found Dead After Shooting 2 Firefighters in Idaho: What We Know",
-    "link": "https://www.nytimes.com/2025/06/30/us/idaho-shooting-firefighters-sniper-suspect.html",
-    "summary": "The authorities said a gunman started a wildfire to lure firefighters, then ambushed them in a sniper attack."
-  },
-  {
-    "title": "8 Key Text Exchanges at the Sean ‘Diddy’ Combs Trial",
-    "link": "https://www.nytimes.com/2025/06/30/arts/music/sean-combs-diddy-trial-jury-text-messages.html",
-    "summary": "The words sent between the mogul and his girlfriends have been cited as crucial evidence by both sides in a case that turns on whether sex marathons he directed were coercive."
-  },
-  {
-    "title": "Jury in Sean ‘Diddy’ Combs Trial Begins Deliberations",
-    "link": "https://www.nytimes.com/2025/06/30/arts/music/sean-combs-diddy-trial-jury-deliberations.html",
-    "summary": "The panel of 12 must decide whether the music mogul is guilty of racketeering conspiracy and sex trafficking."
+    "title": "Gaza City Cafe Hit by Deadly Strike",
+    "link": "https://www.nytimes.com/2025/06/30/world/middleeast/gaza-city-cafe-airstrike.html",
+    "summary": "The restaurant, a destination for Palestinians seeking a respite or internet access, was reduced to a mere shell by the blast."
   },
   {
     "title": "A Common Assumption About Aging May Be Wrong, Study Suggests",
@@ -60,33 +125,33 @@
     "summary": "Experts have long pointed to inflammation as a natural part of getting older. But a new paper suggests it might be more a product of our environment."
   },
   {
-    "title": "Democrats Lay Groundwork for a ‘Project 2029’",
-    "link": "https://www.nytimes.com/2025/06/30/us/politics/democrats-project-2029.html",
-    "summary": "The plan to write a policy agenda for the next Democratic president is at the center of a raging debate within the party: whether its biggest problem is its ideas or its difficulty in selling them."
+    "title": "At Glastonbury, Left-Wing Politics Are Shocking Again",
+    "link": "https://www.nytimes.com/2025/06/30/opinion/glastonbury-bob-vylan-israel.html",
+    "summary": "Trying to stamp out anti-Israel rhetoric only lends it the frisson of forbidden truth."
   },
   {
-    "title": "Europe Is Making a Big Mistake",
-    "link": "https://www.nytimes.com/2025/06/30/opinion/europe-nato-military-spending.html",
-    "summary": "Breakneck rearmament risks taking the European Union not forward but backward."
+    "title": "Trump’s Big Policy Bill Still Faces Hurdles",
+    "link": "https://www.nytimes.com/2025/06/30/briefing/trump-senate-bill-wimbledon-first-day.html",
+    "summary": "Also, the Supreme Court agreed to hear a major campaign finance case. Here’s the latest at the end of Monday."
   },
   {
-    "title": "Corporate Politics",
-    "link": "https://www.nytimes.com/2025/06/30/briefing/corporate-politics-pride-blm.html",
-    "summary": "We take a look at why businesses are turning away from political causes."
+    "title": "Sean ‘Diddy’ Combs Jury Ends First Day of Deliberations Without a Verdict",
+    "link": "https://www.nytimes.com/2025/06/30/arts/music/sean-combs-diddy-trial-jury-deliberations.html",
+    "summary": "The jury deciding the sex-trafficking case was interrupted for an hour when the foreperson told the court that a juror was having trouble following the judge’s instructions."
   },
   {
-    "title": "Inside the Roosevelt, a Migrant Shelter No More, Echoes of a Crisis",
-    "link": "https://www.nytimes.com/2025/06/30/nyregion/roosevelt-hotel-migrant-shelter-closed.html",
-    "summary": "The Midtown Manhattan hotel opened as a shelter in 2023. That mission has ended as border crossings plummet, slowing the flow of migrants."
+    "title": "Juniper Fire in California Prompts Evacuation Order",
+    "link": "https://www.nytimes.com/2025/06/30/us/juniper-fire-riverside-county.html",
+    "summary": "The wildfire, in Riverside County, east of Los Angeles, burned more than 600 acres in just a few hours on Monday. About 5,000 people were ordered to leave their homes."
   },
   {
-    "title": "Violence Erupts Between Israeli Settlers and Military in West Bank",
-    "link": "https://www.nytimes.com/2025/06/30/world/middleeast/violence-israeli-settlers-west-bank.html",
-    "summary": "Hard-right activists clashed with troops and set fire to a security site following a growing wave of attacks on Palestinians in the occupied territory."
+    "title": "How the Brooklyn Bridge Ship Disaster Unfolded",
+    "link": "https://www.nytimes.com/2025/06/30/nyregion/brooklyn-mexican-naval-ship-crash-report.html",
+    "summary": "An initial report from the National Transportation Safety Board described the moments before a Mexican Navy ship crashed into the Brooklyn Bridge."
   },
   {
-    "title": "NYC Legal Aid Society Lawyers Threaten to Strike for Higher Pay",
-    "link": "https://www.nytimes.com/2025/06/30/nyregion/new-york-legal-aid-society-strike.html",
-    "summary": "The lawyers who represent the city’s poorest defendants want to be paid on par with their federal counterparts. They last walked out in 1994."
+    "title": "Idaho Shooting Suspect Identified in Deadly Ambush of Firefighters",
+    "link": "https://www.nytimes.com/2025/06/30/us/wess-roley-idaho-shooting-suspect.html",
+    "summary": "The authorities believe that the suspect, who was found dead on Canfield Mountain, set a brush fire and shot at the firefighters who responded, killing two."
   }
 ]

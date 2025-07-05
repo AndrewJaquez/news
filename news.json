@@ -1,23 +1,23 @@
 [
   {
+    "title": "The most urgent alerts came in the middle of the night.",
+    "link": "https://www.nytimes.com/live/2025/07/04/us/texas-floods-guadalupe-river/weather-alerts-rivers-flooding",
+    "summary": ""
+  },
+  {
     "title": "Camp Mystic in Texas, Where 20 Children Are Missing, Is Nearly a Century Old",
     "link": "https://www.nytimes.com/2025/07/04/us/camp-mystic-texas.html",
     "summary": "Camp Mystic, on the banks of the Guadalupe River in Hunt, Texas, has been operated by generations of the same family since the 1930s."
   },
   {
-    "title": "Floods in the same part of Texas swept away 10 teenagers in July 1987.",
-    "link": "https://www.nytimes.com/live/2025/07/04/us/texas-floods-guadalupe-river/floods-camp-deaths-july-1987",
+    "title": "The mother of two rescued campers relays their story.",
+    "link": "https://www.nytimes.com/live/2025/07/04/us/texas-floods-guadalupe-river/the-mother-of-two-rescued-campers-relays-their-story",
     "summary": ""
   },
   {
     "title": "States Brace for Added Burdens of Trump’s Tax and Spending Law",
     "link": "https://www.nytimes.com/2025/07/04/us/politics/states-trump-bill.html",
     "summary": "With the president’s domestic policy law signed, states will have to administer many of the cuts and decide how much they can spend to keep their citizens insured and fed."
-  },
-  {
-    "title": "From Court to Congress to the Mideast, Trump Tallies His Wins",
-    "link": "https://www.nytimes.com/2025/07/04/us/trump-policy-bill-iran-israel-supreme-court.html",
-    "summary": "There are serious questions about the wisdom and durability of President Trump’s policies, but on his terms, he can point to a string of accomplishments."
   },
   {
     "title": "Court Rejects Effort to Keep Migrants From Being Sent to South Sudan",
@@ -28,6 +28,16 @@
     "title": "Hamas Says It’s Ready to ‘Immediately” Return to Truce Negotiations",
     "link": "https://www.nytimes.com/2025/07/04/world/middleeast/hamas-israel-ceasefire.html",
     "summary": "It was not immediately clear whether the group was demanding any significant changes to the plan for a 60-day truce, hostage-for-prisoner swaps and talks on a permanent end to the Gaza war."
+  },
+  {
+    "title": "China Has Paid a High Price for Its Dominance in Rare Earths",
+    "link": "https://www.nytimes.com/2025/07/05/business/china-rare-earth-environment.html",
+    "summary": "Dust and groundwater contaminated with heavy metals and radioactive chemicals pose a health threat that the authorities have been trying to address for years."
+  },
+  {
+    "title": "China’s Rare Earth Origin Story, Explained",
+    "link": "https://www.nytimes.com/2025/07/05/business/china-rare-earth-history.html",
+    "summary": "Low environmental standards helped China become the world’s low-cost producer of rare earths, but Beijing was also focused on helping the industry."
   },
   {
     "title": "Celebrating the Fourth of July Across the Country",
@@ -45,14 +55,14 @@
     "summary": "Mr. Chestnut, who was barred last year over an endorsement deal with a vegan-meat company, and Miki Sudo easily won their respective contests but did not break records."
   },
   {
-    "title": "A Space-Out Competition in Seoul Was Harder Than I Expected",
-    "link": "https://www.nytimes.com/2025/07/04/world/asia/space-out-competition-seoul.html",
-    "summary": "I spent 90 minutes attempting to empty my mind and slow my heartbeat at a “space out” competition. It was harder — and weirder — than I expected."
-  },
-  {
     "title": "A Solid Report Card for the Markets, Despite Shock and Worry",
     "link": "https://www.nytimes.com/2025/07/04/business/markets-investment-returns-trump.html",
     "summary": "While the Trump administration has engaged in continual disruptions, most investors have prospered."
+  },
+  {
+    "title": "Canadian Buyers Are Dropping Out of the U.S. Housing Market",
+    "link": "https://www.nytimes.com/2025/07/04/realestate/canada-tariffs-home-sales.html",
+    "summary": "Search activity for American listings has plummeted in the wake of President Trump’s unpredictable trade war, according to new data."
   },
   {
     "title": "Madre Fire Grows to 70,800 Acres, Prompting Evacuations in California",
@@ -60,9 +70,14 @@
     "summary": "The blaze is burning in a rural area of San Luis Obispo County, in the central coast, but its smoke has spread to nearby counties."
   },
   {
-    "title": "Heat in Eastern Europe Fuels Fire, Fish Deaths and Tensions Over Protests",
-    "link": "https://www.nytimes.com/2025/07/04/world/europe/heat-wave-eastern-europe.html",
-    "summary": "Exceptionally high temperatures strained electricity systems as people sought air-conditioning, although many did not have that option."
+    "title": "Brief but Violent Storms in New Jersey Leave 3 Dead",
+    "link": "https://www.nytimes.com/2025/07/04/nyregion/new-jersey-storm.html",
+    "summary": "Powerful gusts blew down trees in central New Jersey on Thursday, killing three people who were in their cars."
+  },
+  {
+    "title": "Tropical Depression Forms Just Off the Southeastern U.S.",
+    "link": "https://www.nytimes.com/2025/07/03/weather/florida-tropical-depression-storm-rain.html",
+    "summary": "The storm is expected to bring heavy rain to South Carolina through the weekend. Forecasters expect it to become a tropical storm on Saturday."
   },
   {
     "title": "Joseph Giordano, Surgeon Who Helped Save Reagan’s Life, Dies at 84",
@@ -75,9 +90,14 @@
     "summary": "Gourmet grocery stores are upping their game in the Hamptons, serving a welcoming wealthy clientele."
   },
   {
-    "title": "Oasis Starts Its World Tour With Cardiff Concert",
-    "link": "https://www.nytimes.com/2025/07/04/arts/music/oasis-tour-cardiff-concert.html",
-    "summary": "Liam and Noel Gallagher put aside their brotherly rivalry to play the first date of their band’s long-awaited comeback tour in Cardiff, Wales."
+    "title": "Mamdani Once Claimed to Be Asian and African American. Should It Matter?",
+    "link": "https://www.nytimes.com/2025/07/04/nyregion/mamdani-college-black-reaction.html",
+    "summary": "Zohran Mamdani’s responses on a 2009 college application were criticized by his mayoral rivals. The blowback was dismissed by his supporters as a politically motivated attack."
+  },
+  {
+    "title": "We Want to Hear From You: Are You Frustrated by Census and Racial Categories?",
+    "link": "https://www.nytimes.com/2025/07/04/us/census-racial-categories.html",
+    "summary": "Americans are routinely asked to check off boxes about their race and ethnicity, but many say they do not see themselves reflected in the options."
   },
   {
     "title": "What Tourists in Martha’s Vineyard Showed Me About Being Indigenous",
@@ -88,11 +108,6 @@
     "title": "Top Hochul Aide Resigns After Being Accused of Sexual Harassment",
     "link": "https://www.nytimes.com/2025/07/04/nyregion/hochul-press-secretary-small-resigns-sexual-harassment.html",
     "summary": "Avi Small, who had served as Gov. Kathy Hochul’s longtime press secretary, was accused of inappropriately touching another male aide."
-  },
-  {
-    "title": "Explaining the Roll Cloud Spotted in Portugal This Week",
-    "link": "https://www.nytimes.com/2025/07/03/weather/roll-cloud-portugal-heat-wave.html",
-    "summary": "A “roll cloud” spotted off the coast of Portugal looked like something out of a movie. Here’s the science behind it."
   },
   {
     "title": "Fatally Injured Teenager Is Discovered on Top of a N.Y.C. Subway Car",

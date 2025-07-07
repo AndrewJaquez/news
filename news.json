@@ -1,30 +1,5 @@
 [
   {
-    "title": "Up Against Time, a Desperate Search Presses Ahead",
-    "link": "https://www.nytimes.com/2025/07/07/us/central-texas-flood-search.html",
-    "summary": "Officials, emergency crews and volunteers in Central Texas were holding out hope for finding survivors of the flash flooding, as the death toll climbed."
-  },
-  {
-    "title": "Officials Feared Flood Risk to Youth Camps but Rejected Warning System",
-    "link": "https://www.nytimes.com/2025/07/06/us/texas-flood-warnings-sirens.html",
-    "summary": "Kerr County had discussed buying such things as water gauges and sirens after previous flood disasters. But as with many rural Texas counties, cost was an issue."
-  },
-  {
-    "title": "The Agonizing Search in Texas, and a Looming Trade Deadline",
-    "link": "https://www.nytimes.com/2025/07/07/podcasts/the-headlines/search-texas-flood-trade-deadline.html",
-    "summary": "Plus, what your TV knows about you."
-  },
-  {
-    "title": "What’s at Stake as Netanyahu and Trump Meet in Washington",
-    "link": "https://www.nytimes.com/2025/07/07/world/middleeast/trump-netanyahu-washington.html",
-    "summary": "With the fighting in Iran over, President Trump is considering whether to pursue a new nuclear agreement with Tehran. He is also urging a new cease-fire deal to end the fighting in Gaza."
-  },
-  {
-    "title": "Israel’s Deadly Assault on Iran Prison Incites Fury, Even Among Dissidents",
-    "link": "https://www.nytimes.com/2025/07/06/world/middleeast/israel-iran-evin-prison.html",
-    "summary": "The June 23 airstrikes on Evin prison, including the hospital ward, have turned it from a hated symbol of oppression into a new rallying cry against Israel, even among the Iranian regime’s domestic critics."
-  },
-  {
     "title": "Trump Threatens Tariffs on Countries Aligned With BRICS Nations",
     "link": "https://www.nytimes.com/2025/07/07/us/politics/trump-brics-nations-tariffs.html",
     "summary": "President Trump said nations that support the group’s “Anti-American policies” would face an additional 10 percent tariff. He did not elaborate."
@@ -35,29 +10,54 @@
     "summary": "A tanker is headed to South Korea with a first shipment of liquefied natural gas from Canada, which hopes to reduce its export reliance on its neighbor."
   },
   {
-    "title": "Can Taiwan Really Disconnect Its Economy From China?",
-    "link": "https://www.nytimes.com/2025/07/07/business/china-taiwan-chips.html",
-    "summary": "Momentum is building in Taiwan to lessen its business dependency on China, its biggest trading partner. Doing so will not be easy."
+    "title": "A Desperate Search for Survivors of the Central Texas Floods Presses Ahead",
+    "link": "https://www.nytimes.com/2025/07/07/us/central-texas-flood-search.html",
+    "summary": "Officials, emergency crews and volunteers in Central Texas were holding out hope for finding survivors of the flash flooding, as the death toll climbed."
   },
   {
-    "title": "RFK Jr.’s Battle Against Food Dyes Hits a Roadblock: M&M’s",
-    "link": "https://www.nytimes.com/2025/07/07/us/politics/rfk-food-dyes-candy.html",
-    "summary": "The health secretary has used peer pressure to persuade food makers to nix synthetic dyes. The candy industry is holding out, arguing American consumers like bright sweets."
+    "title": "Officials Feared Flood Risk to Youth Camps but Rejected Warning System",
+    "link": "https://www.nytimes.com/2025/07/06/us/texas-flood-warnings-sirens.html",
+    "summary": "Kerr County had discussed buying such things as water gauges and sirens after previous flood disasters. But as with many rural Texas counties, cost was an issue."
   },
   {
-    "title": "From Food Aid to Dog Chow? How Trump’s Cuts Hurt Kansas Farmers.",
+    "title": "What’s at Stake as Netanyahu and Trump Meet in Washington",
+    "link": "https://www.nytimes.com/2025/07/07/world/middleeast/trump-netanyahu-washington.html",
+    "summary": "With the fighting in Iran over, President Trump is considering whether to pursue a new nuclear agreement with Tehran. He is also urging a new cease-fire deal to end the fighting in Gaza."
+  },
+  {
+    "title": "Where Do Israel-Hamas Cease-Fire Negotiations Stand?",
+    "link": "https://www.nytimes.com/article/israel-hamas-ceasefire-negotiations.html",
+    "summary": "Hamas wants a guarantee that negotiations will lead to a permanent end to the Gaza war."
+  },
+  {
+    "title": "How Trump’s Cuts Hurt Kansas Farmers, From Food Aid to Dog Chow",
     "link": "https://www.nytimes.com/2025/07/07/us/politics/trump-farmers.html",
     "summary": "Kansans created Food for Peace, for 70 years a font of rural income and pride. Now at least one grain broker is trying to sell grain that once fed the world as dog food."
   },
   {
-    "title": "Trump Says Musk Is ‘Off the Rails’ With America Party Effort",
-    "link": "https://www.nytimes.com/2025/07/06/us/politics/trump-musk-america-party.html",
-    "summary": "The tech billionaire’s effort to create a new political party, called the America Party, comes amid a ramped-up feud with the president over his new domestic policy law."
+    "title": "Medical Societies Sue Kennedy and H.H.S. Over Vaccine Advice",
+    "link": "https://www.nytimes.com/2025/07/07/health/vaccines-kennedy-lawsuit.html",
+    "summary": "New restrictions on Covid shots run counter to scientific evidence, the groups said."
   },
   {
-    "title": "How the Assad Regime Built a Mass Grave in Syria",
-    "link": "https://www.nytimes.com/video/world/middleeast/100000010209709/how-the-assad-regime-built-a-mass-grave-in-syria.html",
-    "summary": "Months after President Bashar al-Assad’s regime was toppled, Charlie Smart, a reporter at The New York Times, traveled to a mass burial site in Syria to understand how the Assad regime hid the bodies of the people it had made disappear."
+    "title": "Trial Over Free Speech on Campus, and Trump’s Student Crackdown, Begins",
+    "link": "https://www.nytimes.com/2025/07/07/us/politics/trump-trial-free-speech-student-crackdowns.html",
+    "summary": "The case challenges the Trump administration’s targeting of noncitizen student activists for arrest and deportation on First Amendment grounds."
+  },
+  {
+    "title": "How a Show About Truly Terrible People Became the Defining American Sitcom",
+    "link": "https://www.nytimes.com/2025/07/07/magazine/always-sunny-in-philadelphia.html",
+    "summary": "Over the last 20 years, television has changed, but the malignant narcissists of “It’s Always Sunny in Philadelphia” have not."
+  },
+  {
+    "title": "Will A.I. Replace New Hires or Middle Managers?",
+    "link": "https://www.nytimes.com/2025/07/07/business/ai-job-cuts.html",
+    "summary": "Amid layoffs at Microsoft and other large tech companies, experts are debating whose jobs are most likely to be spared."
+  },
+  {
+    "title": "Your Job Interviewer Is Not a Person. It’s A.I.",
+    "link": "https://www.nytimes.com/2025/07/07/technology/ai-job-interviews.html",
+    "summary": "You thought artificial intelligence was coming for your job? First, it’s coming for your job interviewer."
   },
   {
     "title": "Ukrainian Troops Struggle to Hold the Line on the Eastern Front",
@@ -65,9 +65,24 @@
     "summary": "Kyiv is defending Kostiantynivka from Russian drone attacks. The embattled city is a gateway to Ukraine’s last major defense in the Donetsk region."
   },
   {
+    "title": "Russian Minister Who Had Led Region Later Invaded by Ukraine Is Found Dead",
+    "link": "https://www.nytimes.com/2025/07/07/world/europe/russia-official-dead.html",
+    "summary": "Roman V. Starovoyt, the transport minister, had governed Russia’s western Kursk region before Ukrainian forces invaded in 2024 and occupied part of the territory."
+  },
+  {
     "title": "Ukraine Turns to Fishing Nets to Catch Russian Drones",
     "link": "https://www.nytimes.com/2025/07/07/world/europe/ukraine-russia-drones-nets.html",
     "summary": "With their dense mesh, the nets can tangle drone propellers. It’s a simple but effective countermeasure that reflects how low-tech means can blunt high-tech weapons in the war."
+  },
+  {
+    "title": "Tesla Stock Dives as Elon Musk Plans New Political Party",
+    "link": "https://www.nytimes.com/2025/07/07/business/tesla-stock-elon-musk-america-party.html",
+    "summary": "Mr. Musk’s involvement in politics was once seen by investors as a benefit to Tesla. Not anymore."
+  },
+  {
+    "title": "Trump Says Musk Is ‘Off the Rails’ With New Political Party Effort",
+    "link": "https://www.nytimes.com/2025/07/06/us/politics/trump-musk-america-party.html",
+    "summary": "The tech billionaire’s effort to create a new political party, called the America Party, comes amid a ramped-up feud with the president over his new domestic policy law."
   },
   {
     "title": "Erin Patterson Is Found Guilty of Murder in Australia Mushroom Poisoning Case",
@@ -75,24 +90,14 @@
     "summary": "Three people died in 2023 after eating beef Wellington made by Erin Patterson, whose subsequent trial gripped the country."
   },
   {
-    "title": "South African Police’s Frequent Use of Torture Echoes Apartheid’s Brutality",
-    "link": "https://www.nytimes.com/2025/07/07/world/africa/south-africa-torture-police-tubing.html",
-    "summary": "A government led by freedom fighters who helped to liberate the country more than 30 years ago is now overseeing a police force accused of staggering abuses."
-  },
-  {
-    "title": "Where Are the Men in Boys’ Lives?",
-    "link": "https://www.nytimes.com/2025/07/05/upshot/boys-men-mentors.html",
-    "summary": "Jobs working with children are largely done by women, leaving many boys, especially in low-income areas, with few men as role models."
-  },
-  {
     "title": "The Ruthless Ambition of Stephen Miller",
     "link": "https://www.nytimes.com/2025/07/07/opinion/stephen-miller.html",
-    "summary": "The Ruthless Ambition of Stephen Miller"
+    "summary": "The most powerful man in the West Wing is getting what he wants. Is Trump?"
   },
   {
-    "title": "Texas Hill Country Is Underwater, and America’s Emergency Lifeline Is Fraying",
-    "link": "https://www.nytimes.com/2025/07/07/opinion/texas-floods-fema.html",
-    "summary": "With each passing day, the federal government is becoming less prepared to face the next big disaster."
+    "title": "You Don’t Have to Be a Doctor to Understand This",
+    "link": "https://www.nytimes.com/2025/07/07/opinion/moral-argument-global-health.html",
+    "summary": "The moral argument for global health is the strongest we have."
   },
   {
     "title": "Your Questions, Answered",
@@ -100,18 +105,23 @@
     "summary": "We address your queries about the news."
   },
   {
-    "title": "Tropical Storm Chantal Floods Parts of North Carolina",
-    "link": "https://www.nytimes.com/2025/07/07/weather/tropical-storm-chantal-floods-north-carolina.html",
-    "summary": "The storm, which made landfall on Sunday, caused significant flooding that closed roads and stranded drivers. It is heading northeast."
+    "title": "Man Who Opened Fire on Texas Border Patrol Building Is Fatally Shot",
+    "link": "https://www.nytimes.com/2025/07/07/us/mcallen-airport-shooter-border-patrol.html",
+    "summary": "The man opened fire on the building in McAllen, Texas, on Monday. A border patrol employee and two officers were injured, federal officials said."
   },
   {
-    "title": "Fiona the Pregnant Sea Reptile’s Fossil Hints at the Birth of a New Ocean",
-    "link": "https://www.nytimes.com/2025/07/06/science/ichthyosaur-fossil-fiona-chile.html",
-    "summary": "An ichthyosaur preserved beneath a Chilean glacier is helping scientists understand the extinct animals and the world around them as a supercontinent broke up."
+    "title": "Iran Carries Out Mass Expulsion of Afghan Refugees",
+    "link": "https://www.nytimes.com/2025/07/07/world/middleeast/iran-afghan-refugees-deportations.html",
+    "summary": "About 800,000 people have been deported to Afghanistan, a desperately poor country, under an Iranian campaign that accelerated sharply in June."
   },
   {
-    "title": "Supreme Court Insists on Reams of Paper for Case Briefs in Digital Age",
-    "link": "https://www.nytimes.com/2025/07/07/us/politics/supreme-court-cases-paper-electronic.html",
-    "summary": "The court’s rules require many litigants to submit 40 copies of their briefs, resulting in millions of pages printed each term. Critics call the process outdated and wasteful."
+    "title": "What Happens When Most of the Adults in Boys’ Lives Are Women",
+    "link": "https://www.nytimes.com/2025/07/05/upshot/boys-men-mentors.html",
+    "summary": "Jobs working with children are largely done by women, leaving many boys, especially in low-income areas, with few men as role models."
+  },
+  {
+    "title": "South African Police’s Frequent Use of Torture Echoes Apartheid’s Brutality",
+    "link": "https://www.nytimes.com/2025/07/07/world/africa/south-africa-torture-police-tubing.html",
+    "summary": "A government led by freedom fighters who helped to liberate the country more than 30 years ago is now overseeing a police force accused of staggering abuses."
   }
 ]

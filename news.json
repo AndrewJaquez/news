@@ -1,10 +1,5 @@
 [
   {
-    "title": "Supreme Court Clears Way for Trump Administration’s Mass Firings of Federal Workers",
-    "link": "https://www.nytimes.com/2025/07/08/us/politics/supreme-court-federal-workers-layoffs.html",
-    "summary": "The justices announced they were not ruling on the legality of the specific downsizing plans but they allowed the Trump administration to proceed for now with its restructuring efforts."
-  },
-  {
     "title": "U.S. Botched a Deal to Swap Venezuelans in El Salvador for American Prisoners",
     "link": "https://www.nytimes.com/2025/07/08/world/americas/trump-venezuelan-migrants-us-prisoner-swap.html",
     "summary": "Secretary of State Marco Rubio and the U.S. envoy to Venezuela were both working on different deals and ended up at cross purposes."
@@ -20,6 +15,31 @@
     "summary": "The president held forth in public for 104 minutes, using a cabinet meeting to express much that is on his mind."
   },
   {
+    "title": "L.A. Moves to Join Lawsuit Against Trump Administration’s Immigration Raids",
+    "link": "https://www.nytimes.com/2025/07/08/us/politics/la-immigration-raids-trump-lawsuit.html",
+    "summary": "The legal move came the day after federal agents and National Guard troops converged on a Los Angeles park in an extraordinary show of force."
+  },
+  {
+    "title": "Supreme Court Clears Way for Trump Administration’s Mass Firings of Federal Workers",
+    "link": "https://www.nytimes.com/2025/07/08/us/politics/supreme-court-federal-workers-layoffs.html",
+    "summary": "The justices announced they were not ruling on the legality of the specific downsizing plans but they allowed the Trump administration to proceed for now with its restructuring efforts."
+  },
+  {
+    "title": "Trump Got the Green Light to Fire Federal Workers. Now, They Wait.",
+    "link": "https://www.nytimes.com/2025/07/08/us/politics/trump-federal-workers-firings.html",
+    "summary": "A court-ordered pause in May covered nearly two dozen federal agencies at different stages of executing President Trump’s directive for mass layoffs. The Supreme Court said the administration could proceed."
+  },
+  {
+    "title": "Trump’s Frustration With Putin Preceded Resumption of U.S. Weapons to Ukraine",
+    "link": "https://www.nytimes.com/2025/07/08/us/politics/trump-putin-ukraine.html",
+    "summary": "President Trump lashed out at the Russian leader on Tuesday, signaling a change in his posture toward the conflict."
+  },
+  {
+    "title": "After Texas Flooding, Questions About FEMA’s Role and Fate Under Trump",
+    "link": "https://www.nytimes.com/2025/07/08/climate/texas-flood-fema-trump.html",
+    "summary": "President Trump wants to shutter the agency and shift responsibility and costs of emergency management to the states. In Texas, that process appears to already be underway."
+  },
+  {
     "title": "Two Found, Two Missing: An Agonizing Search After the Texas Floods",
     "link": "https://www.nytimes.com/2025/07/08/us/texas-flood-hill-country-search.html",
     "summary": "Four friends, all in their 20s, planned to spend the weekend in the Hill Country. Then the rains came."
@@ -30,19 +50,24 @@
     "summary": "As both the death toll and number of questions about official preparedness increased, the Texas governor invoked football metaphors, saying “every team makes mistakes.”"
   },
   {
-    "title": "Why the Texas Floods Were So Deadly",
-    "link": "https://www.nytimes.com/2025/07/08/climate/why-the-texas-floods-were-so-deadly.html",
-    "summary": "Scientists say a hotter planet is driving more intense storms. But experts say the U.S. is also not doing enough to adapt to increasingly intense floods."
-  },
-  {
     "title": "What Is a Trade Deal? Trump Takes an Expansive View.",
     "link": "https://www.nytimes.com/2025/07/08/us/politics/trump-trade-deal.html",
     "summary": "The president is deploying the word “deal” liberally, using the term to describe all kinds of trade arrangements, some very limited or one-sided."
   },
   {
-    "title": "Against Illegal Immigration, but Married to Someone Here Illegally",
-    "link": "https://www.nytimes.com/2025/07/08/us/trump-illegal-immigration-raids-arkansas.html",
-    "summary": "Chris Allred’s views were shaped by economic changes. Now, facing an immigration crackdown, where do he and his wife go from here?"
+    "title": "Wildfires Scar Syria Anew",
+    "link": "https://www.nytimes.com/2025/07/09/world/middleeast/syria-wildfires-photos-videos.html",
+    "summary": "The country is experiencing its worst drought in decades, which has set the conditions for the blazes to scorch an area the size of Washington, D.C."
+  },
+  {
+    "title": "Wildfire on Edge of Marseille Injures More Than 100, Officials Say",
+    "link": "https://www.nytimes.com/2025/07/09/world/europe/marseille-wildfires-france.html",
+    "summary": "Firefighters worked to prevent the blaze from entering France’s second-biggest city, where ash and smoke had spread overnight."
+  },
+  {
+    "title": "Research Suggests Climate Change Added Excess Deaths in European Heat Wave",
+    "link": "https://www.nytimes.com/2025/07/09/climate/europe-heat-waves-deaths.html",
+    "summary": "The rapid analysis by World Weather Attribution calculated that climate change might have tripled the death toll from the event."
   },
   {
     "title": "How Insularity Defined the Last Stages of Biden’s Career",
@@ -50,14 +75,9 @@
     "summary": "The effort by Joseph R. Biden Jr.’s inner circle to limit access to him helps explain why it took him more than three weeks to drop his re-election bid after his disastrous debate performance."
   },
   {
-    "title": "With a Nobel Prize Nomination, Netanyahu Is the Latest to Use Flattery to Woo Trump",
-    "link": "https://www.nytimes.com/2025/07/08/world/europe/trump-diplomacy-flattery-world-leaders.html",
-    "summary": "Prime Minister Benjamin Netanyahu of Israel handed a letter to President Trump nominating him for the Nobel Peace Prize. But it’s not clear whether stroking the president’s ego has long-lasting effects."
-  },
-  {
-    "title": "Attack on Cargo Ship in the Red Sea Kills 2 Crew Members",
-    "link": "https://www.nytimes.com/2025/07/08/world/middleeast/red-sea-ship-attack.html",
-    "summary": "The incident occurred a day after Houthi militants in Yemen targeted another vessel, their first assault on shipping since President Trump announced a truce with them."
+    "title": "‘Superman’ Review: It’s a Bird, It’s a Plane, It’s a Reboot!",
+    "link": "https://www.nytimes.com/2025/07/08/movies/superman-review.html",
+    "summary": "Beginning again with the Man of Steel, this time in the hands of James Gunn."
   },
   {
     "title": "Antigovernment Protests Erupt Across Kenya, Killing Dozens",
@@ -70,14 +90,14 @@
     "summary": "A panel created by Mayor Eric Adams wants to consider using an “open primary” system for elections in New York City. Here’s how the plan would work."
   },
   {
-    "title": "‘Superman’ Review: It’s a Bird, It’s a Plane, It’s a Reboot!",
-    "link": "https://www.nytimes.com/2025/07/08/movies/superman-review.html",
-    "summary": "Beginning again with the Man of Steel, this time in the hands of James Gunn."
-  },
-  {
     "title": "Trash Overflows in Philadelphia as City Workers’ Strike Enters Second Week",
     "link": "https://www.nytimes.com/2025/07/08/us/trash-philadelphia-strike.html",
     "summary": "Pungent odors permeate the City of Brotherly Love as a contract impasse between the city and the American Federation of State, County and Municipal Employees continues."
+  },
+  {
+    "title": "Bibi’s Empty Victory Lap",
+    "link": "https://www.nytimes.com/2025/07/09/opinion/netanyahu-israel-war.html",
+    "summary": "The 12-day war is over. But there’s no peace in sight."
   },
   {
     "title": "For Israel, It Pays to Be a Winner",
@@ -85,14 +105,14 @@
     "summary": "Diplomatic breakthroughs in the Middle East are the result of military victories."
   },
   {
-    "title": "Musk’s Third Party Starts With a Good Idea",
-    "link": "https://www.nytimes.com/2025/07/08/opinion/elon-musk-america-party.html",
-    "summary": "Is there a way to elect an independent bloc of senators?"
+    "title": "Flash Flooding in Ruidoso, New Mexico, Sweeps Homes Away and Forces Rescues",
+    "link": "https://www.nytimes.com/2025/07/08/us/flooding-ruidoso-new-mexico.html",
+    "summary": "Rescue efforts were underway after heavy rainfall pounded Ruidoso, N.M."
   },
   {
-    "title": "The Supreme Court Cleared the Way for Mass Federal Firings",
-    "link": "https://www.nytimes.com/2025/07/08/briefing/supreme-court-mass-firings-trump-putin-ukraine.html",
-    "summary": "Also, Trump accused Putin of duplicity. Here’s the latest at the end of Tuesday."
+    "title": "Britain’s Economic Bind: Face Public Disapproval or Investor Wrath",
+    "link": "https://www.nytimes.com/2025/07/09/business/uk-economy-reeves-starmer.html",
+    "summary": "The Labour Party is starting its second year in control of the government with difficult choices over whether to curb spending or raise taxes."
   },
   {
     "title": "Grok, Elon Musk’s AI Chatbot, Shares Antisemitic Posts on X",
@@ -100,18 +120,8 @@
     "summary": "The artificial intelligence chatbot, which has a dedicated account on X, praised Hitler after fielding a query about a user’s comments on the Texas flood."
   },
   {
-    "title": "Royal Family Welcomes President Macron to U.K. for State Visit With Pomp and Pizazz",
-    "link": "https://www.nytimes.com/2025/07/08/world/europe/macron-uk-state-visit-royal-family-photos.html",
-    "summary": "President Emmanuel Macron is on a state visit to Britain, the first of a French leader since 2008. His hosts are drenching him in pomp, pizazz and protocol."
-  },
-  {
-    "title": "Mayor and Police Chiefs Let Corruption Fester at N.Y.P.D., Suits Charge",
-    "link": "https://www.nytimes.com/2025/07/08/nyregion/nypd-corruption-lawsuits-adams.html",
-    "summary": "The lawsuits, by four former police officers, claim that a culture of cronyism ruled the department. James Essig, who was chief of detectives, said that promotions were sold for $15,000."
-  },
-  {
-    "title": "Colorado Judge Fines MyPillow Founder’s Lawyers for Error-Filled Court Filing",
-    "link": "https://www.nytimes.com/2025/07/08/us/judge-fines-lawyers-mypillow-ai.html",
-    "summary": "The judge said the lawyers had not explained how such errors could have been filed “absent the use of generative artificial intelligence or gross carelessness by counsel.”"
+    "title": "The Bayeux Tapestry, a British Masterpiece, Returns to England After 900 Years",
+    "link": "https://www.nytimes.com/2025/07/08/world/europe/bayeux-tapestry-england-france-british-museum.html",
+    "summary": "The embroidered work, depicting the Norman Conquest of England in 1066, is a loan from France. For the first time, it will be on exhibit in London."
   }
 ]

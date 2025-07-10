@@ -1,23 +1,8 @@
 [
   {
-    "title": "As Texas Flood Raged, Camp Mystic Was Left to Fend for Itself",
-    "link": "https://www.nytimes.com/2025/07/10/us/texas-flood-local-response.html",
-    "summary": "Flash floods surged through in the middle of the night, but many local officials appeared unaware of the unfolding catastrophe, initially leaving people near the river on their own."
-  },
-  {
-    "title": "Chance of Finding More Survivors of Texas Flooding Dims as Search Continues",
-    "link": "https://www.nytimes.com/2025/07/10/us/texas-flooding-search-survivors-victims.html",
-    "summary": "At least 120 people have died and some 173 people remain unaccounted for statewide, nearly a week after flash floods ravaged the Texas Hill Country."
-  },
-  {
-    "title": "New Details on Camp Mystic, and Trump’s Retribution Campaign",
-    "link": "https://www.nytimes.com/2025/07/10/podcasts/the-headlines/camp-mystic-trump-retribution.html",
-    "summary": "Plus, where curry meets quesadillas."
-  },
-  {
-    "title": "China Surveys Seabeds Where Naval Rivals May One Day Clash",
-    "link": "https://www.nytimes.com/2025/07/10/world/asia/china-ships-taiwan-guam.html",
-    "summary": "Chinese research ships are studying the seas for science and resources, but the data they gather could also be useful in a conflict with Taiwan or the United States."
+    "title": "Trump Fuels Fear Among Immigrant Farm Workers in California’s Central Valley",
+    "link": "https://www.nytimes.com/2025/07/10/us/politics/trump-farmers-california-central-valley.html",
+    "summary": "The fertile valley feeds the world. President Trump has thrown farmers and farmworkers there into turmoil, but recently offered them a glimmer of hope."
   },
   {
     "title": "How El Salvador Is Reaping Rewards From Trump’s Deportation Agenda",
@@ -25,19 +10,74 @@
     "summary": "In exchange for jailing more than 200 deportees, El Salvador’s president, Nayib Bukele, has become a favorite of the Trump administration."
   },
   {
-    "title": "FEMA Is Holding Up $2.4 Billion in Grants to Fight Terrorism, States Say",
-    "link": "https://www.nytimes.com/2025/07/10/nyregion/fema-funds-trump-noem.html",
-    "summary": "FEMA officials are two months behind in posting grant application guidelines, which are expected to reflect President Trump’s demand for cooperation on his priorities."
+    "title": "L.A.-Area Bishop Excuses Faithful From Mass Over Fear of Immigration Raids",
+    "link": "https://www.nytimes.com/2025/07/10/us/california-san-bernardino-bishop-mass-church-ice-raids.html",
+    "summary": "Bishop Alberto Rojas of the Diocese of San Bernardino lifted the obligation for members to celebrate Mass if they had a “genuine fear of immigration enforcement actions.”"
   },
   {
-    "title": "UK and France Agree to First Ever Nuclear Weapons Pact to Fend Off Threat to Europe",
-    "link": "https://www.nytimes.com/2025/07/10/world/europe/starmer-macron-nuclear-agreement.html",
-    "summary": "The two leaders are set to confirm details of a strengthened defense relationship at a summit Thursday. An agreement on tackling unauthorized migration may also be announced."
+    "title": "Some of Iran’s Enriched Uranium Survived Attacks, Israeli Official Says",
+    "link": "https://www.nytimes.com/2025/07/10/us/politics/iran-attacks-damage.html",
+    "summary": "The assessment came as experts are trying to determine how long it would take Iran to rebuild its nuclear program in the aftermath of U.S. and Israeli strikes."
   },
   {
-    "title": "Rubio Visits Asia as Trump Raises Trade-War Tensions",
+    "title": "U.K. Faces Rising Threat From Iranian Plots, Intelligence Committee Says",
+    "link": "https://www.nytimes.com/2025/07/10/world/europe/uk-iran-espionage-threats.html",
+    "summary": "An official report warned that Iran was targeting dissidents and gathering intelligence on Jewish and Israeli targets in Britain."
+  },
+  {
+    "title": "A Reporter’s Trail From a Bush-Era Cyberattack to Trump’s Strike on Iran",
+    "link": "https://www.nytimes.com/2025/07/10/insider/cyberattack-iran.html",
+    "summary": "During the Obama administration, a Times reporter revealed details of a cyberattack on a nuclear enrichment center in Iran. He followed the story to the White House, and learned lessons critical to covering the recent bombing of Fordo and Natanz."
+  },
+  {
+    "title": "Texas City Racked by Floods Becomes a Hub for Search and Recovery",
+    "link": "https://www.nytimes.com/2025/07/10/us/kerrville-flood-texas-recovery.html",
+    "summary": "Most summers, Kerrville, Texas, draws crowds for its July 4 celebration. This year, the streets are filled with emergency responders."
+  },
+  {
+    "title": "Discovery of Texas Flood Victims Slows After Nearly a Week of Searching",
+    "link": "https://www.nytimes.com/2025/07/10/us/texas-flooding-search-survivors-victims.html",
+    "summary": "Officials in Kerr County, the hardest-hit region, said the number of missing remained unchanged since Tuesday, at 161. The floods have killed at least 120 people statewide."
+  },
+  {
+    "title": "Rubio Tells Top Russian Diplomat of Trump’s Frustration Over Putin’s War",
     "link": "https://www.nytimes.com/2025/07/09/world/asia/rubio-asia-diplomacy-tariffs.html",
-    "summary": "Secretary of State Marco Rubio talks about countering China as it expands its global influence. But President Trump’s tariff threats have created friction with U.S. partners."
+    "summary": "The U.S. secretary of state met with his Russian counterpart on the sidelines of a gathering of Southeast Asian nations, where he also defended new U.S. tariff threats."
+  },
+  {
+    "title": "As Israel and Ukraine Advance Drone Warfare, U.S. Sees Its Own Vulnerabilities",
+    "link": "https://www.nytimes.com/2025/07/10/us/politics/us-military-drone-technology.html",
+    "summary": "Israel and Ukraine have used drones against their adversaries in audacious ways that have helped the Pentagon see the need for new technology."
+  },
+  {
+    "title": "Russia Bombards Ukraine as U.S. Frustration Mounts",
+    "link": "https://www.nytimes.com/2025/07/10/world/europe/ukraine-russia-lavrov-rubio.html",
+    "summary": "Kyiv was the main target of an hourslong assault that killed at least two people, officials said. The barrage came hours before the top American and Russian diplomats met."
+  },
+  {
+    "title": "Ukrainian Intelligence Officer Is Shot to Death in Kyiv",
+    "link": "https://www.nytimes.com/2025/07/10/world/europe/ukraine-intelligence-officer-shooting-sbu.html",
+    "summary": "The victim’s unit played a key role in Ukraine’s surprise attack inside Russian territory last summer."
+  },
+  {
+    "title": "Trump Administration Is Forcing Prosecutors to Ignore Law, Whistle-Blower Says",
+    "link": "https://www.nytimes.com/2025/07/10/us/politics/trump-bove-reuveni-whistleblower-doj-deportations.html",
+    "summary": "In an interview with The New York Times, a former Justice Department lawyer, Erez Reuveni, said officials pressed subordinates to mislead judges, and dared the courts to stop it."
+  },
+  {
+    "title": "Former Girl Bosses Are ‘Leaning Out’ to Redefine What Ambition Looks Like",
+    "link": "https://www.nytimes.com/2025/07/10/style/girl-boss-lean-in-ambition.html",
+    "summary": "They reached the heights of corporate success. Now some women are trying to redefine what ambition looks like."
+  },
+  {
+    "title": "China Surveys Seabeds Where Naval Rivals May One Day Clash",
+    "link": "https://www.nytimes.com/2025/07/10/world/asia/china-ships-taiwan-guam.html",
+    "summary": "Chinese research ships are studying the seas for science and resources, but the data they gather could also be useful in a conflict with Taiwan or the United States."
+  },
+  {
+    "title": "Can the Next Fed Chair Truly Be Independent From Trump’s Influence?",
+    "link": "https://www.nytimes.com/2025/07/10/business/trump-fed-chair-independence.html",
+    "summary": "The president hasn’t named a successor to Jerome H. Powell, but his insistence on someone who will lower interest rates has already raised doubts about their credibility."
   },
   {
     "title": "Trump Pledges 50% Tariffs Against Brazil, Citing ‘Witch Hunt’ Against Bolsonaro",
@@ -45,24 +85,29 @@
     "summary": "Tensions between the United States and Brazil have suddenly burst open. Brazil’s president promised to reciprocate against President Trump’s tariffs."
   },
   {
-    "title": "Trump Threatens New Tariffs on Countries and Copper",
+    "title": "Trump Threatens New Tariffs on Brazil and Copper: What to Know",
     "link": "https://www.nytimes.com/article/trump-tariffs-canada-mexico-china.html",
     "summary": "Since re-entering office, President Trump has announced a barrage of tariffs to try to rewire the global economy."
   },
   {
-    "title": "Trump Seems to Be Warming to What Europe Wants for Ukraine: New Russia Sanctions",
-    "link": "https://www.nytimes.com/2025/07/10/world/europe/trump-ukraine-russia-europe.html",
-    "summary": "Flattery and pressure — coupled with President Trump’s growing dissatisfaction with President Vladimir V. Putin — have helped build momentum for new economic punishments."
+    "title": "U.K. and France Agree to First-Ever Nuclear Weapons Pact to Fend Off Threat to Europe",
+    "link": "https://www.nytimes.com/2025/07/10/world/europe/starmer-macron-nuclear-agreement.html",
+    "summary": "The leaders of the two countries confirmed details of a strengthened defense relationship at a summit Thursday. An agreement on tackling unauthorized migration was also announced."
   },
   {
-    "title": "Vladimir Putin Messed Up",
-    "link": "https://www.nytimes.com/2025/07/10/briefing/vladimir-putin-messed-up.html",
-    "summary": "We explain President Trump and Putin’s changing relationship."
+    "title": "A Lethal Israeli Airstrike Hits Near a Gaza Aid Clinic",
+    "link": "https://www.nytimes.com/2025/07/10/world/middleeast/israel-strike-gaza-clinic.html",
+    "summary": "The attack struck near a facility run by an American aid organization as negotiators from Hamas and Israel wrangle over a potential new cease-fire agreement."
   },
   {
-    "title": "Russia Bombards Ukraine as U.S. Frustration Mounts",
-    "link": "https://www.nytimes.com/2025/07/10/world/europe/ukraine-russia-lavrov-rubio.html",
-    "summary": "Kyiv was the main target of an hourslong assault that killed at least two people, officials said. The barrage came hours before the top American and Russian diplomats sat down for a meting."
+    "title": "Israel Will Allow More Aid Into Gaza, Officials Say",
+    "link": "https://www.nytimes.com/2025/07/10/world/middleeast/israel-gaza-aid.html",
+    "summary": "The decision followed discussions with the European Union, which has pressed Israel to ease the dire humanitarian conditions for Palestinians in the territory."
+  },
+  {
+    "title": "U.S. Imposes Sanctions on U.N. Special Rapporteur Francesca Albanese",
+    "link": "https://www.nytimes.com/2025/07/10/us/politics/gaza-francesca-albanese-sanctions.html",
+    "summary": "Secretary of State Marco Rubio denounced Francesca Albanese, a special rapporteur, for calling for international investigations of Americans and Israelis over the war in the enclave."
   },
   {
     "title": "These Younger Democrats Are Sick of Their Party’s Status Quo",
@@ -75,44 +120,14 @@
     "summary": "The founders of the initiative, the States Forum, say they hope to extend successful Democratic policies across states and even to the national level."
   },
   {
-    "title": "Signs of Violence in Mississippi County Sheriff’s Office Dated Back Years",
-    "link": "https://www.nytimes.com/2025/07/10/us/rankin-county-mississippi-sheriff-office-violence.html",
-    "summary": "The F.B.I. and a Mississippi sheriff investigated complaints about brutal assaults, but the deputies accused remained on the force and never faced charges."
+    "title": "La Scala Warns Opera Patrons: No Flip-Flops or Tank Tops Allowed",
+    "link": "https://www.nytimes.com/2025/07/10/arts/la-scala-opera-dress-code.html",
+    "summary": "Milan’s famed opera house is cracking down on the underdressed, even as it and other European opera companies try to attract a wider audience."
   },
   {
-    "title": "A British Surgeon Shares What She Saw in Gaza’s Hospitals",
-    "link": "https://www.nytimes.com/2025/07/09/world/middleeast/gaza-hospitals-uk-surgeon-israel-attacks.html",
-    "summary": "Dr. Victoria Rose spent 21 days in the territory, treating people who were shot trying to get food and children with life-changing injuries from Israeli bombs."
-  },
-  {
-    "title": "Trump’s D.E.I. Cuts Are Hurting Rural, White Americans, Too",
-    "link": "https://www.nytimes.com/2025/07/10/us/trump-science-nih-grants-dei-cuts.html",
-    "summary": "The N.I.H. has terminated hundreds of diversity grants awarded to young scientists, many of whom come from the very places that supported Trump."
-  },
-  {
-    "title": "Espaillat Endorses Mamdani for Mayor, After Backing Cuomo and Adams",
-    "link": "https://www.nytimes.com/2025/07/10/nyregion/espaillat-endorse-mamdani.html",
-    "summary": "Representative Adriano Espaillat, the most powerful Latino leader in New York City, will back Zohran Mamdani, the Democratic candidate for mayor."
-  },
-  {
-    "title": "Zohran Mamdani Expands Campaign Team, Hiring Veteran Democrat",
-    "link": "https://www.nytimes.com/2025/07/09/nyregion/mamdani-communications-jeffrey-lerner.html",
-    "summary": "Mr. Mamdani, a state assemblyman and the Democratic nominee for mayor of New York City, is taking on a small handful of more experienced campaign hands."
-  },
-  {
-    "title": "A.I.-Generated Images of Child Sexual Abuse Are Flooding the Internet",
-    "link": "https://www.nytimes.com/2025/07/10/technology/ai-csam-child-sexual-abuse.html",
-    "summary": "Organizations that track the material are reporting a surge in A.I. images and videos, which are threatening to overwhelm law enforcement."
-  },
-  {
-    "title": "European Union Unveils Rules for Powerful A.I. Systems",
-    "link": "https://www.nytimes.com/2025/07/10/business/ai-rules-europe.html",
-    "summary": "Makers of the most advanced artificial intelligence systems will face new obligations for transparency, copyright protection and public safety. The rules are voluntary to start."
-  },
-  {
-    "title": "My Problem With Superman",
-    "link": "https://www.nytimes.com/2025/07/10/opinion/superman-movie-immigrant-junot-diaz.html",
-    "summary": "Other people might note his alien-ness and quickly forget it, but I couldn’t unsee it. And because I couldn’t unsee his, I couldn’t unsee mine."
+    "title": "In Des Moines, Big Operas and Big Ambitions Fill a Tiny Theater",
+    "link": "https://www.nytimes.com/2025/07/10/arts/music/des-moines-metro-opera.html",
+    "summary": "Des Moines Metro Opera has become one of the country’s most successful smaller companies doing adventurous repertory in a 467-seat space."
   },
   {
     "title": "Trolling Democracy",
@@ -120,19 +135,29 @@
     "summary": "The rise of a toxic online politics."
   },
   {
-    "title": "Late Night Is All Over Grok’s Antisemitic Posts",
-    "link": "https://www.nytimes.com/2025/07/10/arts/television/late-night-grok-antisemitic-posts.html",
-    "summary": "“Do you know how racist and antisemitic you have to be for Elon Musk to step in?” Anthony Anderson, sitting in for Jimmy Kimmel, asked rhetorically."
+    "title": "Jordan Peterson and I Had a Chat",
+    "link": "https://www.nytimes.com/2025/07/10/opinion/jordan-peterson-men-boys.html",
+    "summary": "We had different ideas about what’s making men’s lives hard."
   },
   {
-    "title": "27 Workers Make Improbable Escape from Collapsed L.A. Tunnel",
-    "link": "https://www.nytimes.com/2025/07/10/us/tunnel-collapse-los-angeles-trapped.html",
-    "summary": "They climbed over a mound of loose soil and emerged at the tunnel’s only entrance five miles away, officials said."
+    "title": "Vladimir Putin Messed Up",
+    "link": "https://www.nytimes.com/2025/07/10/briefing/vladimir-putin-messed-up.html",
+    "summary": "We explain President Trump and Putin’s changing relationship."
   },
   {
-    "title": "As N.Y.C. Replaces MetroCards With OMNY, Transit Riders Have Complaints",
-    "link": "https://www.nytimes.com/2025/07/10/nyregion/metrocard-omny-nyc-rider-issues.html",
-    "summary": "A survey of transit riders found that a majority have had issues with New York’s new tap-and-go system, months before its predecessor is expected to be retired."
+    "title": "The Original Birkin Sells for $10 Million",
+    "link": "https://www.nytimes.com/2025/07/10/style/original-birkin-bag-auction-sold.html",
+    "summary": "A lively bidding war led to the Hermès prototype, which was created for the actress Jane Birkin, selling for far more than expected."
+  },
+  {
+    "title": "Signs of Violence in Mississippi County Sheriff’s Office Dated Back Years",
+    "link": "https://www.nytimes.com/2025/07/10/us/rankin-county-mississippi-sheriff-office-violence.html",
+    "summary": "The F.B.I. and a Mississippi sheriff investigated complaints about brutal assaults, but the deputies accused remained on the force and never faced charges."
+  },
+  {
+    "title": "A.I.-Generated Images of Child Sexual Abuse Are Flooding the Internet",
+    "link": "https://www.nytimes.com/2025/07/10/technology/ai-csam-child-sexual-abuse.html",
+    "summary": "Organizations that track the material are reporting a surge in A.I. images and videos, which are threatening to overwhelm law enforcement."
   },
   {
     "title": "Maya Ruler’s Tomb Is Unearthed in Belize, With Clues to His Ancient World",

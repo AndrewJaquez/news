@@ -1,8 +1,28 @@
 [
   {
-    "title": "Texas County Flagged Need for Flood Alarm Months Before Tragedy",
+    "title": "How Netanyahu Prolonged the War in Gaza to Stay in Power",
+    "link": "https://www.nytimes.com/2025/07/11/magazine/benjamin-netanyahu-gaza-war.html",
+    "summary": "Secret meetings, altered records, ignored intelligence: the inside story of the prime minister’s political calculations since Oct. 7."
+  },
+  {
+    "title": "Takeaways From the Times Investigation Into Benjamin Netanyahu",
+    "link": "https://www.nytimes.com/2025/07/11/magazine/benjamin-netanyahu-gaza-investigation-takeaways.html",
+    "summary": "Prolonging the Gaza war helped the Israeli prime minister forestall a political reckoning."
+  },
+  {
+    "title": "Netanyahu’s War",
+    "link": "https://www.nytimes.com/2025/07/11/briefing/benjamin-netanyahu-israel.html",
+    "summary": "We spoke to the Jerusalem bureau chief about his investigative profile about the Israeli prime minister."
+  },
+  {
+    "title": "How Netanyahu Prolonged the Gaza War, and the F.B.I.’s Loyalty Test",
+    "link": "https://www.nytimes.com/2025/07/11/podcasts/the-headlines/benjamin-netanyahu-ice-arrests-california.html",
+    "summary": "Plus, your Friday news quiz."
+  },
+  {
+    "title": "Kerr County Repeatedly Sought Help with Flood Risk. Texas Said No.",
     "link": "https://www.nytimes.com/2025/07/10/us/politics/texas-flood-alarm-system.html",
-    "summary": "Kerr County repeatedly failed to secure a warning system, even as local officials remained aware of the risks and as billions of dollars were available for similar projects."
+    "summary": "Kerr County failed to secure a warning system, even as local officials remained aware of the risks and as billions of dollars were available for similar projects."
   },
   {
     "title": "Why the Texas Flood Site Didn’t Have Warning Sirens",
@@ -10,29 +30,14 @@
     "summary": "Officials in Kerr County made several attempts over the past decade to get funds for a flood warning system, but those applications were rejected. Christopher Flavelle, a reporter for The New York Times, breaks down what went wrong."
   },
   {
-    "title": "Texas City Racked by Floods Becomes a Hub for Search and Recovery",
-    "link": "https://www.nytimes.com/2025/07/10/us/kerrville-flood-texas-recovery.html",
-    "summary": "Most summers, Kerrville, Texas, draws crowds for its July 4 celebration. This year, the streets are filled with emergency responders."
+    "title": "Trump’s Seesawing on Tariffs Gives the World Whiplash",
+    "link": "https://www.nytimes.com/2025/07/11/world/europe/trump-tariffs-global-trade-deals.html",
+    "summary": "Blunt letters dictating terms posted to social media and changes late in negotiations have left trading partners wondering what President Trump will do next."
   },
   {
-    "title": "The F.B.I. Is Using Polygraphs to Test Officials’ Loyalty",
-    "link": "https://www.nytimes.com/2025/07/10/us/politics/fbi-polygraph-kash-patel.html",
-    "summary": "Some senior officials who have taken the test have been asked whether they said anything negative about the F.B.I. director, Kash Patel."
-  },
-  {
-    "title": "Trump Administration Is Forcing Prosecutors to Ignore Law, Whistle-Blower Says",
-    "link": "https://www.nytimes.com/2025/07/10/us/politics/trump-bove-reuveni-whistleblower-doj-deportations.html",
-    "summary": "In an interview with The New York Times, a former Justice Department lawyer, Erez Reuveni, said officials pressed subordinates to mislead judges, and dared the courts to stop it."
-  },
-  {
-    "title": "Trump Threatens 35 Percent Tariffs on Canada in the Middle of Trade Talks",
-    "link": "https://www.nytimes.com/2025/07/10/us/politics/trump-canada-tariffs.html",
-    "summary": "The president revived his discredited claims about fentanyl entering the U.S. from Canada to justify his latest proposed rate of 35 percent."
-  },
-  {
-    "title": "Rubio and Chinese Diplomat Vie for Influence in Asia Over Trump’s Tariffs",
-    "link": "https://www.nytimes.com/2025/07/11/us/politics/china-us-asia-tariffs.html",
-    "summary": "Marco Rubio wants to bolster ties with Asia to counter China’s sway, but President Trump’s tariff threats have nations asking why they should align with Washington."
+    "title": "Behind Trump’s Decision to Tax Brazil to Save Bolsonaro",
+    "link": "https://www.nytimes.com/2025/07/11/world/americas/brazil-trump-tariffs.html",
+    "summary": "Right-wing Brazilians wanted sanctions against the judge prosecuting Brazil’s former president. President Trump opted for something far bigger — tariffs."
   },
   {
     "title": "Targeting Brazil, Trump Tests Legal Limit of His Tariff Powers",
@@ -40,9 +45,14 @@
     "summary": "The president signaled he would seek to use the threat of steep levies to reorient trade and protect his political allies."
   },
   {
-    "title": "Trump’s Copper Tariff Threat Leaves Companies Scrambling",
-    "link": "https://www.nytimes.com/2025/07/10/business/trump-copper-tariffs-prices.html",
-    "summary": "President Trump wants America to produce more of the much-needed mineral, but a 50 percent tariff could undermine his aim of a manufacturing renaissance."
+    "title": "The F.B.I. Is Using Polygraphs to Test Officials’ Loyalty",
+    "link": "https://www.nytimes.com/2025/07/10/us/politics/fbi-polygraph-kash-patel.html",
+    "summary": "Some senior officials who have taken the test have been asked whether they said anything negative about the F.B.I. director, Kash Patel."
+  },
+  {
+    "title": "Federal Agents Clash With Protesters During Immigration Raid at California Farm",
+    "link": "https://www.nytimes.com/2025/07/11/us/ice-raid-california-cannabis-farm.html",
+    "summary": "Officers appeared to use crowd control munitions and tear gas against protesters. The F.B.I. said it was searching for a person who appeared to fire a pistol at officers."
   },
   {
     "title": "Justice Dept. Demands Private Patient Info From Trans Youth Medicine Providers",
@@ -50,79 +60,64 @@
     "summary": "Doctors and hospitals were subpoenaed for private information on gender-related care for minors, the latest move by the Trump administration to stop the treatments."
   },
   {
-    "title": "RFK Jr. Cancels Meeting of Key Preventive Health Panel",
-    "link": "https://www.nytimes.com/2025/07/10/health/kennedy-preventative-services-panel.html",
-    "summary": "The task force recommends which screenings and other preventive health measures must be covered by insurance."
-  },
-  {
-    "title": "F.D.A. Posts Collection of Letters Outlining Concerns About New Drugs",
-    "link": "https://www.nytimes.com/2025/07/10/health/fda-drugs-letters.html",
-    "summary": "The letters, many of which were already available online, detail why the regulators initially declined to approve some drugs. All eventually passed muster."
-  },
-  {
     "title": "State Department to Soon Begin Mass Layoffs",
     "link": "https://www.nytimes.com/2025/07/10/us/politics/state-department-mass-layoffs.html",
     "summary": "Secretary of State Marco Rubio’s plan to downsize a “bloated” department had been on hold after a court ruling."
   },
   {
-    "title": "Justice Dept. Promised to Prosecute Abrego Garcia. Now It’s Not So Clear.",
-    "link": "https://www.nytimes.com/2025/07/10/us/politics/abrego-garcia-doj-trump.html",
-    "summary": "In the case of Kilmar Armando Abrego Garcia, the administration appears primarily concerned with ensuring that a man it has described as a “dangerous illegal alien” never walks free on U.S. soil."
+    "title": "Srebrenica, a Massacre Foretold, Still Casts Its Shadow",
+    "link": "https://www.nytimes.com/2025/07/11/us/srebrenica-massacre-bosnia.html",
+    "summary": "The town was supposed to be a “safe area,” protected by U.N. peacekeepers, but Serb forces massacred 8,000 Muslim men and boys there."
   },
   {
-    "title": "Secret Service Suspends Six Agents Over Trump Assassination Attempt",
-    "link": "https://www.nytimes.com/2025/07/10/us/politics/trump-secret-service.html",
-    "summary": "The announcement comes near the anniversary of the shooting at Donald J. Trump’s campaign rally in Butler, Pa."
+    "title": "After Trump’s SNAP Cuts, 300,000 in NYC Could Lose Food Benefits",
+    "link": "https://www.nytimes.com/2025/07/11/nyregion/nyc-snap-food-stamps-trump.html",
+    "summary": "The president’s sweeping new law includes work requirements for more people and less coverage for some noncitizens. Republicans argue the cuts are needed to tackle waste and fraud."
   },
   {
-    "title": "Justice Jackson Says ‘the State of Our Democracy’ Keeps Her Up at Night",
-    "link": "https://www.nytimes.com/2025/07/10/us/ketanji-brown-jackson-democracy.html",
-    "summary": "At a bar association event in Indiana, the justice told those gathered that she is focused on drawing attention to what is happening to the government."
+    "title": "Does Brooklyn Need a New Waterfront Neighborhood?",
+    "link": "https://www.nytimes.com/2025/07/11/nyregion/brooklyn-marine-terminal-development.html",
+    "summary": "The risks and opportunities of turning 122 industrial acres over to developers."
   },
   {
-    "title": "Billionaire Bill Ackman Loses Pro Tennis Debut at Hall of Fame Open",
-    "link": "https://www.nytimes.com/2025/07/10/style/bill-ackman-tennis-hall-of-fame-open.html",
-    "summary": "Bill Ackman, an outspoken 59-year-old financier, competed in a professional tournament."
+    "title": "Nantucket’s Workers Are Living on the Margins",
+    "link": "https://www.nytimes.com/2025/07/11/realestate/nantucket-affordable-housing-homeless.html",
+    "summary": "Teachers, police officers, firefighters and other workers live in overcrowded and substandard housing, or even in their cars on the beach."
   },
   {
-    "title": "Nvidia Becomes First Public Company Worth $4 Trillion",
-    "link": "https://www.nytimes.com/2025/07/10/technology/nvidia-4-trillion-market-value.html",
-    "summary": "The A.I. chip maker reached the landmark before Apple and Microsoft, as its value rose more than tenfold after ChatGPT’s release in late 2022."
+    "title": "How James Gunn Modeled Superman’s Dog Krypto After His Own Pet",
+    "link": "https://www.nytimes.com/2025/07/11/movies/superman-krypto-dog-james-gunn.html",
+    "summary": "For the furry sidekick, Krypto, in “Superman,” the director James Gunn found inspiration — and a physical model — in his own unruly pet."
   },
   {
-    "title": "Angela Paxton Files for Divorce From Ken Paxton, Texas’ Attorney General",
-    "link": "https://www.nytimes.com/2025/07/10/us/ken-paxton-wife-divorce.html",
-    "summary": "The announcement could have a significant impact on the race for U.S. Senate in Texas. Mr. Paxton is challenging Senator John Cornyn in the Republican primary."
+    "title": "Superman’s Other Secret Weakness? Journalism Ethics.",
+    "link": "https://www.nytimes.com/2025/07/11/arts/superman-lois-lane-clark-kent-journalism.html",
+    "summary": "Writing for The Daily Planet about his heroic alter ego raises thorny issues for Clark Kent. Lois Lane has her conflicts, too."
   },
   {
-    "title": "In South Carolina, Newsom Tests the Presidential Waters (Without Saying So)",
-    "link": "https://www.nytimes.com/2025/07/10/us/politics/newsom-south-carolina-presidential.html",
-    "summary": "Gov. Gavin Newsom of California met with Democratic voters in an early primary state that has become pivotal in presidential races."
-  },
-  {
-    "title": "Missouri Governor Signs Bill Rolling Back Voter-Approved Minimum Wage and Sick Leave",
-    "link": "https://www.nytimes.com/2025/07/10/us/missouri-minimum-wage-leave.html",
-    "summary": "The reversal reflected a growing struggle over the use of ballot measures to answer policy questions in Republican-led states."
-  },
-  {
-    "title": "Some of Iran’s Enriched Uranium Survived Attacks, Israeli Official Says",
-    "link": "https://www.nytimes.com/2025/07/10/us/politics/iran-attacks-damage.html",
-    "summary": "The assessment came as experts are trying to determine how long it would take Iran to rebuild its nuclear program in the aftermath of U.S. and Israeli strikes."
-  },
-  {
-    "title": "Dave ‘Baby’ Cortez, Hitmaker Who Seemed to Vanish, Is Dead at 83",
-    "link": "https://www.nytimes.com/2025/07/10/arts/music/dave-baby-cortez-dead.html",
-    "summary": "His “The Happy Organ” reached No. 1 in 1959, but his pop stardom was short-lived, and his death in 2022, with an anonymous burial, remains a source of mystery."
-  },
-  {
-    "title": "The Law Is Not Enough to Stop War Crimes",
-    "link": "https://www.nytimes.com/2025/07/11/opinion/srebrenica-genocide-serbia-bosnia-justice.html",
-    "summary": "Prosecutions for atrocities are not always enough to stop hatred. Societies must also acknowledge what happened."
+    "title": "Another Day, Another Chatbot’s Nazi Meltdown",
+    "link": "https://www.nytimes.com/2025/07/11/opinion/ai-grok-x-llm.html",
+    "summary": "The folks at X say don’t worry; they’re on it."
   },
   {
     "title": "The Dollar’s in Trouble, but Not for the Reason You Think",
     "link": "https://www.nytimes.com/2025/07/11/opinion/dollar-money-currency-payment.html",
     "summary": "New payment systems allow users and banks to bypass the U.S. currency and sanctions."
+  },
+  {
+    "title": "Ronny Chieng Ponders Iran’s Threat to Kill a Sunbathing Trump",
+    "link": "https://www.nytimes.com/2025/07/11/arts/television/ronny-chieng-iran-trump-threat.html",
+    "summary": "The “Daily Show” host called the threat “an attack on all of America, because now we all have to picture him with his bare belly glistening in the sun.”"
+  },
+  {
+    "title": "Kurdish PKK Fighters Burn Weapons in Step Toward Peace With Turkey",
+    "link": "https://www.nytimes.com/2025/07/11/world/middleeast/pkk-turkey-conflict-arms-peace.html",
+    "summary": "The disarmament of the P.K.K., a group that has battled since the 1980s for Kurdish independence, could end a conflict that has killed more than 40,000 people."
+  },
+  {
+    "title": "Two Dozen Hospitalized in Mass Drug Overdose in Baltimore",
+    "link": "https://www.nytimes.com/2025/07/11/us/baltimore-drug-overdoses.html",
+    "summary": "An unusually large number of overdoses sent crews searching alleys and homes for victims. Officials have not said what type of drug was involved."
   },
   {
     "title": "At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says",
@@ -133,15 +128,5 @@
     "title": "Livvy Dunne Tried to Buy Babe Ruth’s Former Apartment. An N.Y.C. Co-op Board Said ‘No’.",
     "link": "https://www.nytimes.com/2025/07/10/realestate/livvy-dunne-babe-ruth-apartment-nyc.html",
     "summary": "The influencer and former collegiate gymnast tried to buy the Manhattan two-bedroom, but instead joined the ranks of high-profile rejects like Madonna and Calvin Klein."
-  },
-  {
-    "title": "Coal, the Last Survivor of Canada’s Parliament Hill Cat Colony, Dies",
-    "link": "https://www.nytimes.com/2025/07/10/world/canada/canada-parliament-cat-colony-dead.html",
-    "summary": "For decades, a semiofficial feline assembly outside Parliament was a major tourist attraction."
-  },
-  {
-    "title": "James Carter Cathcart, Voice Behind Memorable ‘Pokémon’ Characters, Dies at 71",
-    "link": "https://www.nytimes.com/2025/07/10/arts/television/james-carter-cathcart-dead-voice-actor-pokemon.html",
-    "summary": "Mr. Cathcart was known for playing the characters Professor Oak and Meowth in the long-running franchise. He also made appearances in other popular animated series such as “Yu-Gi-Oh!” and “One Piece.”"
   }
 ]

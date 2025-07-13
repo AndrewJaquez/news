@@ -1,18 +1,13 @@
 [
   {
+    "title": "Trump Threatens Steep Tariffs on Goods From E.U. and Mexico",
+    "link": "https://www.nytimes.com/2025/07/12/us/politics/europe-eu-tariffs-trade.html",
+    "summary": "Leaders from both economies had been trying to negotiate more favorable terms, only to have those efforts blown up by form letters."
+  },
+  {
     "title": "Rubio Visits Asia in Shadow of Trump’s Tariffs",
     "link": "https://www.nytimes.com/video/world/asia/100000010277461/rubio-visits-asia-in-shadow-of-trumps-tariffs.html",
     "summary": "Marco Rubio made his first visit to Asia as secretary of state. Edward Wong, a diplomatic correspondent for The New York Times, reports from Kuala Lumpur, Malaysia, to explain how President Trump’s tariffs have upset U.S. trading partners."
-  },
-  {
-    "title": "Trump Escalates Tariff Threats, Showing Little Interest in New Trade Deals",
-    "link": "https://www.nytimes.com/2025/07/12/business/economy/trump-tariffs-deals.html",
-    "summary": "The president’s supporters portray him as a top dealmaker. But, at least for now, far more trading partners have gotten stiff tariffs than trade deals."
-  },
-  {
-    "title": "How Luggage Maker Eagle Creek Has Survived Trump’s Trade War. So Far.",
-    "link": "https://www.nytimes.com/2025/07/11/business/trump-tariffs-eagle-creek.html",
-    "summary": "Eagle Creek’s experience underscores how President Trump’s chaotic approach to tariffs is having a real impact, even before the toughest levies take effect."
   },
   {
     "title": "After Months of Negotiations, Trump Imposes More Tariffs on Mexico",
@@ -20,19 +15,29 @@
     "summary": "The tariffs are likely to inflame tensions with one of the largest U.S. trading partners."
   },
   {
+    "title": "Trump Threatens Fresh Tariffs on E.U., Mexico and Canada: What to Know",
+    "link": "https://www.nytimes.com/article/trump-tariffs-canada-mexico-china.html",
+    "summary": "Since re-entering office, President Trump has announced a barrage of tariffs to try to rewire the global economy."
+  },
+  {
+    "title": "Texans Offer a Hand and Open Their Hearts as Flood Death Toll Grows",
+    "link": "https://www.nytimes.com/2025/07/12/us/texas-flood-victims-funerals.html",
+    "summary": "Mourners paid tribute at funerals and memorial services on Saturday as the number of fatalities rose to nearly 130."
+  },
+  {
     "title": "After Texas Floods, Summer Camps Reassess Safety Measures Amid Parental Concerns",
     "link": "https://www.nytimes.com/2025/07/12/us/summer-camps-safety.html",
     "summary": "Camp officials across the country said they had heard from worried parents after the Texas floods. As they try to reassure them, some camps are adding more safety procedures."
   },
   {
-    "title": "After Texas Disaster, Trump Shifts His Tone on FEMA",
-    "link": "https://www.nytimes.com/2025/07/11/us/politics/trump-fema-texas-flood.html",
-    "summary": "Earlier this year, President Trump suggested he wanted to shutter the agency. Now, he says his aides “fixed it up in no time.”"
+    "title": "FEMA Approved Removal of Many Camp Mystic Buildings From Flood Zones",
+    "link": "https://www.nytimes.com/2025/07/12/us/texas-camp-mystic-flood-plain-maps.html",
+    "summary": "Camp Mystic owners successfully appealed to the Federal Emergency Management Agency to redesignate some buildings that had been considered part of a flood-hazard zone."
   },
   {
-    "title": "An Army of Searchers Combs the Banks of the Guadalupe for the Missing",
-    "link": "https://www.nytimes.com/2025/07/12/nyregion/an-army-of-searchers-combs-the-banks-of-the-guadalupe-for-the-missing.html",
-    "summary": "Volunteers and professionals from around the country and Mexico are still searching the challenging terrain for victims of the Texas flood."
+    "title": "Texas Flood Survivors: Mother of Five Returns to Cabin in Ruins",
+    "link": "https://www.nytimes.com/2025/07/12/us/politics/texas-flood-survivor-damage.html",
+    "summary": "Jacque White and her five children escaped the rising waters of the Guadalupe River just in time. Now they have to rebuild."
   },
   {
     "title": "ICE Set to Vastly Expand Its Reach With New Funds",
@@ -47,7 +52,7 @@
   {
     "title": "Trump Pleads With Followers to Back Bondi in Dispute Over Epstein Inquiry",
     "link": "https://www.nytimes.com/2025/07/12/us/politics/trump-bondi-epstein-bongino.html",
-    "summary": "In a long social media post, President Trump said that Attorney General Pam Bondi was doing a “FANTASTIC JOB,” and told his followers to “not waste Time and Energy” on the Jeffrey Epstein case."
+    "summary": "In a long social media post, President Trump praised Attorney General Pam Bondi and told his followers to “not waste Time and Energy” on the Jeffrey Epstein case."
   },
   {
     "title": "UnitedHealth’s Campaign to Quiet Critics",
@@ -60,6 +65,11 @@
     "summary": "A reporter was familiar with the insurance giant under scrutiny and the law firm known for its attack stance. Then one hired the other."
   },
   {
+    "title": "Modi Wants More Indians to Speak Hindi. Some States Are Shouting ‘No.’",
+    "link": "https://www.nytimes.com/2025/07/13/world/asia/india-modi-hindi.html",
+    "summary": "States worry that the imposition of Hindi, the main language of northern India, would wipe out their cultural heritage."
+  },
+  {
     "title": "You Saved and Saved for Retirement. Now You Need a Plan to Cash Out.",
     "link": "https://www.nytimes.com/2025/07/12/business/retirement-assets-savings.html",
     "summary": "Most people enter retirement without any idea how to manage withdrawing their savings without running out of money. Here is what you need to know."
@@ -68,6 +78,11 @@
     "title": "New Student Loan Limits Could Leave Some Short. Who Will Help?",
     "link": "https://www.nytimes.com/2025/07/12/your-money/student-loan-limits.html",
     "summary": "The federal cap on the amounts people can borrow means some of them will fall short. That’s especially true for students in professional schools."
+  },
+  {
+    "title": "They Fled War in Ethiopia. Then American Bombs Found Them.",
+    "link": "https://www.nytimes.com/2025/07/12/world/middleeast/ethiopia-yemen-american-bombs.html",
+    "summary": "In April, U.S.-made bombs destroyed a detention facility that held Ethiopian migrants in Yemen, crushing bodies and shredding limbs. Amid official silence, the survivors are left wondering why."
   },
   {
     "title": "Texas Court Seals Records in Ken Paxton’s Divorce Case",
@@ -80,19 +95,14 @@
     "summary": "The two giant video companies have far different strategies, but the same goal: controlling your TV set."
   },
   {
-    "title": "They Fled War in Ethiopia. Then American Bombs Found Them.",
-    "link": "https://www.nytimes.com/2025/07/12/world/middleeast/ethiopia-yemen-american-bombs.html",
-    "summary": "In April, U.S.-made bombs destroyed a detention facility that held Ethiopian migrants in Yemen, crushing bodies and shredding limbs. Amid official silence, the survivors are left wondering why."
+    "title": "‘He’s Nuts, Your Trump.’ Canada Unites Against America.",
+    "link": "https://www.nytimes.com/2025/07/13/opinion/canada-america-trump.html",
+    "summary": "America’s growing discord with Canada exemplifies the extraordinary damage President Trump is wreaking on the United States’ standing in the world."
   },
   {
     "title": "Trump’s Cabinet of Incompetents",
     "link": "https://www.nytimes.com/2025/07/12/opinion/trump-cabinet-hegseth-bondi.html",
     "summary": "Putting talking heads in charge — not the best idea."
-  },
-  {
-    "title": "Elon Musk’s Revenge Campaign",
-    "link": "https://www.nytimes.com/2025/07/12/opinion/third-party-elon-musk.html",
-    "summary": "Is the “America Party” a disruption or distraction for politics?"
   },
   {
     "title": "Two Palestinians Are Killed in a West Bank Clash With Israeli Settlers",

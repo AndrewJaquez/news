@@ -1,43 +1,48 @@
 [
   {
-    "title": "Bluffs and Bluster Aside, Trump’s Tariffs Are Here to Stay",
-    "link": "https://www.nytimes.com/2025/07/14/us/politics/trump-tariffs.html",
-    "summary": "The president has earned a reputation for bluffing on tariffs. But he has steadily and dramatically raised U.S. tariffs, transforming global trade."
-  },
-  {
-    "title": "Stocks Wobble on Trump’s Latest Tariff Threats",
-    "link": "https://www.nytimes.com/2025/07/14/business/stocks-tariffs-eu-mexico.html",
-    "summary": "Analysts said the muted market response was because many investors expected the levies to settle at lower levels after negotiations."
-  },
-  {
-    "title": "China Is Buying Appliances and iPhones. What Happens When the Subsidies Stop?",
-    "link": "https://www.nytimes.com/2025/07/14/business/china-economy-consumer-subsidies.html",
-    "summary": "Shoppers are taking advantage of a $42 billion government trade-in program aimed at boosting spending. But in recent weeks, some cities have started to cut back on the subsidies."
-  },
-  {
-    "title": "Biden Hits Back on Autopen Claims, and Public Media Braces for Cuts",
-    "link": "https://www.nytimes.com/2025/07/14/podcasts/the-headlines/biden-hits-back-on-autopen-claims-and-public-media-braces-for-cuts.html",
-    "summary": "Plus, a very Wimbledon disruption."
-  },
-  {
-    "title": "In His Own Words: How Trump Changed His Tone on Putin and the War in Ukraine",
+    "title": "How Trump Changed His Tone on Putin and the Russia-Ukraine War",
     "link": "https://www.nytimes.com/2025/07/14/us/politics/trump-putin-ukraine.html",
     "summary": "After years of lavishing praise on the Russian leader, President Trump abruptly changed his posture amid mounting frustration with the lack of progress on a cease-fire."
   },
   {
-    "title": "Trump’s Willingness to Arm Ukraine Puts Him Closer to Biden Approach",
-    "link": "https://www.nytimes.com/2025/07/14/us/politics/trump-ukraine-biden.html",
-    "summary": "President Trump is expected this week to formalize a new plan to sell American weapons to European allies, who would pass them onto Kyiv."
+    "title": "Zelensky Announces Plan for Major Government Shake-Up in Ukraine",
+    "link": "https://www.nytimes.com/2025/07/14/world/europe/ukraine-zelensky-government-shakeup.html",
+    "summary": "An announcement by the Ukrainian president that he will seek to replace the prime minister with a loyalist came as the country faces battlefield setbacks and a souring mood."
   },
   {
-    "title": "Macron Increases Military Spending, Saying Freedom Is Threatened",
-    "link": "https://www.nytimes.com/2025/07/13/world/europe/macron-france-military-spending.html",
-    "summary": "“You have to be feared in this world,” President Emmanuel Macron said, preparing France for an era in which it may no longer be able to count on the U.S."
+    "title": "The Economy Has Been Resilient. The New Round of Tariffs May Hit Harder.",
+    "link": "https://www.nytimes.com/2025/07/14/us/politics/tariff-threats-us-economy.html",
+    "summary": "The economy’s resilience so far to President Trump’s global trade war risks emboldening him and unleashing the sort of economic devastation that economists have long feared."
   },
   {
-    "title": "Inside the Conservative Campaign That Took Down the U.Va. President",
-    "link": "https://www.nytimes.com/2025/07/14/us/politics/university-virginia-president-trump-dei-jefferson-council.html",
-    "summary": "The Jefferson Council had called for eliminating D.E.I., without much success. But a new lawyer with ties to the group took on the cause for the Trump administration."
+    "title": "It’s No Bluff: The Tariff Rate Is Soaring Under Trump",
+    "link": "https://www.nytimes.com/2025/07/14/us/politics/trump-tariffs.html",
+    "summary": "The president has earned a reputation for bluffing on tariffs. But he has steadily and dramatically raised U.S. tariffs, transforming global trade."
+  },
+  {
+    "title": "Companies in Europe Are Frozen as Tariff Uncertainty Drags On",
+    "link": "https://www.nytimes.com/2025/07/14/business/tariffs-trump-europe-companies-impact.html",
+    "summary": "After European Union leaders said they would keep negotiating instead of immediately retaliating against President Trump’s latest threat, businesses remain unable to develop long-term plans."
+  },
+  {
+    "title": "Bitcoin Price Soars Past $120,000 at Outset of House’s ‘Crypto Week’",
+    "link": "https://www.nytimes.com/2025/07/14/business/dealbook/bitcoin-price-btc-record-crypto-week.html",
+    "summary": "The cryptocurrency has extended its rally as lawmakers consider legislation that would bring digital tokens further into the mainstream."
+  },
+  {
+    "title": "Cuomo Will Stay in the Race for N.Y.C. Mayor to Challenge Mamdani",
+    "link": "https://www.nytimes.com/2025/07/14/nyregion/andrew-cuomo-mamdani-nyc-mayor.html",
+    "summary": "Former Gov. Andrew M. Cuomo is expected to announce his commitment to a third-party run against Assemblyman Zohran Mamdani, who soundly defeated him in the Democratic primary."
+  },
+  {
+    "title": "Plan to Indefinitely Displace Palestinians Threatens to Derail Gaza Truce",
+    "link": "https://www.nytimes.com/2025/07/14/world/middleeast/israel-hamas-gaza-cease-fire.html",
+    "summary": "An Israeli proposal to force much of Gaza’s population into a small enclave is now overshadowing negotiations over a truce."
+  },
+  {
+    "title": "Clashes between Bedouin and Druse in Syria Kill More Than 50, Health Official and Rights Group Say",
+    "link": "https://www.nytimes.com/2025/07/14/world/middleeast/syria-clashes-deaths-bedouin-druse.html",
+    "summary": "The violence underscores the government’s challenge to assert nationwide control as ethnic and religious tensions simmer after the end of the civil war."
   },
   {
     "title": "Facing Painful Cuts, the V.A. Reported Dubious Savings to DOGE",
@@ -45,9 +50,14 @@
     "summary": "The Department of Veterans Affairs claimed credit for canceling contracts that had not been canceled, and tallied savings unrelated to the cost-cutting efforts."
   },
   {
-    "title": "Public Broadcasters Brace for Vote on Sharp Funding Cut",
-    "link": "https://www.nytimes.com/2025/07/14/business/media/public-broadcasters-federal-funding.html",
-    "summary": "At the urging of President Trump, Congress is expected to vote this week on whether to cut $500 million per year for public radio and TV stations."
+    "title": "He Helped Big Companies Dodge Taxes. Now He’s Writing the Rules.",
+    "link": "https://www.nytimes.com/2025/07/14/business/economy/ken-kies-tax-lobbyist-treasury.html",
+    "summary": "Ken Kies, a longtime tax lobbyist who worked for some of the world’s largest businesses, is now running the Treasury Department’s office that will administer Trump’s tax law."
+  },
+  {
+    "title": "Inside the Conservative Campaign That Took Down a University President",
+    "link": "https://www.nytimes.com/2025/07/14/us/politics/university-virginia-president-trump-dei-jefferson-council.html",
+    "summary": "The Jefferson Council had called for eliminating D.E.I., without much success. But a new lawyer with ties to the group took on the cause for the Trump administration."
   },
   {
     "title": "NPR and PBS Face Federal Funding Cuts: What to Know",
@@ -55,29 +65,14 @@
     "summary": "A proposal before the Senate to strip funding from the Corporation for Public Broadcasting could be catastrophic for local stations, particularly those in rural areas."
   },
   {
-    "title": "Biden Says He Made the Clemency Decisions Recorded With Autopen",
-    "link": "https://www.nytimes.com/2025/07/13/us/politics/biden-pardon-autopen-trump.html",
-    "summary": "Donald J. Trump and his allies have begun investigations to support their claims that Joseph R. Biden Jr. was incapacitated and his staff conspired to take presidential actions in his name."
+    "title": "Meta Built a Data Center Next Door. The Neighbors’ Water Taps Went Dry.",
+    "link": "https://www.nytimes.com/2025/07/14/technology/meta-data-center-water.html",
+    "summary": "In the race to develop artificial intelligence, tech giants are building data centers that guzzle up water. That has led to problems for people who live nearby."
   },
   {
-    "title": "Excerpts From The Times’s Interview With Biden on Clemency Decisions",
-    "link": "https://www.nytimes.com/2025/07/13/us/politics/biden-clemency-interview.html",
-    "summary": "The former president said he “made every single one of those” decisions and that Republicans were questioning them because “they’ve done so badly” and wanted to shift the focus."
-  },
-  {
-    "title": "Texan Stoicism Provides Comfort, and Excuses, After the Flood",
-    "link": "https://www.nytimes.com/2025/07/14/us/politics/texas-floods-greg-abbott-stoicism.html",
-    "summary": "Texans often draw on the idea of their own self-reliance during times of adversity. Gov. Greg Abbott has used it to deflect tough questions."
-  },
-  {
-    "title": "Texas Floods Bring Grief and Prayer to Local Churches",
-    "link": "https://www.nytimes.com/2025/07/13/us/texas-floods-churches-grief.html",
-    "summary": "At services in the stricken Hill Country and elsewhere, ministers spoke Sunday morning about sorrow and solace, community and hope, as more rain beat down."
-  },
-  {
-    "title": "Noem Defends FEMA Response to Texas Flooding and Says Trump Wants Agency ‘Remade,’ Not Cut",
-    "link": "https://www.nytimes.com/2025/07/13/us/politics/kristi-noem-trump-texas-floods-fema.html",
-    "summary": "The homeland security secretary said a report that thousands of calls to a disaster hotline went unanswered because of staffing cuts was “false.”"
+    "title": "The Tooth Fairy Is Real. She’s a Dentist in Seattle.",
+    "link": "https://www.nytimes.com/2025/07/14/parenting/tooth-fairy-dentist-letters.html",
+    "summary": "For 20 years, Dr. Purva Merchant has been answering letters from gaptoothed children and their parents — roughly 6,000 in all. “Happy growing up,” she typically replies."
   },
   {
     "title": "Footage of Inmate Suicide Captures Dysfunction on Rikers Island",
@@ -85,9 +80,24 @@
     "summary": "The New York Times has obtained video of the 2022 death of Michael Nieves, a mentally ill detainee who mortally wounded himself on Rikers Island."
   },
   {
-    "title": "Plan to Permanently Displace Palestinians Threatens to Derail Gaza Truce",
-    "link": "https://www.nytimes.com/2025/07/14/world/middleeast/israel-hamas-gaza-cease-fire.html",
-    "summary": "An Israeli proposal to force much of Gaza’s population into a small enclave is now overshadowing negotiations over a truce."
+    "title": "Apollo-Soyuz 50th Anniversary: A Handshake in Orbit That Transformed the Space Race",
+    "link": "https://www.nytimes.com/2025/07/14/science/apollo-soyuz-test-project-1975-anniversary.html",
+    "summary": "The Apollo-Soyuz Test Project brought Soviet cosmonauts and NASA astronauts together in the first international human spaceflight."
+  },
+  {
+    "title": "Texan Stoicism Provides Comfort, and Excuses, After the Flood",
+    "link": "https://www.nytimes.com/2025/07/14/us/politics/texas-floods-greg-abbott-stoicism.html",
+    "summary": "Texans often draw on the idea of their own self-reliance during times of adversity. Gov. Greg Abbott has used it to deflect tough questions."
+  },
+  {
+    "title": "Texas Floods: Death Toll, Map and What to Know",
+    "link": "https://www.nytimes.com/2025/07/07/us/texas-floods-kerr-county.html",
+    "summary": "The search for the missing will resume on Monday after heavy rainfall slowed efforts the previous day. Roughly 170 people remain unaccounted for."
+  },
+  {
+    "title": "Living ‘A Day Without a Mexican’ in L.A., 21 Years Later",
+    "link": "https://www.nytimes.com/2025/07/14/us/los-angeles-a-day-without-a-mexican.html",
+    "summary": "The 2004 indie film imagined an absurd, Latino-less California. As fears of immigration raids empty out parts of Los Angeles, the film’s premise feels all too real, its creators say."
   },
   {
     "title": "America Is Unraveling Its Safety Net",
@@ -105,19 +115,19 @@
     "summary": "How the unrest began — and what may happen next."
   },
   {
-    "title": "What Do You Want to Know About Vaccines?",
-    "link": "https://www.nytimes.com/2025/07/14/well/vaccines-health-questions.html",
-    "summary": "The Times wants to hear from you."
-  },
-  {
     "title": "Nine People Killed in Fire at Massachusetts Assisted Living Facility",
     "link": "https://www.nytimes.com/2025/07/14/us/fire-gabriel-house-fall-river-massachusetts.html",
     "summary": "The fire broke out on Sunday in the city of Fall River, a state official said. More than 30 residents were taken to the hospital."
   },
   {
-    "title": "It’s Paradise Lost as Climate Change Remakes Europe’s Summers",
-    "link": "https://www.nytimes.com/2025/07/14/world/europe/spain-italy-greece-heat.html",
-    "summary": "In peak vacation season, many of the continent’s most desirable getaways are becoming places to get away from."
+    "title": "How Long Can China Keep Propping Up Its Consumers With Subsidies?",
+    "link": "https://www.nytimes.com/2025/07/14/business/china-economy-consumer-subsidies.html",
+    "summary": "Shoppers are taking advantage of a $42 billion government trade-in program aimed at boosting spending. But in recent weeks, some cities have started to cut back on the subsidies."
+  },
+  {
+    "title": "Scotland’s Unreliable Ferries Leave People on Islands in Outer Hebrides Cut Off",
+    "link": "https://www.nytimes.com/2025/07/14/world/europe/scotland-islands-ferry-fiasco.html",
+    "summary": "With aging ferries delayed sometimes for days, life goes haywire on an island in the Outer Hebrides."
   },
   {
     "title": "Tesla Faces First Jury Trial Tied to Its Autopilot System",

@@ -1,23 +1,8 @@
 [
   {
-    "title": "After a Chaotic Start, a U.S. Attorney’s Time May Be Running Out",
-    "link": "https://www.nytimes.com/2025/07/20/nyregion/alina-habba-us-attorney-new-jersey.html",
-    "summary": "Alina Habba, President Trump’s choice to run the U.S. attorney’s office in New Jersey, has pursued investigations against Democrats. Her tenure has damaged morale inside the office."
-  },
-  {
-    "title": "A Kite Surfer, Navy SEAL and Makeup Artist: Freed in a U.S.-Venezuela Swap",
-    "link": "https://www.nytimes.com/2025/07/19/world/americas/venezuela-us-prisoner-swap-families.html",
-    "summary": "Over 260 people were released from prisons in El Salvador and Venezuela. Now they face the challenge of coming home."
-  },
-  {
-    "title": "Number of Missing in Kerr County, Texas, After Floods Drops to 3",
-    "link": "https://www.nytimes.com/2025/07/19/us/texas-floods-kerr-county-missing.html",
-    "summary": "The new figure was a significant decline from 97 just days ago. The death toll in the county remained the same, and officials said many of the missing were reported safe."
-  },
-  {
-    "title": "Heavy Rains in Washington Area Flood Roads and Prompt Water Rescues",
-    "link": "https://www.nytimes.com/2025/07/19/us/maryland-washington-dc-flooding.html",
-    "summary": "More than five inches fell in some suburbs of the capital. The authorities in Maryland rescued dozens of people, including some who were stranded in their cars."
+    "title": "Dozens Are Killed at Aid Site Near Border, Gaza Health Officials Say",
+    "link": "https://www.nytimes.com/2025/07/20/world/middleeast/israel-gaza-military-evacuation.html",
+    "summary": "Thousands of Palestinians had gathered to try to get aid from U.N. trucks entering the territory."
   },
   {
     "title": "Inside the Long Friendship Between Trump and Epstein",
@@ -30,26 +15,6 @@
     "summary": "Here’s what to know about the disturbing facts and unsubstantiated suspicions that make Jeffrey Epstein, a registered sex offender, a politically potent obsession."
   },
   {
-    "title": "Popular Podcasts Like Joe Rogan and Theo Von Are All Video Now. Who Is Watching?",
-    "link": "https://www.nytimes.com/2025/07/20/style/podcast-video-audience.html",
-    "summary": "An audio-only medium spawned a giant industry that is now largely focused on video."
-  },
-  {
-    "title": "What Would a Real Friendship With A.I. Look Like? Maybe Like Hers.",
-    "link": "https://www.nytimes.com/2025/07/20/magazine/ai-chatbot-friendship-character.html",
-    "summary": "Chatbots can get scary if you suspend your disbelief. But MJ Cocking didn’t — and wound up in a relationship that was strangely, helpfully real."
-  },
-  {
-    "title": "Israel Issues Evacuation Order for New Area in Gaza",
-    "link": "https://www.nytimes.com/2025/07/20/world/middleeast/israel-gaza-military-evacuation.html",
-    "summary": "The military told Palestinians to leave an area where many have sought refuge during the 21-month war and warned that it may expand operations."
-  },
-  {
-    "title": "Inside the Reindustrialize Summit and Its Push to Revive U.S. Manufacturing",
-    "link": "https://www.nytimes.com/2025/07/20/us/manufacturing-tech-trump-reindustrialize.html",
-    "summary": "Trump cabinet officials mingled with tech investors and manufacturers in an effort to supercharge factories."
-  },
-  {
     "title": "As Trump Courts a More Assertive Beijing, China Hawks Are Losing Out",
     "link": "https://www.nytimes.com/2025/07/20/us/politics/trump-china-technology.html",
     "summary": "The Trump administration has dialed back aggressive measures against China and reversed its position on technology controls as the president angles for a Chinese trip later this year."
@@ -57,12 +22,37 @@
   {
     "title": "China Exit Ban on Wells Fargo Executive Stokes Foreign Business Anxiety",
     "link": "https://www.nytimes.com/2025/07/20/business/china-exit-ban-business-anxiety.html",
-    "summary": "The case comes around the same time a Japanese pharmaceutical executive was imprisoned, adding to growing unease even as Beijing tries to court overseas investors."
+    "summary": "A Wells Fargo banker and a U.S. government employee were blocked from leaving and a Japanese pharmaceutical executive was imprisoned, even as Beijing tries to court overseas investors."
   },
   {
-    "title": "Mamdani Won Over N.Y.C. Democratic Voters. Can He Charm Washington?",
-    "link": "https://www.nytimes.com/2025/07/20/nyregion/mamdani-democratic-party.html",
-    "summary": "National Democrats are grappling with how much to embrace Assemblyman Zohran Mamdani, a leftist who has become the party’s standard-bearer in America’s largest city."
+    "title": "Inside the Reindustrialize Summit and Its Push to Revive U.S. Manufacturing",
+    "link": "https://www.nytimes.com/2025/07/20/us/manufacturing-tech-trump-reindustrialize.html",
+    "summary": "Trump cabinet officials mingled with tech investors and manufacturers in an effort to supercharge factories."
+  },
+  {
+    "title": "What Would a Real Friendship With A.I. Look Like? Maybe Like Hers.",
+    "link": "https://www.nytimes.com/2025/07/20/magazine/ai-chatbot-friendship-character.html",
+    "summary": "Chatbots can get scary if you suspend your disbelief. But MJ Cocking didn’t — and wound up in a relationship that was strangely, helpfully real."
+  },
+  {
+    "title": "After a Chaotic Start, a U.S. Attorney’s Time May Be Running Out",
+    "link": "https://www.nytimes.com/2025/07/20/nyregion/alina-habba-us-attorney-new-jersey.html",
+    "summary": "Alina Habba, President Trump’s choice to run the U.S. attorney’s office in New Jersey, has pursued investigations against Democrats. Her tenure has damaged morale inside the office."
+  },
+  {
+    "title": "Justin Fulcher, a Top Aide to Pete Hegseth, Leaves the Pentagon",
+    "link": "https://www.nytimes.com/2025/07/20/us/politics/hegseth-aide-resigns-pentagon-justin-fulcher.html",
+    "summary": "Justin Fulcher, an adviser to Defense Secretary Pete Hegseth, said in a statement that he had planned to work in the federal government for only six months."
+  },
+  {
+    "title": "Calls for Japan’s Leader to Resign as His Party Faces Election Defeat",
+    "link": "https://www.nytimes.com/2025/07/20/world/asia/japan-parliamentary-elections-exit-polls.html",
+    "summary": "Exit polls suggest a major loss for the Liberal Democratic Party in parliamentary elections, but Prime Minister Shigeru Ishiba is vowing to stay on."
+  },
+  {
+    "title": "Maddie, a Coonhound Who Awed Instagram by Balancing on Things, Dies at 14",
+    "link": "https://www.nytimes.com/2025/07/20/style/maddie-on-things-dog-dead.html",
+    "summary": "In thousands of photos, Maddie stood tall and seemingly unbothered atop fences, cars, road signs and tires, garnering 1.2 million Instagram followers along the way."
   },
   {
     "title": "​A Trump-Themed Beach House vs. ‘the Hamptons of the South’",
@@ -70,9 +60,9 @@
     "summary": "Local officials spent years trying to force Marvin Peavy to remove the giant pro-Trump banners from his home in the Florida Panhandle. This summer, Mr. Peavy is basking in victory."
   },
   {
-    "title": "Should Food Stamps Pay for Soda?",
-    "link": "https://www.nytimes.com/2025/07/19/upshot/soda-food-stamps-snap.html",
-    "summary": "Colorado and Texas are among the states aiming to change what food and drink can be bought with SNAP benefits."
+    "title": "Popular Podcasts Like Joe Rogan and Theo Von Are All Video Now. Who Is Watching?",
+    "link": "https://www.nytimes.com/2025/07/20/style/podcast-video-audience.html",
+    "summary": "An audio-only medium spawned a giant industry that is now largely focused on video."
   },
   {
     "title": "Why American Jews No Longer Understand One Another",
@@ -80,23 +70,28 @@
     "summary": "The consensus that held them together for generations is breaking down."
   },
   {
-    "title": "I Teach Creative Writing. This Is What A.I. Is Doing to Students.",
-    "link": "https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html",
-    "summary": "We need to reckon with what ChatGPT is doing to the classroom and to human expression."
+    "title": "Sound and Vision",
+    "link": "https://www.nytimes.com/2025/07/20/briefing/video-podcasts-popularity.html",
+    "summary": "We take a look at the rise of video podcasts."
   },
   {
-    "title": "Investigators in L.A. Explosion Examine Condo for Link to Explosives",
-    "link": "https://www.nytimes.com/2025/07/19/us/los-angeles-explosion-santa-monica-devices.html",
-    "summary": "Officials were looking into whether the explosion, which killed three sheriff’s deputies, was caused by devices seized from a condo in Santa Monica a day before the blast."
+    "title": "Mamdani Won Over N.Y.C. Democratic Voters. Can He Charm Washington?",
+    "link": "https://www.nytimes.com/2025/07/20/nyregion/mamdani-democratic-party.html",
+    "summary": "National Democrats are grappling with how much to embrace Assemblyman Zohran Mamdani, a leftist who has become the party’s standard-bearer in America’s largest city."
   },
   {
-    "title": "The Pelicot Trial Returns, This Time to the Stage",
-    "link": "https://www.nytimes.com/2025/07/19/pelicot-trial-avignon-play.html",
-    "summary": "Many of those who attended the trial returned to see a new play based on the case of Gisèle Pelicot, who confronted her ex-husband and dozens of men accused of raping her."
+    "title": "Who Is Behind a $5 Billion Development in Atlanta? Yup, a Sports Team.",
+    "link": "https://www.nytimes.com/2025/07/20/sports/football/pro-sports-teams-real-estate-development.html",
+    "summary": "The number of developments led by professional sports teams has accelerated in recent years, as the price of teams has skyrocketed."
   },
   {
-    "title": "The K-Pop Band Big Ocean Is Making Waves With Sign Language",
-    "link": "https://www.nytimes.com/2025/07/20/world/asia/k-pop-sign-language.html",
-    "summary": "Big Ocean, a boy band whose members are deaf or hard of hearing, has found success with a mix of singing and signing."
+    "title": "Number of Missing in Kerr County, Texas, After Floods Drops to 3",
+    "link": "https://www.nytimes.com/2025/07/19/us/texas-floods-kerr-county-missing.html",
+    "summary": "The new figure was a significant decline from 97 just days ago. The death toll in the county remained the same, and officials said many of the missing were reported safe."
+  },
+  {
+    "title": "Even as Air-Raid Sirens Blare, Ukrainians Wait for the Light to Change",
+    "link": "https://www.nytimes.com/2025/07/20/world/europe/ukraine-pedestrians-traffic-lights.html",
+    "summary": "Anyone new to Ukraine may quickly notice the disconnect between the front line and much of daily life farther away, including the patient behavior of pedestrians waiting to cross the street."
   }
 ]

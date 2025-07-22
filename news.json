@@ -1,5 +1,10 @@
 [
   {
+    "title": "Iran’s Leaders Turn to a New Brand of Nationalism After Israeli and U.S. Attacks",
+    "link": "https://www.nytimes.com/2025/07/22/world/middleeast/iran-nationalism-israel-us-attacks.html",
+    "summary": "The theocratic government is repurposing folklore and patriotic anthems as it seeks to channel national outrage into increasing its support at home."
+  },
+  {
     "title": "Conviction Reversed in Etan Patz Case That Put Focus on Missing Children",
     "link": "https://www.nytimes.com/2025/07/21/nyregion/etan-patz-conviction-overturned.html",
     "summary": "Pedro Hernandez, a former bodega stock clerk, had confessed years after the 1979 crime to luring Etan Patz, 6, into a basement in SoHo. The case shook New York City."
@@ -8,6 +13,21 @@
     "title": "A Timeline of the Etan Patz Case",
     "link": "https://www.nytimes.com/2025/07/21/nyregion/etan-patz-timeline.html",
     "summary": "It has been 46 years since 6-year-old Etan Patz disappeared in SoHo. After a lawsuit and two criminal trials, questions remain about how he died."
+  },
+  {
+    "title": "Trump Releases Thousands of Martin Luther King Jr. Files",
+    "link": "https://www.nytimes.com/2025/07/21/us/politics/mlk-jr-files-trump.html",
+    "summary": "Historians said they saw little of note in the assassination records that President Trump disclosed despite opposition from most of Dr. King’s family."
+  },
+  {
+    "title": "Judge Sentences Ex-Officer in Breonna Taylor Raid to Nearly 3 Years in Prison",
+    "link": "https://www.nytimes.com/2025/07/21/us/politics/breonna-taylor-brett-hankison-prison.html",
+    "summary": "The sentence was a sharp rebuke to the Trump administration, which had requested he serve only one day behind bars."
+  },
+  {
+    "title": "TV Show Helps Identify Mother and Child Found Dead in Rome Park, and a Suspect",
+    "link": "https://www.nytimes.com/2025/07/22/world/europe/italy-mother-child-dead-police.html",
+    "summary": "When two bodies were found in a popular Roman park, Italians wanted answers. A TV program specializing in missing people helped identify them, and a suspect."
   },
   {
     "title": "Johnson Says He Won’t Hold Vote Calling on Trump to Release Epstein Files This Summer",
@@ -30,29 +50,14 @@
     "summary": "How the president is using the levers of government power against the news industry."
   },
   {
-    "title": "Trump Administration Releases Documents on Martin Luther King Jr.",
-    "link": "https://www.nytimes.com/2025/07/21/us/politics/mlk-jr-files-trump.html",
-    "summary": "President Trump ordered the online disclosure of the files despite opposition from most of Dr. King’s family."
-  },
-  {
-    "title": "Judge Sentences Ex-Officer in Breonna Taylor Raid to Nearly 3 Years in Prison",
-    "link": "https://www.nytimes.com/2025/07/21/us/politics/breonna-taylor-brett-hankison-prison.html",
-    "summary": "The sentence was a sharp rebuke to the Trump administration, which had requested he serve only one day behind bars."
-  },
-  {
-    "title": "The Trouble With Wanting Men",
-    "link": "https://www.nytimes.com/2025/07/21/magazine/men-heterofatalism-dating-relationships.html",
-    "summary": "Women are so fed up with dating men that the phenomenon even has a name: heterofatalism. So what do we do with our desire?"
-  },
-  {
     "title": "Malcolm-Jamal Warner, Theo Huxtable on ‘The Cosby Show,’ Dead at 54 After Drowning",
     "link": "https://www.nytimes.com/2025/07/21/arts/television/malcolm-jamal-warner-dead.html",
     "summary": "Mr. Warner, who played the only son of Bill Cosby’s character on the beloved 1980s sitcom, drowned in Costa Rica."
   },
   {
-    "title": "Judge Challenges Trump Administration in Hearing on Harvard Funding",
-    "link": "https://www.nytimes.com/2025/07/21/us/trump-administration-harvard-hearing.html",
-    "summary": "In a courtroom in Boston on Monday, a lawyer for Harvard called the Trump administration’s case against the school “cooked up.”"
+    "title": "China’s Problem With Competition: There’s Too Much of It",
+    "link": "https://www.nytimes.com/2025/07/22/business/china-involution-competition-deflation.html",
+    "summary": "The Chinese government is taking steps to rein in what it calls “involution,” or excessive competition that is hurting local companies and fueling the country’s deflationary spiral."
   },
   {
     "title": "Big Law Firms Bowed to Trump. A Corps of ‘Little Guys’ Jumped in to Fight Him.",
@@ -60,14 +65,14 @@
     "summary": "Solo practitioners, former government litigators and small law offices stepped up to help challenge the Trump administration’s agenda in court after the White House sought to punish many big firms."
   },
   {
+    "title": "States Sue Over Unauthorized Immigrants’ Access to Federal Programs",
+    "link": "https://www.nytimes.com/2025/07/21/us/politics/lawsuit-trump-immigrant-safety-net.html",
+    "summary": "The suit comes after several federal agencies said they would no longer allow unauthorized immigrants to benefit from more than a dozen health and education programs."
+  },
+  {
     "title": "Italian Americans, for and Against Mamdani, Square Off in New York",
     "link": "https://www.nytimes.com/2025/07/21/nyregion/mamdani-protest-italian.html",
     "summary": "Feelings ran high at a colorful protest outside the Assembly district office of Zohran Mamdani, the Democratic mayoral nominee."
-  },
-  {
-    "title": "Texas Republicans Look to Jam Democrats With Vote on Redistricting",
-    "link": "https://www.nytimes.com/2025/07/21/us/politics/texas-redistricting-floods.html",
-    "summary": "By taking up new congressional maps pushed by President Trump first, Republicans hope to discourage Democrats from walking out of a special session before they vote on flood relief."
   },
   {
     "title": "Hunter Biden Trashes Democrats, Including George Clooney, in Podcast Appearances",
@@ -75,19 +80,14 @@
     "summary": "In a profane tirade, the former president’s son sought to settle scores with Anita Dunn, David Axelrod, James Carville and George Clooney. Among others."
   },
   {
-    "title": "Minnesota Lawmaker Convicted of Burglary Plans to Resign, Ending Democratic Majority",
+    "title": "Minnesota Lawmaker Convicted of Burglary Plans to Resign",
     "link": "https://www.nytimes.com/2025/07/21/us/nicole-mitchell-minnesota-senate-democrats.html",
-    "summary": "The planned resignation of State Senator Nicole Mitchell was announced on the same day that a Republican senator died."
+    "summary": "Democrats would have lost their majority with the senator’s resignation, but a Republican’s death left the balance of power in St. Paul unchanged."
   },
   {
-    "title": "Miami Can’t Delay Its Election by a Year, Judge Rules",
-    "link": "https://www.nytimes.com/2025/07/21/us/miami-election-constitution-violation.html",
-    "summary": "City commissioners said the move was meant to save money and improve turnout. Critics noted that it would give some city officials an extra year in office."
-  },
-  {
-    "title": "Climate Change Is Making Fire Weather Worse for World’s Forests",
-    "link": "https://www.nytimes.com/2025/07/21/climate/extreme-fire-weather-forests.html",
-    "summary": "Forest fires are on the rise globally. An increase in severe fire weather is largely responsible."
+    "title": "Texas Republicans Look to Jam Democrats With Vote on Redistricting",
+    "link": "https://www.nytimes.com/2025/07/21/us/politics/texas-redistricting-floods.html",
+    "summary": "By taking up new congressional maps pushed by President Trump first, Republicans hope to discourage Democrats from walking out of a special session before they vote on flood relief."
   },
   {
     "title": "Hegseth Attends Meeting on Ukraine After Skipping Last Session",
@@ -100,9 +100,9 @@
     "summary": "Maggie Kang, a director of the hit along with Chris Appelhans, was “just trying to make something that I wanted to see: a movie that celebrated Korean culture.”"
   },
   {
-    "title": "Fear Comes to America",
-    "link": "https://www.nytimes.com/2025/07/21/opinion/trump-fear-pentagon-harvard.html",
-    "summary": "President Trump’s administration has created a climate of menace and trepidation to try to stifle dissent."
+    "title": "The Perverse Economics of Assisted Suicide",
+    "link": "https://www.nytimes.com/2025/07/22/opinion/assisted-suicide-economics.html",
+    "summary": "In an aging world, assisted suicide may look to governments like a cost-saving measure."
   },
   {
     "title": "The Coldplay Concert Shame Is Something to Celebrate",
@@ -110,28 +110,23 @@
     "summary": "In the age of Trump, it’s a strange relief to see two fellow citizens seem to realize that they have done something reckless and inappropriate."
   },
   {
-    "title": "A Judge Questioned Trump’s Harvard Cuts",
-    "link": "https://www.nytimes.com/2025/07/21/briefing/trump-harvard-japan-election-medicaid.html",
-    "summary": "Also, Japan’s anti-establishment parties are resonating. Here’s the latest at the end of Monday."
-  },
-  {
-    "title": "F.D.A. Panel Debates ‘Black Box’ Warning for Antidepressants in Pregnancy",
-    "link": "https://www.nytimes.com/2025/07/21/health/antidepressants-ssri-pregnancy-fda.html",
-    "summary": "An agency-sponsored forum included critics of psychiatry who believe the drugs can harm a developing fetus. Other experts said antidepressants were safe and necessary."
-  },
-  {
-    "title": "Brooklyn Activist Charged With Arson in Torching of 10 Police Vehicles",
-    "link": "https://www.nytimes.com/2025/07/21/nyregion/arson-nypd-vehicles-brooklyn.html",
-    "summary": "Jakhi McCray, 21, faces federal arson charges in connection with the burning of police vehicles in a parking lot last month."
-  },
-  {
-    "title": "Missouri Man Dies in Dam’s Hydraulics While Trying to Save Trapped Boater",
-    "link": "https://www.nytimes.com/2025/07/21/us/missouri-man-dam-dead.html",
-    "summary": "The man jumped into the water to help a boater who had become trapped in the powerful, washing machine-like waters at the base of the dam."
+    "title": "2 Dead and 1 Missing After Plunging From Oregon Waterfall, Officials Say",
+    "link": "https://www.nytimes.com/2025/07/21/us/oregon-waterfall-deaths.html",
+    "summary": "Three other people were rescued on Saturday when a group of people strayed into an unsafe section of the Deschutes River near Bend, Ore., the authorities said."
   },
   {
     "title": "5 Million Pools Are Recalled After at Least 9 Children Drown",
     "link": "https://www.nytimes.com/2025/07/21/business/pool-recall-drowning-deaths-bestway-intex-polygroup.html",
     "summary": "Children have been able to climb into the aboveground pools by using a compression strap on the outside as a foothold, the U.S. Consumer Product Safety Commission said."
+  },
+  {
+    "title": "When Betelgeuse Explodes, It’s Going to Take Out Another Star",
+    "link": "https://www.nytimes.com/2025/07/21/science/betelgeuse-star-companion.html",
+    "summary": "The tempestuous star in Orion’s shoulder has a buddy, and neither of their futures look bright."
+  },
+  {
+    "title": "Sharing a Bed With Your Kid? It’s Totally Normal in Asia.",
+    "link": "https://www.nytimes.com/2025/07/22/world/asia/bed-sharing-parents-children-sleep-asia.html",
+    "summary": "Bed sharing tends to be unpopular and contentious in the United States. But in many Asian countries, the question is often not whether to do it, but when to stop."
   }
 ]

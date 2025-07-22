@@ -1,53 +1,43 @@
 [
   {
-    "title": "2 Deadly Shootings in 2 Days Highlight Israel’s Failure to Address Gaza’s Power Vacuum",
-    "link": "https://www.nytimes.com/2025/07/21/world/middleeast/shootings-aid-gaza-analysis.html",
-    "summary": "Over the weekend, Israeli soldiers shot Palestinians near an Israeli-backed aid site and a U.N. convoy. Both episodes pointed to Israel’s refusal to allow new governance structures to emerge."
-  },
-  {
-    "title": "Israel Refuses to Renew Visa of Top UN Humanitarian Official for Gaza",
-    "link": "https://www.nytimes.com/2025/07/21/world/middleeast/israel-visa-un-gaza.html",
-    "summary": "The head of the agency that helps oversee international aid deliveries to the territory had criticized the impact of Israeli policy on civilians."
-  },
-  {
-    "title": "Syrian Government Evacuates Bedouin Families After Deadly Clashes",
-    "link": "https://www.nytimes.com/2025/07/21/world/middleeast/syria-clashes-druse-bedouin-evacuations.html",
-    "summary": "The violence in Sweida Province between groups from Bedouin tribes and the Druse minority renewed fears of sectarian conflict and drew Israeli attacks before a cease-fire was announced Saturday."
-  },
-  {
-    "title": "How Trump Deflected MAGA’s Wrath Over Epstein, at Least for Now",
-    "link": "https://www.nytimes.com/2025/07/21/us/politics/trump-epstein-maga-base.html",
-    "summary": "By tapping into other grievances, President Trump managed to turn one of the most fractious moments for his base into a unifying one."
-  },
-  {
-    "title": "An Accuser’s Story Suggests How Trump Might Appear in the Epstein Files",
-    "link": "https://www.nytimes.com/2025/07/20/us/politics/epstein-employee-trump-investigation.html",
-    "summary": "A former Jeffrey Epstein employee said that she told the F.B.I. in 1996 and 2006 about what she considered a troubling encounter with Donald J. Trump."
-  },
-  {
-    "title": "Conviction of Man in Killing of Etan Patz Is Overturned",
+    "title": "Conviction Reversed in Etan Patz Case That Put Focus on Missing Children",
     "link": "https://www.nytimes.com/2025/07/21/nyregion/etan-patz-conviction-overturned.html",
     "summary": "Pedro Hernandez, a former bodega stock clerk, had confessed years after the 1979 crime to luring Etan Patz, 6, into a basement in SoHo. The case shook New York City."
   },
   {
-    "title": "Pedro Hernandez Found Guilty of Kidnapping and Killing Etan Patz in 1979",
-    "link": "https://www.nytimes.com/2017/02/14/nyregion/etan-patz-pedro-hernandez-guilty.html",
-    "summary": "The verdict is a long-awaited step in solving the mystery that bedeviled investigators and forever changed the way parents watched over their children."
+    "title": "A Timeline of the Etan Patz Case",
+    "link": "https://www.nytimes.com/2025/07/21/nyregion/etan-patz-timeline.html",
+    "summary": "It has been 46 years since 6-year-old Etan Patz disappeared in SoHo. After a lawsuit and two criminal trials, questions remain about how he died."
   },
   {
-    "title": "Judge Challenges Trump Administration in Hearing on Harvard Funding",
-    "link": "https://www.nytimes.com/2025/07/21/us/trump-administration-harvard-hearing.html",
-    "summary": "In a courtroom in Boston on Monday, a lawyer for Harvard called the Trump administration’s case against the school “cooked up.”"
+    "title": "Johnson Says He Won’t Hold Vote Calling on Trump to Release Epstein Files This Summer",
+    "link": "https://www.nytimes.com/2025/07/21/us/politics/mike-johnson-epstein-files-trump.html",
+    "summary": "The Republican speaker of the House had said last week that the government should release “everything” in the Jeffrey Epstein files, in a rare break with the president that turned out to be short-lived."
   },
   {
-    "title": "Disabled Americans Fear What Medicaid Cuts Could Do to Them",
-    "link": "https://www.nytimes.com/2025/07/21/well/medicaid-bill-disabled-americans.html",
-    "summary": "The White House says roughly $1 trillion in Medicaid cuts won’t limit home- and community-based care. Health care experts disagree."
+    "title": "Trump Talks About Anything but Epstein on His Social Media Account",
+    "link": "https://www.nytimes.com/2025/07/21/us/politics/trump-epstein-social-media.html",
+    "summary": "On Truth Social, the president railed against Democrats and shared a wacky video."
   },
   {
-    "title": "An Attack on the Medical Establishment Buried in an 1,800-Page Regulation",
-    "link": "https://www.nytimes.com/2025/07/21/upshot/primary-care-doctors-salaries.html",
-    "summary": "If approved, a new rule could end the entrenched pay advantages for specialists like surgeons over other doctors."
+    "title": "White House Bans Wall Street Journal From Press Pool on Trump’s Scotland Trip",
+    "link": "https://www.nytimes.com/2025/07/21/business/media/trump-scotland-wsj-press-pool.html",
+    "summary": "The president sued the publication last week, accusing it of defamation for an article about his ties to the disgraced former financier Jeffrey Epstein."
+  },
+  {
+    "title": "Trump Sharpens Attacks on a Favorite Foe: The News Media",
+    "link": "https://www.nytimes.com/2025/07/21/us/politics/trump-news-media.html",
+    "summary": "How the president is using the levers of government power against the news industry."
+  },
+  {
+    "title": "Trump Administration Releases Documents on Martin Luther King Jr.",
+    "link": "https://www.nytimes.com/2025/07/21/us/politics/mlk-jr-files-trump.html",
+    "summary": "President Trump ordered the online disclosure of the files despite opposition from most of Dr. King’s family."
+  },
+  {
+    "title": "Judge Sentences Ex-Officer in Breonna Taylor Raid to Nearly 3 Years in Prison",
+    "link": "https://www.nytimes.com/2025/07/21/us/politics/breonna-taylor-brett-hankison-prison.html",
+    "summary": "The sentence was a sharp rebuke to the Trump administration, which had requested he serve only one day behind bars."
   },
   {
     "title": "The Trouble With Wanting Men",
@@ -55,68 +45,93 @@
     "summary": "Women are so fed up with dating men that the phenomenon even has a name: heterofatalism. So what do we do with our desire?"
   },
   {
-    "title": "A Mill Town Lost Its Mill. What Is It Now?",
-    "link": "https://www.nytimes.com/2025/07/21/us/mill-town-canton-north-carolina.html",
-    "summary": "Locals in Canton, N.C., are trying to figure out what’s next after losing the thing that gave them an identity: their beloved, stinky paper mill."
+    "title": "Malcolm-Jamal Warner, Theo Huxtable on ‘The Cosby Show,’ Dead at 54 After Drowning",
+    "link": "https://www.nytimes.com/2025/07/21/arts/television/malcolm-jamal-warner-dead.html",
+    "summary": "Mr. Warner, who played the only son of Bill Cosby’s character on the beloved 1980s sitcom, drowned in Costa Rica."
   },
   {
-    "title": "In Japan, Anti-Establishment Parties Resonate With Young Voters",
-    "link": "https://www.nytimes.com/2025/07/21/world/asia/japan-election-analysis.html",
-    "summary": "The success of new political parties focused on wages, immigration and an unresponsive political elite highlights the frustrations of many working-age people in Japan."
+    "title": "Judge Challenges Trump Administration in Hearing on Harvard Funding",
+    "link": "https://www.nytimes.com/2025/07/21/us/trump-administration-harvard-hearing.html",
+    "summary": "In a courtroom in Boston on Monday, a lawyer for Harvard called the Trump administration’s case against the school “cooked up.”"
   },
   {
-    "title": "How Did the Number of Missing After Texas Floods Drop So Drastically?",
-    "link": "https://www.nytimes.com/2025/07/20/us/texas-floods-missing.html",
-    "summary": "Last week, officials said 97 people were missing in Kerr County. Now, it’s down to three. The drop is substantial, but such wild fluctuations can happen after disasters."
+    "title": "Big Law Firms Bowed to Trump. A Corps of ‘Little Guys’ Jumped in to Fight Him.",
+    "link": "https://www.nytimes.com/2025/07/21/us/politics/trump-big-law-firms-fight.html",
+    "summary": "Solo practitioners, former government litigators and small law offices stepped up to help challenge the Trump administration’s agenda in court after the White House sought to punish many big firms."
   },
   {
-    "title": "Russia Launches Heavy Strikes Despite Trump Arms Pledge to Ukraine",
-    "link": "https://www.nytimes.com/2025/07/21/world/europe/russia-ukraine-missile-drone-strikes.html",
-    "summary": "The barrage of exploding drones and missiles appeared to be the most intense attack since President Trump announced a plan to get more weapons for Kyiv."
+    "title": "Italian Americans, for and Against Mamdani, Square Off in New York",
+    "link": "https://www.nytimes.com/2025/07/21/nyregion/mamdani-protest-italian.html",
+    "summary": "Feelings ran high at a colorful protest outside the Assembly district office of Zohran Mamdani, the Democratic mayoral nominee."
   },
   {
-    "title": "Ukraine Ups Its Arms Production, Asking Allies to Pay for It",
-    "link": "https://www.nytimes.com/2025/07/21/world/europe/ukraine-weapons-industry.html",
-    "summary": "There is a growing drive to make the country more self-reliant in weapons manufacturing as it faces Russia’s superior firepower. That requires a lot of money from Western backers."
+    "title": "Texas Republicans Look to Jam Democrats With Vote on Redistricting",
+    "link": "https://www.nytimes.com/2025/07/21/us/politics/texas-redistricting-floods.html",
+    "summary": "By taking up new congressional maps pushed by President Trump first, Republicans hope to discourage Democrats from walking out of a special session before they vote on flood relief."
   },
   {
-    "title": "Bangladesh Air Force Jet Crashes Into School, Killing at Least 20",
-    "link": "https://www.nytimes.com/2025/07/21/world/asia/bangladesh-military-plane-crash.html",
-    "summary": "More than 170 people were injured after the training aircraft crashed, military officials said. The country’s interim leader called the loss “irreparable.”"
-  },
-  {
-    "title": "Opinion: The Path to Peace in the Middle East (and a Nobel Prize for Trump)",
-    "link": "https://www.nytimes.com/2025/07/21/opinion/iran-israel-trump-peace.html",
-    "summary": "A possible path to peace in the Middle East."
-  },
-  {
-    "title": "Regret, Thy Name Is Hawley. And Murkowski. And Musk.",
-    "link": "https://www.nytimes.com/2025/07/21/opinion/trump-hawley-murkowski-musk-regret.html",
-    "summary": "The price of pleasing Trump grows steeper."
-  },
-  {
-    "title": "A.I. vs. A.I.",
-    "link": "https://www.nytimes.com/2025/07/21/briefing/ai-vs-ai.html",
-    "summary": "We examine how the technology is being used against itself."
-  },
-  {
-    "title": "Did Jeju Air Pilots Shut Down Wrong Engine Before Deadly Crash?",
-    "link": "https://www.nytimes.com/2025/07/21/world/asia/jeju-air-crash-engine-report.html",
-    "summary": "Investigators found the Jeju Air flight crash-landed with only its badly damaged right engine on, but experts warned against drawing early conclusions."
+    "title": "Hunter Biden Trashes Democrats, Including George Clooney, in Podcast Appearances",
+    "link": "https://www.nytimes.com/2025/07/21/us/politics/hunter-biden-podcast.html",
+    "summary": "In a profane tirade, the former president’s son sought to settle scores with Anita Dunn, David Axelrod, James Carville and George Clooney. Among others."
   },
   {
     "title": "Minnesota Lawmaker Convicted of Burglary Plans to Resign, Ending Democratic Majority",
     "link": "https://www.nytimes.com/2025/07/21/us/nicole-mitchell-minnesota-senate-democrats.html",
-    "summary": "The resignation of State Senator Nicole Mitchell will leave the State Senate with even numbers of Democrats and Republicans. A special election will break the tie."
+    "summary": "The planned resignation of State Senator Nicole Mitchell was announced on the same day that a Republican senator died."
   },
   {
-    "title": "SkyWest Flight Aborts Landing to Avoid Midair Collision Near Military Base",
-    "link": "https://www.nytimes.com/2025/07/21/us/skywest-flight-collision-b52-north-dakota.html",
-    "summary": "After the passenger jet landed safely in North Dakota, the pilot told passengers that he had made an “aggressive maneuver” to avoid hitting a military aircraft."
+    "title": "Miami Can’t Delay Its Election by a Year, Judge Rules",
+    "link": "https://www.nytimes.com/2025/07/21/us/miami-election-constitution-violation.html",
+    "summary": "City commissioners said the move was meant to save money and improve turnout. Critics noted that it would give some city officials an extra year in office."
   },
   {
-    "title": "Chinese Car Giants Rush Into Brazil With Dreams of Dominating a Continent",
-    "link": "https://www.nytimes.com/2025/07/21/climate/china-brazil-electric-vehicles.html",
-    "summary": "As the likes of Ford and Mercedes retreat, Great Wall Motor and BYD are building factories and bringing affordable EVs and hybrids to one of the world’s biggest markets."
+    "title": "Climate Change Is Making Fire Weather Worse for World’s Forests",
+    "link": "https://www.nytimes.com/2025/07/21/climate/extreme-fire-weather-forests.html",
+    "summary": "Forest fires are on the rise globally. An increase in severe fire weather is largely responsible."
+  },
+  {
+    "title": "Hegseth Attends Meeting on Ukraine After Skipping Last Session",
+    "link": "https://www.nytimes.com/2025/07/21/us/politics/ukraine-trump-hegseth-weapons.html",
+    "summary": "The defense secretary’s attendance may signal a turnaround as President Trump’s tone shifts on his willingness to support Kyiv against Moscow."
+  },
+  {
+    "title": "‘KPop Demon Hunters’ Directors Discuss the Film’s Rise and Chart-Topping Soundtrack",
+    "link": "https://www.nytimes.com/2025/07/21/movies/kpop-demon-hunters-directors.html",
+    "summary": "Maggie Kang, a director of the hit along with Chris Appelhans, was “just trying to make something that I wanted to see: a movie that celebrated Korean culture.”"
+  },
+  {
+    "title": "Fear Comes to America",
+    "link": "https://www.nytimes.com/2025/07/21/opinion/trump-fear-pentagon-harvard.html",
+    "summary": "President Trump’s administration has created a climate of menace and trepidation to try to stifle dissent."
+  },
+  {
+    "title": "The Coldplay Concert Shame Is Something to Celebrate",
+    "link": "https://www.nytimes.com/2025/07/21/opinion/coldplay-affair-trump.html",
+    "summary": "In the age of Trump, it’s a strange relief to see two fellow citizens seem to realize that they have done something reckless and inappropriate."
+  },
+  {
+    "title": "A Judge Questioned Trump’s Harvard Cuts",
+    "link": "https://www.nytimes.com/2025/07/21/briefing/trump-harvard-japan-election-medicaid.html",
+    "summary": "Also, Japan’s anti-establishment parties are resonating. Here’s the latest at the end of Monday."
+  },
+  {
+    "title": "F.D.A. Panel Debates ‘Black Box’ Warning for Antidepressants in Pregnancy",
+    "link": "https://www.nytimes.com/2025/07/21/health/antidepressants-ssri-pregnancy-fda.html",
+    "summary": "An agency-sponsored forum included critics of psychiatry who believe the drugs can harm a developing fetus. Other experts said antidepressants were safe and necessary."
+  },
+  {
+    "title": "Brooklyn Activist Charged With Arson in Torching of 10 Police Vehicles",
+    "link": "https://www.nytimes.com/2025/07/21/nyregion/arson-nypd-vehicles-brooklyn.html",
+    "summary": "Jakhi McCray, 21, faces federal arson charges in connection with the burning of police vehicles in a parking lot last month."
+  },
+  {
+    "title": "Missouri Man Dies in Dam’s Hydraulics While Trying to Save Trapped Boater",
+    "link": "https://www.nytimes.com/2025/07/21/us/missouri-man-dam-dead.html",
+    "summary": "The man jumped into the water to help a boater who had become trapped in the powerful, washing machine-like waters at the base of the dam."
+  },
+  {
+    "title": "5 Million Pools Are Recalled After at Least 9 Children Drown",
+    "link": "https://www.nytimes.com/2025/07/21/business/pool-recall-drowning-deaths-bestway-intex-polygroup.html",
+    "summary": "Children have been able to climb into the aboveground pools by using a compression strap on the outside as a foothold, the U.S. Consumer Product Safety Commission said."
   }
 ]

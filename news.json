@@ -1,5 +1,15 @@
 [
   {
+    "title": "For Trump, E.U. Trade Deal was Badly Needed",
+    "link": "https://www.nytimes.com/2025/07/27/us/politics/trump-europe-trade-deal.html",
+    "summary": "After a lot of big talk on trade, the Trump administration needed a big win. It appears to have just gotten one."
+  },
+  {
+    "title": "A Timeline of Trump’s Tariff Fight With Canada, Mexico, China and the E.U.",
+    "link": "https://www.nytimes.com/2025/03/13/business/economy/trump-tariff-timeline.html",
+    "summary": "The president’s penchant for imposing and then suspending tariffs has shaken markets and confounded trading partners."
+  },
+  {
     "title": "No Meals, Fainting Nurses, Dwindling Baby Formula: Starvation Haunts Gaza Hospitals",
     "link": "https://www.nytimes.com/2025/07/27/world/middleeast/gaza-hunger-doctors-nurses.html",
     "summary": "After Israeli restrictions on aid, hunger has risen across Gaza. Doctors and nurses, struggling to find food themselves, lack the resources to stem the surge."
@@ -7,12 +17,12 @@
   {
     "title": "Israel Says It Has Paused Some Military Activity in Gaza as Anger Grows Over Hunger",
     "link": "https://www.nytimes.com/2025/07/27/world/middleeast/israel-gaza-aid-hunger.html",
-    "summary": "Operations in parts of the enclave were put on hold to allow more aid into the enclave, the Israeli military said. It was unclear if the decision would relieve the hunger crisis."
+    "summary": "Operations in parts of the enclave were put on hold to allow more aid. It was unclear if the move would relieve the hunger crisis, amid rising deaths from starvation."
   },
   {
-    "title": "Israel Intercepts Gaza-Bound Ship of Activists and Aid",
-    "link": "https://www.nytimes.com/2025/07/27/world/middleeast/israel-gaza-ship.html",
-    "summary": "It was at least the third vessel blocked this year while challenging Israel’s naval blockade and seeking to deliver supplies by sea to a population facing rising starvation."
+    "title": "News Organizations Urge Israel to Let Reporters and Aid Into Gaza",
+    "link": "https://www.nytimes.com/2025/07/27/world/middleeast/gaza-starvation-reporters-israel.html",
+    "summary": "Saying that journalists in the territory, like many Gazans, are facing starvation, the groups urged Israel to allow more food in."
   },
   {
     "title": "What Will It Cost to Renovate Trump’s ‘Free’ Air Force One? Don’t Ask.",
@@ -25,11 +35,6 @@
     "summary": "“I don’t know why it should be politically painful to be transparent,” Representative Thomas Massie, a Kentucky Republican, said on Sunday, referring to comments by Speaker Mike Johnson."
   },
   {
-    "title": "The Ripple Effects of an ICE Raid on a Nebraska Meatpacking Company",
-    "link": "https://www.nytimes.com/2025/07/27/us/ice-glenn-valley-foods.html",
-    "summary": "Glenn Valley Foods tried to verify every hire through a federal system. After a raid, the company is wondering how it can keep going."
-  },
-  {
     "title": "Alpha School, AI-Driven Education Founded in Austin, Is Coming to More Cities",
     "link": "https://www.nytimes.com/2025/07/27/us/politics/ai-alpha-school-austin-texas.html",
     "summary": "At Austin’s Alpha School, students spend just two hours a day on academics, led by artificial intelligence tools. New Alpha schools are set to open in about a dozen cities this fall."
@@ -40,17 +45,17 @@
     "summary": "The pandemic supercharged interest. Now, a cultural and political emphasis on women staying at home is continuing to fuel growth."
   },
   {
-    "title": "David Bars Have Had Breakout Success. Can the Protein Craze Last?",
-    "link": "https://www.nytimes.com/2025/07/27/business/david-protein-bars.html",
-    "summary": "The David bar’s breakout success is proof that, in our culture of optimization, one macronutrient is king. But can the protein craze last?"
+    "title": "Tom Lehrer, Musical Satirist With a Dark Streak, Dies at 97",
+    "link": "https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html",
+    "summary": "A mathematician by training, he acquired a devoted following with songs that set sardonic lyrics to music that was often maddeningly cheerful."
   },
   {
-    "title": "In Smithsonian Role, John Roberts Encounters History, Pandas and Trump",
-    "link": "https://www.nytimes.com/2025/07/27/arts/smithsonian-john-roberts-trump-supreme-court.html",
-    "summary": "Chief Justice John G. Roberts Jr., who serves as the institution’s chancellor, has always emphasized procedure and avoided politics. This moment could make that more difficult."
+    "title": "Suspect in Traverse City Walmart Stabbing Attack Faces Terrorism Charge",
+    "link": "https://www.nytimes.com/2025/07/27/us/walmart-stabbing-traverse-city-charges.html",
+    "summary": "The authorities on Sunday said that a motive for the attack, which left 11 people injured, remained unknown. Citizens, including one who was armed, helped to apprehend the suspect, officials said."
   },
   {
-    "title": "Thailand-Cambodia Fighting Forces Thousands to Flee",
+    "title": "With Bombs Whizzing in Air, Thousands Flee Thailand-Cambodia Border",
     "link": "https://www.nytimes.com/2025/07/27/world/asia/thailand-cambodia-border-conflict-evacuees.html",
     "summary": "The conflict is one of the deadliest clashes ever between the two countries. Thirty-four people have died, and over 165,000 have been displaced."
   },
@@ -65,14 +70,9 @@
     "summary": "Even people with employee-sponsored retirement plans still find it difficult to save for the future when faced with present-day desires."
   },
   {
-    "title": "A Boston Suburb Removed Italian Flag Colors From a Street. Residents Rebelled.",
-    "link": "https://www.nytimes.com/2025/07/27/us/italy-street-newton-massachusetts.html",
-    "summary": "Newton, Mass., replaced a street’s red, white and green centerline with standard yellow stripes, citing traffic safety concerns, weeks before an annual Italian American festival."
-  },
-  {
-    "title": "Tom Lehrer, Musical Satirist With a Dark Streak, Dies at 97",
-    "link": "https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html",
-    "summary": "A mathematician by training, he acquired a devoted following with songs that set sardonic lyrics to music that was often maddeningly cheerful."
+    "title": "England’s Lionesses Take ‘Football Home’ With Gripping Euro Win",
+    "link": "https://www.nytimes.com/2025/07/27/world/europe/england-women-soccer-championship.html",
+    "summary": "By edging out Spain in a penalty shootout in the European championship final, England’s women’s team cemented its position as the standard-bearer for English soccer."
   },
   {
     "title": "The Raw Power of Repentance",
@@ -80,23 +80,18 @@
     "summary": "“The Bear” asks the question, how do we live together when someone always seems to be going too far?"
   },
   {
-    "title": "The Protein Boom",
-    "link": "https://www.nytimes.com/2025/07/27/briefing/the-protein-boom.html",
-    "summary": "Protein is remaking the food economy. How much do you really need?"
+    "title": "The World Is Letting Gaza Starve",
+    "link": "https://www.nytimes.com/2025/07/24/opinion/gaza-hunger-children-rescue.html",
+    "summary": "Today, many children in Gaza are so hungry they may never recover, and our supplies are critically low."
   },
   {
-    "title": "11 People Injured in Stabbing at a Michigan Walmart, Officials Say",
-    "link": "https://www.nytimes.com/2025/07/26/us/stabbing-traverse-city-walmart.html",
-    "summary": "One person was in custody after what the authorities said was a random attack at a store near Traverse City, Mich."
+    "title": "Passengers Evacuate Smoky American Airlines Plane at Denver Airport",
+    "link": "https://www.nytimes.com/2025/07/27/us/american-airlines-denver-flight.html",
+    "summary": "A small fire in the brake system just ahead of the jet’s takeoff prompted the evacuation of 173 passengers and six crew members, the authorities said."
   },
   {
-    "title": "Raymond Saunders, Painter Who Rejected Racial Pigeonholes, Dies at 90",
-    "link": "https://www.nytimes.com/2025/07/27/arts/raymond-saunders-dead.html",
-    "summary": "Widely admired if long underrecognized for his collage-based art, he died only days after the closing of his first retrospective at a major museum, in his native Pittsburgh."
-  },
-  {
-    "title": "Smoke From Canadian Wildfires Wafts Over New York City",
-    "link": "https://www.nytimes.com/2025/07/27/nyregion/new-york-air-quality-canada-wildfires.html",
-    "summary": "Officials warned young children and those with respiratory illnesses to take precautions. For weeks, smoke from Canadian wildfires has been drifting across the border."
+    "title": "Joan Anderson, Unsung Heroine of Hula Hoop History, Dies at 101",
+    "link": "https://www.nytimes.com/2025/07/27/business/joan-anderson-dead.html",
+    "summary": "Because of a deal made on a handshake in a parking lot, she was long left out of a famous toy’s story. When she was 94, a documentary changed that."
   }
 ]

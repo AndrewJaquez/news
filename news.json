@@ -1,8 +1,38 @@
 [
   {
+    "title": "Russia’s Far East Suffers Some Damage From Earthquake and Tsunami",
+    "link": "https://www.nytimes.com/2025/07/30/world/asia/russia-far-east-earthquake.html",
+    "summary": "Regional authorities in one region declared an emergency after a tsunami hit the Kuril Islands, and the Kamchatka Peninsula was watching for volcanic activity."
+  },
+  {
     "title": "Tsunami Warning Issued for Northern California",
-    "link": "https://www.nytimes.com/2025/07/30/world/asia/tsunami-warning-california.html",
-    "summary": "The area includes Crescent City, which is particularly vulnerable because of its low elevation. The rest of the state was under a lesser tsunami advisory."
+    "link": "https://www.nytimes.com/2025/07/30/us/tsunami-warning-california.html",
+    "summary": "Waves were reported along a wide swath of the Northern California coast, including in San Francisco. The rest of the state was under a lesser tsunami advisory."
+  },
+  {
+    "title": "8.8-Magnitude Earthquake Off Russia Could Be One of the Largest on Record",
+    "link": "https://www.nytimes.com/2025/07/29/world/asia/earthquake-russia-record.html",
+    "summary": "It is the most powerful quake since the 2011 earthquake off the coast of Japan that triggered a 50-foot tsunami and the nuclear disaster at Fukushima."
+  },
+  {
+    "title": "Tsunami Reaches U.S., and Trump’s Former Lawyer Confirmed as Judge",
+    "link": "https://www.nytimes.com/2025/07/30/podcasts/the-headlines/tsunami-hawaii-trump-judge-bove.html",
+    "summary": "Plus, how people are helping discover new species with their phones."
+  },
+  {
+    "title": "How Conservative Christians Cracked the Johnson Amendment",
+    "link": "https://www.nytimes.com/2025/07/30/us/johnson-amendment-church-free-speech.html",
+    "summary": "The I.R.S. recently said that churches could endorse candidates from the pulpit, a shift from a longstanding interpretation of American nonprofit law."
+  },
+  {
+    "title": "An Evening at the Office, and Four Lives Ended by Gunfire",
+    "link": "https://www.nytimes.com/2025/07/30/nyregion/park-avenue-shooting-victims.html",
+    "summary": "A police officer. A security guard. An executive. An associate. They were remembered for their “light,” for their passion and commitment."
+  },
+  {
+    "title": "Midtown Manhattan Becomes America’s Stage for Acts of Violence",
+    "link": "https://www.nytimes.com/2025/07/30/nyregion/midtown-manhattan-violence.html",
+    "summary": "A small part of the nation’s largest city has drawn people bent on killing to draw attention to their causes. The man who shot four people at a Park Avenue office tower was the latest."
   },
   {
     "title": "Even New York’s Strict Gun Laws Couldn’t Prevent the Midtown Shooting",
@@ -15,9 +45,19 @@
     "summary": "Shane Tamura is not the first former football player to shoot himself in the chest and request that his brain be examined."
   },
   {
-    "title": "After Park Avenue Shooting, Anti-Muslim Disinformation Spread Rapidly",
-    "link": "https://www.nytimes.com/2025/07/29/nyregion/nyc-shooting-anti-muslim-disinformation.html",
-    "summary": "Once it became clear that the only Muslim involved in the attack was one of the victims, right-wing commentators sought to shift the focus to Zohran Mamdani."
+    "title": "Trump’s Tax Bill Expands Farm Subsidies. Not All Farmers Will Benefit.",
+    "link": "https://www.nytimes.com/2025/07/30/us/trump-tax-policy-bill-farmers.html",
+    "summary": "A $60 billion boost to farm subsidies will be a lifeline to some. But the way the funding will be distributed could worsen disparities between farms in an industry already struggling with consolidation."
+  },
+  {
+    "title": "What to Watch at the Federal Reserve’s July Meeting",
+    "link": "https://www.nytimes.com/2025/07/30/business/fed-meeting-july-what-to-watch.html",
+    "summary": "The U.S. central bank is widely expected to hold interest rates steady for a fifth straight meeting despite badgering from President Trump to lower borrowing costs."
+  },
+  {
+    "title": "Here Are the Best Rides at Universal’s New Epic Universe Theme Park in Orlando",
+    "link": "https://www.nytimes.com/2025/07/30/travel/universal-epic-universe-orlando-rides.html",
+    "summary": "A roller coaster aficionado tested all the rides at the new Universal theme park in Orlando and ranks them, from must-dos to mehs in a ride-by-ride guide."
   },
   {
     "title": "Senate, Rejecting Whistle-Blower Alarms, Confirms Bove to Appeals Court",
@@ -25,19 +65,9 @@
     "summary": "The Trump loyalist was narrowly approved as Republicans brushed aside concerns about his conduct as a senior Justice Department official."
   },
   {
-    "title": "Grassley Spurns Whistle-Blowers in Bove Confirmation Fight",
-    "link": "https://www.nytimes.com/2025/07/29/us/politics/grassley-whistle-blowers-emil-bove.html",
-    "summary": "The senator’s treatment of whistle-blowers detailing allegations against Emil Bove, the Trump loyalist and appeals court pick, has had a chilling effect, critics say."
-  },
-  {
-    "title": "Trump Bypasses Congress to Keep Interim Prosecutors in California and Nevada",
-    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-us-attorneys-california-nevada.html",
-    "summary": "A similar approach in New Jersey has led to cancellations of court proceedings, as judges question whether the president’s designee for U.S. Attorney has any authority."
-  },
-  {
-    "title": "Trump Says Epstein ‘Stole’ Underage Victim from Mar-a-Lago Spa",
-    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-epstein-virginia-giuffre-mar-a-lago.html",
-    "summary": "President Trump acknowledged that Jeffrey Epstein recruited one of his victims, Virginia Giuffre, from Mar-a-Lago, and distanced himself from the allegations: “By the way, she had no complaints about us.”"
+    "title": "Senate Democrats Try to Force Release of Epstein Files With Little-Known Law",
+    "link": "https://www.nytimes.com/2025/07/30/us/politics/democrats-trump-epstein-files.html",
+    "summary": "The move is part of an effort by Democrats to draw Senate Republicans into the debate over the release of the Epstein files, which has bitterly divided the House G.O.P. and wrought havoc in that chamber."
   },
   {
     "title": "Booker Accuses Democrats of Being ‘Complicit’ With Trump in Heated Exchange",
@@ -45,9 +75,34 @@
     "summary": "When a pair of Democrats sought to win quick approval of a bipartisan package of policing legislation, a third rose to object, saying the party must take every opportunity to challenge President Trump."
   },
   {
-    "title": "Top F.D.A. Official Resigns Under Pressure",
-    "link": "https://www.nytimes.com/2025/07/29/health/vinay-prasad-fda-resigns-loomer.html",
-    "summary": "After turning down several new drugs and restricting use of another, Dr. Vinay Prasad drew the ire of the right-wing influencer Laura Loomer and others."
+    "title": "‘Anybody but Mamdani’: 5 Groups Emerge to Raise Millions in Attack Funds",
+    "link": "https://www.nytimes.com/2025/07/30/nyregion/mamdani-opposition-donors-mayor.html",
+    "summary": "Real estate titans and financiers are forming super PACs to try to defeat Zohran Mamdani. Some organizers say that they won’t succeed unless Mayor Eric Adams or former Gov. Andrew Cuomo drops out."
+  },
+  {
+    "title": "Mayoral Candidates Navigate a Mass Shooting That Has Rattled New York",
+    "link": "https://www.nytimes.com/2025/07/29/nyregion/mamdani-uganda-shooting-park-avenue.html",
+    "summary": "Zohran Mamdani, the Democratic nominee for mayor, was in Uganda when the shooting took place, while the incumbent mayor, Eric Adams, sought to project an image of crisis manager."
+  },
+  {
+    "title": "Ozzy Osbourne’s Coffin Will Be Taken Through His Hometown’s Streets Before Funeral",
+    "link": "https://www.nytimes.com/2025/07/30/arts/music/ozzy-osbourne-funeral-procession-birmingham.html",
+    "summary": "On Wednesday, a cortege took the singer’s coffin through the streets of his hometown, Birmingham, England."
+  },
+  {
+    "title": "Brazil’s President Lula Voices Frustration With Trump Amid Tariff Battle",
+    "link": "https://www.nytimes.com/2025/07/30/world/americas/brazil-president-lula-trump-tariffs.html",
+    "summary": "Faced with threats of 50 percent tariffs and demands to end a criminal case, President Luiz Inácio Lula da Silva said he wouldn’t take orders from President Trump."
+  },
+  {
+    "title": "In Conversation with Brazil’s President Lula",
+    "link": "https://www.nytimes.com/video/world/americas/100000010309751/in-conversation-with-brazils-president-lula.html",
+    "summary": "In an interview with Jack Nicas of The New York Times, President Luiz Inácio Lula da Silva rejected President Trump’s demands for Brazil. Here’s how the United States and Brazil reached this point."
+  },
+  {
+    "title": "President Lula on His Feud With Trump, Brazil’s Tariff Strategy and More",
+    "link": "https://www.nytimes.com/2025/07/30/world/americas/brazil-president-lula-trump-feud-tariffs.html",
+    "summary": "President Luiz Inácio Lula da Silva issued a fierce rejection of President Trump’s demands for Brazil, but said he was ready for dialogue."
   },
   {
     "title": "How a Chinese Brand Reshaped Hong Kong’s Food Delivery Scene",
@@ -55,73 +110,48 @@
     "summary": "Meituan, the Chinese food delivery giant, tested its global expansion in Hong Kong, where its Keeta service displaced a rival before moving to other markets."
   },
   {
+    "title": "Palm Beach Billionaires Battle for Oceanfront Land",
+    "link": "https://www.nytimes.com/2025/07/30/style/palm-beach-billionaires-battle-for-oceanfront-land.html",
+    "summary": "Before building the beachfront homes of their dreams, the superrich keep tearing down perfectly good mansions."
+  },
+  {
+    "title": "They Saw Their Neighbors Taken Away by ICE. Then They Made a Plan.",
+    "link": "https://www.nytimes.com/2025/07/30/opinion/ice-immigration-protest-resistance.html",
+    "summary": "The movement against ICE in Los Angeles — one that is starting to take root across the country — demonstrates a shift from symbolic protest to direct action."
+  },
+  {
+    "title": "This Is the Moment Democrats Have Been Talking About for Years",
+    "link": "https://www.nytimes.com/2025/07/30/opinion/antonio-delgado-kathy-hochul-democrats.html",
+    "summary": "This is the moment Democrats have been talking about for years."
+  },
+  {
+    "title": "Football’s Brain Injuries",
+    "link": "https://www.nytimes.com/2025/07/30/briefing/footballs-brain-injuries.html",
+    "summary": "We explain what we know about the disease after the shooting in Manhattan."
+  },
+  {
+    "title": "Colbert Mocks Presidential Memo About Religious Conversions at Work",
+    "link": "https://www.nytimes.com/2025/07/30/arts/television/colbert-trump-memo-religion-workplace.html",
+    "summary": "Despite the Trump administration’s support for proselytizing at the office, Stephen Colbert doesn’t think it’s a good idea."
+  },
+  {
     "title": "Thailand and Cambodia Stepped Back From War, but Their Temple Fight Remains",
     "link": "https://www.nytimes.com/2025/07/30/world/asia/thailand-cambodia-temples.html",
     "summary": "Intense nationalism and disputed history — and maps — stoke the neighbors’ hostilities. Even a surge of international diplomacy has brought little hope of a lasting peace."
   },
   {
-    "title": "What to Know About the Thailand-Cambodia Clash",
-    "link": "https://www.nytimes.com/2025/07/24/world/asia/thailand-cambodia-border-fight.html",
-    "summary": "The two Southeast Asian countries signed a cease-fire agreement on Monday after days of fighting that killed at least 38 people."
+    "title": "Federal Investigators Set to Begin Hearings on D.C. Plane Crash",
+    "link": "https://www.nytimes.com/2025/07/30/us/politics/ntsb-hearings-dc-plane-crash.html",
+    "summary": "The National Transportation Safety Board is also expected to release a trove of documents related to the fatal midair collision in January between an Army helicopter and a regional jet at Reagan National Airport."
   },
   {
-    "title": "Trump Admits Financial Penalties on Russia ‘May or May Not’ Work",
-    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-sanctions-ukraine-russia.html",
-    "summary": "President Trump’s threats have raised questions about how much leverage the United States has left with Moscow."
+    "title": "In Massachusetts, a Work Stoppage Forces Judges to Dismiss Criminal Cases",
+    "link": "https://www.nytimes.com/2025/07/30/us/massachusetts-public-defender-lawyers-criminal-cases.html",
+    "summary": "Seeking higher pay, lawyers for indigent defendants won’t take new clients. As a result, judges must dismiss cases against people accused of crimes who lack lawyers."
   },
   {
-    "title": "Trump Says Gaza Will Get More Aid, but Israel Will Distribute It",
-    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-says-gaza-will-get-more-aid-but-israel-will-distribute-it.html",
-    "summary": "The president has in recent days acknowledged there is “starvation” in Gaza, a break with Israeli officials who have faced deep criticism over the humanitarian crisis there."
-  },
-  {
-    "title": "What Would Recognizing a Palestinian State Mean?",
-    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/palestinian-statehood-israel.html",
-    "summary": "The announcements reflect deep frustrations with Israel’s conduct in Gaza and in the occupied West Bank, experts say."
-  },
-  {
-    "title": "Countries Scramble to Strike Trade Deals With Trump as Deadline Nears",
-    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-tariffs-trade-deals.html",
-    "summary": "It’s a race against time for some of America’s top trading partners who are negotiating furiously to reach agreements by Aug. 1."
-  },
-  {
-    "title": "U.S. and China Fail to Reach Immediate Deal to Prolong Trade Truce",
-    "link": "https://www.nytimes.com/2025/07/29/world/europe/us-china-trade-deal-talks-tariffs.html",
-    "summary": "After a “constructive” round of talks ahead of an Aug. 12 deadline, Treasury Secretary Scott Bessent said, “Nothing is agreed until we speak with President Trump.”"
-  },
-  {
-    "title": "Restaurant Review: Taquería Frontera in Los Angeles",
-    "link": "https://www.nytimes.com/2025/07/29/dining/restaurant-review-taqueria-frontera-tacos-los-angeles.html",
-    "summary": "At Taquería Frontera, the art of Tijuana-style tacos is on full display."
-  },
-  {
-    "title": "Israel Destroyed Gaza’s Health System. Palestinians Will Die for Years to Come.",
-    "link": "https://www.nytimes.com/2025/07/30/opinion/gaza-genocide-hospitals-health-system-israel.html",
-    "summary": "Many in Gaza will not survive, not because of their injuries alone but because of the lack of a health care system to treat them."
-  },
-  {
-    "title": "The Trump Presidency Takes a Better Turn",
-    "link": "https://www.nytimes.com/2025/07/29/opinion/trump-president-policy-success.html",
-    "summary": "If Trump’s opponents want to be effective, we have to come to grips with realities that have so far eluded us."
-  },
-  {
-    "title": "Reno Shooting Shatters Lives at a Bachelor Party",
-    "link": "https://www.nytimes.com/2025/07/30/us/reno-casino-shooting-bachelor-party.html",
-    "summary": "The police said that a gunman had shot randomly at a group that was preparing to head home to California after a bachelor party weekend. Three people died in the shooting, and three others were injured."
-  },
-  {
-    "title": "Novo Nordisk, Ozempic Drugmaker, Sees Stock Plunge 20% After Profit Warning",
-    "link": "https://www.nytimes.com/2025/07/29/business/ozempic-novo-nordisk-stock-plunge.html",
-    "summary": "Novo Nordisk slashed its financial forecasts as it struggled to fight off competition in the United States. It also named a new chief executive, who highlighted the “urgency” of the moment."
-  },
-  {
-    "title": "Katy Perry and Justin Trudeau Get a Table for 2, Inviting a Serving of Speculation",
-    "link": "https://www.nytimes.com/2025/07/29/world/canada/katy-perry-justin-trudeau-dinner.html",
-    "summary": "The former Canadian prime minister had dinner on Monday night with the newly single American pop star in Montreal, spurring intrigue over how they ended up meeting."
-  },
-  {
-    "title": "University of California Settles With Jewish Students Over U.C.L.A. Protests",
-    "link": "https://www.nytimes.com/2025/07/29/us/ucla-jewish-students-settlement.html",
-    "summary": "Jewish students and a professor said the university had allowed a hostile protest. After the settlement was announced, the Department of Justice separately said it had found the university violated civil rights laws."
+    "title": "NISAR, a NASA-India Collaboration,  Will Study Earth With Radar. Here’s How to Watch the Launch.",
+    "link": "https://www.nytimes.com/2025/07/29/science/nisar-nasa-india.html",
+    "summary": "A new Earth-observing satellite, built by NASA and India’s space agency, will be sent into orbit on Wednesday."
   }
 ]

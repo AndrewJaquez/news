@@ -1,6 +1,11 @@
 [
   {
-    "title": "N.Y.C. Mass Shooting Was Nearly Impossible to Prevent, Experts Say",
+    "title": "Tsunami Warning Issued for Northern California",
+    "link": "https://www.nytimes.com/2025/07/30/world/asia/tsunami-warning-california.html",
+    "summary": "The area includes Crescent City, which is particularly vulnerable because of its low elevation. The rest of the state was under a lesser tsunami advisory."
+  },
+  {
+    "title": "Even New York’s Strict Gun Laws Couldn’t Prevent the Midtown Shooting",
     "link": "https://www.nytimes.com/2025/07/29/nyregion/new-york-gun-laws-shooting.html",
     "summary": "New York City has some of the toughest gun laws in the nation. But Monday’s mass shooting showed their limits, security experts said."
   },
@@ -10,9 +15,29 @@
     "summary": "Shane Tamura is not the first former football player to shoot himself in the chest and request that his brain be examined."
   },
   {
-    "title": "A Fallen Officer’s Flag-Wrapped Body Makes a Somber Journey to a Mosque",
-    "link": "https://www.nytimes.com/2025/07/29/nyregion/police-department-transfer-didarul-islam.html",
-    "summary": "The “dignified transfer” is a New York Police Department rite. Its choreography honors those who died for their fellow citizens."
+    "title": "After Park Avenue Shooting, Anti-Muslim Disinformation Spread Rapidly",
+    "link": "https://www.nytimes.com/2025/07/29/nyregion/nyc-shooting-anti-muslim-disinformation.html",
+    "summary": "Once it became clear that the only Muslim involved in the attack was one of the victims, right-wing commentators sought to shift the focus to Zohran Mamdani."
+  },
+  {
+    "title": "Senate, Rejecting Whistle-Blower Alarms, Confirms Bove to Appeals Court",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/emil-bove-confirmed-appeals-judge.html",
+    "summary": "The Trump loyalist was narrowly approved as Republicans brushed aside concerns about his conduct as a senior Justice Department official."
+  },
+  {
+    "title": "Grassley Spurns Whistle-Blowers in Bove Confirmation Fight",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/grassley-whistle-blowers-emil-bove.html",
+    "summary": "The senator’s treatment of whistle-blowers detailing allegations against Emil Bove, the Trump loyalist and appeals court pick, has had a chilling effect, critics say."
+  },
+  {
+    "title": "Trump Bypasses Congress to Keep Interim Prosecutors in California and Nevada",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-us-attorneys-california-nevada.html",
+    "summary": "A similar approach in New Jersey has led to cancellations of court proceedings, as judges question whether the president’s designee for U.S. Attorney has any authority."
+  },
+  {
+    "title": "Trump Says Epstein ‘Stole’ Underage Victim from Mar-a-Lago Spa",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-epstein-virginia-giuffre-mar-a-lago.html",
+    "summary": "President Trump acknowledged that Jeffrey Epstein recruited one of his victims, Virginia Giuffre, from Mar-a-Lago, and distanced himself from the allegations: “By the way, she had no complaints about us.”"
   },
   {
     "title": "Booker Accuses Democrats of Being ‘Complicit’ With Trump in Heated Exchange",
@@ -20,14 +45,24 @@
     "summary": "When a pair of Democrats sought to win quick approval of a bipartisan package of policing legislation, a third rose to object, saying the party must take every opportunity to challenge President Trump."
   },
   {
-    "title": "Ghislaine Maxwell Lawyer Says She Will Only Testify for Immunity or Clemency",
-    "link": "https://www.nytimes.com/2025/07/29/us/politics/ghislaine-maxwell-epstein-testimony.html",
-    "summary": "In a letter to Congress, the lawyer for Jeffrey Epstein’s convicted co-conspirator says clemency would allow her to talk to lawmakers."
+    "title": "Top F.D.A. Official Resigns Under Pressure",
+    "link": "https://www.nytimes.com/2025/07/29/health/vinay-prasad-fda-resigns-loomer.html",
+    "summary": "After turning down several new drugs and restricting use of another, Dr. Vinay Prasad drew the ire of the right-wing influencer Laura Loomer and others."
   },
   {
-    "title": "Senate Confirms Susan Monarez as C.D.C. Director",
-    "link": "https://www.nytimes.com/2025/07/29/us/politics/susan-monarez-cdc-director.html",
-    "summary": "Dr. Monarez, who has been the acting head of the Centers for Disease Control and Prevention since President Trump took office, was the president’s second pick for the job."
+    "title": "How a Chinese Brand Reshaped Hong Kong’s Food Delivery Scene",
+    "link": "https://www.nytimes.com/2025/07/30/business/meituan-keeta-deliveroo-hong-kong.html",
+    "summary": "Meituan, the Chinese food delivery giant, tested its global expansion in Hong Kong, where its Keeta service displaced a rival before moving to other markets."
+  },
+  {
+    "title": "Thailand and Cambodia Stepped Back From War, but Their Temple Fight Remains",
+    "link": "https://www.nytimes.com/2025/07/30/world/asia/thailand-cambodia-temples.html",
+    "summary": "Intense nationalism and disputed history — and maps — stoke the neighbors’ hostilities. Even a surge of international diplomacy has brought little hope of a lasting peace."
+  },
+  {
+    "title": "What to Know About the Thailand-Cambodia Clash",
+    "link": "https://www.nytimes.com/2025/07/24/world/asia/thailand-cambodia-border-fight.html",
+    "summary": "The two Southeast Asian countries signed a cease-fire agreement on Monday after days of fighting that killed at least 38 people."
   },
   {
     "title": "Trump Admits Financial Penalties on Russia ‘May or May Not’ Work",
@@ -35,29 +70,14 @@
     "summary": "President Trump’s threats have raised questions about how much leverage the United States has left with Moscow."
   },
   {
-    "title": "Greene Calls Gaza Crisis a ‘Genocide,’ Hinting at Rift on the Right Over Israel",
-    "link": "https://www.nytimes.com/2025/07/29/us/politics/marjorie-taylor-greene-gaza-genocide.html",
-    "summary": "Marjorie Taylor Greene was the first Republican in Congress to use the term to describe the dire humanitarian situation in Gaza. But others in the MAGA movement have expressed growing concern about Israel."
+    "title": "Trump Says Gaza Will Get More Aid, but Israel Will Distribute It",
+    "link": "https://www.nytimes.com/2025/07/29/us/politics/trump-says-gaza-will-get-more-aid-but-israel-will-distribute-it.html",
+    "summary": "The president has in recent days acknowledged there is “starvation” in Gaza, a break with Israeli officials who have faced deep criticism over the humanitarian crisis there."
   },
   {
-    "title": "Satellite Image Shows Gazans Mobbing Aid Trucks",
-    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/gaza-satellite-aid-truck-famine.html",
-    "summary": "Amid warnings of famine in Gaza, a satellite captures an image of hundreds of Palestinians converging on an aid convoy."
-  },
-  {
-    "title": "The First Soda in Space: When NASA Got Caught Up in the Cola Wars",
-    "link": "https://www.nytimes.com/2025/07/29/science/coke-pepsi-nasa-space-shuttle.html",
-    "summary": "In the summer of 1985, NASA, the Reagan White House and seven talented astronauts were wrangled into an orbital battle over soft-drink supremacy."
-  },
-  {
-    "title": "In Game-Changing Climate Rollback, E.P.A. Aims to Kill a Bedrock Scientific Finding",
-    "link": "https://www.nytimes.com/2025/07/29/climate/epa-endangerment-finding-repeal-proposal.html",
-    "summary": "The proposal is President Trump’s most consequential step yet to derail federal climate efforts and appears to represent a shift toward outright denial of the scientific consensus."
-  },
-  {
-    "title": "Coal Plants Emailed the E.P.A. to Avoid Clean-Air Rules",
-    "link": "https://www.nytimes.com/2025/07/29/climate/epa-air-pollution-exemptions-emails.html",
-    "summary": "Sites including at least 15 coal plants sought exemptions from environmental rules using a new Trump administration system to fast-track requests, documents show."
+    "title": "What Would Recognizing a Palestinian State Mean?",
+    "link": "https://www.nytimes.com/2025/07/29/world/middleeast/palestinian-statehood-israel.html",
+    "summary": "The announcements reflect deep frustrations with Israel’s conduct in Gaza and in the occupied West Bank, experts say."
   },
   {
     "title": "Countries Scramble to Strike Trade Deals With Trump as Deadline Nears",
@@ -70,29 +90,14 @@
     "summary": "After a “constructive” round of talks ahead of an Aug. 12 deadline, Treasury Secretary Scott Bessent said, “Nothing is agreed until we speak with President Trump.”"
   },
   {
-    "title": "Trump’s Tariff Deals With E.U., U.K. and Japan Are a Blow to Canada’s Car Industry",
-    "link": "https://www.nytimes.com/2025/07/29/world/canada/canada-automobile-tariffs-trump-trade.html",
-    "summary": "Recent pacts with Britain, Europe and Japan mean that autos exported from those countries and regions face lower U.S. tariffs than Canadian vehicles do."
-  },
-  {
-    "title": "How the E.U. Wooed Trump With Flashy but Flimsy Numbers",
-    "link": "https://www.nytimes.com/2025/07/29/world/europe/europe-us-trade-deal-investments.html",
-    "summary": "The Trump administration has been talking up provisions of its deal with the European Union that would secure hundreds of billions of dollars in investments."
-  },
-  {
-    "title": "Grassley Spurns Whistle-Blowers in Bove Confirmation Fight",
-    "link": "https://www.nytimes.com/2025/07/29/us/politics/grassley-whistle-blowers-emil-bove.html",
-    "summary": "The senator’s treatment of whistle-blowers detailing allegations against Emil Bove, the Trump loyalist and appeals court nominee, has had a chilling effect, critics say."
-  },
-  {
     "title": "Restaurant Review: Taquería Frontera in Los Angeles",
     "link": "https://www.nytimes.com/2025/07/29/dining/restaurant-review-taqueria-frontera-tacos-los-angeles.html",
     "summary": "At Taquería Frontera, the art of Tijuana-style tacos is on full display."
   },
   {
-    "title": "Class and Identity in Hilton Head: The Gullah v. Wealthy Landowners",
-    "link": "https://www.nytimes.com/2025/07/29/us/south-carolina-gullah.html",
-    "summary": "A legal fight over access to burial grounds has pitted the Gullah Geechee against wealthy landowners around Hilton Head Island."
+    "title": "Israel Destroyed Gaza’s Health System. Palestinians Will Die for Years to Come.",
+    "link": "https://www.nytimes.com/2025/07/30/opinion/gaza-genocide-hospitals-health-system-israel.html",
+    "summary": "Many in Gaza will not survive, not because of their injuries alone but because of the lack of a health care system to treat them."
   },
   {
     "title": "The Trump Presidency Takes a Better Turn",
@@ -100,9 +105,14 @@
     "summary": "If Trump’s opponents want to be effective, we have to come to grips with realities that have so far eluded us."
   },
   {
-    "title": "How Netanyahu Played Trump for a Fool in Gaza",
-    "link": "https://www.nytimes.com/2025/07/29/opinion/gaza-netanyahu-trump-israel-starvation.html",
-    "summary": "This is the first Israeli-Palestinian war where the worst leaders on both sides are calling all the shots."
+    "title": "Reno Shooting Shatters Lives at a Bachelor Party",
+    "link": "https://www.nytimes.com/2025/07/30/us/reno-casino-shooting-bachelor-party.html",
+    "summary": "The police said that a gunman had shot randomly at a group that was preparing to head home to California after a bachelor party weekend. Three people died in the shooting, and three others were injured."
+  },
+  {
+    "title": "Novo Nordisk, Ozempic Drugmaker, Sees Stock Plunge 20% After Profit Warning",
+    "link": "https://www.nytimes.com/2025/07/29/business/ozempic-novo-nordisk-stock-plunge.html",
+    "summary": "Novo Nordisk slashed its financial forecasts as it struggled to fight off competition in the United States. It also named a new chief executive, who highlighted the “urgency” of the moment."
   },
   {
     "title": "Katy Perry and Justin Trudeau Get a Table for 2, Inviting a Serving of Speculation",
@@ -113,10 +123,5 @@
     "title": "University of California Settles With Jewish Students Over U.C.L.A. Protests",
     "link": "https://www.nytimes.com/2025/07/29/us/ucla-jewish-students-settlement.html",
     "summary": "Jewish students and a professor said the university had allowed a hostile protest. After the settlement was announced, the Department of Justice separately said it had found the university violated civil rights laws."
-  },
-  {
-    "title": "Arkansas Police Release Photo of ‘Person of Interest’ in Killing of Couple",
-    "link": "https://www.nytimes.com/2025/07/29/us/person-of-interest-killing-devils-den-arkansas.html",
-    "summary": "A picture and a sketch show a person that the state police are seeking to question in the deaths of Clinton David Brink, 43, and Cristen Amanda Brink, 41, in Devil’s Den State Park. Their daughters, 7 and 9, were not physically harmed."
   }
 ]

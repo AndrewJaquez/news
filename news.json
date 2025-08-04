@@ -1,53 +1,8 @@
 [
   {
-    "title": "From Triumph in Iran to Starvation in Gaza: Netanyahu Squanders His Moment to Halt the War",
-    "link": "https://www.nytimes.com/2025/08/04/world/middleeast/israel-gaza-netanyahu.html",
-    "summary": "Six weeks after Benjamin Netanyahu scored a victory over Iran, the Israeli leader is now pushing for an “all or nothing” deal with Hamas. But he has not made the compromises needed to make it happen."
-  },
-  {
-    "title": "A Weakened Hezbollah Resists Pressure to Give Up Its Weapons",
-    "link": "https://www.nytimes.com/2025/08/04/world/middleeast/hezbollah-weapons-lebanon.html",
-    "summary": "The Lebanese militant group has lost much of its power since the recent war with Israel. But it is balking at demands to surrender whatever is left of its once formidable arsenal."
-  },
-  {
-    "title": "Trump ‘Wants His Own People’ in Charge of Jobs Data, and the Ex-Fox Host Turned U.S. Attorney",
-    "link": "https://www.nytimes.com/2025/08/04/podcasts/the-headlines/trump-jobs-data-us-attorney-dc.html",
-    "summary": "Plus, why airlines are making everything “premium.”"
-  },
-  {
-    "title": "What’s It Like to Deal With Brutal U.S. Tariffs? Ask Malaysia.",
-    "link": "https://www.nytimes.com/2025/08/04/business/malaysia-solar-china.html",
-    "summary": "Once a cog in the Malaysian economy, the solar industry profited from Chinese investment. Now it’s becoming a case study of what happens when the United States closes its markets."
-  },
-  {
-    "title": "An Oval Office Replica Opens, Without Trump’s Gilded Flourishes",
-    "link": "https://www.nytimes.com/2025/08/04/us/politics/trump-oval-office-gold-replica.html",
-    "summary": "The White House Historical Association recently unveiled its replica of President Trump’s Oval Office, but it mirrors the office from his first term, before he festooned it with gold."
-  },
-  {
-    "title": "New Firm Seeks to Confront Trump on Executive Power",
-    "link": "https://www.nytimes.com/2025/08/04/us/politics/trump-appeals-firings.html",
-    "summary": "The Washington Litigation Group is the latest nonprofit group to join the legal challenges against the president, with a strategy of focusing on appeals early in the case."
-  },
-  {
-    "title": "Texas Democrats Leave State to Stop Republicans’ Redistricting Plan",
-    "link": "https://www.nytimes.com/2025/08/03/us/texas-democrats-walkout-redistricting-map-gop.html",
-    "summary": "The walkout was a sharp escalation in the clash over a redistricting effort. Gov. Greg Abbott threatened to remove the lawmakers who left their posts if they did not return by Monday."
-  },
-  {
-    "title": "Democratic Group Calls on Blue States to Draw New House Maps",
-    "link": "https://www.nytimes.com/2025/08/04/us/politics/democrats-redistricting.html",
-    "summary": "The Democratic Legislative Campaign Committee is pressing legislatures to counter Republicans’ redistricting efforts in Texas and elsewhere."
-  },
-  {
-    "title": "12 Years After Bankruptcy, a Changed Detroit Is Picking a Mayor",
-    "link": "https://www.nytimes.com/2025/08/04/us/politics/detroit-mayor-election.html",
-    "summary": "Several candidates want to replace Mike Duggan, the only mayor the city has had since its financial crisis. Detroit’s next challenge, residents say, will be reviving forgotten neighborhoods."
-  },
-  {
-    "title": "Democrats Disagree (Again). This Time, It’s About School Vouchers.",
-    "link": "https://www.nytimes.com/2025/08/04/us/democrats-for-education-reform-school-vouchers.html",
-    "summary": "A moderate group that has tried to rally Democrats around school choice faces divisions over private-school vouchers."
+    "title": "Trump’s Demand to Trading Partners: Pledge Money or Get Higher Tariffs",
+    "link": "https://www.nytimes.com/2025/08/04/us/politics/trump-tariffs-foreign-investment.html",
+    "summary": "President Trump is using an “Art of the Deal” approach to get other nations to hand over cash to lower their tariffs."
   },
   {
     "title": "A.I. Has Ushered in Silicon Valley’s ‘Hard Tech’ Era",
@@ -55,9 +10,34 @@
     "summary": "Goodbye to the age of consumer websites and mobile apps. Artificial intelligence has ushered in an era of what insiders in the nation’s innovation capital call “hard tech.”"
   },
   {
-    "title": "Community Colleges Have Been Hit by Trump’s War on Elite Universities",
-    "link": "https://www.nytimes.com/2025/08/04/magazine/trump-community-college-anti-dei.html",
-    "summary": "Measures intended to punish elite universities are inflicting collateral damage on the nation’s two-year colleges, which educate 40 percent of all undergraduates."
+    "title": "Nancy Mace Announces Run for Governor of South Carolina",
+    "link": "https://www.nytimes.com/2025/08/04/us/politics/nancy-mace-south-carolina-governor.html",
+    "summary": "The Charleston-area congresswoman was once a moderate Republican, but has more recently presented herself as a loyal supporter of President Trump."
+  },
+  {
+    "title": "Netanyahu Squanders His Moment to Halt the War in Gaza",
+    "link": "https://www.nytimes.com/2025/08/04/world/middleeast/israel-gaza-netanyahu.html",
+    "summary": "Israel’s leader is now pushing for an “all or nothing” deal with Hamas. He has not made the compromises needed to make it happen."
+  },
+  {
+    "title": "Capitalists Love This Podcast. So Do Their Critics.",
+    "link": "https://www.nytimes.com/2025/08/03/business/odd-lots-podcast-bloomberg.html",
+    "summary": "“Odd Lots” goes deep on lentils in Saskatchewan, the global tractor supply and trucking markets. Is it the skeleton key to understanding this strange economic moment?"
+  },
+  {
+    "title": "What Is Cardiac Amyloidosis?",
+    "link": "https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html",
+    "summary": "A quiet revolution in care is helping patients with cardiac amyloidosis, a form of heart failure that long stumped doctors."
+  },
+  {
+    "title": "Avoiding Ultraprocessed Foods Might Double Weight Loss",
+    "link": "https://www.nytimes.com/2025/08/04/well/eat/avoiding-ultraprocessed-foods-might-double-weight-loss.html",
+    "summary": "In a new trial, people consumed more calories and had more cravings when they ate ultraprocessed foods."
+  },
+  {
+    "title": "Minimum Wage in L.A. Could Rise to $30 an Hour for Olympics",
+    "link": "https://www.nytimes.com/2025/08/04/business/minimum-wage-olympics-losangeles.html",
+    "summary": "A union-backed effort would boost wages for hotel and airport workers. But with tourism down, and the city in a slump, hotel owners fear for their survival."
   },
   {
     "title": "Trump’s Immigrant Crackdown in New York: More Arrests, Longer Detention",
@@ -65,19 +45,9 @@
     "summary": "More than half of the immigrants arrested in the New York City area since Jan. 20 do not have criminal convictions or charges, new data shows."
   },
   {
-    "title": "Inside the Epicenter of ICE Detentions in NYC",
-    "link": "https://www.nytimes.com/video/nyregion/100000010299370/inside-the-epicenter-of-ice-detentions-in-nyc.html",
-    "summary": "Immigration crackdowns have unfolded in broad daylight across the country, but in New York City, most detentions have been quietly concentrated in a single building. Luis Ferré-Sadurní takes us to the epicenter of these detentions."
-  },
-  {
     "title": "Anatomy of an ICE Arrest",
     "link": "https://www.nytimes.com/2025/08/03/nyregion/immigrant-arrests-courthouse.html",
     "summary": "Migrants show up for hearings or scheduled check-ins. In growing numbers, they end up in handcuffs as President Trump’s immigration crackdown shifts tactics."
-  },
-  {
-    "title": "Many Jewish Voters Back Mamdani. And Many Agree With Him on Gaza.",
-    "link": "https://www.nytimes.com/2025/08/04/nyregion/zohran-mamdani-jewish-voters-gaza.html",
-    "summary": "Zohran Mamdani won over Jewish voters in New York City who were energized by his economic agenda and unbothered by — or sympathetic to — his views on Israel and Gaza."
   },
   {
     "title": "Loni Anderson, Star of ‘WKRP in Cincinnati,’ Dies at 79",
@@ -85,9 +55,9 @@
     "summary": "She won Emmy nominations for her sitcom role as a deceptively smart radio station receptionist. Her divorce from Burt Reynolds landed her in the tabloids."
   },
   {
-    "title": "The ‘Troublemaker’ Behind Netflix’s Biggest Gamble",
-    "link": "https://www.nytimes.com/2025/08/04/business/media/netflix-live-sports-brandon-riegg.html",
-    "summary": "Brandon Riegg pushed the streaming service to invest in live shows and sports, transforming Netflix into something more like a traditional TV network."
+    "title": "Community Colleges Have Been Hit by Trump’s War on Elite Universities",
+    "link": "https://www.nytimes.com/2025/08/04/magazine/trump-community-college-anti-dei.html",
+    "summary": "Measures intended to punish elite universities are inflicting collateral damage on the nation’s two-year colleges, which educate 40 percent of all undergraduates."
   },
   {
     "title": "You Are Contaminated",
@@ -95,9 +65,9 @@
     "summary": "The toxic byproducts of human civilization are everywhere. Even in our bodies."
   },
   {
-    "title": "‘It’s Completely Unappealing’: Why the Senate Is Broken",
-    "link": "https://www.nytimes.com/2025/08/04/opinion/senate-dysfunction.html",
-    "summary": "Creative obstructionism in the Senate, says Tina Smith of Minnesota, has become “a fine art” that has nearly paralyzed the institution."
+    "title": "Trump’s Gilded Age White House Ballroom Classicism",
+    "link": "https://www.nytimes.com/2025/08/04/opinion/trump-gilded-age-ballroom.html",
+    "summary": "While the president is right to try to reclaim meaning in American architecture, Gilded Age neoclassicism is not the answer."
   },
   {
     "title": "System Upgrade",
@@ -105,23 +75,23 @@
     "summary": "We explore the new vibe in Silicon Valley."
   },
   {
-    "title": "Tesla Awards ‘Good Faith’ Shares to Musk Worth $29 Billion",
+    "title": "Tesla Grants Musk $29 Billion in Stock to Keep ‘Elon’s Energies Focused’",
     "link": "https://www.nytimes.com/2025/08/04/business/tesla-elon-musk-29-billion.html",
-    "summary": "The “interim” package announced on Monday was intended to help retain Elon Musk, whose previous pay plan was invalidated by a judge. The car maker’s chief has hinted that he needed a larger stake in the company."
+    "summary": "The “interim” package announced on Monday was intended to help retain Elon Musk, whose previous pay plan was invalidated by a judge."
   },
   {
-    "title": "Trump’s Envoy Is Expected to Visit Russia as U.S. Pushes for Peace Deal in Ukraine",
-    "link": "https://www.nytimes.com/2025/08/04/us/politics/witkoff-putin-russia-trump-ukraine.html",
-    "summary": "President Trump has given an ultimatum to President Vladimir V. Putin of Russia to end the war in Ukraine or face U.S. sanctions."
+    "title": "Canada Wildfires Cause Poor Air Quality for Toronto, Minneapolis and New York",
+    "link": "https://www.nytimes.com/2025/08/04/weather/wildfire-smoke-air-quality-toronto-new-york.html",
+    "summary": "Wildfires burning in Canada were causing unhealthy air quality across parts of North America on Monday."
   },
   {
-    "title": "He Survived the Khmer Rouge and Built a Musical Legacy",
-    "link": "https://www.nytimes.com/2025/08/04/arts/music/kong-nay-cambodia-khmer-rouge.html",
-    "summary": "Kong Nay, a blind lute player who endured the horrors of a totalitarian regime, exposed a new generation of Cambodians to their country’s traditional music."
+    "title": "Many Jewish Voters Back Mamdani. And Many Agree With Him on Gaza.",
+    "link": "https://www.nytimes.com/2025/08/04/nyregion/zohran-mamdani-jewish-voters-gaza.html",
+    "summary": "Zohran Mamdani won over Jewish voters in New York City who were energized by his economic agenda and unbothered by — or sympathetic to — his views on Israel and Gaza."
   },
   {
-    "title": "As the Supreme Court Focuses on the Past, Historians Turn to Advocacy",
-    "link": "https://www.nytimes.com/2025/08/04/us/politics/supreme-court-historians-advocacy.html",
-    "summary": "Spikes in the number and influence of briefs filed by historians have prompted questions about the role scholars should play in litigation."
+    "title": "El Salvador’s Leader Is Autocrat to Some, Godsend to Others",
+    "link": "https://www.nytimes.com/2025/08/04/world/americas/el-salvador-president-bukele-term-limits.html",
+    "summary": "Lawmakers approved constitutional changes abolishing term limits and allowing President Nayib Bukele to stay in power indefinitely. Why now?"
   }
 ]

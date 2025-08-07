@@ -1,28 +1,53 @@
 [
   {
+    "title": "Trump’s Tariff Gamble Puts America’s Ties With India at Risk",
+    "link": "https://www.nytimes.com/2025/08/06/world/asia/trump-india-tariffs.html",
+    "summary": "As the president pursues his goals on Russia and trade, America’s relationship with an important partner in Asia could end up as collateral damage."
+  },
+  {
+    "title": "Trump Tells European Leaders He Intends to Meet With Putin and Zelensky",
+    "link": "https://www.nytimes.com/2025/08/06/us/politics/trump-meeting-putin-zelensky.html",
+    "summary": "If the meeting goes ahead as President Trump described, it will be the first in-person summit between an American and Russian president in more than four years."
+  },
+  {
     "title": "India, Once America’s Counterweight to China, Is Now Facing Trump’s Wrath",
     "link": "https://www.nytimes.com/2025/08/06/business/india-china-trump-tariffs.html",
     "summary": "With threats of tariffs up to 50 percent, President Trump seems to be scrapping America’s plan to turn India into a counterweight to China, declaring instead that it is a “dead economy.”"
   },
   {
-    "title": "Trump to Announce Additional $100 Billion Apple Investment in U.S.",
+    "title": "Trump Announces Additional $100 Billion Apple Investment in U.S.",
     "link": "https://www.nytimes.com/2025/08/06/us/politics/trump-apple-investment.html",
     "summary": "The White House said the pledge would bring more of the company’s supply chain and advanced manufacturing to the United States."
   },
   {
-    "title": "What to Know About India’s Oil Trade With Russia",
-    "link": "https://www.nytimes.com/2025/08/05/business/india-russia-oil.html",
-    "summary": "President Trump accused India of aiding Moscow’s war on Ukraine by purchasing Russian energy, derailing trade talks between India and the United States."
+    "title": "Republicans Raise the Pressure on Texas Democrats to End Their Walkout",
+    "link": "https://www.nytimes.com/2025/08/06/us/politics/texas-redistricting.html",
+    "summary": "The political and legal threats against Democrats who left Texas to protest a redrawn political map have gone further and faster than many anticipated."
   },
   {
-    "title": "China Turns to A.I. in Information Warfare",
-    "link": "https://www.nytimes.com/2025/08/06/us/politics/china-artificial-intelligence-information-warfare.html",
-    "summary": "Documents examined by researchers show how one company in China has collected data on members of Congress and other influential Americans."
+    "title": "Trump’s Redistricting Campaign Tests His Power in the States",
+    "link": "https://www.nytimes.com/2025/08/06/us/politics/trump-republicans-states-redistricting.html",
+    "summary": "The effort by President Trump and his allies is the latest example of them trying to rewrite the rules to squeeze out every possible political advantage."
   },
   {
-    "title": "Uber’s Festering Sexual Assault Problem",
-    "link": "https://www.nytimes.com/2025/08/06/business/uber-sexual-assault.html",
-    "summary": "The company has tested tools that make rides safer, court records show. Measures to stem the violence have been set aside in favor of protecting the company’s business."
+    "title": "Where the Redistricting Wars Might Go After Texas",
+    "link": "https://www.nytimes.com/2025/08/06/us/politics/redistricting-states.html",
+    "summary": "Texas Democrats may have bought their party some time with their walkout, but both parties are mobilizing to redraw U.S. House maps ahead of the midterms."
+  },
+  {
+    "title": "Trump Weighs Getting Involved in New York City Mayor’s Race",
+    "link": "https://www.nytimes.com/2025/08/06/nyregion/trump-nyc-mayor-cuomo-adams-mamdani.html",
+    "summary": "The possibility that the president will seek to intercede could inject an element of unpredictability into an already fractious contest."
+  },
+  {
+    "title": "Cuomo Tells Business Leaders That His Campaign Is on a New Path",
+    "link": "https://www.nytimes.com/2025/08/06/nyregion/cuomo-business-leaders-mayor-nyc.html",
+    "summary": "Former Gov. Andrew M. Cuomo acknowledged that he had not run an effective race in the mayoral primary and asked for executives’ help to defeat Zohran Mamdani."
+  },
+  {
+    "title": "Eric Adams Is Again Denied Public Matching Funds for His Campaign",
+    "link": "https://www.nytimes.com/2025/08/06/nyregion/eric-adams-public-matching-funds-denied-re-election.html",
+    "summary": "Mayor Eric Adams of New York was dealt another setback in his long-shot campaign for re-election when he was denied millions of dollars in public matching funds."
   },
   {
     "title": "Their Last Love Token: A Dinosaur Rebuilt From Its Excavated Bones",
@@ -30,9 +55,19 @@
     "summary": "When his wife died, the paleontologist Barry James poured his grief into the reconstruction of a triceratops skeleton that they had started together."
   },
   {
-    "title": "The ‘Hamilton’ Effect: 10 Revolutionary Years on Broadway",
-    "link": "https://www.nytimes.com/2025/08/06/theater/hamilton-broadway-lin-manuel-miranda.html",
-    "summary": "Lin-Manuel Miranda’s much-loved musical opened on Broadway a decade ago, ushering in a new era of race-conscious casting, audience outreach and even stardom."
+    "title": "China Turns to A.I. in Information Warfare",
+    "link": "https://www.nytimes.com/2025/08/06/us/politics/china-artificial-intelligence-information-warfare.html",
+    "summary": "Documents examined by researchers show how one company in China has collected data on members of Congress and other influential Americans."
+  },
+  {
+    "title": "After a Lull, Agents Conduct a Big Immigration Raid in L.A.",
+    "link": "https://www.nytimes.com/2025/08/06/us/los-angeles-immigration-raid.html",
+    "summary": "A rented Penske truck was used to ferry agents to the Home Depot where the raid was conducted, days after an appeals court upheld an order limiting some enforcement tactics."
+  },
+  {
+    "title": "Even Hiroshima’s Pacifist Cause Is Losing Believers",
+    "link": "https://www.nytimes.com/2025/08/06/world/asia/hiroshima-japan-nuclear-peace.html",
+    "summary": "Eighty years after the atomic bombing, some Japanese think that peace for peace’s sake is no longer enough."
   },
   {
     "title": "Trump Spending Bill Means Big Cuts for New Mexico",
@@ -40,29 +75,9 @@
     "summary": "Health care. Food. Outdoor recreation. Wildfire protection. The arts. President Trump’s new domestic policy law will have wide-ranging effects in New Mexico, which depends heavily on federal funding."
   },
   {
-    "title": "Trump Amps Up an Obama Strategy to Crack Down on Colleges",
-    "link": "https://www.nytimes.com/2025/08/06/us/politics/trump-universities-title-ix-vi-obama.html",
-    "summary": "Under Obama, federal rules pushed universities to build new bureaucracies to address sexual misconduct. Trump is doubling down on that tactic for antisemitism claims."
-  },
-  {
-    "title": "Stanford Newspaper Challenges Legal Basis for Student Deportations",
-    "link": "https://www.nytimes.com/2025/08/06/us/politics/stanford-lawsuit-student-activist-deportations.html",
-    "summary": "A new lawsuit brought by a First Amendment watchdog group argues that the use of a rarely invoked immigration law to target pro-Palestinian demonstrators is unconstitutional."
-  },
-  {
-    "title": "Despite Opposition, Netanyahu’s Security Cabinet to Discuss Gaza Military Push",
-    "link": "https://www.nytimes.com/2025/08/06/world/middleeast/israel-gaza-occupation-netanyahu.html",
-    "summary": "Israeli Prime Minister Benjamin Netanyahu will meet with a group of senior ministers on Thursday as the families of the hostages warn that moving into new areas could endanger the captives."
-  },
-  {
-    "title": "How One Company Maintained a Monopoly on U.S. Fire Retardant",
-    "link": "https://www.nytimes.com/2025/08/06/business/fire-retardant-monopoly.html",
-    "summary": "Perimeter Solutions sought to undercut rivals, leaving federal officials worried about their reliance on a single company for a crucial product."
-  },
-  {
-    "title": "Wildfire In Wet Washington State Is Changing Under Climate Change",
-    "link": "https://www.nytimes.com/2025/08/06/climate/washington-state-wildfire-risk.html",
-    "summary": "The famously rainy state is facing longer, hotter and drier fire seasons, raising the risk of a mammoth fire that will be nearly impossible to fight. All the state can do is prepare."
+    "title": "A Sergeant Is Accused of Shooting 5 Soldiers in His Unit at Fort Stewart",
+    "link": "https://www.nytimes.com/2025/08/06/us/fort-stewart-airfield-active-shooter.html",
+    "summary": "The suspect’s father said he was seeking a transfer from the Army base in Georgia, where he had complained of racism."
   },
   {
     "title": "Aldi’s Passionate, Cultlike Following Fuels Its Rapid Expansion Plans",
@@ -70,43 +85,38 @@
     "summary": "“It feels like I’m at a bougie store, but I’m not paying bougie prices,” one shopper said of the discount grocer, which is set to open hundreds of stores as consumers look to save and buy organic."
   },
   {
-    "title": "Is the Tampa Bay Rays’ Owner Brilliant or a Failure?",
-    "link": "https://www.nytimes.com/2025/08/06/magazine/tampa-rays-stu-sternberg-baseball.html",
-    "summary": "Stu Sternberg used quantitative wizardry to turn the Tampa Bay Rays into a perennial contender. But the fans were the one equation he could never solve."
-  },
-  {
-    "title": "They Let Their Children Cross the Street and Now They’re Felons",
+    "title": "They Let Their Children Cross the Street, and Now They’re Felons",
     "link": "https://www.nytimes.com/2025/08/06/opinion/children-traffic-death-parents.html",
     "summary": "They went to jail when their boy was killed. Why don’t road planners bear some guilt?"
   },
   {
-    "title": "Donald Trump and John Roberts Have a Lot in Common",
-    "link": "https://www.nytimes.com/2025/08/06/opinion/supreme-court-voting-rights-act.html",
-    "summary": "The Supreme Court may extinguish a law that more than any other made the promise of American democracy a reality."
+    "title": "You Are Contaminated",
+    "link": "https://www.nytimes.com/2025/08/04/opinion/contamination-exposome.html",
+    "summary": "The toxic byproducts of human civilization are everywhere. Even in our bodies."
   },
   {
-    "title": "Raucous Town Halls",
-    "link": "https://www.nytimes.com/2025/08/06/briefing/republican-town-halls.html",
-    "summary": "We explore the new political danger of a centuries-old format."
+    "title": "Trump Directed His Wrath at India",
+    "link": "https://www.nytimes.com/2025/08/06/briefing/trump-india-tariffs-china-ai-information-warfare.html",
+    "summary": "Also, the president said he intends to meet with Putin and Zelensky. Here’s the latest at the end of Wednesday."
   },
   {
-    "title": "5 Soldiers Shot at Fort Stewart in Georgia",
-    "link": "https://www.nytimes.com/2025/08/06/us/fort-stewart-airfield-active-shooter.html",
-    "summary": "The gunman was quickly apprehended, the authorities said and a lockdown of the base was lifted."
+    "title": "Huckabee Says U.S.-Backed Aid Sites in Gaza Will ‘Scale Up’",
+    "link": "https://www.nytimes.com/2025/08/06/world/middleeast/huckabee-gaza-aid-ghf.html",
+    "summary": "The Gaza Humanitarian Foundation will soon operate 16 distribution sites instead of four, said Mike Huckabee, the United States ambassador to Israel."
   },
   {
-    "title": "Helicopter Crash Kills Ghana Defense and Environment Ministers",
-    "link": "https://www.nytimes.com/2025/08/06/world/africa/ghana-helicopter-crash-defense-officials.html",
-    "summary": "The helicopter had taken off from Accra, the capital, en route to a mining conference when it went “off the radar,” the armed forces said."
+    "title": "New Zealand Air Force Mounts Dangerous Rescue Mission in Antarctica",
+    "link": "https://www.nytimes.com/2025/08/06/world/new-zealand-us-antarctic-base-rescue.html",
+    "summary": "Three staff members from the National Science Foundation were evacuated from a U.S. research base after a medical emergency. The mission is one of the most challenging for the air force."
   },
   {
-    "title": "Video Forces Pakistan to Confront ‘Honor Killings’ and Gender Violence",
-    "link": "https://www.nytimes.com/2025/08/06/world/asia/pakistan-honor-killing-gender-violence.html",
-    "summary": "Women in Pakistan die every day for supposedly dishonoring their families, and arrests are rare. But Bano Bibi’s defiant last words were caught on video."
+    "title": "Oregon Man Accused of Killing 3 Women Is Now Charged With Murdering a Fourth",
+    "link": "https://www.nytimes.com/2025/08/06/us/jesse-calhoun-indicted-murder-oregon.html",
+    "summary": "The killings spread fear in the area after the bodies were found over several months in early 2023."
   },
   {
-    "title": "Alec Luhn, Missing American Journalist, Found Alive in Norway",
-    "link": "https://www.nytimes.com/2025/08/06/world/europe/alec-luhn-norway-found.html",
-    "summary": "Rescue workers found Mr. Luhn, a journalist who had not been heard from for days after setting off alone in a Norwegian national park."
+    "title": "On the Hunt for Spies, Iran Executes a Nuclear Scientist",
+    "link": "https://www.nytimes.com/2025/08/06/world/middleeast/iran-executes-nuclear-scientist-espionage.html",
+    "summary": "After the war with Israel, Iranian authorities have swept up hundreds of people deemed suspected infiltrators. But the arrest and hanging of the nuclear scientist Roozbeh Vadi was a rare move."
   }
 ]

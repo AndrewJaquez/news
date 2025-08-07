@@ -1,5 +1,10 @@
 [
   {
+    "title": "Staggering U.S. Tariffs Begin as Trump Widens Trade War",
+    "link": "https://www.nytimes.com/2025/08/07/business/economy/trump-tariffs-trade-war.html",
+    "summary": "The duties, which the president announced last week, took effect for about 90 countries just after midnight."
+  },
+  {
     "title": "Trump’s Tariff Gamble Puts America’s Ties With India at Risk",
     "link": "https://www.nytimes.com/2025/08/06/world/asia/trump-india-tariffs.html",
     "summary": "As the president pursues his goals on Russia and trade, America’s relationship with an important partner in Asia could end up as collateral damage."
@@ -8,11 +13,6 @@
     "title": "Trump Tells European Leaders He Intends to Meet With Putin and Zelensky",
     "link": "https://www.nytimes.com/2025/08/06/us/politics/trump-meeting-putin-zelensky.html",
     "summary": "If the meeting goes ahead as President Trump described, it will be the first in-person summit between an American and Russian president in more than four years."
-  },
-  {
-    "title": "India, Once America’s Counterweight to China, Is Now Facing Trump’s Wrath",
-    "link": "https://www.nytimes.com/2025/08/06/business/india-china-trump-tariffs.html",
-    "summary": "With threats of tariffs up to 50 percent, President Trump seems to be scrapping America’s plan to turn India into a counterweight to China, declaring instead that it is a “dead economy.”"
   },
   {
     "title": "Trump Announces Additional $100 Billion Apple Investment in U.S.",
@@ -50,9 +50,9 @@
     "summary": "Mayor Eric Adams of New York was dealt another setback in his long-shot campaign for re-election when he was denied millions of dollars in public matching funds."
   },
   {
-    "title": "Their Last Love Token: A Dinosaur Rebuilt From Its Excavated Bones",
-    "link": "https://www.nytimes.com/2025/08/06/arts/triceratops-dinosaur-paleontologist-barry-james.html",
-    "summary": "When his wife died, the paleontologist Barry James poured his grief into the reconstruction of a triceratops skeleton that they had started together."
+    "title": "Aldi’s Passionate, Cultlike Following Fuels Its Rapid Expansion Plans",
+    "link": "https://www.nytimes.com/2025/08/06/business/aldi-grocery-expansion.html",
+    "summary": "“It feels like I’m at a bougie store, but I’m not paying bougie prices,” one shopper said of the discount grocer, which is set to open hundreds of stores as consumers look to save and buy organic."
   },
   {
     "title": "China Turns to A.I. in Information Warfare",
@@ -60,14 +60,19 @@
     "summary": "Documents examined by researchers show how one company in China has collected data on members of Congress and other influential Americans."
   },
   {
-    "title": "After a Lull, Agents Conduct a Big Immigration Raid in L.A.",
+    "title": "Federal Agents in L.A. Conduct a Big Immigration Raid at a Home Depot",
     "link": "https://www.nytimes.com/2025/08/06/us/los-angeles-immigration-raid.html",
     "summary": "A rented Penske truck was used to ferry agents to the Home Depot where the raid was conducted, days after an appeals court upheld an order limiting some enforcement tactics."
   },
   {
-    "title": "Even Hiroshima’s Pacifist Cause Is Losing Believers",
-    "link": "https://www.nytimes.com/2025/08/06/world/asia/hiroshima-japan-nuclear-peace.html",
-    "summary": "Eighty years after the atomic bombing, some Japanese think that peace for peace’s sake is no longer enough."
+    "title": "Eddie Palmieri, Latin Music’s Dynamic Innovator, Dies at 88",
+    "link": "https://www.nytimes.com/2025/08/06/arts/music/eddie-palmieri-dead.html",
+    "summary": "He roped salsa into conversation with jazz, rock, funk and even modern classical music. “A new world music,” one critic said, “is being born.”"
+  },
+  {
+    "title": "Eddie Palmieri’s 13 Essential Songs and Albums",
+    "link": "https://www.nytimes.com/2025/08/06/arts/music/eddie-palmieri-songs-albums.html",
+    "summary": "A native son of the Bronx, Palmieri was a crucial innovator in New York’s Afro-Caribbean music history. The pianist, composer and bandleader has died at 88."
   },
   {
     "title": "Trump Spending Bill Means Big Cuts for New Mexico",
@@ -80,9 +85,9 @@
     "summary": "The suspect’s father said he was seeking a transfer from the Army base in Georgia, where he had complained of racism."
   },
   {
-    "title": "Aldi’s Passionate, Cultlike Following Fuels Its Rapid Expansion Plans",
-    "link": "https://www.nytimes.com/2025/08/06/business/aldi-grocery-expansion.html",
-    "summary": "“It feels like I’m at a bougie store, but I’m not paying bougie prices,” one shopper said of the discount grocer, which is set to open hundreds of stores as consumers look to save and buy organic."
+    "title": "I’ve Seen How Russia Is Torturing Prisoners of War",
+    "link": "https://www.nytimes.com/2025/08/07/opinion/russia-ukraine-torture.html",
+    "summary": "Prosecuting torture is a legal obligation, not a diplomatic nicety or something that can be negotiated."
   },
   {
     "title": "They Let Their Children Cross the Street, and Now They’re Felons",
@@ -90,29 +95,19 @@
     "summary": "They went to jail when their boy was killed. Why don’t road planners bear some guilt?"
   },
   {
-    "title": "You Are Contaminated",
-    "link": "https://www.nytimes.com/2025/08/04/opinion/contamination-exposome.html",
-    "summary": "The toxic byproducts of human civilization are everywhere. Even in our bodies."
-  },
-  {
-    "title": "Trump Directed His Wrath at India",
-    "link": "https://www.nytimes.com/2025/08/06/briefing/trump-india-tariffs-china-ai-information-warfare.html",
-    "summary": "Also, the president said he intends to meet with Putin and Zelensky. Here’s the latest at the end of Wednesday."
-  },
-  {
     "title": "Huckabee Says U.S.-Backed Aid Sites in Gaza Will ‘Scale Up’",
     "link": "https://www.nytimes.com/2025/08/06/world/middleeast/huckabee-gaza-aid-ghf.html",
     "summary": "The Gaza Humanitarian Foundation will soon operate 16 distribution sites instead of four, said Mike Huckabee, the United States ambassador to Israel."
   },
   {
+    "title": "United Airlines Resumes Operations After System Outage",
+    "link": "https://www.nytimes.com/2025/08/06/business/united-airlines-system-outage.html",
+    "summary": "The Federal Aviation Administration said late Wednesday that delays may continue as the airline works through the recovery process."
+  },
+  {
     "title": "New Zealand Air Force Mounts Dangerous Rescue Mission in Antarctica",
     "link": "https://www.nytimes.com/2025/08/06/world/new-zealand-us-antarctic-base-rescue.html",
     "summary": "Three staff members from the National Science Foundation were evacuated from a U.S. research base after a medical emergency. The mission is one of the most challenging for the air force."
-  },
-  {
-    "title": "Oregon Man Accused of Killing 3 Women Is Now Charged With Murdering a Fourth",
-    "link": "https://www.nytimes.com/2025/08/06/us/jesse-calhoun-indicted-murder-oregon.html",
-    "summary": "The killings spread fear in the area after the bodies were found over several months in early 2023."
   },
   {
     "title": "On the Hunt for Spies, Iran Executes a Nuclear Scientist",

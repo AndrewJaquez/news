@@ -1,103 +1,8 @@
 [
   {
-    "title": "Staggering U.S. Tariffs Begin as Trump Widens Trade War",
-    "link": "https://www.nytimes.com/2025/08/07/business/economy/trump-tariffs-trade-war.html",
-    "summary": "The duties, which the president announced last week, took effect for about 90 countries just after midnight."
-  },
-  {
-    "title": "Trump’s Higher Tariffs Are Here. Now What?",
-    "link": "https://www.nytimes.com/2025/08/07/business/dealbook/trump-tariffs-companies-earnings.html",
-    "summary": "The president’s trade war entered a new phase on Thursday with hefty levies on scores of countries taking effect, adding further uncertainty."
-  },
-  {
-    "title": "China’s Exports Surged in July as Companies Raced to Beat Trump Tariffs",
-    "link": "https://www.nytimes.com/2025/08/07/business/economy/china-tariffs-exports-imports.html",
-    "summary": "China is shipping more goods to Southeast Asia and other regions that often re-export them to the United States. China still sells three times as much to the United States as it buys."
-  },
-  {
-    "title": "Four Key Facts About Trump’s New Tariffs, and a Town Hall Showdown",
-    "link": "https://www.nytimes.com/2025/08/07/podcasts/the-headlines/trump-tariffs-town-hall-ozempic.html",
-    "summary": "Plus, inside the weight-loss drug wars."
-  },
-  {
-    "title": "For Putin, Trump Summit Is Key to Securing Ukraine Goals",
-    "link": "https://www.nytimes.com/2025/08/07/world/europe/putin-trump-russia-ukraine-summit.html",
-    "summary": "The Russian leader sees direct talks with Trump as essential to achieving his ultimate aims in Ukraine."
-  },
-  {
-    "title": "Trump and Putin to Meet in ‘Coming Days,’ Kremlin Aide Confirms",
-    "link": "https://www.nytimes.com/2025/08/07/world/europe/trump-putin-ukraine.html",
-    "summary": "A summit between President Trump and President Vladimir V. Putin would come as the United States has urged Russia to agree to a cease-fire in Ukraine or face new sanctions."
-  },
-  {
-    "title": "Ukrainians Greet Planned Trump-Putin Summit With Skepticism",
-    "link": "https://www.nytimes.com/2025/08/07/us/politics/trump-putin-meeting-ukraine-reaction.html",
-    "summary": "Despite longing for an end to Russia’s invasion, few believe that a meeting between President Trump and President Vladimir V. Putin is likely to deliver a peace plan they can accept."
-  },
-  {
-    "title": "Trump Administration Begins to Strip Federal Workers of Union Protections",
-    "link": "https://www.nytimes.com/2025/08/06/us/politics/trump-federal-workers-unions.html",
-    "summary": "The Department of Veterans Affairs appeared to be the first agency to begin terminating union contracts, affecting more than 400,000 workers."
-  },
-  {
-    "title": "A Prosecutor Took on MS-13 and Violent Crime. Trump Fired Her Anyway.",
-    "link": "https://www.nytimes.com/2025/08/07/nyregion/desiree-grace-new-jersey-us-attorney.html",
-    "summary": "Desiree Grace was a casualty of the struggle between the White House and district judges over who would lead the U.S. attorney’s office in New Jersey."
-  },
-  {
-    "title": "Wind and Solar Projects Stall as Trump Cracks Down on Renewables",
-    "link": "https://www.nytimes.com/2025/08/07/climate/trump-wind-solar-power-projects.html",
-    "summary": "Federal agencies have recently issued a barrage of restrictions that could halt construction of solar and wind farms on public and private lands."
-  },
-  {
-    "title": "Trump’s Deals With Top Colleges May Give Rich Applicants a Bigger Edge",
-    "link": "https://www.nytimes.com/2025/08/07/upshot/trump-college-admissions-race-wealth.html",
-    "summary": "The public release of data on test scores and race could wind up making wealth even more influential in admissions."
-  },
-  {
-    "title": "Trump’s Redistricting Campaign Tests His Power in the States",
-    "link": "https://www.nytimes.com/2025/08/06/us/politics/trump-republicans-states-redistricting.html",
-    "summary": "The effort by President Trump and his allies is the latest example of them trying to rewrite the rules to squeeze out every possible political advantage."
-  },
-  {
-    "title": "How a Self-Described Wallflower Came to Lead the Texas Democrats’ Walkout",
-    "link": "https://www.nytimes.com/2025/08/07/us/politics/texas-redistricting-gene-wu.html",
-    "summary": "State Representative Gene Wu represents a racially diverse corner of Houston when he’s not defending juveniles in court. The battle over redistricting has pushed him into the national spotlight."
-  },
-  {
-    "title": "Republicans Raise the Pressure on Texas Democrats to End Their Walkout",
-    "link": "https://www.nytimes.com/2025/08/06/us/politics/texas-redistricting.html",
-    "summary": "The political and legal threats against Democrats who left Texas to protest a redrawn political map have gone further and faster than many anticipated."
-  },
-  {
-    "title": "Where the Redistricting Wars Might Go After Texas",
-    "link": "https://www.nytimes.com/2025/08/06/us/politics/redistricting-states.html",
-    "summary": "Texas Democrats may have bought their party some time with their walkout, but both parties are mobilizing to redraw U.S. House maps ahead of the midterms."
-  },
-  {
-    "title": "The Insider’s Guide to San Francisco’s A.I. Boom",
-    "link": "https://www.nytimes.com/2025/08/04/technology/ai-boom-san-francisco.html",
-    "summary": "The city is the tech industry’s hub for artificial intelligence, 30 miles north of the home of companies like Meta and Google."
-  },
-  {
-    "title": "Swarming to San Francisco’s A.I. Boom: a New Crop of 20-Something CEOs",
-    "link": "https://www.nytimes.com/2025/08/04/technology/ai-young-ceos-san-francisco.html",
-    "summary": "Some dropped out of M.I.T., Georgetown and Stanford. Others decided not to go to college. They all say they could not afford to wait to build their own artificial intelligence start-ups."
-  },
-  {
-    "title": "Former F.D.A. Chief Backs Kennedy’s War on Ultraprocessed Food",
-    "link": "https://www.nytimes.com/2025/08/07/us/politics/fda-kennedy-ultraprocessed-food.html",
-    "summary": "Dr. David A. Kessler has outlined a legal path for Health Secretary Robert F. Kennedy Jr. to take on the food industry, while testing President Trump’s willingness to do so."
-  },
-  {
-    "title": "Measles Spreads Quickly in Rural Alberta Areas That Resisted Vaccines",
-    "link": "https://www.nytimes.com/2025/08/07/world/canada/measles-alberta-canada-vaccines.html",
-    "summary": "The virus is spreading in insular Mennonite communities. But the broader population is vulnerable as vaccine rates have fallen across the Canadian province since the Covid-19 pandemic."
-  },
-  {
-    "title": "Americans Are Eating Slightly Less Ultraprocessed Food, C.D.C. Data Shows",
-    "link": "https://www.nytimes.com/2025/08/07/well/eat/americans-are-eating-slightly-less-ultraprocessed-food-cdc-data-shows.html",
-    "summary": "Despite the small decline, ultraprocessed foods still make up the majority of the calories people consume."
+    "title": "Netanyahu Says Israel Wants to Take Military Control of All of Gaza",
+    "link": "https://www.nytimes.com/2025/08/07/world/middleeast/israel-gaza-military-offensive.html",
+    "summary": "Benjamin Netanyahu, the Israeli prime minister, made the remarks ahead of a security cabinet meeting, although military leaders are wary of expanding operations in the territory."
   },
   {
     "title": "How a Pro-Palestinian Group Fell Foul of a Long Unused U.K. Terrorism Law",
@@ -105,44 +10,24 @@
     "summary": "The protest group Palestine Action does not promote violence against people. But after it damaged military property, the British government banned it as a terrorist organization."
   },
   {
-    "title": "How a Pro-Palestinian Group Got Banned in Britain",
-    "link": "https://www.nytimes.com/video/world/europe/100000010287769/how-a-pro-palestinian-group-got-banned-in-britain.html",
-    "summary": "Palestine Action, a pro-Palestinian group known for its direct action, was banned as a terrorism group under British law. The decision followed a break-in by the group at Britain’s largest air base, causing a political scandal. Lizzie Dearden, a security reporter, explains how this has large stakes for the legacy of direct action in protest movements in Britain."
+    "title": "Trump Delayed a Medicare Change After Health Companies’ Donations",
+    "link": "https://www.nytimes.com/2025/08/07/us/politics/trump-medicare-bandages-donors.html",
+    "summary": "The president posted talking points provided by one firm that donated millions, and his administration delayed a change on coverage of pricey bandages that could have hurt the company and others like it."
   },
   {
-    "title": "Netanyahu Weighs Expanding Gaza Military Operation Despite Warnings",
-    "link": "https://www.nytimes.com/2025/08/07/world/middleeast/israel-gaza-military-offensive.html",
-    "summary": "The Israeli security cabinet is to discuss the proposal on Thursday. Critics say that extending the offensive would endanger the lives of Israeli hostages and kill more Palestinian civilians."
+    "title": "Trump Demands New U.S. Census That Excludes Undocumented Immigrants",
+    "link": "https://www.nytimes.com/2025/08/07/us/politics/trump-census-undocumented-immigrants.html",
+    "summary": "The push comes as the president and his allies are pressing Republican-led states to redraw their congressional maps to benefit their party."
   },
   {
-    "title": "Eddie Palmieri, Latin Music’s Dynamic Innovator, Dies at 88",
-    "link": "https://www.nytimes.com/2025/08/06/arts/music/eddie-palmieri-dead.html",
-    "summary": "He roped salsa into conversation with jazz, rock, funk and even modern classical music. “A new world music,” one critic said, “is being born.”"
+    "title": "As Trump Administration Plans to Burn Contraceptives, Europeans Are Alarmed",
+    "link": "https://www.nytimes.com/2025/08/07/world/europe/usaid-contraceptives-trump.html",
+    "summary": "The U.S. government intends to incinerate $9.7 million in already-purchased birth control in Belgium after U.S.A.I.D shut down. Destruction may have already started."
   },
   {
-    "title": "Eddie Palmieri’s 13 Essential Songs and Albums",
-    "link": "https://www.nytimes.com/2025/08/06/arts/music/eddie-palmieri-songs-albums.html",
-    "summary": "A native son of the Bronx, Palmieri was a crucial innovator in New York’s Afro-Caribbean music history. The pianist, composer and bandleader has died at 88."
-  },
-  {
-    "title": "It Was a Promising Addiction Treatment. Many Patients Never Got It.",
-    "link": "https://www.nytimes.com/2025/08/07/magazine/suboxone-buprenorphine-opioid-addiction-drugs.html",
-    "summary": "How political red tape and a drug company’s thirst for profits limited the reach of a drug that experts believe could have reduced the opioid epidemic’s toll."
-  },
-  {
-    "title": "‘Fleetwood Mac’ at 50: A Marvel of Serendipity and Perfectionism",
-    "link": "https://www.nytimes.com/2025/08/07/arts/music/fleetwood-mac-50th-anniversary.html",
-    "summary": "The album that turned the band into superstars is getting an anniversary rerelease that shows why it still gleams."
-  },
-  {
-    "title": "Trump’s Trade Representative: Why We Remade the Global Order",
-    "link": "https://www.nytimes.com/2025/08/07/opinion/trump-trade-tariffs.html",
-    "summary": "Tariffs were an urgent necessity. They’re already working."
-  },
-  {
-    "title": "How I Built My Ruthless Summer Reading List",
-    "link": "https://www.nytimes.com/2025/08/07/opinion/books-summer-reading-list.html",
-    "summary": "Whichever books you choose, and however you choose them, may your summer reading be satisfying, and your curating ruthless."
+    "title": "On Vaccines, RFK Jr. Has Broken Sharply With the Mainstream",
+    "link": "https://www.nytimes.com/2025/08/07/health/kennedy-vaccines-mrna-trump.html",
+    "summary": "While many officials and scientists embrace other parts of the secretary’s agenda, his stance on vaccines is alienating allies who fear a public health crisis."
   },
   {
     "title": "Targeting a Vaccine",
@@ -150,28 +35,98 @@
     "summary": "Robert F. Kennedy Jr. has halted funding for mRNA shots. We explore why."
   },
   {
-    "title": "Seth Meyers Won’t Be Distracted by Trump Fiddling on the Roof",
-    "link": "https://www.nytimes.com/2025/08/07/arts/television/seth-meyers-trump-roof.html",
-    "summary": "Meyers said that if he saw Trump on his roof, he’d assume the president “was pulling a reverse Santa Claus. — you know, going house to house taking toys away from kids.”"
+    "title": "Former F.D.A. Chief Backs RFK Jr.’s War on Ultraprocessed Food",
+    "link": "https://www.nytimes.com/2025/08/07/us/politics/fda-kennedy-ultraprocessed-food.html",
+    "summary": "Dr. David A. Kessler has outlined a legal path for Health Secretary Robert F. Kennedy Jr. to take on the food industry, while testing President Trump’s willingness to do so."
   },
   {
-    "title": "D.N.C. Pledges $1.5 Million to New Jersey Governor’s Race",
-    "link": "https://www.nytimes.com/2025/08/07/us/politics/new-jersey-governor-democrats.html",
-    "summary": "The cash infusion is a rare move by the Democratic National Committee in deep-blue New Jersey, where Representative Mikie Sherrill narrowly leads her G.O.P. opponent."
+    "title": "Swiss Businesses Fear Being ‘Annihilated’ by One of the World’s Highest Tariffs",
+    "link": "https://www.nytimes.com/2025/08/07/business/economy/swizterland-tariffs-trump.html",
+    "summary": "Goods shipped from the country face a 39% tariff in the U.S., which companies warn will have dire consequences if President Trump cannot be quickly dissuaded."
   },
   {
-    "title": "Here’s What France’s Largest Wildfire in Decades Looks Like",
-    "link": "https://www.nytimes.com/2025/08/07/world/europe/france-fire-aude.html",
-    "summary": "Prime Minister François Bayrou described the nearly 40,000-acre fire, which has killed one person, as a “catastrophe on an unprecedented scale.”"
+    "title": "Trump’s Tariffs Could Raise Prices on Many Consumer Goods",
+    "link": "https://www.nytimes.com/2025/08/07/business/economy/trump-tariffs-prices-consumers.html",
+    "summary": "The tariffs are driving up prices on everyday goods as businesses warn they can no longer absorb costs, leaving consumers to foot the bill."
+  },
+  {
+    "title": "Eleven Women, Nine Dogs, Not Much Drama (and No Guys)",
+    "link": "https://www.nytimes.com/2025/08/07/well/eleven-women-nine-dogs-not-much-drama-and-no-guys.html",
+    "summary": "These retired women in Texas have been through infertility, illness, layoffs, addiction and disappointing marriages. Now they are trying to create a utopia just for themselves."
+  },
+  {
+    "title": "Cornyn Says F.B.I. Will Help Find Texas Lawmakers Who Left State",
+    "link": "https://www.nytimes.com/2025/08/07/us/politics/texas-redistricting-cornyn-fbi.html",
+    "summary": "The senator said the agency had agreed to help locate Democratic state legislators who departed to try to block a vote on congressional maps. Democrats said federal law enforcement was being misused."
+  },
+  {
+    "title": "State Representative Gene Wu Is Leading the Texas’ Redistricting Fight",
+    "link": "https://www.nytimes.com/2025/08/07/us/politics/texas-redistricting-gene-wu.html",
+    "summary": "State Representative Gene Wu represents a racially diverse corner of Houston when he’s not defending juveniles in court. The battle over redistricting has pushed him into the national spotlight."
+  },
+  {
+    "title": "For Putin, Trump Summit Is Key to Securing Ukraine Goals",
+    "link": "https://www.nytimes.com/2025/08/07/world/europe/putin-trump-russia-ukraine-summit.html",
+    "summary": "The Russian leader sees direct talks with Trump as essential to achieving his ultimate aims in Ukraine."
+  },
+  {
+    "title": "Cuomo Tells Business Leaders He Doesn’t ‘Personally’ Want to Fight Trump",
+    "link": "https://www.nytimes.com/2025/08/07/nyregion/cuomo-trump-mamdani-mayor.html",
+    "summary": "Former Gov. Andrew M. Cuomo’s remarks about President Trump came just before The Times’s disclosure that he had spoken to Mr. Trump about the race."
+  },
+  {
+    "title": "‘Fleetwood Mac’ at 50: A Marvel of Serendipity and Perfectionism",
+    "link": "https://www.nytimes.com/2025/08/07/arts/music/fleetwood-mac-50th-anniversary.html",
+    "summary": "The album that turned the band into superstars is getting an anniversary rerelease that shows why it still gleams."
+  },
+  {
+    "title": "The Rise of Silicon Valley’s Techno-Religion",
+    "link": "https://www.nytimes.com/2025/08/04/technology/rationalists-ai-lighthaven.html",
+    "summary": "The Rationalists, a community focused on the risks of artificial intelligence, regularly gather with tech figures and other like-minded people in a complex that covers much of a city block."
+  },
+  {
+    "title": "OpenAI Unveils GPT-5, New AI Model, to ChatGPT Users",
+    "link": "https://www.nytimes.com/2025/08/07/technology/openai-chatgpt-gpt-5.html",
+    "summary": "The A.I. start-up said its new flagship technology was faster, more accurate and less likely to make stuff up."
+  },
+  {
+    "title": "Right-Wing Influence Shaped the Sydney Sweeney Ad Debate",
+    "link": "https://www.nytimes.com/2025/08/07/business/sydney-sweeney-ad-right-wing-media.html",
+    "summary": "Right-wing commentators suggested there was widespread criticism of Ms. Sweeney over her new ad campaign. There wasn’t, at least at first."
+  },
+  {
+    "title": "Sallie Bingham, Author at the Center of a Newspaper Drama, Dies at 88",
+    "link": "https://www.nytimes.com/2025/08/07/business/media/sallie-bingham-dead.html",
+    "summary": "A novelist and memoirist, she famously clashed with her brother, leading to the fall of a Kentucky publishing dynasty that her paternal grandfather established in 1918."
+  },
+  {
+    "title": "Judges Are Under Threat. This Is No Way to Run a Country.",
+    "link": "https://www.nytimes.com/2025/08/07/opinion/judges-courts-threats-fear.html",
+    "summary": "Federal judges are under threat across the nation."
+  },
+  {
+    "title": "The Next Parenting Trend Starts Before Conception",
+    "link": "https://www.nytimes.com/2025/08/07/opinion/genetics-children-noor-siddiqui.html",
+    "summary": "For as little as $2,500, you can choose your future baby. Should you?"
+  },
+  {
+    "title": "Perito Moreno Glacier Is Thinning Faster Than Expected, Study Shows",
+    "link": "https://www.nytimes.com/2025/08/07/climate/argentina-perito-moreno-glacier.html",
+    "summary": "After holding steady for decades, the beloved Perito Moreno has thinned considerably since 2019, scientists said."
+  },
+  {
+    "title": "Skydance Takes Over Paramount, and a New Era Begins",
+    "link": "https://www.nytimes.com/2025/08/07/business/media/skydance-paramount-merger.html",
+    "summary": "The merger catapults new power players to the top of Hollywood and ends a tortuous process that has lasted well over a year."
+  },
+  {
+    "title": "The Atlantic Hurricane Season May Be About to Intensify",
+    "link": "https://www.nytimes.com/2025/08/07/weather/atlantic-hurricane-season-forecast-update-noaa.html",
+    "summary": "Experts at NOAA updated their prediction for the Atlantic on Thursday. Forecasters say there could be up to nine hurricanes before the end of November."
   },
   {
     "title": "How Ozempic Maker Novo Nordisk Lost Its Shine",
     "link": "https://www.nytimes.com/2025/08/07/business/ozempic-wegovy-novo-nordisk-decline.html",
     "summary": "The pioneering Danish drugmaker was once the most valuable company in Europe, but analysts say a number of missteps reversed its fortunes."
-  },
-  {
-    "title": "Federal Agents in L.A. Conduct a Big Immigration Raid at a Home Depot",
-    "link": "https://www.nytimes.com/2025/08/06/us/los-angeles-immigration-raid.html",
-    "summary": "A rented Penske truck was used to ferry agents to the Home Depot where the raid was conducted, days after an appeals court upheld an order limiting some enforcement tactics."
   }
 ]

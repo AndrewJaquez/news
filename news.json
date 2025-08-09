@@ -1,33 +1,73 @@
 [
   {
+    "title": "How a Top Mexican Cartel Smuggles Fentanyl to the U.S.",
+    "link": "https://www.nytimes.com/2025/08/09/world/americas/fentanyl-us-mexico-route-cartel-smuggling.html",
+    "summary": "New York Times reporters documented how fentanyl was concealed by Mexico’s most powerful criminal syndicate, which is adapting in the face of a crackdown by two governments."
+  },
+  {
+    "title": "Mexico’s President Says U.S. Forces Are Unwelcome in Her Country",
+    "link": "https://www.nytimes.com/2025/08/08/world/americas/mexico-trump-military-cartels.html",
+    "summary": "The Mexican government thought it had turned a corner in cooperating with the Trump administration on combating the cartels, having launched an aggressive crackdown of its own."
+  },
+  {
     "title": "Trump Says He Will Meet With Putin in Alaska Next Week",
     "link": "https://www.nytimes.com/2025/08/08/us/politics/trump-russia-ukraine-deal.html",
     "summary": "Mr. Trump also suggested that a peace deal between Russia and Ukraine would include “some swapping of territories,” signaling that the U.S. may join Russia in trying to compel Ukraine to cede land."
   },
   {
-    "title": "What Putin Hopes to Gain From a Summit With Trump",
-    "link": "https://www.nytimes.com/2025/08/08/world/europe/putin-trump-summit-ukraine.html",
-    "summary": "The American leader has agreed to a meeting with the Russian president in Alaska next Friday to discuss ending the war in Ukraine."
+    "title": "Zelensky Rejects Trump’s Suggestion That Ukraine Swap Territory With Russia",
+    "link": "https://www.nytimes.com/2025/08/09/world/europe/zelensky-trump-ukraine-russia.html",
+    "summary": "The Ukrainian leader’s blunt comments risk angering President Trump, who has made a peace deal between Ukraine and Russia one of his signature foreign policy goals."
   },
   {
-    "title": "India’s Modi Left Soul-Searching After Failed Courtships of Xi and Trump",
-    "link": "https://www.nytimes.com/2025/08/08/world/asia/modi-india-trump-china-tariffs.html",
-    "summary": "The collapse of the prime minister’s high-stakes efforts to transform ties with the world’s two superpowers has exposed the limits of India’s leverage."
+    "title": "Russia Goes After Ukraine With Distant Strikes and New Tactics",
+    "link": "https://www.nytimes.com/2025/08/09/world/europe/russia-ukraine-frontline.html",
+    "summary": "Assaults on Ukraine have been intensifying even as President Trump has threatened new sanctions on Moscow, and now is preparing to meet with Russia’s leader."
   },
   {
-    "title": "Trump Just Shrugs as Kennedy Undermines His Vaccine Legacy",
-    "link": "https://www.nytimes.com/2025/08/08/us/politics/trump-kennedy-vaccines.html",
-    "summary": "President Trump’s laissez-faire approach is notable, given that the development of the Covid vaccine was seen as one of his first term’s most notable achievements."
+    "title": "Flattery, Lobbyists and a Business Deal: Crypto’s Richest Man Campaigns for a Pardon",
+    "link": "https://www.nytimes.com/2025/08/09/us/politics/changpeng-zhao-pardon-trump.html",
+    "summary": "A sophisticated operation is pushing President Trump to forgive Changpeng Zhao, which would boost the chances for his company, Binance, to break into the U.S. market."
   },
   {
-    "title": "Trump Is Removing Billy Long as the I.R.S. Head 2 Months After He Was Confirmed",
-    "link": "https://www.nytimes.com/2025/08/08/us/politics/trump-billy-long-irs-commissioner.html",
-    "summary": "Billy Long, a former Republican congressman, will no longer serve as the tax agency’s head. Treasury Secretary Scott Bessent will oversee the agency as acting commissioner."
+    "title": "This Federal Judge Is the ‘Tip of the Spear’ of Trump-Era Conservatism",
+    "link": "https://www.nytimes.com/2025/08/09/us/judge-ho-trump-border.html",
+    "summary": "Judge James C. Ho has recast the role of jurist as a vociferous combatant in the culture wars. Could that be exactly what Trump is looking for?"
   },
   {
-    "title": "Trump Officials Press Case Against Harvard, and Add New Investigation",
-    "link": "https://www.nytimes.com/2025/08/08/us/trump-harvard-patent-investigation-international-students.html",
-    "summary": "The administration doubled down against Harvard, asserting that rising violent crime on campus meant the school should not host international students. It will also review the school’s patents."
+    "title": "Trump Wants Admissions Data on Grades and Race, but Who Will Collect It?",
+    "link": "https://www.nytimes.com/2025/08/09/us/trump-admissions-data-grades-race-education-department-layoffs.html",
+    "summary": "The Trump administration has fired nearly everyone who worked at the federal statistics agency that would collect the data the government is seeking."
+  },
+  {
+    "title": "Trump Cracks Down on Bird Deaths, but Only From Wind Turbines",
+    "link": "https://www.nytimes.com/2025/08/09/climate/trump-bird-deaths-wind-turbines.html",
+    "summary": "Critics accused the administration of a double standard, trying to stop wind projects because of potential bald eagle deaths while easing rules for oil and gas companies."
+  },
+  {
+    "title": "There’s Barely Any Food in Gaza, and Barely Any Cash to Buy It",
+    "link": "https://www.nytimes.com/2025/08/09/world/middleeast/gaza-cash-crisis.html",
+    "summary": "Palestinians who fear being killed or seriously injured during rushes to obtain aid are being forced to pay exorbitant fees to take out money to buy food."
+  },
+  {
+    "title": "Israel’s New Plan to Take Gaza City",
+    "link": "https://www.nytimes.com/video/world/100000010330865/israels-new-plan-to-take-gaza-city.html",
+    "summary": "Prime Minister Benjamin Netanyahu faced opposition at home and abroad on Friday as his office said that the Israeli military would take control of Gaza City. Adam Rasgon, a reporter for The New York Times in Jerusalem covering Israeli and Palestinian affairs, describes what’s happening."
+  },
+  {
+    "title": "How Three Journalists Tracked the Deadly Aid Crisis in Gaza",
+    "link": "https://www.nytimes.com/2025/08/08/insider/gaza-aid-crisis-hunger-starvation-israel.html",
+    "summary": "Interviews, data, witness footage, satellite imagery, photography and more helped the reporters capture a deteriorating situation."
+  },
+  {
+    "title": "The Comedian Robby Hoffman Steals Scenes in ‘Hacks’ and ‘Dying for Sex’",
+    "link": "https://www.nytimes.com/2025/08/09/style/robby-hoffman-hacks-dying-for-sex.html",
+    "summary": "Robby Hoffman, who made her way from a Hasidic community in Brooklyn all the way to Hollywood, has stood out in small roles in “Hacks” and “Dying for Sex.”"
+  },
+  {
+    "title": "The Head of the A.D.L. on Antisemitism, Anti-Zionism and Free Speech",
+    "link": "https://www.nytimes.com/2025/08/09/magazine/jonathan-greenblatt-interview.html",
+    "summary": "How Jonathan Greenblatt thinks about the line between legitimate protest and anti-Jewish hate."
   },
   {
     "title": "Suspect and Officer Are Dead After Shooting Outside CDC Near Emory University in Atlanta",
@@ -35,9 +75,14 @@
     "summary": "The gunman fired at the headquarters of the Centers for Disease Control and Prevention because he blamed the Covid vaccine for his maladies, an official said."
   },
   {
-    "title": "What Lobsters and Chickens Reveal About Europe’s Trade Strategy",
-    "link": "https://www.nytimes.com/2025/08/09/world/europe/trump-tariffs-europe-trade-lobster-beef.html",
-    "summary": "The European Union struck a trade deal that protected political priorities, like chicken and beef standards, while allowing headline-grabbing concessions. Consider lobsters."
+    "title": "After a Young Arts Patron’s Donation Did Not Clear, He Was Found Dead",
+    "link": "https://www.nytimes.com/2025/08/09/arts/music/met-opera-frick-donor-death.html",
+    "summary": "Shortly before Matthew Christopher Pietras’s body was discovered, the Metropolitan Opera had been told that the $10 million he had just donated did not belong to him."
+  },
+  {
+    "title": "A Small European Nation Has a Big Explosions Problem",
+    "link": "https://www.nytimes.com/2025/08/09/world/europe/explosions-amsterdam-netherlands.html",
+    "summary": "Three bombs go off on an average night in the Netherlands, blowing out windows and sometimes causing injury or death. “It is not normal,” a security guard says."
   },
   {
     "title": "The Tycoons Who Profit From India’s Thirst for Russian Oil",
@@ -45,29 +90,34 @@
     "summary": "President Trump’s new front in the trade war against India focuses on a pair of enormous refineries with extraordinary owners."
   },
   {
-    "title": "Why Are Tariffs on Switzerland So High?",
-    "link": "https://www.nytimes.com/2025/08/08/business/tariffs-switzerland-trump.html",
-    "summary": "President Trump sees Switzerland as doing too little to address its trade deficit with the U.S., a gap he focused on as he imposed a 39% tariff on Swiss goods."
+    "title": "Trump Tariffs Spur Layoffs and Price Increases as Companies Face Tough Choices",
+    "link": "https://www.nytimes.com/2025/08/09/business/trump-tariffs-prices-layoffs.html",
+    "summary": "Businesses that had been in a holding pattern during President Trump’s evolving trade war are starting to plan ahead with more conviction."
   },
   {
-    "title": "An Unusual Soccer Finale in Italy Reveals Libya’s Frailties",
-    "link": "https://www.nytimes.com/2025/08/09/sports/an-unusual-soccer-finale-in-italy-reveals-libyas-frailties.html",
-    "summary": "With two governments, and two soccer leagues, Libya is holding its soccer championship in Italy for a second year. Volatile politics and fans follow."
+    "title": "Car Companies Are Paying Tariffs So You Don’t Have To",
+    "link": "https://www.nytimes.com/2025/08/09/business/trump-tariffs-car-prices.html",
+    "summary": "But automakers can’t absorb the cost forever and will soon begin to raise new car prices, analysts say."
   },
   {
-    "title": "Is Kim Jong-un Preparing a Successor?",
-    "link": "https://www.nytimes.com/video/world/asia/100000010324151/is-kim-jong-un-preparing-a-successor.html",
-    "summary": "Kim Jong-un, the leader of North Korea, might be preparing his young daughter, Kim Ju-ae, to become his successor. Choe Sang-Hun, the ​Seoul bureau chief for The New York Times, analyzed North Korean state propaganda to find out."
+    "title": "What Lobsters and Chickens Reveal About Europe’s Trade Strategy",
+    "link": "https://www.nytimes.com/2025/08/09/world/europe/trump-tariffs-europe-trade-lobster-beef.html",
+    "summary": "The European Union struck a trade deal that protected political priorities, like chicken and beef standards, while allowing headline-grabbing concessions. Consider lobsters."
   },
   {
-    "title": "William H. Webster, Who Ran Both the F.B.I. and the C.I.A., Dies at 101",
-    "link": "https://www.nytimes.com/2025/08/08/us/william-h-webster-dead.html",
-    "summary": "A former federal judge, he first came to the F.B.I. just as two of the worst spies in American history were running rampant."
+    "title": "President Midas’ Terrible Touch",
+    "link": "https://www.nytimes.com/2025/08/09/opinion/trump-design-rococo-gold.html",
+    "summary": "He never promised us a Rose Garden."
   },
   {
-    "title": "Texas Attorney General Moves to Oust Democrats From Office Over Walkout",
-    "link": "https://www.nytimes.com/2025/08/08/us/politics/texas-redistricting-democrats.html",
-    "summary": "Democratic lawmakers maintained their walkout to thwart a Republican gerrymander, prompting Ken Paxton to ask the state’s Supreme Court to remove 13 of them from their seats."
+    "title": "Trump Is a ‘Totem for Wealth.’ What Happens if the Economy Crashes?",
+    "link": "https://www.nytimes.com/2025/08/09/opinion/trump-bls-texas-economy.html",
+    "summary": "Three Opinion writers on Trump’s most recent power grabs."
+  },
+  {
+    "title": "Timely Manner",
+    "link": "https://www.nytimes.com/2025/08/09/briefing/timely-manner.html",
+    "summary": "How can we balance getting things done while allowing for serendipity? The answer may be in tinkering with our “time personalities.”"
   },
   {
     "title": "At ‘Alligator Alcatraz,’ Did a Detainee Just Faint or Need CPR?",
@@ -75,48 +125,13 @@
     "summary": "Homeland Security says a detainee fainted. But other accounts say the man was unconscious. One witness said the guards did not seem to know how to check his pulse."
   },
   {
-    "title": "‘Alligator Alcatraz’ in the Florida Everglades Is Testing Environmental Law",
-    "link": "https://www.nytimes.com/2025/08/08/climate/alligator-alcatraz-everglades-airport.html",
-    "summary": "Officials building a Florida detention center appear to be skipping environmental reviews made mandatory decades ago after a fight over an airport at the very same spot."
+    "title": "3 Injured in Times Square Shooting",
+    "link": "https://www.nytimes.com/2025/08/09/nyregion/times-square-nyc-shooting.html",
+    "summary": "One person was in custody after a shooting left three people hospitalized, the police said."
   },
   {
-    "title": "ICE Is Holding Migrants in Crowded and Unsanitary Cells, Suit Claims",
-    "link": "https://www.nytimes.com/2025/08/08/nyregion/immigration-holding-cells-lawsuit-aclu.html",
-    "summary": "The Immigration and Customs Enforcement facilities in New York have been used to detain migrants for days. U.S. officials have denied that the conditions are poor."
-  },
-  {
-    "title": "Astronaut James Lovell, Commander of Apollo 13, Dies at 97",
-    "link": "https://www.nytimes.com/2025/08/08/science/space/james-a-lovell-jr-dead.html",
-    "summary": "He led the three-man crew that survived a near catastrophic explosion in space in 1970, and was later immortalized by Tom Hanks in the movie “Apollo 13.”"
-  },
-  {
-    "title": "‘Hunting Wives,’ a Raunchy and Pulpy Drama, Is Netflix’s Most Popular Show",
-    "link": "https://www.nytimes.com/2025/08/08/style/hunting-wives-netflix.html",
-    "summary": "The drama has all the ingredients of a binge-watch: culture wars, murder and sex."
-  },
-  {
-    "title": "Seed Oils Are Fine, Really",
-    "link": "https://www.nytimes.com/2025/08/08/opinion/seed-oils-nutrition-ingredients-science.html",
-    "summary": "Nutrition science demonizing individual foods or ingredients is often based on flawed science and misses the bigger picture."
-  },
-  {
-    "title": "Akiko Takakura Survived Atomic Bombing. This is Her Story.",
-    "link": "https://www.nytimes.com/2023/04/04/opinion/hiroshima-atomic-bomb-survivor.html",
-    "summary": "Akiko Takakura survived the atomic bombing of Hiroshima. This is her story, in her words."
-  },
-  {
-    "title": "Suspect in Deadly Montana Bar Shooting Is Captured, Official Says",
-    "link": "https://www.nytimes.com/2025/08/08/us/montana-shooting-suspect-captured-manhunt.html",
-    "summary": "An Army veteran wanted in connection with the killing of four people at a bar in the town of Anaconda was taken into custody on Friday after an eight-day manhunt."
-  },
-  {
-    "title": "Thousands of Dollars Worth of Labubus Stolen From California Store",
-    "link": "https://www.nytimes.com/2025/08/08/us/labubu-dolls-stolen-california.html",
-    "summary": "Demand for the trendy dolls, elf-like creatures with nine-tooth grins, has people lining up for hours to buy them."
-  },
-  {
-    "title": "‘Chimp Crazy’ Star Gets Nearly 4 Years in Prison for Lying About Ape’s Death",
-    "link": "https://www.nytimes.com/2025/08/08/us/chimp-crazy-tonia-haddix-prison-sentence.html",
-    "summary": "Prosecutors said that Tonia Haddix perjured herself to avoid giving up custody of Tonka, who had appeared in the movies ‘George of the Jungle’ and ‘Buddy.’"
+    "title": "William H. Webster, Who Ran Both the F.B.I. and the C.I.A., Dies at 101",
+    "link": "https://www.nytimes.com/2025/08/08/us/william-h-webster-dead.html",
+    "summary": "A former federal judge, he first came to the F.B.I. just as two of the worst spies in American history were running rampant."
   }
 ]

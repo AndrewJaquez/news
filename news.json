@@ -1,40 +1,5 @@
 [
   {
-    "title": "U.S. Government to Take Cut of Nvidia and AMD A.I. Chip Sales to China",
-    "link": "https://www.nytimes.com/2025/08/10/technology/us-government-nvidia-amd-chips-china.html",
-    "summary": "In a highly unusual arrangement with President Trump, the companies are expected to kick 15 percent of what they make in China to the U.S. government."
-  },
-  {
-    "title": "What the Nvidia Chip Payoff Deal Says About Trump’s Trade War",
-    "link": "https://www.nytimes.com/2025/08/11/business/dealbook/nvidia-amd-chip-payoff-trump.html",
-    "summary": "A deal for Nvidia and AMD to give the Trump administration a cut of chip sales to China raises questions about national security and trade policy goals."
-  },
-  {
-    "title": "China’s Automakers Are Taking a Shortcut to European Markets",
-    "link": "https://www.nytimes.com/2025/08/11/business/china-electric-vehicles-red-sea.html",
-    "summary": "Ships carrying Chinese cars are using the Red Sea and Suez Canal even as other vessels still sail around Africa in fear of attacks by the Houthi militia."
-  },
-  {
-    "title": "Small Businesses Brace for the Punishing Side Effects of Trump’s Tariffs",
-    "link": "https://www.nytimes.com/2025/08/11/business/economy/tariffs-small-businesses.html",
-    "summary": "Large firms with big bank balances, workers already in jobs and households near the top of the income ladder will have an easier time navigating the economic waves."
-  },
-  {
-    "title": "Trump Prepares to Meet Putin, and Al Jazeera Says Israel Killed Its Journalists in Gaza",
-    "link": "https://www.nytimes.com/2025/08/11/podcasts/the-headlines/trump-putin-israel-journalists-gaza.html",
-    "summary": "Plus, a Labubu heist."
-  },
-  {
-    "title": "A Sidelined Zelensky Warns That Russia Will Try to Deceive the U.S.",
-    "link": "https://www.nytimes.com/2025/08/11/world/europe/ukraine-russia-putin-zelensky-alaska-talks.html",
-    "summary": "Ukraine fears that the Kremlin will try to convince President Trump at U.S.-Russian talks in Alaska that Ukraine, not Russia, is the obstacle to peace."
-  },
-  {
-    "title": "Vance Says U.S. Is Working for a Meeting With Trump, Putin and Zelensky",
-    "link": "https://www.nytimes.com/2025/08/10/us/politics/jd-vance-zelensky-trump-putin.html",
-    "summary": "The vice president said the White House was trying to determine “when these three leaders could sit down and discuss an end to this conflict.”"
-  },
-  {
     "title": "The Harvard-Trained Lawyer Behind Trump’s Fight Against Top Universities",
     "link": "https://www.nytimes.com/2025/08/11/us/politics/harvard-trump-may-mailman.html",
     "summary": "May Mailman is credited as an animating force behind a strategy that has intimidated independent institutions and undercut years of medical and scientific research."
@@ -50,24 +15,59 @@
     "summary": "The system for compensating people injured by vaccines needs significant reform. But the health secretary could alter it in ways that ultimately reduce vaccine access for everyone."
   },
   {
+    "title": "Judge Will Not Unseal Grand Jury Papers in Epstein and Maxwell Cases",
+    "link": "https://www.nytimes.com/2025/08/11/nyregion/jeffrey-epstein-ghislaine-maxwell-transcripts.html",
+    "summary": "President Trump has tried to subdue criticism and conspiracy theories by pushing to disclose the transcripts from the cases of Jeffrey Epstein, who abused teenage girls, and Ghislaine Maxwell, who assisted him."
+  },
+  {
+    "title": "How Epstein Mania Finally Let Democrats Talk (and Meme) Like the Right",
+    "link": "https://www.nytimes.com/2025/08/06/magazine/epstein-democrats-memes-trolling.html",
+    "summary": "Hoping to widen the rift between Trump and his supporters, a few Democrats are dabbling in the kind of messaging that usually punches left."
+  },
+  {
+    "title": "How Rick Perry Became a Fervent Advocate for the Psychedelic Ibogaine",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/rick-perry-drug-psychedelics-ibogaine.html",
+    "summary": "The former Texas governor and Trump energy secretary has now dedicated his life to promoting the powerful psychedelic ibogaine."
+  },
+  {
+    "title": "He Announced His Intention to Die. The Dinner Invitations Rolled In.",
+    "link": "https://www.nytimes.com/2025/08/10/business/last-supper-joseph-awuah-darko.html",
+    "summary": "On Instagram, the artist Joseph Awuah-Darko asked the world to invite him to dinner before he ended his life. More than 150 meals later, he is still going."
+  },
+  {
+    "title": "Israel-Qatar Tensions Escalate After Israel Kills Al Jazeera Journalists",
+    "link": "https://www.nytimes.com/2025/08/11/world/middleeast/israel-qatar-al-jazeera-killings.html",
+    "summary": "Israel and Qatar, which backs Al Jazeera and has hosted Hamas leaders, have long had a relationship marked by both public hostility and quiet collaboration."
+  },
+  {
     "title": "Israel’s Plan for Gaza City Is Still Unclear",
     "link": "https://www.nytimes.com/2025/08/11/world/middleeast/israel-gaza-netanyahu.html",
-    "summary": "The Israeli government said last week that it wanted to capture Gaza City, but how and when it will proceed has yet to be decided."
+    "summary": "There have been vague statements by Prime Minister Benjamin Netanyahu, but there is little clarity over the operation."
   },
   {
-    "title": "Israeli Strike Kills 4 Al Jazeera Journalists, Network Says",
-    "link": "https://www.nytimes.com/2025/08/10/world/middleeast/israel-gaza-journalists-killed.html",
-    "summary": "Anas al-Sharif, a well-known correspondent, was among those killed. Israel said it had targeted Mr. al-Sharif, claiming he worked for Hamas, which he had denied."
+    "title": "Tariffs on China Set to Rise Sharply Tuesday if No Deal Is Reached",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
+    "summary": "President Trump has yet to formally sign off on an agreement to extend an economic cease-fire with China, which expires on Tuesday."
   },
   {
-    "title": "Australia to Recognize Palestinian Statehood",
-    "link": "https://www.nytimes.com/2025/08/11/world/australia/australia-palestine-statehood.html",
-    "summary": "After similar announcements by France, Britain and Canada, Australia said it would act at the United Nations General Assembly session next month."
+    "title": "Small Businesses Brace for the Punishing Side Effects of Trump’s Tariffs",
+    "link": "https://www.nytimes.com/2025/08/11/business/economy/tariffs-small-businesses.html",
+    "summary": "Large firms with big bank balances, workers already in jobs and households near the top of the income ladder will have an easier time navigating the economic waves."
   },
   {
-    "title": "For Lupita and Junior Nyong’o, ‘Twelfth Night’ Is Child’s Play, Revisited",
-    "link": "https://www.nytimes.com/2025/08/11/theater/lupita-nyongo-twelfth-night-shakespeare-delacorte.html",
-    "summary": "The siblings “really enjoyed make-believe” as kids. Now they are playing Shakespeare under the stars at the newly reopened Delacorte Theater in Central Park."
+    "title": "U.S. Government to Take Cut of Nvidia and AMD A.I. Chip Sales to China",
+    "link": "https://www.nytimes.com/2025/08/10/technology/us-government-nvidia-amd-chips-china.html",
+    "summary": "In a highly unusual arrangement with President Trump, the companies are expected to kick 15 percent of what they make in China to the U.S. government."
+  },
+  {
+    "title": "What the Nvidia Chip Payoff Deal Says About Trump’s Trade War",
+    "link": "https://www.nytimes.com/2025/08/11/business/dealbook/nvidia-amd-chip-payoff-trump.html",
+    "summary": "A deal for Nvidia and AMD to give the Trump administration a cut of chip sales to China raises questions about national security and trade policy goals."
+  },
+  {
+    "title": "A Sidelined Zelensky Warns That Russia Will Try to Deceive the U.S.",
+    "link": "https://www.nytimes.com/2025/08/11/world/europe/ukraine-russia-putin-zelensky-alaska-talks.html",
+    "summary": "Ukraine fears that the Kremlin will try to convince President Trump at U.S.-Russian talks in Alaska that Ukraine, not Russia, is the obstacle to peace."
   },
   {
     "title": "Why A.I. Should Make Parents Rethink Posting Photos of Their Children Online",
@@ -80,19 +80,19 @@
     "summary": "When Helene disconnected my part of North Carolina for weeks, my neighbors and I had to relearn old ways of knowing what was happening — and what wasn’t."
   },
   {
-    "title": "Will Judges Approve Trump’s Choice for U.S. Attorney in Manhattan?",
-    "link": "https://www.nytimes.com/2025/08/11/nyregion/jay-clayton-attorney-doj-trump.html",
-    "summary": "Jay Clayton, the interim U.S. attorney for the Southern District, was named on an interim basis after Senator Chuck Schumer blocked his nomination."
+    "title": "America’s Clean Hydrogen Dreams Are Fading, Again",
+    "link": "https://www.nytimes.com/2025/08/11/business/energy-environment/hydrogen-clean-energy.html",
+    "summary": "The market for the clean-burning fuel remains nascent, costs are rising, and Congress just put a lucrative tax credit out of reach for many companies."
   },
   {
-    "title": "Mamdani Will Visit 5 Boroughs on Anti-Trump Tour",
-    "link": "https://www.nytimes.com/2025/08/11/nyregion/mamdani-trump-cuomo-mayor-nyc.html",
-    "summary": "Zohran Mamdani, the Democratic candidate for mayor, will seek to highlight the ways he believes President Trump’s agenda hurts New York City."
+    "title": "Ford Rejigs E.V. Plans After Suffering Billions in Losses",
+    "link": "https://www.nytimes.com/2025/08/11/business/ford-electric-vehicles.html",
+    "summary": "Ford, which once had a lead on other established automakers, said on Monday that it will use new materials and methods to lower the costs of electric vehicles."
   },
   {
-    "title": "Children Were Sexually Abused in New Hampshire State Care. How Much Are They Owed?",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/new-hampshire-sexual-abuse-settlements.html",
-    "summary": "New Hampshire is backing away from a promise to pay victims hundreds of millions of dollars. Other states are also rethinking payouts to those harmed under their care."
+    "title": "As Trump Curbs Wind Farms, Orsted Plans $9.4 Billion Share Offering",
+    "link": "https://www.nytimes.com/2025/08/11/business/trump-wind-farm-orsted.html",
+    "summary": "Shares of the Danish renewable energy developer tumbled after it said it would issue more stock to raise funds instead of divesting a stake in a wind farm off the U.S. coast."
   },
   {
     "title": "A Haven for English in the Most French of North American Cities",
@@ -100,19 +100,14 @@
     "summary": "For Quebec City’s tiny English-speaking community, a former jail turned library serves as an essential sanctuary in a metropolis where the domination of French is enshrined in law."
   },
   {
-    "title": "Clashing Visions of Syria’s Future Play Out in Ancient Alleys of Damascus",
-    "link": "https://www.nytimes.com/2025/08/11/world/middleeast/syria-damascus-conservative.html",
-    "summary": "Many in the capital worry that the secular freedoms they enjoyed under the Assad regime are under threat from the new Islamist government."
-  },
-  {
     "title": "How Short-Term Thinking Is Destroying America",
     "link": "https://www.nytimes.com/2025/08/11/opinion/america-short-term-thinking.html",
     "summary": "Trump may be able to escape the consequences of his actions; the rest of us cannot."
   },
   {
-    "title": "The A.O.C. Deepfake Was Terrible. The Proposed Solution Is Delusional.",
-    "link": "https://www.nytimes.com/2025/08/11/opinion/alexandria-ocasio-cortez-deepfake-ai.html",
-    "summary": "Critical thinking is not going to save us."
+    "title": "Trump Got It Right When He Killed the De Minimis Trade Provision",
+    "link": "https://www.nytimes.com/2025/08/11/opinion/trump-trade-deminimis-china.html",
+    "summary": "The de minimis policy let China benefit at our expense."
   },
   {
     "title": "North Korea’s Next Leader?",
@@ -120,9 +115,9 @@
     "summary": "Kim Jong-un’s daughter, Kim Ju-ae, is perhaps being primed to take control of the regime one day."
   },
   {
-    "title": "AOL Will End Its Dial-Up Internet Service (Yes, It’s Still Operating)",
-    "link": "https://www.nytimes.com/2025/08/11/business/aol-dial-up-internet.html",
-    "summary": "The company said the service, synonymous with the early days of the internet, will be discontinued on Sept. 30."
+    "title": "At Least One Dead in U.S. Steel Plant Explosion in Pennsylvania, Authorities Say",
+    "link": "https://www.nytimes.com/2025/08/11/us/us-steel-explosion-pennsylvania.html",
+    "summary": "Dozens of people were injured and some were trapped in rubble at a coke plant in Clairton, Pa., near Pittsburgh, rescue workers said."
   },
   {
     "title": "Miguel Uribe, Colombian Senator Shot at Campaign Event, Dies at 39",
@@ -130,13 +125,13 @@
     "summary": "Mr. Uribe, a presidential hopeful, was shot in June at a campaign rally in Bogotá in an attack that shocked the nation."
   },
   {
-    "title": "Heavy Rains in Wisconsin Lead to Flooding and Early Closure of State Fair",
-    "link": "https://www.nytimes.com/2025/08/10/us/wisconsin-flood-storms-rain.html",
-    "summary": "Record-setting rainfall caused intense flooding in and around the Milwaukee area starting on Saturday night."
+    "title": "Finland Charges Ship’s Crew Members in Slashing of Undersea Cables",
+    "link": "https://www.nytimes.com/2025/08/11/world/europe/finland-cable-severing-charges-russia-shadow-fleet.html",
+    "summary": "The tanker, the Eagle S, was detained last December."
   },
   {
-    "title": "Terry Reid, Rock Singer Known as ‘Superlungs,’ Dies at 75",
-    "link": "https://www.nytimes.com/2025/08/10/arts/music/terry-reid-dead.html",
-    "summary": "He missed his chance to be Led Zeppelin’s lead vocalist, but his solo work — and his otherworldly voice — drew raves from Aretha Franklin and others."
+    "title": "Netflix Signs New, Looser Deal With Prince Harry and Meghan Markle",
+    "link": "https://www.nytimes.com/2025/08/11/business/media/netflix-prince-harry-meghan-markle-deal.html",
+    "summary": "The streaming giant signed a new deal with the production company for the Duke and Duchess of Sussex that is much less extensive than an earlier arrangement."
   }
 ]

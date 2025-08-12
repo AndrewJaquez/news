@@ -1,5 +1,15 @@
 [
   {
+    "title": "Trump Pulls Military Into Another Political Issue",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-military-washington.html",
+    "summary": "The National Guard troops who will move into Washington, D.C., will not perform law enforcement tasks but may be able to detain people temporarily, officials said."
+  },
+  {
+    "title": "Trump Takes Control of D.C. Police, Citing ‘Bloodthirsty Criminals.’ But Crime Is Down.",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-washington-dc-police.html",
+    "summary": "The president has railed against crime in urban, largely liberal cities for decades, but Monday’s announcement was an extraordinary exertion of federal power over an American city."
+  },
+  {
     "title": "Does President Trump Want to Be Mayor, Too?",
     "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-mayor-washington-dc-crime.html",
     "summary": "President Trump has long railed about crime in blue cities. Now he’s effectively put himself in charge of policing one of them."
@@ -7,7 +17,7 @@
   {
     "title": "Trump Names EJ Antoni New BLS Commissioner",
     "link": "https://www.nytimes.com/2025/08/11/business/economy/trump-bls-commissioner.html",
-    "summary": "The president fired the Bureau of Labor Statistics chief after a downbeat jobs report. The move has jeopardized the credibility of economic data."
+    "summary": "President Trump fired the Bureau of Labor Statistics chief earlier this month after a downbeat jobs report. The move has raised concerns about the credibility of economic data going forward."
   },
   {
     "title": "Harvard Nears a Deal With the Trump Administration to Restore Funding",
@@ -15,19 +25,34 @@
     "summary": "A potential $500 million settlement would end a monthslong battle that pitted the nation’s wealthiest school against the Trump administration’s extraordinary crackdown on higher education."
   },
   {
-    "title": "Trump Extends China Tariff Truce",
+    "title": "Trump Extends China Tariff Truce by Three Months",
     "link": "https://www.nytimes.com/2025/08/11/us/politics/us-china-trade-tariffs-deal.html",
-    "summary": "President Trump signed an executive order that offered a reprieve from the threat of escalating tariffs and export controls that have rocked the global economy."
-  },
-  {
-    "title": "Trump Wields Tariffs as a Force in Diplomacy, to Questionable Effect",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-tariffs-russia.html",
-    "summary": "The president has threatened more tariffs on Russia and its trading partners and has imposed harsh ones on India and Brazil to try to sway matters of war and politics."
+    "summary": "President Trump’s order continues a reprieve from the threat of escalating tariffs and export controls, which rocked the global economy earlier this year."
   },
   {
     "title": "Brazil Clamped Down on Big Tech. Trump’s Tariffs Could Change That.",
     "link": "https://www.nytimes.com/2025/08/11/world/americas/brazil-big-tech-trump-tariffs.html",
     "summary": "With President Trump on their side, U.S. technology companies now have more leverage in Brazil, where they seek to influence new rules policing their platforms."
+  },
+  {
+    "title": "Trump Says He’s Going to Alaska to See What Putin ‘Has in Mind’",
+    "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-putin-alaska-meeting.html",
+    "summary": "President Trump set a low bar for his summit with President Vladimir V. Putin of Russia, saying he was ready to walk away if no deal was forthcoming."
+  },
+  {
+    "title": "Foreign Recruits in Ukraine Military Are Killed in Russian Missile Strike",
+    "link": "https://www.nytimes.com/2025/08/12/world/europe/foreign-soldiers-ukraine-russia-missile-attack.html",
+    "summary": "Russia has repeatedly targeted soldiers assembled at military academies, barracks and parade grounds."
+  },
+  {
+    "title": "3 Dead, 1 Injured After Target Shooting in Austin, Texas",
+    "link": "https://www.nytimes.com/2025/08/11/us/austin-shooting.html",
+    "summary": "The gunman fled and was caught after stealing two cars, the police said."
+  },
+  {
+    "title": "Are Samosas Unhealthy? Some Indians Find Official Advice Hard to Swallow.",
+    "link": "https://www.nytimes.com/2025/08/12/world/asia/india-samosas-unhealthy.html",
+    "summary": "A government advisory noting the high fat and sugar levels in many popular snacks was seen by some as an attack on India’s beloved street food."
   },
   {
     "title": "Who Were the Al Jazeera Journalists Killed in an Israeli Strike in Gaza?",
@@ -40,24 +65,9 @@
     "summary": "Al Jazeera, five of whose reporters the broadcaster said were killed by an Israeli strike, has angered governments across the region that claim it gives voice to terrorists. The outlet denies that."
   },
   {
-    "title": "3 Dead, 1 Injured After Target Shooting in Austin, Texas",
-    "link": "https://www.nytimes.com/2025/08/11/us/austin-shooting.html",
-    "summary": "Police said a fourth person was injured. The gunman was caught after stealing a succession of cars, the police said."
-  },
-  {
-    "title": "He Announced His Intention to Die. The Dinner Invitations Rolled In.",
-    "link": "https://www.nytimes.com/2025/08/10/business/last-supper-joseph-awuah-darko.html",
-    "summary": "On Instagram, the artist Joseph Awuah-Darko asked the world to invite him to dinner before he ended his life. More than 150 meals later, he is still going."
-  },
-  {
     "title": "How Rick Perry Became a Fervent Advocate for the Psychedelic Ibogaine",
     "link": "https://www.nytimes.com/2025/08/11/us/politics/rick-perry-drug-psychedelics-ibogaine.html",
     "summary": "The former Texas governor and Trump energy secretary has now dedicated his life to promoting the powerful psychedelic ibogaine."
-  },
-  {
-    "title": "Trump Says He’s Going to Alaska to See What Putin ‘Has in Mind’",
-    "link": "https://www.nytimes.com/2025/08/11/us/politics/trump-putin-alaska-meeting.html",
-    "summary": "President Trump set a low bar for his summit with President Vladimir V. Putin of Russia, saying he was ready to walk away if no deal was forthcoming."
   },
   {
     "title": "Judge Will Not Unseal Grand Jury Papers of Maxwell, Epstein’s Companion",
@@ -65,14 +75,14 @@
     "summary": "President Trump has tried to subdue conspiracy theories by pushing to disclose the transcripts from the cases of Jeffrey Epstein, who abused teenage girls, and Ghislaine Maxwell, who assisted him."
   },
   {
-    "title": "A Timeline of What We Know About Trump and Epstein",
-    "link": "https://www.nytimes.com/2025/07/17/us/politics/timeline-trump-epstein.html",
-    "summary": "Donald Trump was friendly for at least 15 years with Jeffrey Epstein, the multimillionaire financier and convicted sex offender who died in jail in 2019."
+    "title": "Sheila Jordan, Fearless Vocal Improviser, Is Dead at 96",
+    "link": "https://www.nytimes.com/2025/08/12/arts/music/sheila-jordan-dead.html",
+    "summary": "She was revered in the jazz world as a chance taker who communicated an effervescent joy in the pure act of singing."
   },
   {
-    "title": "Christophe de Menil, Art Patron and Designer, Is Dead at 92",
-    "link": "https://www.nytimes.com/2025/08/11/arts/christophe-de-menil-dead.html",
-    "summary": "A Parisian-born oil heiress, she collected art and supported major artists, designed costumes and moved in rarefied social and cultural circles."
+    "title": "The Reasons Israelis Have Closed Their Eyes to Gaza",
+    "link": "https://www.nytimes.com/2025/08/12/opinion/israel-gaza-starvation-aid.html",
+    "summary": "Multiple factors have caused the starvation ravaging Gaza. But Israel must accept that its actions are the main cause."
   },
   {
     "title": "A Right-Wing Influencer Tried to Be a Tradwife. It Almost Broke Her.",
@@ -80,28 +90,18 @@
     "summary": "Being an anti-feminist, it turns out, is no shield against abusive male power."
   },
   {
-    "title": "We’re Trapped in Trump’s Reality. This Is How We Escape It.",
-    "link": "https://www.nytimes.com/2025/08/11/opinion/america-short-term-thinking.html",
-    "summary": "Trump may be able to escape the consequences of his actions; the rest of us cannot."
-  },
-  {
-    "title": "At Least One Dead in U.S. Steel Plant Explosion in Pennsylvania, Authorities Say",
+    "title": "2 Killed in Explosion at U.S. Steel Plant in Pennsylvania",
     "link": "https://www.nytimes.com/2025/08/11/us/us-steel-explosion-pennsylvania.html",
-    "summary": "Ten people were hospitalized and one was missing after the blast at a coke plant in Clairton, Pa., near Pittsburgh, rescue workers said."
+    "summary": "Ten people were hospitalized after the blast at a coke plant in Clairton, Pa., near Pittsburgh. One person who had been missing was found dead late on Monday."
   },
   {
-    "title": "N.Y.C. Schools Change How Reading Is Taught, and Test Scores Rise",
-    "link": "https://www.nytimes.com/2025/08/11/nyregion/nyc-student-reading-scores-rise.html",
-    "summary": "Mayor Adams cast the upswing as evidence of efforts to improve instruction, while rivals in the mayoral race argued that teachers need better training."
+    "title": "The Fake Heiress, the Instagram Shoot and the Abandoned Bunnies",
+    "link": "https://www.nytimes.com/2025/08/11/nyregion/anna-delvey-bunnies-abandoned-prospect-park.html",
+    "summary": "Three rabbits used in a photo shoot featuring Anna Delvey, whose real name is Anna Sorokin, were found abandoned in Prospect Park in Brooklyn."
   },
   {
-    "title": "Adidas Apologizes After Mexico Criticizes Oaxacan-Inspired Shoe",
-    "link": "https://www.nytimes.com/2025/08/11/us/adidas-willy-chavarria-apology-oaxaca-sandal.html",
-    "summary": "Willy Chavarria, the designer of the shoe, also apologized after Mexican officials leveled accusations of cultural appropriation."
-  },
-  {
-    "title": "N.Y.P.D. ‘Quality-of-Life’ Teams Are Expanding. Not Everyone Is Happy.",
-    "link": "https://www.nytimes.com/2025/08/11/nyregion/nypd-quality-of-life-teams.html",
-    "summary": "The units, which respond to complaints about issues including loud music and illegal vending, will soon be in every precinct. But some worry about aggressive policing."
+    "title": "Christophe de Menil, Art Patron and Designer, Is Dead at 92",
+    "link": "https://www.nytimes.com/2025/08/11/arts/christophe-de-menil-dead.html",
+    "summary": "A Parisian-born oil heiress, she collected art and supported major artists, designed costumes and moved in rarefied social and cultural circles."
   }
 ]

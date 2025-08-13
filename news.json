@@ -1,5 +1,25 @@
 [
   {
+    "title": "Trump Has Made Himself Commander in Chief of the Chip Industry",
+    "link": "https://www.nytimes.com/2025/08/13/technology/trump-chips-nvidia-intel.html",
+    "summary": "President Trump has become the semiconductor sector’s leading decision maker, from new fees on exports to China to a brief demand for a C.E.O.’s firing."
+  },
+  {
+    "title": "What to Know About Trump’s Deal With A.I. Chipmakers",
+    "link": "https://www.nytimes.com/video/business/100000010334605/what-to-know-about-trumps-deal-with-ai-chipmakers.html",
+    "summary": "Nvidia and AMD will give the Trump administration a cut of chip sales to China in a deal that raises questions about national security and trade policy goals. Tripp Mickle explains."
+  },
+  {
+    "title": "Companies Are Pouring Billions Into A.I. It Has Yet to Pay Off.",
+    "link": "https://www.nytimes.com/2025/08/13/business/ai-business-payoff-lags.html",
+    "summary": "Corporate spending on artificial intelligence is surging as executives bank on major efficiency gains. So far, they report little effect to the bottom line."
+  },
+  {
+    "title": "Inside Trump’s D.C. Takeover, and the White House Takes On the Smithsonian",
+    "link": "https://www.nytimes.com/2025/08/13/podcasts/the-headlines/trump-dc-takeover-smithsonian.html",
+    "summary": "Plus, why that old song suddenly has a new music video."
+  },
+  {
     "title": "Trump’s D.C. Crackdown Plan Begins to Take Shape as National Guard Deploys",
     "link": "https://www.nytimes.com/2025/08/12/us/politics/dc-police-national-guard.html",
     "summary": "Troops appeared near the Washington Monument on Tuesday evening. But it remained unclear whether the eventual show of force would match the president’s apocalyptic rhetoric."
@@ -15,11 +35,6 @@
     "summary": "The president cited a number of false and misleading claims about homicides and youth crime in the nation’s capital."
   },
   {
-    "title": "Rollout of Trump’s D.C. Crackdown Included Fox News Stars and Charts",
-    "link": "https://www.nytimes.com/2025/08/12/us/politics/trump-dc-takeover-crime-fox-news.html",
-    "summary": "Jeanine Pirro had a starring role in promoting the president’s federal takeover on TV, and Will Cain’s charts made a cameo."
-  },
-  {
     "title": "Cuomo’s Attack on Mamdani’s Apartment Struck a New York Nerve",
     "link": "https://www.nytimes.com/2025/08/12/nyregion/cuomo-mamdani-rent-stabilized.html",
     "summary": "The attacks in the New York City mayor’s race may have veered into the personal, but they also reflected a larger debate on who should benefit from government regulation of housing costs."
@@ -30,14 +45,14 @@
     "summary": "Former Gov. Andrew M. Cuomo’s push to keep “rich” people out of less-expensive apartments is aimed at his political rival in New York, Assemblyman Zohran Mamdani."
   },
   {
-    "title": "Trump Will Discuss Ukraine With European Leaders Ahead of Putin Meeting",
-    "link": "https://www.nytimes.com/2025/08/13/world/europe/trump-europe-ukraine-talks-putin.html",
-    "summary": "Chancellor Friedrich Merz and several allies will host the president for a video call, the latest in a summer-long effort to hold ranks in supporting Ukraine."
-  },
-  {
     "title": "Trump to Meet Putin at U.S. Military Base in Anchorage",
     "link": "https://www.nytimes.com/2025/08/12/us/politics/trump-putin-summit-alaska.html",
     "summary": "The American and Russian presidents will meet face to face at Joint Base Elmendorf-Richardson in Alaska on Friday, according to a White House official."
+  },
+  {
+    "title": "Trump and Putin Could Decide Others’ Fates, Echoing Yalta Summit",
+    "link": "https://www.nytimes.com/2025/08/13/world/europe/yalta-trump-putin-meeting-alaska.html",
+    "summary": "In 1945, the map of Europe was redrawn in Yalta without input from the affected countries. Ukraine and Europe fear a repeat in Alaska."
   },
   {
     "title": "Russia Is Suspected to Be Behind Breach of Federal Court Filing System",
@@ -45,24 +60,44 @@
     "summary": "Federal officials are scrambling to assess the damage and address flaws in a sprawling, heavily used computer system long known to have vulnerabilities."
   },
   {
+    "title": "Meat Is Back at Eleven Madison Park, After 4 Vegan Years",
+    "link": "https://www.nytimes.com/2025/08/13/dining/eleven-madison-park-meat.html",
+    "summary": "The Manhattan restaurant drew global praise and skepticism with its climate-minded, all-plant menu. Now its chef wants to be more welcoming — and popular."
+  },
+  {
+    "title": "How a U.S. Senate Race Is Shaping the Fight Over Redistricting in Texas",
+    "link": "https://www.nytimes.com/2025/08/13/us/politics/texas-redistricting-senate.html",
+    "summary": "Senator John Cornyn and Attorney General Ken Paxton are vying to be the tougher candidate on Democratic lawmakers who left Texas, as potential Democratic rivals seek their own spotlight."
+  },
+  {
     "title": "White House Announces Comprehensive Review of Smithsonian Exhibitions",
     "link": "https://www.nytimes.com/2025/08/12/arts/design/smithsonian-exhibitions-review-white-house-trump.html",
     "summary": "The Trump administration is giving museums 120 days to replace “divisive or ideologically driven language with unifying, historically accurate and constructive descriptions.”"
   },
   {
-    "title": "Human Rights Report Under Trump Blunts Language on Israel and El Salvador",
-    "link": "https://www.nytimes.com/2025/08/12/us/politics/trump-human-rights-israel-saudi-arabia-china.html",
-    "summary": "A collection of U.S. reports on human rights offenses trimmed or omitted past language on violations in El Salvador, Hungary, Saudi Arabia, the U.A.E. and Israel, all seen as partners by President Trump."
+    "title": "Hard Truths",
+    "link": "https://www.nytimes.com/2025/08/13/briefing/trump-administration-data.html",
+    "summary": "We look at how the Trump administration deals with unfavorable data."
   },
   {
-    "title": "Hidden Inside Our Electronics, Tiny Doodles From Another Era",
-    "link": "https://www.nytimes.com/2025/08/12/technology/silicon-chips-doodles.html",
-    "summary": "Decades ago, designers etched microscopic doodles onto silicon chips to leave their marks. Now, techno-archaeologists search for the tiny fossils."
+    "title": "Israel Hasn’t Prosecuted a Single Suspect for the Oct. 7 Attack",
+    "link": "https://www.nytimes.com/2025/08/13/world/middleeast/israel-oct-7-palestinians-trial.html",
+    "summary": "Israel has extensively documented the 2023 Hamas-led assault and is believed to be holding at least 200 Palestinians suspected of involvement. Not one has been charged or put on trial."
   },
   {
-    "title": "New Video Shows Uvalde School Chief Trying to Negotiate With Gunman",
-    "link": "https://www.nytimes.com/2025/08/12/us/uvalde-documents-video-arredondo.html",
-    "summary": "The video, part of a trove of materials that authorities had refused to release, shows the minutes in which a commander tried to talk to a gunman barricaded in a room with dozens of children."
+    "title": "Gaza Plan Stokes Tension Between Israel’s Military Chief and Government",
+    "link": "https://www.nytimes.com/2025/08/13/world/middleeast/israel-gaza-plan-military-government-zamir.html",
+    "summary": "Lt. Gen. Eyal Zamir has pushed back against a proposal to control Gaza City, according to officials. One hard-right member of the government suggested he could be dismissed."
+  },
+  {
+    "title": "New York City Companies All but Stopped Hiring in First Half of the Year",
+    "link": "https://www.nytimes.com/2025/08/13/nyregion/nyc-jobs.html",
+    "summary": "Fewer than 1,000 private-sector jobs were added, the slowest growth in the labor market outside a recession and the pandemic since 2003."
+  },
+  {
+    "title": "Why Cristiano Ronaldo’s Engagement Raised Eyebrows in Saudi Arabia",
+    "link": "https://www.nytimes.com/2025/08/13/world/middleeast/ronaldo-engagement-saudi-arabia.html",
+    "summary": "The soccer star has been living in the country with Georgina Rodríguez, the mother of his children, testing the boundaries of social change in the conservative Islamic kingdom."
   },
   {
     "title": "Cristiano Ronaldo and Georgina Rodríguez Are Engaged. All Eyes Are on the Ring.",
@@ -70,14 +105,29 @@
     "summary": "After years of speculation, the soccer superstar’s engagement is big news, but it’s the enormous diamond perched on Ms. Rodríguez’s finger that has everyone talking."
   },
   {
-    "title": "Trump Is Doubling Down on Sanctions. Putin Is Laughing All the Way to Alaska.",
+    "title": "Cecilia Bartoli Knows What Makes Good Opera and Ragù: Time",
+    "link": "https://www.nytimes.com/2025/08/12/arts/music/cecilia-bartoli.html",
+    "summary": "A star mezzo-soprano, Bartoli also runs a festival and an opera house at an age when others start to retire. And she’s not slowing down."
+  },
+  {
+    "title": "Trump Wants to Take Over the Fortune 500. What Can Go Wrong?",
+    "link": "https://www.nytimes.com/2025/08/13/opinion/trump-ceo-nvidia-intel.html",
+    "summary": "Our commander in chief has decided to also command the Fortune 500."
+  },
+  {
+    "title": "Trump Is Giving Putin a Most Wonderful Gift",
     "link": "https://www.nytimes.com/2025/08/13/opinion/trump-putin-ukraine-alaska.html",
     "summary": "There is something Putin cares about more than money."
   },
   {
-    "title": "Trump Is Squandering the Greatest Gift of the Manhattan Project",
-    "link": "https://www.nytimes.com/2025/08/12/opinion/trump-manhattan-project.html",
-    "summary": "The U.S. risks not just being left behind, but out of the game entirely."
+    "title": "Jimmy Fallon Isn’t Optimistic About the Trump-Putin ‘Listening Exercise’",
+    "link": "https://www.nytimes.com/2025/08/13/arts/television/jimmy-fallon-trump-putin.html",
+    "summary": "That’s how the White House described the upcoming Alaska talks. Fallon said “listening and exercise are Trump’s two favorite things, so this should go well.”"
+  },
+  {
+    "title": "New Video Shows Uvalde School Chief Trying to Negotiate With Gunman",
+    "link": "https://www.nytimes.com/2025/08/12/us/uvalde-documents-video-arredondo.html",
+    "summary": "The video, part of a trove of materials that authorities had refused to release, shows the minutes in which a commander tried to talk to a gunman barricaded in a room with dozens of children."
   },
   {
     "title": "Heavy Rain Causes Flash Flooding in Chattanooga",
@@ -85,18 +135,13 @@
     "summary": "The mayor of Hamilton County, Tenn., declared a state of emergency as rescue crews pulled people out of submerged cars and homes."
   },
   {
-    "title": "Six Convicted in 2017 Fire That Killed 41 Girls in Guatemala Group Home",
-    "link": "https://www.nytimes.com/2025/08/12/world/americas/guatemala-convictions-deadly-fire.html",
-    "summary": "The girls were locked in a classroom in a government-run group home for at-risk youth. The officials were charged with child abuse, dereliction of duty, manslaughter and other counts."
+    "title": "Southern Europe Battles Deadly Wildfires",
+    "link": "https://www.nytimes.com/2025/08/13/world/europe/wildfires-deadly-spain-greece-turkey-albania-montenegro.html",
+    "summary": "High winds were complicating efforts to tame the blazes, which were burning in Greece, Spain, Turkey, Montenegro and Albania."
   },
   {
     "title": "Remains of British Researcher Lost in 1959 Are Discovered Off Antarctica",
     "link": "https://www.nytimes.com/2025/08/12/world/british-researcher-frozen-remains-antarctica.html",
     "summary": "Dennis “Tink” Bell was 25 years old when he fell into a crevasse on King George Island. Over the decades, a glacier receded, and a scientific team from Poland found his remains this year."
-  },
-  {
-    "title": "Danielle Spencer, Child Star on ‘What’s Happening!!,’ Is Dead at 60",
-    "link": "https://www.nytimes.com/2025/08/12/arts/television/danielle-spencer-dead.html",
-    "summary": "She played a witty teenager on one of the first American television shows that centered Black teenagers."
   }
 ]

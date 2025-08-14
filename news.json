@@ -1,33 +1,8 @@
 [
   {
-    "title": "Behind Wall Street’s Abrupt Flip on Crypto",
-    "link": "https://www.nytimes.com/2025/08/13/business/wall-street-banks-crypto-stablecoins.html",
-    "summary": "The reversal risks declawing a century of consumer financial protections and replacing the backbone of bank accounts."
-  },
-  {
-    "title": "Trump Administration Can Withhold Billions in Foreign Aid, Appeals Court Rules",
-    "link": "https://www.nytimes.com/2025/08/13/us/politics/foreign-aid-trump-appeals-ruling.html",
-    "summary": "In a 2-to-1 vote, a federal appeals court panel ruled that foreign aid groups that sued to recover funds that President Trump froze cannot challenge the decision."
-  },
-  {
-    "title": "At the Kennedy Center, Trump Puts His Pop Culture Obsession on Display",
-    "link": "https://www.nytimes.com/2025/08/13/us/politics/trump-kennedy-center-pop-culture.html",
-    "summary": "President Trump held forth about the nature of show business and his own tortured relationship with celebrity."
-  },
-  {
-    "title": "Trump Will Visit Kennedy Center to Announce New Honorees",
-    "link": "https://www.nytimes.com/2025/08/13/us/politics/trump-kennedy-center-nominees.html",
-    "summary": "The president has taken a strong interest in the Kennedy Center’s affairs ever since naming himself chairman in February, when he restocked its traditionally bipartisan board with loyalists."
-  },
-  {
-    "title": "Bessent Has Yet to Fully Divest Assets, Raising Concern at Ethics Agency",
-    "link": "https://www.nytimes.com/2025/08/13/us/politics/scott-bessent-conflicts-of-interest.html",
-    "summary": "The Treasury secretary has been slow to shed assets, including farmland, posing potential conflicts of interest."
-  },
-  {
-    "title": "Man Charged With Assaulting Federal Agent With Sandwich in D.C.",
-    "link": "https://www.nytimes.com/2025/08/13/us/politics/federal-agent-trump-sandwich-dc.html",
-    "summary": "A video showed a man repeatedly calling a group of officers “fascists” before throwing a sub sandwich at one."
+    "title": "How a Call From Trump Ignited a Frantic Week of Diplomacy by Ukraine",
+    "link": "https://www.nytimes.com/2025/08/14/world/europe/ukraine-russia-zelensky-diplomacy.html",
+    "summary": "Once a vague proposal for a territorial swap gained clarity, a worried President Volodymyr Zelensky worked to rally allies before Friday’s Trump-Putin summit."
   },
   {
     "title": "After Reassuring Europe, Trump Strikes a Different Tone About Russian Threats",
@@ -35,9 +10,49 @@
     "summary": "Hours after presenting a united front with allies, President Trump warned Vladimir V. Putin of “severe consequences” if Russia refuses to end the war in Ukraine. But he also suggested that he has limited power to alter the Russian leader’s behavior."
   },
   {
-    "title": "The Hardest Part of Setting a Guinness World Record? Getting People to Show Up.",
-    "link": "https://www.nytimes.com/2025/08/13/magazine/guinness-world-record.html",
-    "summary": "When it comes to mass-participation events, would-be record setters are finding it harder than ever to draw a crowd. But it’s still fun to try."
+    "title": "Behind Wall Street’s Abrupt Flip on Crypto",
+    "link": "https://www.nytimes.com/2025/08/13/business/wall-street-banks-crypto-stablecoins.html",
+    "summary": "The reversal risks declawing a century of consumer financial protections and replacing the backbone of bank accounts."
+  },
+  {
+    "title": "Trump’s D.C. Police Takeover and National Guard Deployment: What to Know",
+    "link": "https://www.nytimes.com/2025/08/13/us/politics/trump-dc-national-guard-police.html",
+    "summary": "President Trump is the first president to use a declared emergency to wrest control of Washington, D.C.’s police force."
+  },
+  {
+    "title": "Man Charged With Assaulting Federal Agent With Sandwich in D.C.",
+    "link": "https://www.nytimes.com/2025/08/13/us/politics/federal-agent-trump-sandwich-dc.html",
+    "summary": "A video showed a man repeatedly calling a group of officers “fascists” before throwing a sub sandwich at one."
+  },
+  {
+    "title": "Law Firms That Settled With Trump Are Pressed to Help on Trade Deals",
+    "link": "https://www.nytimes.com/2025/08/13/us/politics/trump-law-firms-trade-deals.html",
+    "summary": "Boris Epshteyn, a personal lawyer for President Trump, connected two firms — Kirkland & Ellis and Skadden Arps — to the Commerce Department."
+  },
+  {
+    "title": "At the Kennedy Center, Trump Puts His Pop Culture Obsession on Display",
+    "link": "https://www.nytimes.com/2025/08/13/us/politics/trump-kennedy-center-pop-culture.html",
+    "summary": "President Trump held forth about the nature of show business and his own tortured relationship with celebrity."
+  },
+  {
+    "title": "Trump Administration Can Withhold Billions in Foreign Aid, Appeals Court Rules",
+    "link": "https://www.nytimes.com/2025/08/13/us/politics/foreign-aid-trump-appeals-ruling.html",
+    "summary": "In a 2-to-1 vote, a federal appeals court panel ruled that foreign aid groups that sued to recover funds that President Trump froze cannot challenge the decision."
+  },
+  {
+    "title": "Bessent Has Yet to Fully Divest Assets, Raising Concern at Ethics Agency",
+    "link": "https://www.nytimes.com/2025/08/13/us/politics/scott-bessent-conflicts-of-interest.html",
+    "summary": "The Treasury secretary has been slow to shed assets, including farmland, posing potential conflicts of interest."
+  },
+  {
+    "title": "How Scientists Use Drones to Tag Sperm Whales",
+    "link": "https://www.nytimes.com/2025/08/13/science/whales-drones-acoustics-tagging.html",
+    "summary": "A new tagging method called tap-and-go allows researchers to gather more data on the health and behavior of whales, with less disruption."
+  },
+  {
+    "title": "As Trump Pushes International Students Away, Asian Schools Scoop Them Up",
+    "link": "https://www.nytimes.com/2025/08/14/business/us-international-students-trump.html",
+    "summary": "The president’s hostility toward foreign students has made American higher education a riskier proposition for them. Other countries are eager to capitalize."
   },
   {
     "title": "Gaza Plan Stokes Tension Between Israel’s Military Chief and Government",
@@ -65,16 +80,6 @@
     "summary": "They transformed dolls into one-of-a-kind pieces that sold for thousands of dollars. A married couple, they died in a car crash in Italy."
   },
   {
-    "title": "Hispanic Democratic Officials in Texas Plead Not Guilty to Voter Fraud",
-    "link": "https://www.nytimes.com/2025/08/13/us/politics/voter-fraud-texas.html",
-    "summary": "Texas’ attorney general, Ken Paxton, has now used his “election integrity unit” to indict 15 Latino Democrats under a 2021 statute that outlawed delivering ballots for other voters."
-  },
-  {
-    "title": "U.K. Secretly Spent $3.2 Million to Stop Journalists From Reporting on Data Breach",
-    "link": "https://www.nytimes.com/2025/08/13/world/europe/uk-data-breach-afghan.html",
-    "summary": "After British authorities accidentally exposed information about 19,000 Afghans, the government sought a legal order preventing disclosure of the breach."
-  },
-  {
     "title": "Homeless and Burning in Phoenix, America’s Hottest City",
     "link": "https://www.nytimes.com/2025/08/13/well/homeless-heat-phoenix.html",
     "summary": "As the summer heat becomes increasingly extreme in Phoenix, people who can’t escape the sun are suffering third-degree burns, heatstroke and dehydration."
@@ -85,19 +90,9 @@
     "summary": "Thousands have been evacuated as quick moving wildfires burn in Eastern Canada."
   },
   {
-    "title": "Mendenhall River Hit Record High From Glacier Melt",
-    "link": "https://www.nytimes.com/2025/08/13/climate/alaska-juneau-flood-glacier.html",
-    "summary": "An overflowing glacial lake caused a surge in the Mendenhall River on Wednesday, prompting flood alerts and evacuations in Juneau."
-  },
-  {
     "title": "Taylor Swift Announces ‘The Life of a Showgirl’ Details on ‘New Heights’ Podcast",
     "link": "https://www.nytimes.com/2025/08/13/arts/music/taylor-swift-travis-kelce-new-heights-podcast.html",
-    "summary": "Swift spoke about her upcoming album on “New Heights,” a sports and pop culture podcast co-hosted by her boyfriend."
-  },
-  {
-    "title": "How Scientists Use Drones to Tag Sperm Whales",
-    "link": "https://www.nytimes.com/2025/08/13/science/whales-drones-acoustics-tagging.html",
-    "summary": "A new tagging method called tap-and-go allows researchers to gather more data on the health and behavior of whales, with less disruption."
+    "summary": "The pop superstar discussed her upcoming album on a podcast co-hosted by her boyfriend, the N.F.L. player Travis Kelce."
   },
   {
     "title": "Why Economists Are Worried About Trump’s B.L.S. Changes",
@@ -110,23 +105,23 @@
     "summary": "Obamaworld seems interested in understanding Zohran Mamdani’s sudden rise to prominence."
   },
   {
+    "title": "Sudan Hit by Its ‘Worst Cholera Outbreak’ in Years, Medical Charity Says",
+    "link": "https://www.nytimes.com/2025/08/14/world/africa/sudan-cholera-outbreak.html",
+    "summary": "International charities warned that, left unchecked, the disease’s spread might exacerbate similar outbreaks across the African region for weeks or months to come."
+  },
+  {
     "title": "Bakers on Texas-Mexican Border Are Found Guilty of Harboring Illegal Workers",
     "link": "https://www.nytimes.com/2025/08/13/us/border-bakery-undocumented-immigrants.html",
     "summary": "Leonardo Baez and his wife were among the first employers prosecuted for taking on undocumented immigrants at their bakery in Los Fresnos, Texas. They face up to 10 years in prison."
   },
   {
-    "title": "Taxi Drivers Near $140 Million Settlement Over N.Y.C. Suspension Practices",
-    "link": "https://www.nytimes.com/2025/08/13/nyregion/nyc-taxi-drivers-settlement.html",
-    "summary": "New York City could grant payouts to some 20,000 taxi drivers whose professional licenses were summarily suspended without sufficient due process."
+    "title": "Rabbits With Hornlike Growths Are Hopping Around Colorado. Are They OK?",
+    "link": "https://www.nytimes.com/2025/08/13/science/colorado-rabbits-tentacles-papilloma-virus.html",
+    "summary": "The unsightly bunnies are infected with cottontail rabbit papillomavirus, which can cause growths that resemble warts or tentacles."
   },
   {
     "title": "U.S. Pilot Stranded in Antarctica Says It’s ‘Isolating and Lonely’",
     "link": "https://www.nytimes.com/2025/08/13/world/americas/ethan-guo-pilot-antarctica-chile.html",
     "summary": "Ethan Guo, a content creator, said that he has been effectively trapped at a Chilean base since June. The authorities had said he landed there without permission."
-  },
-  {
-    "title": "Billy Howton, Top Green Bay Packers Receiver in the ’50s, Dies at 95",
-    "link": "https://www.nytimes.com/2025/08/13/sports/football/billy-howton-dead.html",
-    "summary": "He retired as the N.F.L.’s leading career receiver but was soon surpassed. In retirement, he went to prison for bilking investors in an $8 million fraud."
   }
 ]

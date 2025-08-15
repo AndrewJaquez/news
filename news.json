@@ -1,23 +1,8 @@
 [
   {
-    "title": "How Can the Government ‘Take Back’ a City It Largely Controls?",
-    "link": "https://www.nytimes.com/2025/08/14/upshot/washington-dc-home-rule.html",
-    "summary": "President Trump and his allies have berated Washington, D.C., officials. Yet the federal government has often made it harder for those officials to manage the capital."
-  },
-  {
-    "title": "Troops in Washington Remain Largely Unseen So Far",
-    "link": "https://www.nytimes.com/2025/08/14/us/troops-washington-trump.html",
-    "summary": "Federal agents are assisting the local police, but a surge in National Guard troops hasn’t hit the streets."
-  },
-  {
-    "title": "D.C. Police Move to Share Limited Information With Federal Immigration Officials",
-    "link": "https://www.nytimes.com/2025/08/14/us/politics/dc-police-federal-immigration-enforcement.html",
-    "summary": "Chief Pamela A. Smith’s order effectively serves as a carve-out to how the department enforces a broader ban that prohibits the local police from cooperating with federal immigration enforcement."
-  },
-  {
-    "title": "Russia Seeks to Add Trade and Arms Control Into Trump-Putin Talks",
-    "link": "https://www.nytimes.com/2025/08/14/world/europe/trump-putin-talks-russia-trade-arms-control.html",
-    "summary": "Over recent months, the Kremlin has been trying to move the diplomatic focus away from Ukraine to bilateral issues, such as trade and strategic stability."
+    "title": "Russia and Ukraine Agree: A Trump Summit Is a Big Win for Putin",
+    "link": "https://www.nytimes.com/2025/08/14/world/europe/trump-putin-alaska-summit.html",
+    "summary": "The talks on Friday in Alaska pull the Russian leader out of diplomatic isolation from the West, and Ukrainian and European leaders fear it gives him an opening to sway the American president."
   },
   {
     "title": "Why Does Trump Want to Meet With Putin, and What Are the Risks?",
@@ -25,19 +10,64 @@
     "summary": "President Trump wants to be seen as a peacemaker, but the meeting comes with enormous stakes."
   },
   {
+    "title": "As Trump Seizes D.C.’s Police, Critics Say He’s Undercut Its Ability to Fight Crime",
+    "link": "https://www.nytimes.com/2025/08/14/us/politics/trump-washington-dc-crime-police.html",
+    "summary": "The Trump administration has taken steps that have hobbled Washington’s efforts to reduce crime, such as gutting its U.S. attorney’s office and enacting budget cuts of more than $1 billion."
+  },
+  {
+    "title": "Troops in Washington Remain Largely Unseen So Far",
+    "link": "https://www.nytimes.com/2025/08/14/us/troops-washington-trump.html",
+    "summary": "Federal agents are assisting the local police, but a surge in National Guard troops hasn’t hit the streets."
+  },
+  {
+    "title": "Newsom Held an Event in L.A. Federal Immigration Agents Showed Up Outside.",
+    "link": "https://www.nytimes.com/2025/08/14/us/newsom-la-immigration-agents.html",
+    "summary": "The armed and masked agents assembled outside a museum where the governor was speaking in what Mayor Karen Bass of Los Angeles called “a provocative act.”"
+  },
+  {
+    "title": "In L.A., Fear of ICE Raids Put the First Day of School On Edge",
+    "link": "https://www.nytimes.com/2025/08/14/us/los-angeles-raids-school-patrols.html",
+    "summary": "Officials and volunteers patrolled areas around schools, part of an effort to warn families about potential raids and reassure them that their children were safe at school."
+  },
+  {
+    "title": "Texas Democrats Will Return Home, Allowing Vote on Congressional Map",
+    "link": "https://www.nytimes.com/2025/08/14/us/texas-democrats-return.html",
+    "summary": "The leader of Democrats in the Texas House said the battle over redistricting, which could determine control of Congress, is likely to continue in the courts."
+  },
+  {
+    "title": "He Was Lost. Could a Shooting Range Like Thunder Ranch Help Him Find Himself?",
+    "link": "https://www.nytimes.com/2025/08/14/us/men-shooting-range-thunder-ranch-guns.html",
+    "summary": "Thunder Ranch is one of the best-known shooting schools in American gun culture, offering firearms as a way to change your life when all else fails."
+  },
+  {
     "title": "The Auctioneer and the Treasury Chief: Billy Long’s Quick Fall at the I.R.S.",
     "link": "https://www.nytimes.com/2025/08/14/us/politics/billy-long-scott-bessent-irs-treasury.html",
     "summary": "Treasury Secretary Scott Bessent sought total control over the I.R.S., an agency where Mr. Long, the new commissioner, had started to put his own mark on the job."
   },
   {
-    "title": "Trump’s Tariffs Set to Hit Ireland, Where Drugmakers Play Tax Games",
-    "link": "https://www.nytimes.com/2025/08/14/health/pharma-tariffs-ireland-taxes.html",
-    "summary": "Manufacturing in Ireland has long helped many American drug companies pay lower taxes. But that strategy was designed for a world without President Trump’s tariffs."
+    "title": "Judge Blocks White House Effort to Defund Schools With D.E.I. Programs",
+    "link": "https://www.nytimes.com/2025/08/14/us/politics/trump-dei-schools.html",
+    "summary": "The Trump administration had asked states to certify that their schools did not practice “illegal D.E.I.” and threatened to cut off billions of dollars from schools that did not comply."
   },
   {
-    "title": "There’s Money to Be Made From ‘MAHA.’ Food Companies Want In.",
-    "link": "https://www.nytimes.com/2025/08/14/dining/maha-health-food-marketing.html",
-    "summary": "Processed-food giants and produce growers are tweaking products and ads to reach the Make America Healthy Again movement. But the strategy carries risks."
+    "title": "PBS Slashes Budget by 21% After Federal Funding Cuts",
+    "link": "https://www.nytimes.com/2025/08/14/business/pbs-budget-cuts.html",
+    "summary": "The nonprofit will receive less revenue from its members, which are under pressure to make up for shortfalls of their own."
+  },
+  {
+    "title": "Adams Pushes to Force Drug Users Off NYC Streets",
+    "link": "https://www.nytimes.com/2025/08/14/nyregion/adams-involuntary-drugs-treatment.html",
+    "summary": "As he runs a long-shot third-party bid for re-election, Mayor Eric Adams is proposing an aggressive approach, favored by conservatives, of combating open drug use."
+  },
+  {
+    "title": "Eric Adams Vetoes Bill to Raise Wages for Instacart Workers",
+    "link": "https://www.nytimes.com/2025/08/14/nyregion/eric-adams-veto-instacart.html",
+    "summary": "The City Council is likely to override most of Mayor Eric Adams’s recent vetoes. Still, the mayor seems eager for a fight over bills affecting grocery delivery workers and street vendors."
+  },
+  {
+    "title": "With ‘Zohran’s Law,’ Cuomo Wants to Limit Who Can Live in Rent-Stabilized Homes. How Would That Work?",
+    "link": "https://www.nytimes.com/2025/08/14/nyregion/cuomo-mamdani-zohrans-law.html",
+    "summary": "Former Gov. Andrew M. Cuomo’s proposal is a dig at Zohran Mamdani, his main opponent in the mayor’s race, but it could upend the housing search for middle-income New Yorkers."
   },
   {
     "title": "Fact-Checking Trump’s Epstein Defenses",
@@ -50,34 +80,9 @@
     "summary": "Donald Trump was friendly for at least 15 years with Jeffrey Epstein, the multimillionaire financier and convicted sex offender who died in jail in 2019."
   },
   {
-    "title": "He Was Lost. Could a Shooting Range Like Thunder Ranch Help Him Find Himself?",
-    "link": "https://www.nytimes.com/2025/08/14/us/men-shooting-range-thunder-ranch-guns.html",
-    "summary": "Thunder Ranch is one of the best-known shooting schools in American gun culture, offering firearms as a way to change your life when all else fails."
-  },
-  {
-    "title": "Does Earning $142,000 in New York City Make You Rich?",
-    "link": "https://www.nytimes.com/2025/08/14/nyregion/who-is-rich-new-york-city.html",
-    "summary": "Andrew Cuomo is basing his new line of attack against Zohran Mamdani on a certain definition of wealth. But the reality is complicated."
-  },
-  {
-    "title": "Plan to Add 9,500 Homes to Midtown Expected to Get City Council Approval",
-    "link": "https://www.nytimes.com/2025/08/14/nyregion/midtown-manhattan-residential-development.html",
-    "summary": "The plan would open a swath of Manhattan, including the garment district, to residential development."
-  },
-  {
-    "title": "Israeli Settlers Unleash Record High Attacks in West Bank",
-    "link": "https://www.nytimes.com/2025/08/14/world/middleeast/west-bank-israel-settler-attacks.html",
-    "summary": "Extremists are carrying out one of the most violent campaigns against Palestinian villages since the U.N. began keeping records."
-  },
-  {
-    "title": "Israel Says More Aid Is Entering Gaza, but Relief Groups Warn of Bottlenecking",
-    "link": "https://www.nytimes.com/2025/08/14/world/middleeast/israel-aid-gaza-issues.html",
-    "summary": "Israel says its has allowed more aid into Gaza in recent days, and food prices are dropping, but humanitarian groups warn it is not enough."
-  },
-  {
-    "title": "What It Takes to Find Food in Gaza",
-    "link": "https://www.nytimes.com/video/world/middleeast/100000010322362/what-it-takes-to-find-food-in-gaza.html",
-    "summary": "Starvation has spread in Gaza, as the prices of basic goods have skyrocketed and getting aid is difficult and often deadly. Ashley Wu, a graphics reporter for The New York Times, explains the dire choices that many Gazans face, as Israel faces growing condemnation over the crisis."
+    "title": "Plan for Israeli Settlements Advances and Will ‘Bury’ Palestinian Statehood, Minister Vows",
+    "link": "https://www.nytimes.com/2025/08/14/world/middleeast/israel-smotrich-settlements-palestinian-state.html",
+    "summary": "Bezalel Smotrich, the finance minister, said on Thursday that a plan to significantly expand a settlement near occupied East Jerusalem had won approval. But a procedural step remained."
   },
   {
     "title": "Toronto Film Festival Cancels Screenings of Israeli Documentary About Oct. 7 Attack",
@@ -85,29 +90,14 @@
     "summary": "The event’s organizers said the producers of the film, which includes footage of atrocities recorded by Hamas fighters during the attack, had failed to obtain the rights to the videos."
   },
   {
-    "title": "Syria Violence in March Amounts to War Crimes, U.N. Report Says",
-    "link": "https://www.nytimes.com/2025/08/14/world/middleeast/syria-violence-war-crimes-un-report.html",
-    "summary": "An inquiry found that members of the new government’s forces took part in killing Syrian civilians during sectarian fighting in March, but found no evidence that they acted on government orders."
-  },
-  {
-    "title": "Big Tech’s A.I. Data Centers Are Driving Up Electricity Bills for Everyone",
-    "link": "https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html",
-    "summary": "Electricity rates for individuals and small businesses could rise sharply as Amazon, Google, Microsoft and other technology companies build data centers and expand into the energy business."
-  },
-  {
-    "title": "Taylor Swift Found a New Way to Control Her Narrative: Podcasts",
-    "link": "https://www.nytimes.com/2025/08/14/business/media/taylor-swift-podcast-celebrity-interviews.html",
-    "summary": "For stars promoting their projects, podcasts have become an appealing alternative to late-night TV and glossy magazines."
-  },
-  {
-    "title": "Taylor Swift and Drake Promote Albums on Podcasts in Media Landscape Shift",
-    "link": "https://www.nytimes.com/2025/08/14/arts/music/celebrity-podcasts-taylor-swift-drake.html",
-    "summary": "The two megastars recently sat for hourslong video conversations on streaming platforms, but took different approaches to what they revealed."
-  },
-  {
     "title": "For Some Patients, the ‘Inner Voice’ May Soon Be Audible",
     "link": "https://www.nytimes.com/2025/08/14/science/brain-neuroscience-computers-speech.html",
     "summary": "In a recent study, scientists successfully decoded not only the words people tried to say but the words they merely imagined saying."
+  },
+  {
+    "title": "Margaret Boden, Philosopher of Artificial Intelligence, Dies at 88",
+    "link": "https://www.nytimes.com/2025/08/14/science/margaret-boden-dead.html",
+    "summary": "A cognitive scientist, she used the language of computers to explore the nature of human thought and creativity, offering prescient insights about A.I."
   },
   {
     "title": "Revisiting Carrie Bradshaw’s Apartments in ‘Sex and the City’ and ‘And Just Like That’",
@@ -115,38 +105,43 @@
     "summary": "The end of “And Just Like That …” means the end of a real estate portfolio that includes a cozy Upper East Side studio and a grand Gramercy townhouse."
   },
   {
-    "title": "Crime Keeps Falling. Here’s Why.",
-    "link": "https://www.nytimes.com/2025/08/14/opinion/crime-statistics-washington-dc.html",
-    "summary": "Reflections on social cohesion and law enforcement can help policymakers reduce crime even further."
+    "title": "This Evangelical Pastor Wants to Replace Women’s Right to Vote",
+    "link": "https://www.nytimes.com/2025/08/14/opinion/douglas-wilson-evangelical-hegseth.html",
+    "summary": "Trump isn’t just shaping the nation; he’s also changing the evangelical church."
   },
   {
-    "title": "Abolish the Senate. End the Electoral College. Pack the Court.",
-    "link": "https://www.nytimes.com/2025/08/14/opinion/trump-democracy-test-left.html",
-    "summary": "Why the left can’t win without a new Constitution."
+    "title": "America’s New Segregation",
+    "link": "https://www.nytimes.com/2025/08/14/opinion/trump-democrats-resistance-reform.html",
+    "summary": "To be one nation, we have to embrace ground-up social change."
   },
   {
-    "title": "How Cryptocurrency Could Be Coming for Your Bank Account",
-    "link": "https://www.nytimes.com/2025/08/14/briefing/how-cryptocurrency-could-be-coming-for-your-bank-account.html",
-    "summary": "We explain the benefits and the risks."
+    "title": "Trump Sought to Minimize Expectations for Putin Talks",
+    "link": "https://www.nytimes.com/2025/08/14/briefing/trump-putin-talks-chronic-pain.html",
+    "summary": "Also, an experimental treatment for chronic pain showed promise. Here’s the latest at the end of Thursday."
   },
   {
-    "title": "Judge Orders Liquidation of Infowars to Pay Sandy Hook Families",
-    "link": "https://www.nytimes.com/2025/08/14/us/infowars-sale-alex-jones-sandy-hook.html",
-    "summary": "The order comes after a series of legal setbacks for the families of Sandy Hook victims as they tried to collect money owed to them by the conspiracy theorist Alex Jones."
+    "title": "What Do You Want to See in New York’s Future?",
+    "link": "https://www.nytimes.com/2025/08/14/nyregion/future-of-new-york-reader-callouts.html",
+    "summary": "We’ve been envisioning how some of today’s biggest dilemmas could transform the city. We’d like you to imagine with us."
   },
   {
-    "title": "A Solution to the C.I.A.’s ‘Kryptos’ Sculpture Goes Up for Auction",
-    "link": "https://www.nytimes.com/2025/08/14/science/kryptos-sculpture-cia-solution-auction.html",
-    "summary": "Sleuths have solved three of the panels of the Kryptos sculpture at the agency’s headquarters. Now the artwork’s creator is announcing the sale of the solution to the fourth."
+    "title": "Big Tech’s A.I. Data Centers Are Driving Up Electricity Bills for Everyone",
+    "link": "https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html",
+    "summary": "Electricity rates for individuals and small businesses could rise sharply as Amazon, Google, Microsoft and other technology companies build data centers and expand into the energy business."
   },
   {
-    "title": "Man Who Faked His Death and Fled to Scotland Is Convicted of Rape",
-    "link": "https://www.nytimes.com/2025/08/14/us/nicholas-rossi-rape-trial-utah.html",
-    "summary": "Nicholas Rossi lived for years as a fugitive before being extradited. A jury in Utah found him guilty of a 2008 sexual assault."
+    "title": "Phil Knight, Ex-Nike Chief, and His Wife Pledge $2 Billion to Oregon Cancer Center",
+    "link": "https://www.nytimes.com/2025/08/14/us/phil-knight-nike-oregon-cancer-donation.html",
+    "summary": "Oregon Health & Science University said the couple’s donation would be the largest single gift to a higher-learning institution in the United States."
   },
   {
-    "title": "Echoes of Old Walls Appear, Briefly, in Britain’s Arid Soil",
-    "link": "https://www.nytimes.com/2025/08/14/world/europe/britain-archaeology-parchmarks-dry.html",
-    "summary": "Unusually dry conditions are revealing the outlines of old walls at British historical sites. Climate change is making the lines, called “parchmarks,” more frequently visible."
+    "title": "The U.S. Is Auctioning a Seized Russian Yacht. Will Anyone Buy It?",
+    "link": "https://www.nytimes.com/2025/08/14/world/europe/russian-yacht-seized-sanctions-auction.html",
+    "summary": "The Justice Department said the yacht, Amadea, was worth at least $300 million when it was seized in 2022 from a Russian oligarch. It’s unlikely to sell for that price."
+  },
+  {
+    "title": "A 500-Year-Old Receipt for Supplies to Conquer an Empire Is Returned to Mexico",
+    "link": "https://www.nytimes.com/2025/08/14/us/fbi-mexico-conquistador-cortes-document.html",
+    "summary": "The document describes payments made for expedition supplies, and was signed by Hernán Cortés, who conquered the Aztecs."
   }
 ]

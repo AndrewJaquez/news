@@ -1,18 +1,18 @@
 [
   {
-    "title": "Trump and Putin Put on a Show in Summit, but No Ukraine Deal Emerges",
-    "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-alaska-ukraine.html",
-    "summary": "President Trump gave President Vladimir Putin a warm public reception, effectively ending his diplomatic isolation over the past three years for his invasion of Ukraine. But Mr. Putin did not agree to stop the war."
-  },
-  {
     "title": "At Trump’s Summit, No Deal on Ukraine, and No Consequence for Putin",
     "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-summit-ukrainians.html",
     "summary": "President Trump’s failure to reach an accord on Ukraine only made his warm welcome for the Russian leader more striking."
   },
   {
-    "title": "6 Takeaways From Trump’s Meeting With Putin",
-    "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-meeting-takeaways.html",
-    "summary": "While no deal was announced, the Russian leader secured some wins and left on good terms with the U.S. president."
+    "title": "Trump and Putin Put on a Show in Summit, but No Ukraine Deal Emerges",
+    "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-alaska-ukraine.html",
+    "summary": "President Trump gave President Vladimir Putin a warm public reception, effectively ending his diplomatic isolation over the past three years for his invasion of Ukraine. But Mr. Putin did not agree to stop the war."
+  },
+  {
+    "title": "After Trump-Putin Alaska Summit, Europeans Worry Trump Will Pressure Zelensky",
+    "link": "https://www.nytimes.com/2025/08/16/world/europe/putin-trump-alaska-summit-ukraine.html",
+    "summary": "With no strategy of their own for ending the war, the continent’s leaders are anxious that President Trump will force Kyiv to accept terms that favor Russia too much."
   },
   {
     "title": "Trump Administration Backs Off New Attempt to Widen Control of D.C. Police",
@@ -20,14 +20,14 @@
     "summary": "The chief will remain after a lawsuit challenged the Justice Department’s attempt to install a new leader as part of an effort to put the agency under federal control."
   },
   {
-    "title": "Trump Depicted Youth Crime in D.C. as Rampant. Here’s What the Data Shows.",
-    "link": "https://www.nytimes.com/2025/08/15/us/trump-juvenile-crime-dc-data.html",
-    "summary": "Concerns came to a head during the pandemic, when carjackings surged and many of those arrested were children. Carjackings and other crimes have declined considerably."
+    "title": "Where D.C. Crime Is Bad, Residents Question Trump’s Motives for Federal Takeover",
+    "link": "https://www.nytimes.com/2025/08/16/us/politics/trump-washington-crime.html",
+    "summary": "The president might have found allies in Southeast Washington, where violent crime has long vexed residents. But when he described the city as “disgusting,” with “roving mobs,” his remarks left those looking for help cold."
   },
   {
-    "title": "Officers Clear More Homeless People from Sites Around Washington",
-    "link": "https://www.nytimes.com/2025/08/15/us/politics/dc-homeless-encampments-police.html",
-    "summary": "Local police now under federal oversight dismantled encampments, discarding tents and other belongings."
+    "title": "4 Takeaways From the Week Trump Took Control of D.C.’s Police",
+    "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-washington-crime-takeaways.html",
+    "summary": "The administration’s grip on the city has only tightened as the week has worn on, while pushback has begun to intensify."
   },
   {
     "title": "Trump Is Testing D.C.’s Home Rule. What Is It?",
@@ -35,34 +35,19 @@
     "summary": "The city’s limited self-governance has set the stage for the president’s police takeover."
   },
   {
-    "title": "California Lawmakers Release a Proposed House Map Favoring Democrats",
-    "link": "https://www.nytimes.com/2025/08/15/us/california-redistricting-maps-released.html",
-    "summary": "The plan would help Democrats flip five seats, offsetting the gains Republicans hope to make by redrawing maps in Texas."
-  },
-  {
     "title": "Newsom’s Gerrymander of California Has a Formidable Foe: Schwarzenegger",
     "link": "https://www.nytimes.com/2025/08/15/us/politics/schwarzenegger-newsom-california-redistricting.html",
     "summary": "The actor-turned-governor helped overhaul how California draws political maps. In an interview with The New York Times, he said he would fight to preserve that legacy."
   },
   {
-    "title": "Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes",
-    "link": "https://www.nytimes.com/2025/08/15/technology/spacex-musk-government-contracts-taxes.html",
-    "summary": "Elon Musk’s rocket company relies on federal contracts, but years of losses have most likely let it avoid paying federal income taxes, according to internal company documents."
+    "title": "California Lawmakers Release a Proposed House Map Favoring Democrats",
+    "link": "https://www.nytimes.com/2025/08/15/us/california-redistricting-maps-released.html",
+    "summary": "The plan would help Democrats flip five seats, offsetting the gains Republicans hope to make by redrawing maps in Texas."
   },
   {
-    "title": "For Some Venetians, This Overgrown Island Is Paradise",
-    "link": "https://www.nytimes.com/2025/08/15/world/europe/venice-residents-poveglia-island-lease.html",
-    "summary": "A citizens’ group is now in charge of the island of Poveglia, where they will create a park for anyone who wants to leave Venice’s maddening crowds of tourists behind."
-  },
-  {
-    "title": "Once Seen as Divisive, South Korea’s New Leader Tries for Charming",
-    "link": "https://www.nytimes.com/2025/08/16/world/asia/south-korea-president-lee.html",
-    "summary": "To South Koreans weary of the political polarization that led briefly to martial law, President Lee Jae Myung is showing a more human touch than his predecessor. But his biggest challenges lie ahead."
-  },
-  {
-    "title": "Judge Rejects Trump’s Attempt to End Standards of Care for Detained Migrant Children",
-    "link": "https://www.nytimes.com/2025/08/15/us/migrant-children-trump-flores-settlement.html",
-    "summary": "Court-mandated oversight will remain in place for migrant children in custody. Lawyers have reported poor medical care and lack of sunlight and showers."
+    "title": "Environmental Groups Face ‘Generational’ Setbacks Under Trump",
+    "link": "https://www.nytimes.com/2025/08/16/climate/environmental-strategy-trump.html",
+    "summary": "As President Trump dismantles the country’s efforts to fight climate change, environmental groups are back on their heels."
   },
   {
     "title": "MAHA Draft Report Brings Relief to Some, Chagrin to Others",
@@ -70,58 +55,63 @@
     "summary": "A draft of an upcoming White House report on children’s health was not as harsh toward the agriculture industry as some of Robert F. Kennedy Jr.’s allies had hoped."
   },
   {
+    "title": "Judge Rejects Trump’s Attempt to End Standards of Care for Detained Migrant Children",
+    "link": "https://www.nytimes.com/2025/08/15/us/migrant-children-trump-flores-settlement.html",
+    "summary": "Court-mandated oversight will remain in place for migrant children in custody. Lawyers have reported poor medical care and lack of sunlight and showers."
+  },
+  {
+    "title": "‘South Park’ Is Crude and Childish. That May Make It Perfect for This Moment.",
+    "link": "https://www.nytimes.com/2025/08/16/arts/television/south-park-trump-administration-paramount.html",
+    "summary": "For decades, “South Park” has been crude, cynical and childish. That may be what makes it perfect for this moment."
+  },
+  {
     "title": "Air Canada’s Flight Attendants Reject Call for Arbitration",
     "link": "https://www.nytimes.com/2025/08/15/world/canada/air-canada-flight-attendant-strike.html",
     "summary": "Ahead of the work stoppage, the airline said it had canceled most of the 700 flights that it directly operates, which carry about 130,000 people each day."
   },
   {
-    "title": "The Air Canada Strike: Here’s What to Know About Flight Cancellations and More",
-    "link": "https://www.nytimes.com/2025/08/15/travel/air-canada-strike-flight-cancellations.html",
-    "summary": "The carrier’s flight attendants are now on strike, disrupting plans for 130,000 travelers a day. Here’s what to know if your flight is affected."
+    "title": "Mamdani’s Video Savvy: Easy to Envy, Hard to Duplicate",
+    "link": "https://www.nytimes.com/2025/08/16/nyregion/cuomo-adams-mamdani-social-media.html",
+    "summary": "Former Gov. Andrew M. Cuomo and Mayor Eric Adams are trying to mimic Assemblyman Zohran Mamdani’s buzzy online videos in the New York City mayor’s race."
   },
   {
-    "title": "How Train Riders With Disabilities Are Faring on Amtrak",
-    "link": "https://www.nytimes.com/2025/08/14/travel/amtrak-riders-passengers-disabilities.html",
-    "summary": "Passengers are facing blocked wheelchair space, getting stuck in doors and suffering other indignities 35 years after the Americans With Disabilities Act became law."
+    "title": "C.E.O.s Want Their Companies to Adopt A.I. But Do They Get It Themselves?",
+    "link": "https://www.nytimes.com/2025/08/16/business/ceos-adopt-ai.html",
+    "summary": "Some are being nudged to learn how to use the nascent technology. Coming to the C-suite retreat: mandatory website-building exercises using A.I. tools."
   },
   {
-    "title": "How Accessible Is Traveling by Amtrak?",
-    "link": "https://www.nytimes.com/video/travel/100000010331128/how-accessible-is-traveling-by-amtrak.html",
-    "summary": "Many people with disabilities depend on Amtrak to travel across the country, but the journey can still present obstacles. Gabe Castro-Root outlines some of the challenges disabled passengers encounter while traveling."
+    "title": "Unraveling in Las Vegas, Then a Massacre in New York",
+    "link": "https://www.nytimes.com/2025/08/16/nyregion/park-avenue-gunman-profile.html",
+    "summary": "Shane Tamura was barely known in the city where he lived, working at night and navigating mental health crises. He drove 2,500 miles east to commit New York’s deadliest shooting in a quarter-century."
   },
   {
-    "title": "Mayor LaToya Cantrell of New Orleans Is Indicted on Corruption Charges",
-    "link": "https://www.nytimes.com/2025/08/15/us/new-orleans-mayor-indictment.html",
-    "summary": "LaToya Cantrell was charged with going to criminal lengths to carry out, and cover up, a romantic relationship with a city police officer assigned to protect her."
+    "title": "Criminal Fights Crime",
+    "link": "https://www.nytimes.com/2025/08/16/opinion/criminal-fights-crime.html",
+    "summary": "Democrats should remember: “It’s the crime, stupid!”"
   },
   {
-    "title": "Two Decades of Putin Playing the West",
-    "link": "https://www.nytimes.com/video/opinion/100000010343291/two-decades-of-putin-playing-the-west.html",
-    "summary": "For more than 20 years, Western leaders have played right into Putin’s hands — and given one a shake."
+    "title": "Trump’s Political Theater Won’t Save D.C.",
+    "link": "https://www.nytimes.com/2025/08/16/opinion/trump-national-guard-crime-dc.html",
+    "summary": "It’s been a summer full of Trump’s overreach. Our round table convenes to discuss."
   },
   {
-    "title": "Putin Probably Bought Himself More Time for His War in Ukraine",
-    "link": "https://www.nytimes.com/2025/08/15/opinion/trump-putin-alaska-meeting-ukraine.html",
-    "summary": "Few East-West meetings have ended with less clarity than Friday’s Trump-Putin summit in Alaska. What was clear, though, was that Vladimir Putin was well satisfied."
+    "title": "No Deal",
+    "link": "https://www.nytimes.com/2025/08/16/briefing/no-deal.html",
+    "summary": "President Trump came home empty-handed."
   },
   {
-    "title": "NY Weed Dispensaries Sue Regulators Over Misinterpretation of State Rules",
-    "link": "https://www.nytimes.com/2025/08/15/nyregion/weed-cannabis-dispensary-lawsuit.html",
-    "summary": "Last month, dozens of cannabis businesses were told they were located too close to schools after state officials realized they had misinterpreted regulations."
+    "title": "Congressman’s Stock Trades Draw More Scrutiny After Key Votes",
+    "link": "https://www.nytimes.com/2025/08/16/us/politics/bresnahan-congress-stock-trading.html",
+    "summary": "Representative Rob Bresnahan Jr. has traded stocks that could be affected by his work in Congress, raising questions about potential conflicts of interest."
   },
   {
-    "title": "Judge Blocks F.T.C. Investigation of Media Matters",
-    "link": "https://www.nytimes.com/2025/08/15/technology/media-matters-ftc-musk-injunction.html",
-    "summary": "The agency began looking into the liberal watchdog group’s research critical of Elon Musk and his social media platform, X, in May."
+    "title": "Arrests in Turkey Silence Erdogan’s Rivals, Opposition Says",
+    "link": "https://www.nytimes.com/2025/08/16/world/europe/turkey-erdogan-corruption-drive.html",
+    "summary": "Turkey has arrested at least 390 people associated with the political opposition since March."
   },
   {
-    "title": "Tommy McLain, the King of Swamp Pop, Dies at 85",
-    "link": "https://www.nytimes.com/2025/08/15/arts/music/tommy-mclain-dead.html",
-    "summary": "Playing a blend of rock, R&amp;B and zydeco, he had a hit in 1966 with “Sweet Dreams” and inspired Elvis Costello, Nick Lowe and many others."
-  },
-  {
-    "title": "Priscilla Presley Locked in Feud With Former Business Partners",
-    "link": "https://www.nytimes.com/2025/08/15/arts/music/priscilla-presley-feud-former-business-partners.html",
-    "summary": "Elvis’s ex-wife has traded lawsuits in a financial dispute with former advisers that has grown ugly with an allegation that she prematurely “pulled the plug” on her late daughter, Lisa Marie."
+    "title": "Once Seen as Divisive, South Korea’s New Leader Tries for Charming",
+    "link": "https://www.nytimes.com/2025/08/16/world/asia/south-korea-president-lee.html",
+    "summary": "To South Koreans weary of the political polarization that led briefly to martial law, President Lee Jae Myung is showing a more human touch than his predecessor. But his biggest challenges lie ahead."
   }
 ]

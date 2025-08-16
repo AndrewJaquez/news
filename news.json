@@ -1,8 +1,23 @@
 [
   {
-    "title": "Trump Welcomes Putin With B-2 Fighter Jet Flyover and Red Carpet",
-    "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-alaska-scene.html",
-    "summary": "President Trump clapped for his guest, Vladimir V. Putin of Russia, as he stepped foot in the United States for the first time in a decade."
+    "title": "Trump and Putin Put on a Show in Summit, but No Ukraine Deal Emerges",
+    "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-alaska-ukraine.html",
+    "summary": "President Trump gave President Vladimir Putin a warm public reception, effectively ending his diplomatic isolation over the past three years for his invasion of Ukraine. But Mr. Putin did not agree to stop the war."
+  },
+  {
+    "title": "At Trump’s Summit, No Deal on Ukraine, and No Consequence for Putin",
+    "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-summit-ukrainians.html",
+    "summary": "President Trump’s failure to reach an accord on Ukraine only made his warm welcome for the Russian leader more striking."
+  },
+  {
+    "title": "6 Takeaways From Trump’s Meeting With Putin",
+    "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-meeting-takeaways.html",
+    "summary": "While no deal was announced, the Russian leader secured some wins and left on good terms with the U.S. president."
+  },
+  {
+    "title": "Trump Administration Backs Off New Attempt to Widen Control of D.C. Police",
+    "link": "https://www.nytimes.com/2025/08/15/us/washington-dc-police-trump-lawsuit.html",
+    "summary": "The chief will remain after a lawsuit challenged the Justice Department’s attempt to install a new leader as part of an effort to put the agency under federal control."
   },
   {
     "title": "Trump Depicted Youth Crime in D.C. as Rampant. Here’s What the Data Shows.",
@@ -15,9 +30,19 @@
     "summary": "Local police now under federal oversight dismantled encampments, discarding tents and other belongings."
   },
   {
-    "title": "4 Takeaways From the Week Trump Took Control of D.C.’s Police",
-    "link": "https://www.nytimes.com/2025/08/15/us/politics/trump-washington-crime-takeaways.html",
-    "summary": "The administration’s grip on the city has only tightened as the week has worn on, while pushback has begun to intensify."
+    "title": "Trump Is Testing D.C.’s Home Rule. What Is It?",
+    "link": "https://www.nytimes.com/2025/08/15/upshot/washington-dc-home-rule-explained.html",
+    "summary": "The city’s limited self-governance has set the stage for the president’s police takeover."
+  },
+  {
+    "title": "California Lawmakers Release a Proposed House Map Favoring Democrats",
+    "link": "https://www.nytimes.com/2025/08/15/us/california-redistricting-maps-released.html",
+    "summary": "The plan would help Democrats flip five seats, offsetting the gains Republicans hope to make by redrawing maps in Texas."
+  },
+  {
+    "title": "Newsom’s Gerrymander of California Has a Formidable Foe: Schwarzenegger",
+    "link": "https://www.nytimes.com/2025/08/15/us/politics/schwarzenegger-newsom-california-redistricting.html",
+    "summary": "The actor-turned-governor helped overhaul how California draws political maps. In an interview with The New York Times, he said he would fight to preserve that legacy."
   },
   {
     "title": "Elon Musk’s SpaceX Most Likely Doesn’t Pay Taxes",
@@ -25,14 +50,34 @@
     "summary": "Elon Musk’s rocket company relies on federal contracts, but years of losses have most likely let it avoid paying federal income taxes, according to internal company documents."
   },
   {
-    "title": "The Woman to See About Your Face",
-    "link": "https://www.nytimes.com/2025/08/15/style/beauty-broker-melinda-farina-plastic-surgery.html",
-    "summary": "Melinda Farina, known as the Beauty Broker, sends Hollywood actresses and everyday women to doctors around the globe. In her world, the knives are always out."
+    "title": "For Some Venetians, This Overgrown Island Is Paradise",
+    "link": "https://www.nytimes.com/2025/08/15/world/europe/venice-residents-poveglia-island-lease.html",
+    "summary": "A citizens’ group is now in charge of the island of Poveglia, where they will create a park for anyone who wants to leave Venice’s maddening crowds of tourists behind."
+  },
+  {
+    "title": "Once Seen as Divisive, South Korea’s New Leader Tries for Charming",
+    "link": "https://www.nytimes.com/2025/08/16/world/asia/south-korea-president-lee.html",
+    "summary": "To South Koreans weary of the political polarization that led briefly to martial law, President Lee Jae Myung is showing a more human touch than his predecessor. But his biggest challenges lie ahead."
+  },
+  {
+    "title": "Judge Rejects Trump’s Attempt to End Standards of Care for Detained Migrant Children",
+    "link": "https://www.nytimes.com/2025/08/15/us/migrant-children-trump-flores-settlement.html",
+    "summary": "Court-mandated oversight will remain in place for migrant children in custody. Lawyers have reported poor medical care and lack of sunlight and showers."
   },
   {
     "title": "MAHA Draft Report Brings Relief to Some, Chagrin to Others",
     "link": "https://www.nytimes.com/2025/08/15/health/maha-draft-report-pesticides.html",
     "summary": "A draft of an upcoming White House report on children’s health was not as harsh toward the agriculture industry as some of Robert F. Kennedy Jr.’s allies had hoped."
+  },
+  {
+    "title": "Air Canada’s Flight Attendants Reject Call for Arbitration",
+    "link": "https://www.nytimes.com/2025/08/15/world/canada/air-canada-flight-attendant-strike.html",
+    "summary": "Ahead of the work stoppage, the airline said it had canceled most of the 700 flights that it directly operates, which carry about 130,000 people each day."
+  },
+  {
+    "title": "The Air Canada Strike: Here’s What to Know About Flight Cancellations and More",
+    "link": "https://www.nytimes.com/2025/08/15/travel/air-canada-strike-flight-cancellations.html",
+    "summary": "The carrier’s flight attendants are now on strike, disrupting plans for 130,000 travelers a day. Here’s what to know if your flight is affected."
   },
   {
     "title": "How Train Riders With Disabilities Are Faring on Amtrak",
@@ -45,29 +90,9 @@
     "summary": "Many people with disabilities depend on Amtrak to travel across the country, but the journey can still present obstacles. Gabe Castro-Root outlines some of the challenges disabled passengers encounter while traveling."
   },
   {
-    "title": "For Some Venetians, This Overgrown Island Is Paradise",
-    "link": "https://www.nytimes.com/2025/08/15/world/europe/venice-residents-poveglia-island-lease.html",
-    "summary": "A citizens’ group is now in charge of the island of Poveglia, where they will create a park for anyone who wants to leave Venice’s maddening crowds of tourists behind."
-  },
-  {
     "title": "Mayor LaToya Cantrell of New Orleans Is Indicted on Corruption Charges",
     "link": "https://www.nytimes.com/2025/08/15/us/new-orleans-mayor-indictment.html",
     "summary": "LaToya Cantrell was charged with going to criminal lengths to carry out, and cover up, a romantic relationship with a city police officer assigned to protect her."
-  },
-  {
-    "title": "Air Canada’s Flight Attendants Reject Call for Arbitration",
-    "link": "https://www.nytimes.com/2025/08/15/world/canada/air-canada-flight-attendant-strike.html",
-    "summary": "Their union says one of its core demands, to receive pay for groundwork, is unlikely to be introduced in arbitration. The airline began canceling flights ahead of the potential strike."
-  },
-  {
-    "title": "As Air Canada Strike Looms, Here’s What to Know About Flight Cancellations and More",
-    "link": "https://www.nytimes.com/2025/08/15/travel/air-canada-strike-flight-cancellations.html",
-    "summary": "A strike by the carrier’s flight attendants could disrupt 130,000 travelers a day, including international fliers. Here’s what to know if your flight is affected."
-  },
-  {
-    "title": "With a Shovel and a Dream, a Woman Finds a 2.3 Carat Diamond in Arkansas",
-    "link": "https://www.nytimes.com/2025/08/15/us/arkansas-state-park-diamond-found-engagment-ring.html",
-    "summary": "After three weeks, with bug bites and tattered hiking boots, Micherre Fox found the stone at Crater of Diamonds State Park."
   },
   {
     "title": "Two Decades of Putin Playing the West",
@@ -75,14 +100,9 @@
     "summary": "For more than 20 years, Western leaders have played right into Putin’s hands — and given one a shake."
   },
   {
-    "title": "The Stock Market Is Getting Scary. What You Should Do.",
-    "link": "https://www.nytimes.com/2025/08/15/opinion/stock-market-advice-investing.html",
-    "summary": "There are troubling signs that our stock market may be overheated."
-  },
-  {
-    "title": "Trump and Putin Meet in Alaska",
-    "link": "https://www.nytimes.com/2025/08/15/briefing/trump-and-putin-meet-in-alaska.html",
-    "summary": "Also, D.C. sued Trump over his takeover of the city’s police. Here’s the latest at the end of Friday."
+    "title": "Putin Probably Bought Himself More Time for His War in Ukraine",
+    "link": "https://www.nytimes.com/2025/08/15/opinion/trump-putin-alaska-meeting-ukraine.html",
+    "summary": "Few East-West meetings have ended with less clarity than Friday’s Trump-Putin summit in Alaska. What was clear, though, was that Vladimir Putin was well satisfied."
   },
   {
     "title": "NY Weed Dispensaries Sue Regulators Over Misinterpretation of State Rules",
@@ -97,7 +117,7 @@
   {
     "title": "Tommy McLain, the King of Swamp Pop, Dies at 85",
     "link": "https://www.nytimes.com/2025/08/15/arts/music/tommy-mclain-dead.html",
-    "summary": "Playing a blend of rock, R&amp;B and zydeco, he had a hit in 1966 with “Sweet Dreams” and inspired Elvis Costello and Nick Lowe, among many others."
+    "summary": "Playing a blend of rock, R&amp;B and zydeco, he had a hit in 1966 with “Sweet Dreams” and inspired Elvis Costello, Nick Lowe and many others."
   },
   {
     "title": "Priscilla Presley Locked in Feud With Former Business Partners",

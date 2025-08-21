@@ -1,15 +1,5 @@
 [
   {
-    "title": "Texas House Approves Redistricting Maps, Just as Trump Wanted",
-    "link": "https://www.nytimes.com/2025/08/20/us/politics/texas-republicans-redistricting-maps.html",
-    "summary": "The State Senate will vote Thursday on maps intended to help the G.O.P. win five more U.S. House seats in the midterm elections. California Democrats will counter on the same day."
-  },
-  {
-    "title": "Obama Endorses Newsom’s Redistricting Proposal as a ‘Responsible Approach’",
-    "link": "https://www.nytimes.com/2025/08/20/us/politics/california-redistricting-newsom-obama.html",
-    "summary": "The former president suggested that Democrats opposing G.O.P. efforts in Texas and elsewhere should advance their own gerrymandering plans."
-  },
-  {
     "title": "With Moves on West Bank and Gaza City, Israel Defies Global Outcry",
     "link": "https://www.nytimes.com/2025/08/20/world/middleeast/israel-hamas-gaza-city.html",
     "summary": "Israel approved new settlements in the occupied West Bank, while its troops have reached the outskirts of Gaza City. The developments raise questions about the viability of a cease-fire proposal."
@@ -23,6 +13,16 @@
     "title": "Gazans Fear Looming Israeli Operation",
     "link": "https://www.nytimes.com/2025/08/20/world/middleeast/gaza-city-israeli-operation.html",
     "summary": "Israel’s plan to invade Gaza City, the most populous city in the northern Gaza Strip, has forced many families to consider uprooting themselves."
+  },
+  {
+    "title": "Texas House Approves Redistricting Maps, Just as Trump Wanted",
+    "link": "https://www.nytimes.com/2025/08/20/us/politics/texas-republicans-redistricting-maps.html",
+    "summary": "The State Senate will vote Thursday on maps intended to help the G.O.P. win five more U.S. House seats in the midterm elections. California Democrats will counter on the same day."
+  },
+  {
+    "title": "Obama Endorses Newsom’s Redistricting Proposal as a ‘Responsible Approach’",
+    "link": "https://www.nytimes.com/2025/08/20/us/politics/california-redistricting-newsom-obama.html",
+    "summary": "The former president suggested that Democrats opposing G.O.P. efforts in Texas and elsewhere should advance their own gerrymandering plans."
   },
   {
     "title": "Rubio Takes on Tricky Task of Drafting Security Guarantees for Ukraine",
@@ -50,14 +50,19 @@
     "summary": "Immigration authorities have detained about 50 children younger than 18 in the New York City area since January. At least 38 of them have been deported."
   },
   {
-    "title": "Senate Adds Guardrails in an Effort to Force Trump to Obey Spending Bills",
-    "link": "https://www.nytimes.com/2025/08/20/us/politics/senate-spending-guardrails-trump.html",
-    "summary": "Leaders of the Appropriations Committee are trying to tighten up funding legislation to give the Trump administration less leeway to refuse to spend federal money."
+    "title": "Trump Officials Demanded Confidential Data About Transgender Children Seeking Care",
+    "link": "https://www.nytimes.com/2025/08/20/us/politics/trump-transgender-children-care-subpoena.html",
+    "summary": "A June subpoena to the Children’s Hospital of Philadelphia sought Social Security numbers and addresses of patients who received gender-related care, as well as “every writing or record” made by doctors on such treatments."
   },
   {
-    "title": "How Harry Potter Fans Are Driving the Romantasy Trend",
-    "link": "https://www.nytimes.com/2025/08/20/style/harry-potter-fan-fiction-romantasy-manacled.html",
-    "summary": "Romantasy is propping up the fiction market. Thanks to a generation that grew up reading about a boy wizard."
+    "title": "Women in Indian Sports Sweat for Their Share of a Booming Market",
+    "link": "https://www.nytimes.com/2025/08/21/world/asia/india-sports-women-female-athletes.html",
+    "summary": "Female athletes are using social media to increase viewership and seek better sponsorship deals in a field long dominated by men."
+  },
+  {
+    "title": "Adams Adviser Suspended From Campaign After Giving Cash to Reporter",
+    "link": "https://www.nytimes.com/2025/08/20/nyregion/eric-adams-winnie-greco-cash-reporter.html",
+    "summary": "A campaign volunteer for Mayor Eric Adams of New York was suspended after giving a journalist cash in a potato chip bag."
   },
   {
     "title": "More Adams Associates and Supporters Are Said to Face Corruption Charges",
@@ -65,19 +70,14 @@
     "summary": "Among those expected to surrender in the coming days is a close friend of Mayor Eric Adams whom the mayor installed in a powerful city position."
   },
   {
+    "title": "What to Know About the Charges and Investigations Surrounding Eric Adams",
+    "link": "https://www.nytimes.com/2025/08/20/nyregion/eric-adams-corruption-charges-investigations.html",
+    "summary": "Months after a federal corruption indictment against Mayor Eric Adams of New York was dropped, some of his allies remain under investigation or have been charged with crimes."
+  },
+  {
     "title": "Mamdani, Skeptical of Casinos, Won’t Try to Block Them in New York City",
     "link": "https://www.nytimes.com/2025/08/20/nyregion/mamdani-casinos-nyc-mayor.html",
     "summary": "Zohran Mamdani, the Democratic mayoral nominee, said that while he still had doubts about city casinos, he respected the views of voters who supported them."
-  },
-  {
-    "title": "Judge Halts Texas Law Mandating the Ten Commandments in School",
-    "link": "https://www.nytimes.com/2025/08/20/us/politics/ten-commandments-texas.html",
-    "summary": "The state law had said public schools would have to display the Ten Commandments in a “conspicuous” location in every classroom in Texas by Sept. 1."
-  },
-  {
-    "title": "Oklahoma Proposes ‘America First Test’ for Teachers From New York and California",
-    "link": "https://www.nytimes.com/2025/08/20/education/oklahoma-woke-teacher-test.html",
-    "summary": "The test is meant to filter out teachers who hold views “antithetical” to Oklahoma values."
   },
   {
     "title": "Why Covid Cases Are Up This Summer",
@@ -110,19 +110,14 @@
     "summary": "The tournament runs Aug. 24 to Sept. 7 at the Billie Jean King National Tennis Center in New York City."
   },
   {
-    "title": "Amy Klobuchar: I Knew A.I. Deepfakes Were a Problem. Then I Saw One of Myself.",
-    "link": "https://www.nytimes.com/2025/08/20/opinion/amy-klobuchar-deepfakes.html",
-    "summary": "Deepfakes are getting more realistic, and more difficult to stop. Congress needs to take steps now."
+    "title": "The Folly of Trump’s Cartel-Bombing Fantasy",
+    "link": "https://www.nytimes.com/2025/08/21/opinion/trump-cartel-mexico-fentanyl.html",
+    "summary": "A U.S. strike on cartels in Mexico won’t fix the deep problems that allow organized crime to flourish."
   },
   {
-    "title": "A.I. May Just Be Kind of Ordinary",
-    "link": "https://www.nytimes.com/2025/08/20/opinion/ai-technology-chatgpt.html",
-    "summary": "Artificial intelligence may change the world but probably won’t remake it."
-  },
-  {
-    "title": "Trump Stepped Up His Attacks on the Fed",
-    "link": "https://www.nytimes.com/2025/08/20/briefing/trump-fed-israel-gaza-city-origami.html",
-    "summary": "Also, Israel is preparing an assault on Gaza City. Here’s the latest at the end of Wednesday."
+    "title": "Israel Is Making Sure There Is No One to Document the Horror of Its War",
+    "link": "https://www.nytimes.com/2025/08/21/opinion/israel-al-sharif-killing-gaza.html",
+    "summary": "The killing of Anas al-Sharif marks an ominous new phase of the war in Gaza."
   },
   {
     "title": "Camp Mystic Parents Demand Changes Before More Children Are Lost",
@@ -130,18 +125,18 @@
     "summary": "A Texas Legislative Committee heard for the first time from the parents who demanded better flood warning systems, better training and equipment for camps near the river."
   },
   {
-    "title": "Ousted Fire Chief in L.A. Claims Mayor Bass Retaliated Against Her in Legal Filing",
-    "link": "https://www.nytimes.com/2025/08/20/us/los-angeles-fire-chief-mayor-bass.html",
-    "summary": "The former chief, Kristin Crowley, claimed that Los Angeles leaders retaliated against her for publicly blaming them for refusing to properly fund the Fire Department."
+    "title": "Jair Bolsonaro Planned to Seek Asylum in Argentina, Brazil’s Police Say",
+    "link": "https://www.nytimes.com/2025/08/20/world/americas/jair-bolsonaro-brazil-asylum-argentina.html",
+    "summary": "The police said they found a request for asylum, addressed to Argentina’s leader, on the phone of the Brazilian ex-president, who is accused of plotting a coup."
+  },
+  {
+    "title": "John Cruickshank, Last World War II Victoria Cross Winner, Dies at 105",
+    "link": "https://www.nytimes.com/2025/08/20/world/europe/john-cruickshank-dead.html",
+    "summary": "He made a daring raid on a U-boat, suffered 72 wounds and helped land his damaged seaplane."
   },
   {
     "title": "Southern California Faces a Combustible Mix of Heat and Fire Risk",
     "link": "https://www.nytimes.com/2025/08/20/weather/los-angeles-heat-fire-forecast.html",
     "summary": "A stretch of unusually hot weather combined with exceptionally dry vegetation will elevate the risk of wildfire."
-  },
-  {
-    "title": "Fed Officials Split Over How to Read Economic Signals",
-    "link": "https://www.nytimes.com/2025/08/20/business/federal-reserve-july-minutes.html",
-    "summary": "Minutes from the Federal Reserve’s July meeting showed policymakers grappling with a slowing labor market and inflation that remains above the central bank’s target."
   }
 ]

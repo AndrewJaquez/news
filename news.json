@@ -1,13 +1,33 @@
 [
   {
+    "title": "Corporate America’s Newest Activist Investor: Donald Trump",
+    "link": "https://www.nytimes.com/2025/08/23/business/trump-intel-us-steel-nvidia.html",
+    "summary": "The president is demanding government stakes in U.S. companies and cuts of their revenue. Experts see some similarities to state-managed capitalism in other parts of the world."
+  },
+  {
     "title": "Intel Agrees to Sell U.S. a 10% Stake in Its Business",
     "link": "https://www.nytimes.com/2025/08/22/technology/trump-intel-stake.html",
     "summary": "The deal is among the largest government interventions in a U.S. company since the rescue of the auto industry after the 2008 financial crisis."
   },
   {
-    "title": "Nvidia Is Making a New Chip for China Amid Debate on AI Exports",
-    "link": "https://www.nytimes.com/2025/08/22/business/jensen-huang-nvidia-china.html",
-    "summary": "Jensen Huang, Nvidia’s chief executive, said he plans to ask the Trump administration’s permission to sell a more powerful chip to Chinese companies."
+    "title": "Lisa Cook, Who Broke Ground at the Fed, Faces Attack by Trump",
+    "link": "https://www.nytimes.com/2025/08/23/business/lisa-cook-fed-trump.html",
+    "summary": "The first Black woman to serve on the Federal Reserve board, Ms. Cook has long been a pathbreaker in a field dominated by white men."
+  },
+  {
+    "title": "In Trump’s Second Term, Far-Right Agenda Enters the Mainstream",
+    "link": "https://www.nytimes.com/2025/08/23/us/politics/trump-far-right.html",
+    "summary": "President Trump has embraced an array of far-right views and talking points in ways that have delighted many right-wing activists who have long supported those ideas."
+  },
+  {
+    "title": "As Trump Targets the Smithsonian, Museums Across the U.S. Feel a Chill",
+    "link": "https://www.nytimes.com/2025/08/23/arts/design/trump-targets-smithsonian-museums-chilling-effect.html",
+    "summary": "Some museums are changing or canceling exhibits, especially those that involve artworks that engage with gender, sexuality and race."
+  },
+  {
+    "title": "Texas Legislature Gives Final Approval to Redistricting Map Favoring Republicans",
+    "link": "https://www.nytimes.com/2025/08/23/us/texas-redistricting.html",
+    "summary": "The map’s passage was a major victory in President Trump’s push to get Republican state leaders to help his party keep control of the U.S. House."
   },
   {
     "title": "Pentagon Fires the Defense Intelligence Agency Chief",
@@ -15,24 +35,9 @@
     "summary": "The move comes weeks after the agency drafted a preliminary report contradicting President Trump’s contention that U.S. strikes had “obliterated” nuclear sites in Iran."
   },
   {
-    "title": "Search of Bolton’s Home Shows Uneasy Mix of Retribution and Law Enforcement",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/trump-bolton-search-analysis.html",
-    "summary": "It is not clear what evidence the authorities have that John Bolton mishandled classified information, but President Trump’s efforts to punish rivals immediately stoked questions about the investigation."
-  },
-  {
-    "title": "F.B.I. Searches Home and Office of John Bolton, Ex-Trump Adviser",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/john-bolton-trump-home-fbi.html",
-    "summary": "An investigation seeks to determine whether Mr. Bolton illegally shared or possessed classified information, according to two people familiar with the case."
-  },
-  {
-    "title": "San Francisco Had Avoided Trump’s Ire. Until Now.",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/san-francisco-trump-cities.html",
-    "summary": "The president focused on cities like Los Angeles and Washington as he deployed federal troops and railed against crime. But on Friday, in reference to San Francisco, he said, “We’ll clean that one up, too.”"
-  },
-  {
-    "title": "Justice Department Releases Ghislaine Maxwell Interview Transcripts",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/ghislaine-maxwell-doj-transcript-trump.html",
-    "summary": "The transcripts and audio, covering two days of discussions between Ms. Maxwell and Todd Blanche, the Justice Department’s No. 2, are likely to raise as many questions as they answer."
+    "title": "After Gaza Famine Report, U.S. Is Mostly Silent and Israel Defiant",
+    "link": "https://www.nytimes.com/2025/08/23/world/middleeast/gaza-famine-report-us-reaction.html",
+    "summary": "Despite outrage from its allies, the White House has not commented on a report that found famine in Gaza. Analysts say that without U.S. pressure, Israel’s war will not likely change course."
   },
   {
     "title": "5 Takeaways From Ghislaine Maxwell’s Interview About Jeffrey Epstein",
@@ -40,49 +45,29 @@
     "summary": "In a courthouse interview with the deputy attorney general, Ms. Maxwell, who has been convicted of sex trafficking, maintained that President Trump and other famous figures were not involved."
   },
   {
-    "title": "Justice Dept. Gives Congress Some Subpoenaed Epstein Files",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/house-subpoena-epstein-files.html",
-    "summary": "The G.O.P. chairman of a key House panel was forced to issue the subpoena after a few Republicans banded together with Democrats to push it through."
+    "title": "Can Redesigns of Wagner Park and East River Park Save Lower Manhattan?",
+    "link": "https://www.nytimes.com/2025/08/23/headway/nyc-manhattan-park-redesigns-wagner-east-river.html",
+    "summary": "Two new parks fortifying the city’s coastline survived a bureaucratic gantlet that reveals why progress so often feels stuck."
   },
   {
-    "title": "Jerome Powell Suggests Fed Will Soon Cut Interest Rates in Jackson Hole Speech",
-    "link": "https://www.nytimes.com/2025/08/22/business/powell-speech-jackson-hole-fed-inflation.html",
-    "summary": "Jerome H. Powell said the “balance of risks” across the economy had started to shift, raising the odds the central bank lowers borrowing costs at its next meeting in September."
+    "title": "Where U.S. Medicines Are Made and How Trump’s Tariffs Could Affect Them",
+    "link": "https://www.nytimes.com/2025/08/23/health/prescription-drugs-manufacturing-tariffs.html",
+    "summary": "President Trump’s planned pharmaceutical tariffs threaten to hit many of the most common and well-known drugs that Americans take."
   },
   {
-    "title": "What to Know About the Fed’s Lisa Cook and Mortgage Fraud Allegations",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/trump-lisa-cook-fed-mortgage-fraud.html",
-    "summary": "Trump administration officials have accused the Federal Reserve governor of mortgage fraud and called for her to resign."
+    "title": "Trump’s Tariffs Become a Wild Card for Board Game Makers",
+    "link": "https://www.nytimes.com/2025/08/23/business/small-business/board-games-trump-tariffs-china.html",
+    "summary": "Trade war uncertainty is forcing board and card game publishers in the United States to make tough decisions, putting the future of the industry in jeopardy."
   },
   {
-    "title": "5 Dead After Tour Bus Crashes on Western New York Highway",
-    "link": "https://www.nytimes.com/2025/08/22/nyregion/new-york-tour-bus-crash.html",
-    "summary": "The bus, which was carrying 54 people to New York City from Niagara Falls, veered off the New York State Thruway near Buffalo."
+    "title": "Iran’s Evin Prison Is Holding Dissidents Again",
+    "link": "https://www.nytimes.com/2025/08/23/world/middleeast/iran-evin-prisoners-return.html",
+    "summary": "Israel largely destroyed Evin prison, one of Iran’s most infamous symbols of oppression, in June. Less than two months later, Iran began returning male prisoners."
   },
   {
-    "title": "Rising Cost of a Day at the Beach Angers Italians",
-    "link": "https://www.nytimes.com/2025/08/23/world/europe/italy-beach-costs-inflation-anger.html",
-    "summary": "For Americans, the price of eggs became a rallying cry for consumers beaten down by high prices. For Italians, it’s the cost of beach umbrellas."
-  },
-  {
-    "title": "Abrego Garcia, Free From Tennessee Jail, Is Returning to Maryland, Lawyer Says",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/abrego-garcia-free-maryland.html",
-    "summary": "Shortly after, the Trump administration informed his lawyers that it might re-deport Mr. Abrego Garcia to Uganda within three business days, people familiar with the matter said."
-  },
-  {
-    "title": "Impact of State Dept.’s New ‘Continuous Vetting’ for U.S. Visa Holders Remains Unclear",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/continuous-vetting-visa-holders.html",
-    "summary": "The State Department offered few details about its plans for the 55 million visa holders, and it was unclear if it was culling travel documents, or making less drastic changes."
-  },
-  {
-    "title": "DeSantis Says He Is Undeterred by Order Shutting Down Florida’s ‘Alligator Alcatraz’",
-    "link": "https://www.nytimes.com/2025/08/22/us/desantis-florida-alligator-alcatraz.html",
-    "summary": "A federal judge had ordered that much of the Florida immigration detention center be dismantled, a ruling Gov. Ron DeSantis called “preordained.”"
-  },
-  {
-    "title": "With Close Associates Under Fire, Mayor Adams Remains Defiant",
-    "link": "https://www.nytimes.com/2025/08/22/nyregion/adams-mamdani-nyc-mayor.html",
-    "summary": "Mayor Eric Adams defended his administration and his re-election bid on Friday amid corruption charges against some of his closest allies."
+    "title": "Harvard Is Making Changes Trump Officials Want, Even Without a Deal",
+    "link": "https://www.nytimes.com/2025/08/23/us/harvard-changes-academic-freedom-trump-deal.html",
+    "summary": "Harvard has sued, fighting the Trump administration’s demands. But the university has also enacted a host of items on the White House wish list."
   },
   {
     "title": "New York Is a Big City. Its Graft Has Become Small-Town Stuff.",
@@ -90,34 +75,39 @@
     "summary": "The city’s corruption once had ambition to match its soaring skyscrapers. Indictments this week described cut-rate schemes with far lower returns — and there was that cash in a potato-chip bag."
   },
   {
-    "title": "Trump Administration Orders Work Halted on Wind Farm That Is Nearly Built",
-    "link": "https://www.nytimes.com/2025/08/22/climate/trump-administration-halts-revolution-wind.html",
-    "summary": "The order to stop construction on Revolution Wind off the coast of Rhode Island is part of a campaign against renewable energy."
+    "title": "With Close Associates Under Fire, Mayor Adams Remains Defiant",
+    "link": "https://www.nytimes.com/2025/08/22/nyregion/adams-mamdani-nyc-mayor.html",
+    "summary": "Mayor Eric Adams defended his administration and his re-election bid on Friday amid corruption charges against some of his closest allies."
   },
   {
-    "title": "How Redistricting Wars Could Give the G.O.P. Up to 7 Seats",
-    "link": "https://www.nytimes.com/2025/08/22/us/redistricting-gerrymandering-texas-california-stakes.html",
-    "summary": "As a handful of states have made moves and begun discussing redrawing their maps, here’s what’s at stake."
+    "title": "What to Know About Student Loan Repayment Plan Changes and Your Options",
+    "link": "https://www.nytimes.com/article/student-loan-repayment-options.html",
+    "summary": "Federal student loans have been upended by litigation and legislation. Here’s what you need to know to repay your loans, avoid tax bombs and more."
   },
   {
-    "title": "The White House Wants Indiana to Redistrict. Republicans There Are Split.",
-    "link": "https://www.nytimes.com/2025/08/22/us/indiana-redistricting-congress-republicans.html",
-    "summary": "As President Trump asks Republican-led states to redraw congressional maps, some Indiana conservatives are pushing back. “They should leave it alone,” one legislator said."
+    "title": "Red Lobster Is Betting on Black Diners With Its Brand Comeback",
+    "link": "https://www.nytimes.com/2025/08/22/dining/red-lobster-comeback.html",
+    "summary": "Are nostalgia, a new chief executive and seafood boil bags enough to save the seafood chain after more than 60 years?"
   },
   {
-    "title": "Trump Gets His Revenge on John Bolton. Who’s Next?",
-    "link": "https://www.nytimes.com/2025/08/22/opinion/trump-john-bolton-raid.html",
-    "summary": "The recent F.B.I. search of John Bolton’s home makes clear that President Trump is perverting the justice system to intimidate his critics."
+    "title": "Trump’s Slavish Stupidity",
+    "link": "https://www.nytimes.com/2025/08/23/opinion/trump-heaven.html",
+    "summary": "The president could learn a lesson from the sisters of Nativity."
   },
   {
-    "title": "Why Epstein’s Furious Grip on Washington Holds",
-    "link": "https://www.nytimes.com/2025/08/22/opinion/democrats-republicans-epstein.html",
-    "summary": "It isn’t just members of the MAGA faithful who are feeling let down."
+    "title": "What Is Trump Hiding in His Comprehensive Federal Budget Proposal?",
+    "link": "https://www.nytimes.com/2025/08/23/opinion/federal-budget-trump-delay.html",
+    "summary": "If the president plans to replace Social Security, the American people deserve to know."
   },
   {
-    "title": "Hong Kong Denies Visa Renewal for Senior Bloomberg Journalist",
-    "link": "https://www.nytimes.com/2025/08/23/world/asia/hong-kong-bloomberg-visa.html",
-    "summary": "The unexplained decision raises fresh concerns about the erosion of press freedom in a city transformed by Beijing’s national security law."
+    "title": "The Water Cure",
+    "link": "https://www.nytimes.com/2025/08/23/briefing/the-water-cure.html",
+    "summary": "Whether you swim furiously or float motionless, being in the water is a magical feeling."
+  },
+  {
+    "title": "5 Dead After Tour Bus Crashes on Western New York Highway",
+    "link": "https://www.nytimes.com/2025/08/22/nyregion/new-york-tour-bus-crash.html",
+    "summary": "The bus, which was carrying 54 people to New York City from Niagara Falls, veered off the New York State Thruway near Buffalo."
   },
   {
     "title": "Turning the Tables, Robert Menendez’s Wife Now Seeks to Blame Him",
@@ -125,13 +115,8 @@
     "summary": "Nadine and Robert Menendez, a former senator, were convicted of taking bribes. Seeking leniency, Ms. Menendez’s relatives and friends agree she is “not a criminal mastermind.”"
   },
   {
-    "title": "Ron Turcotte, Who Rode Secretariat to the Triple Crown, Dies at 84",
-    "link": "https://www.nytimes.com/2025/08/22/sports/horse-racing/ron-turcotte-dead.html",
-    "summary": "With Turcotte in the saddle, Secretariat powered to victory in the Kentucky Derby and the Preakness in 1973 and then demolished the competition in the Belmont Stakes."
-  },
-  {
-    "title": "Elon Musk’s X Agrees to Settlements With Thousands of Former Employees",
-    "link": "https://www.nytimes.com/2025/08/22/technology/elon-musk-x-settlements.html",
-    "summary": "The settlements are an about-face for the billionaire, whose company fought with former workers over whether it owed them severance pay."
+    "title": "Rising Cost of a Day at the Beach Angers Italians",
+    "link": "https://www.nytimes.com/2025/08/23/world/europe/italy-beach-costs-inflation-anger.html",
+    "summary": "For Americans, the price of eggs became a rallying cry for consumers beaten down by high prices. For Italians, it’s the cost of beach umbrellas."
   }
 ]

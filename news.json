@@ -1,8 +1,18 @@
 [
   {
-    "title": "Corporate America’s Newest Activist Investor: Donald Trump",
-    "link": "https://www.nytimes.com/2025/08/23/business/trump-intel-us-steel-nvidia.html",
-    "summary": "The president is demanding government stakes in U.S. companies and cuts of their revenue. Experts see some similarities to state-managed capitalism in other parts of the world."
+    "title": "In Trump’s Second Term, Far-Right Agenda Enters the Mainstream",
+    "link": "https://www.nytimes.com/2025/08/23/us/politics/trump-far-right.html",
+    "summary": "President Trump has embraced an array of far-right views and talking points in ways that have delighted many right-wing activists who have long supported those ideas."
+  },
+  {
+    "title": "A Muted Homecoming for Kilmar Abrego Garcia",
+    "link": "https://www.nytimes.com/2025/08/23/us/kilmar-abrego-garcia-returns-home.html",
+    "summary": "Mr. Abrego Garcia, who was wrongfully deported to El Salvador, is keeping a low profile as his lawyers prepare to fight the Trump administration’s proposal to deport him to Uganda."
+  },
+  {
+    "title": "Fed Officials Try to Keep Focus on Economy as Trump Intensifies Attacks",
+    "link": "https://www.nytimes.com/2025/08/23/business/powell-fed-trump-economy-jackson-hole.html",
+    "summary": "The administration’s effort to oust a Fed governor as part of a pressure campaign for lower borrowing costs created an inescapable distraction at this year’s Jackson Hole conference."
   },
   {
     "title": "Intel's Downfall Underlines How Even Tech Giants Can Fade",
@@ -10,29 +20,14 @@
     "summary": "The Silicon Valley chipmaker’s journey from icon to a government project, with the sale of a 10 percent stake to the Trump administration, underlines how even the mightiest in tech can fall."
   },
   {
-    "title": "Lisa Cook, Who Broke Ground at the Fed, Faces Attack by Trump",
-    "link": "https://www.nytimes.com/2025/08/23/business/lisa-cook-fed-trump.html",
-    "summary": "The first Black woman to serve on the Federal Reserve board, Ms. Cook has long been a pathbreaker in a field dominated by white men."
-  },
-  {
-    "title": "In Trump’s Second Term, Far-Right Agenda Enters the Mainstream",
-    "link": "https://www.nytimes.com/2025/08/23/us/politics/trump-far-right.html",
-    "summary": "President Trump has embraced an array of far-right views and talking points in ways that have delighted many right-wing activists who have long supported those ideas."
-  },
-  {
-    "title": "What Counts as a ‘National Emergency’?",
-    "link": "https://www.nytimes.com/video/us/100000010351409/what-counts-as-a-national-emergency.html",
-    "summary": "In his seven months back in office, President Trump has declared nine national emergencies, plus a “crime emergency” in Washington. Those emergency declarations have been used to justify hundreds of actions — including immigration measures, sweeping tariffs and energy deregulation — that would typically require congressional approval or lengthy regulatory review, according to a New York Times analysis of presidential documents."
-  },
-  {
-    "title": "Abrego Garcia’s Lawyers Say U.S. Officials Tried to Use Uganda Deportation Threat to ‘Coerce’ Guilty Plea",
-    "link": "https://www.nytimes.com/2025/08/23/us/politics/abrego-garcia-coercion.html",
-    "summary": "Officials dangled an offer to send Kilmar Armando Abrego Garcia to Costa Rica if he pleaded guilty to criminal charges, the lawyers said in a filing, then threatened to send him to Uganda if he did not."
-  },
-  {
     "title": "After Gaza Famine Report, U.S. Is Mostly Silent and Israel Defiant",
     "link": "https://www.nytimes.com/2025/08/23/world/middleeast/gaza-famine-report-us-reaction.html",
     "summary": "The White House has not commented on a report finding famine in Gaza. Analysts say that absent U.S. pressure, Israel is unlikely to change course."
+  },
+  {
+    "title": "Justice Dept. Sent Congress Epstein Files That Were Already Public, Democrats Say",
+    "link": "https://www.nytimes.com/2025/08/23/us/politics/congress-epstein-files-public.html",
+    "summary": "The ‘overwhelming majority’ of the material provided to a key investigative committee in response to a subpoena had already been released, according to Democratic members."
   },
   {
     "title": "5 Takeaways From Ghislaine Maxwell’s Interview About Jeffrey Epstein",
@@ -45,6 +40,21 @@
     "summary": "Two new parks fortifying the city’s coastline survived a bureaucratic gantlet that reveals why progress so often feels stuck."
   },
   {
+    "title": "The ‘Lioness’ at the Center of a City Hall Battered by Scandal",
+    "link": "https://www.nytimes.com/2025/08/23/nyregion/ingrid-lewis-martin-eric-adams.html",
+    "summary": "Before Ingrid Lewis-Martin was indicted on bribery charges, she was one of the most powerful people in Mayor Eric Adams’s orbit. Now she may hasten his fall in New York."
+  },
+  {
+    "title": "New York Is a Big City. Its Graft Has Become Small-Town Stuff.",
+    "link": "https://www.nytimes.com/2025/08/22/nyregion/new-york-city-corruption.html",
+    "summary": "The city’s corruption once had ambition to match its soaring skyscrapers. Indictments this week described cut-rate schemes with far lower returns — and there was that cash in a potato-chip bag."
+  },
+  {
+    "title": "The Menendez Brothers’ Momentum Built for Years. It Was Dashed in 2 Days.",
+    "link": "https://www.nytimes.com/2025/08/23/arts/menendez-brothers-supporters-parole-denied.html",
+    "summary": "Young people energized a push for redemption — and the release of Lyle and Erik. Parole commissioners took a different view and a harder line."
+  },
+  {
     "title": "Where U.S. Medicines Are Made and How Trump’s Tariffs Could Affect Them",
     "link": "https://www.nytimes.com/2025/08/23/health/prescription-drugs-manufacturing-tariffs.html",
     "summary": "President Trump’s planned pharmaceutical tariffs threaten to hit many of the most common and well-known drugs that Americans take."
@@ -55,9 +65,9 @@
     "summary": "Companies, fearing penalties that could put them out of business, race to make sure their drivers have enough English to communicate with U.S. officials."
   },
   {
-    "title": "What to Know About the Menendez Brothers’ Parole Hearings",
-    "link": "https://www.nytimes.com/article/menendez-brothers-parole-hearing.html",
-    "summary": "In two hearings, California parole panels said the brothers should not be released from prison 36 years after they killed their parents."
+    "title": "At Lady Gaga’s Mayhem Ball, a Pop Star Is Reborn",
+    "link": "https://www.nytimes.com/2025/08/23/arts/music/lady-gaga-mayhem-ball-review.html",
+    "summary": "The singer and songwriter proved she’s operating at the peak of her powers during a two-and-a-half-hour set that drew sharp connections between her past and present."
   },
   {
     "title": "Texas Legislature Gives Final Approval to Redistricting Map Favoring Republicans",
@@ -75,58 +85,38 @@
     "summary": "As President Trump asks Republican-led states to redraw congressional maps, some Indiana conservatives are pushing back. “They should leave it alone,” one legislator said."
   },
   {
-    "title": "Harvard Is Making Changes Trump Officials Want, Even Without a Deal",
-    "link": "https://www.nytimes.com/2025/08/23/us/harvard-changes-academic-freedom-trump-deal.html",
-    "summary": "Harvard has sued, fighting the Trump administration’s demands. But the university has also enacted a host of items on the White House wish list."
-  },
-  {
     "title": "Green Funerals Are Becoming a Popular Choice for Environmentally Conscious Americans",
     "link": "https://www.nytimes.com/2025/08/23/health/green-natural-burials.html",
     "summary": "More Americans are choosing burials in which everything is biodegradable."
   },
   {
-    "title": "What to Know About Student Loan Repayment Plan Changes and Your Options",
-    "link": "https://www.nytimes.com/article/student-loan-repayment-options.html",
-    "summary": "Federal student loans have been upended by litigation and legislation. Here’s what you need to know to repay your loans, avoid tax bombs and more."
+    "title": "We Can Disagree on Trump’s Motives. But a Pattern Is Still Emerging.",
+    "link": "https://www.nytimes.com/2025/08/23/opinion/trump-voting-mail-election-stolen.html",
+    "summary": "Just how can we tell which of Trump’s moves matters?"
   },
   {
-    "title": "Red Lobster Is Betting on Black Diners With Its Brand Comeback",
-    "link": "https://www.nytimes.com/2025/08/22/dining/red-lobster-comeback.html",
-    "summary": "Are nostalgia, a new chief executive and seafood boil bags enough to save the seafood chain after more than 60 years?"
+    "title": "Would You Believe This Spy’s Name?",
+    "link": "https://www.nytimes.com/2025/08/23/opinion/spy-fiction-books-names-foreign.html",
+    "summary": "Spy fiction thrives on vermismilitude — shy are so many writers so incompetent when it comes to naming foriegn characters?"
   },
   {
-    "title": "John Bolton, Trump and the Crisis of Trust in Federal Law Enforcement",
-    "link": "https://www.nytimes.com/2025/08/23/opinion/john-bolton-trump-fbi.html",
-    "summary": "If the F.B.I. is seen as a tool of retribution, it will come at the expense of its effectiveness in the long run."
+    "title": "Florida Paints Over Rainbow Memorial for Pulse Nightclub Shooting Victims",
+    "link": "https://www.nytimes.com/2025/08/23/us/politics/orlando-pulse-shooting-rainbow-crosswalk-memorial.html",
+    "summary": "The mayor of Orlando, Fla., said that the crosswalk mural, which featured the Pride flag’s colors, was removed overnight this week. Community members protested and have, for now, repainted it."
   },
   {
-    "title": "Clemency Is Broken. That Keeps Me Employed.",
-    "link": "https://www.nytimes.com/2025/08/12/opinion/clemency-prison-documentaries-new-york.html",
-    "summary": "One filmmaker’s playbook for helping people get clemency."
+    "title": "Police Release Names of 5 Killed in Tour Bus Crash Near Buffalo",
+    "link": "https://www.nytimes.com/2025/08/23/nyregion/new-york-buffalo-bus-crash.html",
+    "summary": "Those killed in the accident on Friday ranged in age from 22 to 65 and included three people from New Jersey, a Chinese student at Columbia University and a person from India."
   },
   {
-    "title": "The Water Cure",
-    "link": "https://www.nytimes.com/2025/08/23/briefing/the-water-cure.html",
-    "summary": "Whether you swim furiously or float motionless, being in the water is a magical feeling."
-  },
-  {
-    "title": "Book Club: Read ‘Pride and Prejudice,’ by Jane Austen, With the Book Review",
-    "link": "https://www.nytimes.com/2025/08/22/books/review/pride-and-prejudice-jane-austen-book-club.html",
-    "summary": "In September, the Book Review Book Club will read and discuss Jane Austen’s classic, about the tortured romance of two people frazzled by miscommunications and assumptions."
+    "title": "Flat Fire in Oregon Doubles in 24 Hours to More Than 18,000 Acres",
+    "link": "https://www.nytimes.com/2025/08/23/weather/flat-fire-oregon.html",
+    "summary": "More than 1,000 homes in Oregon were under some kind of evacuation because of the Flat fire, which was one of many wildfires burning in the West, amid hot weather."
   },
   {
     "title": "The All-Female Hacker House Trying to Break A.I.’s Glass Ceiling",
     "link": "https://www.nytimes.com/2025/08/23/business/ai-female-hackers-foundher-house.html",
     "summary": "FoundHer House, a home in San Francisco’s Glen Park neighborhood, is the rare all-female hacker house where residents are creating a supportive community to build their start-ups."
-  },
-  {
-    "title": "Iran’s Evin Prison Is Holding Dissidents Again",
-    "link": "https://www.nytimes.com/2025/08/23/world/middleeast/iran-evin-prisoners-return.html",
-    "summary": "Israel largely destroyed Evin prison, one of Iran’s most infamous symbols of oppression, in June. Less than two months later, Iran began returning male prisoners."
-  },
-  {
-    "title": "Rising Cost of a Day at the Beach Angers Italians",
-    "link": "https://www.nytimes.com/2025/08/23/world/europe/italy-beach-costs-inflation-anger.html",
-    "summary": "For Americans, the price of eggs became a rallying cry for consumers beaten down by high prices. For Italians, it’s the cost of beach umbrellas."
   }
 ]

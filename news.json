@@ -1,5 +1,15 @@
 [
   {
+    "title": "Peace Talks in Ukraine All Lead to the Donbas",
+    "link": "https://www.nytimes.com/2025/08/24/world/europe/russia-ukraine-donbas-peace-talks-putin-trump-zelensky.html",
+    "summary": "The contested region is where Russia’s war in Ukraine began a decade ago. Scores of Ukrainian soldiers have died defending it. Would Ukraine give it up now?"
+  },
+  {
+    "title": "Why Haven’t Sanctions on Russia Stopped the War? The Money Is Still Flowing.",
+    "link": "https://www.nytimes.com/2025/08/24/business/russia-sanctions-ukraine-war.html",
+    "summary": "For decades, companies feared being on the wrong side of U.S. sanctions. That’s not always true anymore."
+  },
+  {
     "title": "In Trump’s Second Term, Far-Right Agenda Enters the Mainstream",
     "link": "https://www.nytimes.com/2025/08/23/us/politics/trump-far-right.html",
     "summary": "President Trump has embraced an array of far-right views and talking points in ways that have delighted many right-wing activists who have long supported those ideas."
@@ -8,6 +18,16 @@
     "title": "A Muted Homecoming for Kilmar Abrego Garcia",
     "link": "https://www.nytimes.com/2025/08/23/us/kilmar-abrego-garcia-returns-home.html",
     "summary": "Mr. Abrego Garcia, who was wrongfully deported to El Salvador, is keeping a low profile as his lawyers prepare to fight the Trump administration’s proposal to deport him to Uganda."
+  },
+  {
+    "title": "Harvard Is Making Changes Trump Officials Want, Even Without a Deal",
+    "link": "https://www.nytimes.com/2025/08/23/us/harvard-changes-academic-freedom-trump-deal.html",
+    "summary": "Harvard has sued, fighting the Trump administration’s demands. But the university has also enacted a host of items on the White House wish list."
+  },
+  {
+    "title": "As Other Israelis Die in War, Ultra-Orthodox Resist Call to Fight",
+    "link": "https://www.nytimes.com/2025/08/24/world/middleeast/israel-gaza-ultra-orthodox.html",
+    "summary": "Ultra-Orthodox Israelis, exempt for decades from military service, are now being drafted. Their rage is dividing Israel and threatening Prime Minister Benjamin Netanyahu’s coalition."
   },
   {
     "title": "Fed Officials Try to Keep Focus on Economy as Trump Intensifies Attacks",
@@ -20,9 +40,14 @@
     "summary": "The Silicon Valley chipmaker’s journey from icon to a government project, with the sale of a 10 percent stake to the Trump administration, underlines how even the mightiest in tech can fall."
   },
   {
-    "title": "After Gaza Famine Report, U.S. Is Mostly Silent and Israel Defiant",
-    "link": "https://www.nytimes.com/2025/08/23/world/middleeast/gaza-famine-report-us-reaction.html",
-    "summary": "The White House has not commented on a report finding famine in Gaza. Analysts say that absent U.S. pressure, Israel is unlikely to change course."
+    "title": "At Lady Gaga’s Mayhem Ball, a Pop Star Is Reborn",
+    "link": "https://www.nytimes.com/2025/08/23/arts/music/lady-gaga-mayhem-ball-review.html",
+    "summary": "The singer and songwriter proved she’s operating at the peak of her powers during a two-and-a-half-hour set that drew sharp connections between her past and present."
+  },
+  {
+    "title": "Singer Marko Perkovic’s Fascist-Era Salute Evokes a Bloody Time in Croatia",
+    "link": "https://www.nytimes.com/2025/08/24/world/europe/croatia-marko-perkovic-thompson-fascism.html",
+    "summary": "There’s a new generation of fans for the singer known as Thompson, who uses the salute and nationalist rhetoric to cast himself as a guardian of Croatian heritage."
   },
   {
     "title": "Justice Dept. Sent Congress Epstein Files That Were Already Public, Democrats Say",
@@ -30,34 +55,14 @@
     "summary": "The ‘overwhelming majority’ of the material provided to a key investigative committee in response to a subpoena had already been released, according to Democratic members."
   },
   {
-    "title": "5 Takeaways From Ghislaine Maxwell’s Interview About Jeffrey Epstein",
-    "link": "https://www.nytimes.com/2025/08/22/us/politics/ghislaine-maxwell-transcript-takeaways.html",
-    "summary": "In a courthouse interview with the deputy attorney general, Ms. Maxwell, who has been convicted of sex trafficking, maintained that President Trump and other famous figures were not involved."
-  },
-  {
-    "title": "Can Redesigns of Wagner Park and East River Park Save Lower Manhattan?",
-    "link": "https://www.nytimes.com/2025/08/23/headway/nyc-manhattan-park-redesigns-wagner-east-river.html",
-    "summary": "Two new parks fortifying the city’s coastline survived a bureaucratic gantlet that reveals why progress so often feels stuck."
-  },
-  {
     "title": "The ‘Lioness’ at the Center of a City Hall Battered by Scandal",
     "link": "https://www.nytimes.com/2025/08/23/nyregion/ingrid-lewis-martin-eric-adams.html",
     "summary": "Before Ingrid Lewis-Martin was indicted on bribery charges, she was one of the most powerful people in Mayor Eric Adams’s orbit. Now she may hasten his fall in New York."
   },
   {
-    "title": "New York Is a Big City. Its Graft Has Become Small-Town Stuff.",
-    "link": "https://www.nytimes.com/2025/08/22/nyregion/new-york-city-corruption.html",
-    "summary": "The city’s corruption once had ambition to match its soaring skyscrapers. Indictments this week described cut-rate schemes with far lower returns — and there was that cash in a potato-chip bag."
-  },
-  {
-    "title": "The Menendez Brothers’ Momentum Built for Years. It Was Dashed in 2 Days.",
-    "link": "https://www.nytimes.com/2025/08/23/arts/menendez-brothers-supporters-parole-denied.html",
-    "summary": "Young people energized a push for redemption — and the release of Lyle and Erik. Parole commissioners took a different view and a harder line."
-  },
-  {
-    "title": "Where U.S. Medicines Are Made and How Trump’s Tariffs Could Affect Them",
-    "link": "https://www.nytimes.com/2025/08/23/health/prescription-drugs-manufacturing-tariffs.html",
-    "summary": "President Trump’s planned pharmaceutical tariffs threaten to hit many of the most common and well-known drugs that Americans take."
+    "title": "Survivors of Bus Crash Near Buffalo Recount Harrowing Ordeal",
+    "link": "https://www.nytimes.com/2025/08/23/nyregion/new-york-buffalo-bus-crash.html",
+    "summary": "The crash of the tour bus, which was headed from Niagara Falls to New York City on Friday, left five dead. Their names were released by the authorities on Saturday."
   },
   {
     "title": "Faced With Trump’s English Mandate, Mexico’s Truckers Report to Class",
@@ -65,39 +70,19 @@
     "summary": "Companies, fearing penalties that could put them out of business, race to make sure their drivers have enough English to communicate with U.S. officials."
   },
   {
-    "title": "At Lady Gaga’s Mayhem Ball, a Pop Star Is Reborn",
-    "link": "https://www.nytimes.com/2025/08/23/arts/music/lady-gaga-mayhem-ball-review.html",
-    "summary": "The singer and songwriter proved she’s operating at the peak of her powers during a two-and-a-half-hour set that drew sharp connections between her past and present."
-  },
-  {
-    "title": "Texas Legislature Gives Final Approval to Redistricting Map Favoring Republicans",
-    "link": "https://www.nytimes.com/2025/08/23/us/texas-redistricting.html",
-    "summary": "The map’s passage was a major victory in President Trump’s push to get Republican state leaders to help his party keep control of the U.S. House."
-  },
-  {
-    "title": "How Redistricting Wars Could Give the G.O.P. Up to 7 Seats",
-    "link": "https://www.nytimes.com/2025/08/22/us/redistricting-gerrymandering-texas-california-stakes.html",
-    "summary": "As a handful of states have made moves and begun discussing redrawing their maps, here’s what’s at stake."
-  },
-  {
-    "title": "The White House Wants Indiana to Redistrict. Republicans There Are Split.",
-    "link": "https://www.nytimes.com/2025/08/22/us/indiana-redistricting-congress-republicans.html",
-    "summary": "As President Trump asks Republican-led states to redraw congressional maps, some Indiana conservatives are pushing back. “They should leave it alone,” one legislator said."
-  },
-  {
     "title": "Green Funerals Are Becoming a Popular Choice for Environmentally Conscious Americans",
     "link": "https://www.nytimes.com/2025/08/23/health/green-natural-burials.html",
     "summary": "More Americans are choosing burials in which everything is biodegradable."
   },
   {
-    "title": "We Can Disagree on Trump’s Motives. But a Pattern Is Still Emerging.",
-    "link": "https://www.nytimes.com/2025/08/23/opinion/trump-voting-mail-election-stolen.html",
-    "summary": "Just how can we tell which of Trump’s moves matters?"
+    "title": "What the U.S. Open Tells Us About America",
+    "link": "https://www.nytimes.com/2025/08/23/opinion/international-sports-tennis-america-first.html",
+    "summary": "Tennis can teach us lessons about how America can be first while also staying open to the world."
   },
   {
-    "title": "Would You Believe This Spy’s Name?",
-    "link": "https://www.nytimes.com/2025/08/23/opinion/spy-fiction-books-names-foreign.html",
-    "summary": "Spy fiction thrives on vermismilitude — shy are so many writers so incompetent when it comes to naming foriegn characters?"
+    "title": "Back to School for Parents’ WhatsApp Groups",
+    "link": "https://www.nytimes.com/2025/08/24/opinion/parents-whatsapp-group-chats.html",
+    "summary": "The incessant alerts are annoying, but also feel like community."
   },
   {
     "title": "Florida Paints Over Rainbow Memorial for Pulse Nightclub Shooting Victims",
@@ -105,14 +90,14 @@
     "summary": "The mayor of Orlando, Fla., said that the crosswalk mural, which featured the Pride flag’s colors, was removed overnight this week. Community members protested and have, for now, repainted it."
   },
   {
-    "title": "Police Release Names of 5 Killed in Tour Bus Crash Near Buffalo",
-    "link": "https://www.nytimes.com/2025/08/23/nyregion/new-york-buffalo-bus-crash.html",
-    "summary": "Those killed in the accident on Friday ranged in age from 22 to 65 and included three people from New Jersey, a Chinese student at Columbia University and a person from India."
-  },
-  {
     "title": "Flat Fire in Oregon Doubles in 24 Hours to More Than 18,000 Acres",
     "link": "https://www.nytimes.com/2025/08/23/weather/flat-fire-oregon.html",
     "summary": "More than 1,000 homes in Oregon were under some kind of evacuation because of the Flat fire, which was one of many wildfires burning in the West, amid hot weather."
+  },
+  {
+    "title": "The Menendez Brothers’ Momentum Built for Years. It Was Dashed in 2 Days.",
+    "link": "https://www.nytimes.com/2025/08/23/arts/menendez-brothers-supporters-parole-denied.html",
+    "summary": "Young people energized a push for redemption — and the release of Lyle and Erik. Parole commissioners took a different view and a harder line."
   },
   {
     "title": "The All-Female Hacker House Trying to Break A.I.’s Glass Ceiling",

@@ -1,48 +1,18 @@
 [
   {
-    "title": "Abrego Garcia Detained Again After Administration Signaled It Would Re-Deport Him",
+    "title": "Trump Repeatedly Praises North Korea’s Dictator in Meeting With South’s President",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/trump-north-south-korea.html",
+    "summary": "In the Oval Office, President Trump met his South Korean counterpart as the relationship between their countries has been strained."
+  },
+  {
+    "title": "Abrego Garcia Detained Again After Government Signaled It Would Re-Deport Him",
     "link": "https://www.nytimes.com/2025/08/25/us/politics/kilmar-abrego-garcia-arrested-ice-deportation.html",
-    "summary": "The move came three days after Kilmar Armando Abrego Garcia was freed from custody in the criminal case that was filed against him in Federal District Court in Nashville."
+    "summary": "A judge in Maryland barred the Trump administration from immediately deporting Kilmar Armando Abrego Garcia until he had a chance to challenge the move."
   },
   {
-    "title": "Trump Signs Orders Aiming to End Cashless Bail",
-    "link": "https://www.nytimes.com/2025/08/25/us/politics/trump-cashless-bail.html",
-    "summary": "The president has long railed against cashless bail, but studies have not backed up his claims that changes in bail laws lead to an increase in crime."
-  },
-  {
-    "title": "FEMA Employees Warn That Trump Is Gutting Disaster Response",
-    "link": "https://www.nytimes.com/2025/08/25/climate/fema-employees-letter-trump-katrina.html",
-    "summary": "After Hurricane Katrina, Congress passed a law to strengthen the nation’s disaster response. FEMA employees say the Trump administration has reversed that progress."
-  },
-  {
-    "title": "Trump Relies on Personal Diplomacy With Putin. The Result Is a Strategic Muddle.",
-    "link": "https://www.nytimes.com/2025/08/25/us/politics/trump-diplomacy-putin-alaska-ukraine-war.html",
-    "summary": "For President Trump, consistency is less important than leader-to-leader diplomacy."
-  },
-  {
-    "title": "What’s Next for Ukraine After All That Diplomacy?",
-    "link": "https://www.nytimes.com/2025/08/25/world/europe/ukraine-russia-war-whats-next-summits.html",
-    "summary": "After President Trump held talks with President Vladimir V. Putin, he said the Russian leader would be willing to meet with Ukraine’s president. That seems less and less likely."
-  },
-  {
-    "title": "How China Influences Elections in America’s Biggest City",
-    "link": "https://www.nytimes.com/2025/08/25/nyregion/china-consulate-new-york-elections.html",
-    "summary": "The Chinese Consulate in Manhattan has mobilized community groups to defeat candidates who don’t fall in line with the authoritarian state."
-  },
-  {
-    "title": "中共如何影响纽约的各级选举",
-    "link": "https://www.nytimes.com/zh-hans/2025/08/25/nyregion/china-consulate-new-york-elections.html",
-    "summary": "同乡会等团体已成为中国驻纽约领事馆干预纽约各级选举的工具。这些组织大力扶持那些持亲中共立场的候选人、阻挠那些反对北京的政治人物。"
-  },
-  {
-    "title": "Red Envelopes With Cash Are Changing Hands at Adams Campaign Rallies",
-    "link": "https://www.nytimes.com/2025/08/21/nyregion/eric-adams-chinese-cash-envelopes.html",
-    "summary": "New York Times reporters witnessed supporters of Mayor Eric Adams handing out cash-filled envelopes. Sometimes, that money went to reporters from Chinese-language outlets."
-  },
-  {
-    "title": "Five Journalists Among Those Killed in Israeli Strikes on Gaza Hospital",
+    "title": "Israeli Hospital Strike Kills 20 in Gaza, Including 5 Journalists",
     "link": "https://www.nytimes.com/2025/08/25/world/middleeast/gaza-hospital-journalists.html",
-    "summary": "The five Gaza-based reporters had worked for various international media outlets, their employers said. The Israeli military confirmed its forces had struck the hospital area, without saying why."
+    "summary": "Five journalists, along with medical workers, were among the dead at Nasser Hospital, where a second strike hit as ambulance crews were arriving. Prime Minister Benjamin Netanyahu said the military would investigate."
   },
   {
     "title": "What to Know About the Journalists Killed in Gaza",
@@ -50,9 +20,24 @@
     "summary": "Five journalists were killed in what local officials said was an Israeli strike on Nasser Hospital in the southern Gazan city of Khan Younis."
   },
   {
-    "title": "E1 Settlement in West Bank Tied to Greater Israel Goal",
-    "link": "https://www.nytimes.com/2025/08/25/world/middleeast/west-bank-e1-israel.html",
-    "summary": "Israel’s approval of a settlement project delayed for decades shows how far Prime Minister Benjamin Netanyahu has gone in dashing Palestinian aspirations."
+    "title": "U.N. Peacekeepers in Lebanon Face Uncertain Future",
+    "link": "https://www.nytimes.com/2025/08/25/world/europe/lebanon-israel-un-unifil-peacekeeping.html",
+    "summary": "With its mission up for renewal, the U.N. force is under pressure to disband even as Israeli airstrikes continue along one of the world’s most volatile borders."
+  },
+  {
+    "title": "Lawmakers Visit Syria to Push for Repealing Sanctions Law",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/lawmakers-syria-repeal-sanctions-law.html",
+    "summary": "A bipartisan pair of members of Congress made the first official U.S. visit there since the fall of the Assad government, arguing that it was time to permanently lift American sanctions."
+  },
+  {
+    "title": "Crime Gone in a Week? The Politics Behind Trump’s Federal Crackdown.",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/trump-crime-federal-crackdown-politics.html",
+    "summary": "President Trump is using crime as a political weapon, proclaiming quick-fix solutions to deeply rooted challenges in cities led by Democrats."
+  },
+  {
+    "title": "Trump Orders Major Expansion of National Guard’s Role in Law Enforcement",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/trump-national-guard.html",
+    "summary": "An executive order released on Monday directs the creation of specialized Guard units to quell civil disturbances in each state and seeks civilian volunteers to assist federal agents in Washington."
   },
   {
     "title": "How Did Jillian Michaels End Up Here?",
@@ -60,34 +45,24 @@
     "summary": "America’s toughest trainer was a proud Hollywood liberal. Now, she’s become a defining voice of the MAHA era."
   },
   {
-    "title": "With Trump’s Takeover, Washington Finds a Mission to Resist",
-    "link": "https://www.nytimes.com/2025/08/25/us/politics/washington-dc-trump.html",
-    "summary": "Known more for their museums, monuments and government buildings than their culture, Washingtonians are showing a spirit of dissent as protesters dog federal agents in their streets."
+    "title": "SpaceX Scrubs 10th Starship Test Launch Because of Lousy Weather",
+    "link": "https://www.nytimes.com/2025/08/25/science/spacex-starship-launch.html",
+    "summary": "Weather interfered on Monday night with the ability of Elon Musk’s company to show it could overcome setbacks faced by its Starship prototype."
   },
   {
-    "title": "National Guard Patrols Begin to Carry Weapons in D.C.",
-    "link": "https://www.nytimes.com/2025/08/24/us/politics/national-guard-weapons-guns-dc.html",
-    "summary": "More than 2,200 troops were deployed in Washington as of Sunday, a Guard spokesman said."
+    "title": "House Republican Seeks Documents From Epstein Estate",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/epstein-files-subpoena-comer.html",
+    "summary": "Representative James E. Comer of Kentucky demanded financial records, video recordings and information on meetings with famous people."
   },
   {
-    "title": "As Housing Demand Continues to Fall, Builders Get Creative",
-    "link": "https://www.nytimes.com/2025/08/25/business/housing-market-builders-demand.html",
-    "summary": "A slow start to the home building market this year has prompted some builders to increase incentives and build on smaller lots."
+    "title": "In Private Deal, the D.N.C. Covered $20 Million in Harris Bills Post-Election",
+    "link": "https://www.nytimes.com/2025/08/25/us/politics/kamala-harris-dnc-fundraising.html",
+    "summary": "The former vice president has been raising the funds to pay all of those expenses and to keep the party whole financially. But small donors making those contributions have been left in the dark."
   },
   {
-    "title": "The Real Reason Americans Worry About Trade",
-    "link": "https://www.nytimes.com/2025/08/25/business/tariffs-layoffs-safety-net.html",
-    "summary": "Behind the pushback to global trade is a deep economic anxiety that a meager social safety net has caused in the United States."
-  },
-  {
-    "title": "Can Robots Be a Good Thing? Factories Rent Them to Retain Human Workers",
-    "link": "https://www.nytimes.com/2025/08/25/business/factories-robot-rentals.html",
-    "summary": "Robots-for-rent is one way some small U.S. factories gain access to automation, reducing turnover and ensuring workers aren’t injured."
-  },
-  {
-    "title": "Katherine LaNasa Earned Her Role in ‘The Pitt’ the Hard Way",
-    "link": "https://www.nytimes.com/2025/08/25/arts/television/katherine-lanasa-emmys-the-pitt.html",
-    "summary": "The actress received an Emmy nod for her performance as a seasoned E.R. nurse, a woman who has seen it all and lived to keep fighting. So has LaNasa."
+    "title": "Sinaloa Cartel Founder Known as El Mayo Pleads Guilty to Drug Trafficking",
+    "link": "https://www.nytimes.com/2025/08/25/nyregion/el-mayo-sinaloa-drug-trafficking-plea.html",
+    "summary": "Ismael Zambada García will spend life in prison. He had been charged with running a criminal network that sold cocaine, heroin and other illegal drugs."
   },
   {
     "title": "New Study Shows Heat Waves Make People Age Faster",
@@ -95,53 +70,43 @@
     "summary": "Exposure to heat waves over just two years could add up to 12 extra days of age-related health damage."
   },
   {
-    "title": "What Does It Take to Get Men to See a Doctor?",
-    "link": "https://www.nytimes.com/2025/08/25/magazine/mens-health-doctor-masculinity.html",
-    "summary": "Men in the U.S. live around five years fewer than women. One clinic is trying to persuade men that getting checked out could save their life."
-  },
-  {
-    "title": "In Ohio, a Solar Co-Op Helps Families Go Solar for Less",
-    "link": "https://www.nytimes.com/2025/08/20/climate/rooftop-solar-cooperative-ohio.html",
-    "summary": "A group of homeowners worked together to navigate the process of installing rooftop solar systems, saving time and money in the process."
-  },
-  {
     "title": "Maurice Tempelsman, Diamond Magnate and Jackie Onassis’s Companion, Dies at 95",
     "link": "https://www.nytimes.com/2025/08/25/business/maurice-tempelsman-dead.html",
     "summary": "A private and politically connected gem merchant, he was thrust into the public spotlight when his personal relationship with the former first lady became known in the late 1980s."
   },
   {
-    "title": "A Star in Russia’s Media World Joins Ukraine’s Army",
-    "link": "https://www.nytimes.com/2025/08/25/opinion/russia-media-ukraine-army.html",
-    "summary": "On the ground in Kharkiv, the choices are starkly different."
+    "title": "Israel’s Gaza Campaign Is Making It a Pariah State",
+    "link": "https://www.nytimes.com/2025/08/25/opinion/international-world/friedman-israel-gaza-hamas.html",
+    "summary": "Israel is well on its way to making itself a pariah state — to the point that Israelis will think twice about speaking Hebrew when traveling abroad."
   },
   {
-    "title": "California Farms Feed America. They Can’t Do It Without Immigrants.",
-    "link": "https://www.nytimes.com/2025/08/25/opinion/immigration-farmworkers-agriculture-groceries.html",
-    "summary": "We need a bipartisan solution that ensures a stable farm work force and protects farmworker families and the future of American agriculture."
+    "title": "Teens Are Using Chatbots as Therapists. That’s Alarming.",
+    "link": "https://www.nytimes.com/2025/08/25/opinion/teen-mental-health-chatbots.html",
+    "summary": "We are deploying digital pseudo-therapists at an unprecedented scale, and those most at risk of negative outcomes are teens."
   },
   {
-    "title": "Cases Closed",
-    "link": "https://www.nytimes.com/2025/08/25/briefing/president-trump-law.html",
-    "summary": "We explore how President Trump selectively enforces the law."
+    "title": "Abrego Garcia Was Detained Again",
+    "link": "https://www.nytimes.com/2025/08/25/briefing/abrego-garcia-was-detained-again.html",
+    "summary": "Also, heat waves could be making you age faster. Here’s the latest at the end of Monday."
   },
   {
-    "title": "Scientists Perform First Pig-to-Human Lung Transplant",
-    "link": "https://www.nytimes.com/2025/08/25/health/lung-transplant-pig-human.html",
-    "summary": "Researchers in China placed a lung from a genetically modified pig into a brain-dead man, with mixed results."
+    "title": "Kennedy Center’s New Dance Director Criticized ‘Woke’ Ballet Culture",
+    "link": "https://www.nytimes.com/2025/08/25/arts/dance/kennedy-center-stephen-nakagawa.html",
+    "summary": "Stephen Nakagawa, a former dancer with the Washington Ballet, wrote a letter to the leader of the arts center complaining about “radical leftist ideologies in ballet.”"
   },
   {
-    "title": "Mamdani’s Voters Want Free Child Care. Here’s How He Could Do It.",
-    "link": "https://www.nytimes.com/2025/08/25/nyregion/zohran-mamdani-free-child-care-nyc-mayor.html",
-    "summary": "Zohran Mamdani’s coalition in the New York mayor’s race includes residents who have questioned whether they can afford to raise children in the city."
+    "title": "‘I Could Literally Be Left Behind to Die’: How a Student With a Disability Changed the Law",
+    "link": "https://www.nytimes.com/2025/08/25/us/students-disability-evacuation-plans.html",
+    "summary": "Schools across the country face increasing threats, but many students with disabilities don’t have a way to evacuate."
   },
   {
-    "title": "Elon Musk’s xAI Sues Apple Over Claims It Favors OpenAI",
-    "link": "https://www.nytimes.com/2025/08/25/technology/xai-sues-apple.html",
-    "summary": "Mr. Musk’s artificial intelligence company, xAI, claimed that its Grok chatbot app was being artificially suppressed in Apple’s App Store."
+    "title": "Sheila R. Canby, Curator at the Met Who Humanized Islam, Dies at 76",
+    "link": "https://www.nytimes.com/2025/08/25/arts/sheila-r-canby-dead.html",
+    "summary": "In overseeing the expansion of the Islamic art galleries at the Metropolitan Museum, she countered hostile narratives about the Muslim world that arose after 9/11."
   },
   {
-    "title": "The Typical American College Student Is Not Who You Think",
-    "link": "https://www.nytimes.com/2025/08/25/us/us-typical-college-student.html",
-    "summary": "As a fight over the future of elite higher education consumes university leaders and politicians, most college students live in a very different world with very different challenges."
+    "title": "Scientists Find a Quadruple Star System in Our Cosmic Backyard",
+    "link": "https://www.nytimes.com/2025/08/25/science/quadruple-star-system.html",
+    "summary": "Two of the objects in the arrangement are cold brown dwarfs, which will serve as a benchmark for others throughout the Milky Way."
   }
 ]

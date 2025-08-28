@@ -1,8 +1,38 @@
 [
   {
-    "title": "Witnesses describe harrowing scenes at the hospital and school.",
-    "link": "https://www.nytimes.com/live/2025/08/27/us/minneapolis-church-shooting/witnesses-describe-harrowing-scenes-at-the-hospital-and-school",
-    "summary": ""
+    "title": "John Bolton Inquiry Eyes Emails Obtained by Foreign Government",
+    "link": "https://www.nytimes.com/2025/08/27/us/politics/bolton-trump-emails-fbi-investigation.html",
+    "summary": "It is not clear what country intercepted Mr. Bolton’s private emails, but the investigation into President Trump’s former national security adviser picked up momentum under the Biden administration."
+  },
+  {
+    "title": "Trump and Advisers, Including Kushner, Meet on Gaza’s Future",
+    "link": "https://www.nytimes.com/2025/08/27/us/politics/trump-gaza-israel-hamas-ceasefire.html",
+    "summary": "The meeting focused on the postwar future of the Gaza Strip, where Mr. Trump has mused about removing Palestinian residents and setting up a luxury resort."
+  },
+  {
+    "title": "Abrego Garcia Requests Asylum in the United States",
+    "link": "https://www.nytimes.com/2025/08/27/us/politics/abrego-garcia-asylum.html",
+    "summary": "The request is another possible path for the Salvadoran man, who has already been deported and returned by the Trump administration, to remain in the country."
+  },
+  {
+    "title": "Minneapolis Suspect Knew Her Target, but Motive Is a Mystery",
+    "link": "https://www.nytimes.com/2025/08/27/us/minneapolis-school-shooting-suspect-gunman.html",
+    "summary": "The shooter who attacked a Catholic school on Wednesday posted social media videos and writings that betrayed a litany of grievances and obsessions."
+  },
+  {
+    "title": "Nvidia Earnings Show Sales Jump Amid Strong Demand for A.I. Chips",
+    "link": "https://www.nytimes.com/2025/08/27/technology/nvidia-earnings-ai-chips.html",
+    "summary": "The chipmaker, now the most valuable public company in the world, said strong demand for its chips should continue this quarter."
+  },
+  {
+    "title": "Trump’s Push to Fire Lisa Cook Puts Fed Independence on Trial",
+    "link": "https://www.nytimes.com/2025/08/27/us/politics/supreme-court-fed-trump.html",
+    "summary": "The Supreme Court has said the Federal Reserve Board’s independence warrants protection. President Trump’s effort to fire a member will test that commitment."
+  },
+  {
+    "title": "Longest-Running Rafiki Says Goodbye to ‘The Lion King’",
+    "link": "https://www.nytimes.com/2025/08/27/theater/tshidi-manye-lion-king-rafiki.html",
+    "summary": "After more than 9,000 performances as the shaman in the Broadway show, Tshidi Manye prepares to hang up her mandrill costume."
   },
   {
     "title": "Trump, With Tariffs and Threats, Tries to Strong-Arm Nations to Retreat on Climate Goals",
@@ -10,29 +40,24 @@
     "summary": "The president has made no secret of his distaste for wind and solar in America. Now he’s taking his fossil fuel agenda overseas."
   },
   {
-    "title": "Trump Raises Tariffs on India to 50% Over Russian Oil",
-    "link": "https://www.nytimes.com/2025/08/27/business/india-tariffs-trump-russia-oil.html",
-    "summary": "As punishment for buying Russian oil, President Trump is doubling the tax on goods imported from India, jeopardizing a relationship decades in the making."
+    "title": "A Casualty of Trump’s Tariffs: India’s Nascent Solar Industry",
+    "link": "https://www.nytimes.com/2025/08/27/climate/india-solar-panels-tariff-exports.html",
+    "summary": "The full weight of a 50 percent tariff on Indian goods took effect this week, undercutting one of the country’s most promising markets for solar exports."
   },
   {
-    "title": "India Reels at Trump’s Highest Tariffs Yet",
-    "link": "https://www.nytimes.com/2025/08/27/business/india-trump-tariffs.html",
-    "summary": "Businesses and policymakers are casting around for help from unlikely places, as the country’s exports to the United States are crushed by 50 percent tariffs."
+    "title": "Trump’s D.C. Law Enforcement Takeover Has Black Parents on Edge",
+    "link": "https://www.nytimes.com/2025/08/27/us/black-parents-washington-dc-crackdown-federal-law-enforcement.html",
+    "summary": "The deployment of federal agents and National Guard troops has caused some Black parents to return to the days of “the talk” about policing that they had hoped was no longer needed to keep their children safe."
   },
   {
-    "title": "The A.I. Spending Frenzy Is Propping Up the Real Economy, Too",
-    "link": "https://www.nytimes.com/2025/08/27/business/economy/ai-investment-economic-growth.html",
-    "summary": "The trillions of dollars that tech companies are pouring into new data centers are starting to show up in economic growth. For now, at least."
+    "title": "After Threats, Mayors of Blue Cities Seek United Front Against Trump",
+    "link": "https://www.nytimes.com/2025/08/27/us/politics/democrats-mayors-cities-trump-crime.html",
+    "summary": "“An attack on one of us is an attack on all of us,” said Mayor Justin Bibb of Cleveland, who led a private strategy call on Wednesday."
   },
   {
-    "title": "Prosecutors Fail to Secure Indictment Against Man Who Threw Sandwich at Federal Agent",
-    "link": "https://www.nytimes.com/2025/08/27/us/politics/trump-sandwich-assault-indictment-justice-department.html",
-    "summary": "It was a sharp rebuke to the prosecutors who were assigned to bring charges against those arrested after President Trump’s deployment of National Guard troops and federal agents to Washington."
-  },
-  {
-    "title": "Longest-Running Rafiki Says Goodbye to ‘The Lion King’",
-    "link": "https://www.nytimes.com/2025/08/27/theater/tshidi-manye-lion-king-rafiki.html",
-    "summary": "After more than 9,000 performances as the shaman in the Broadway show, Tshidi Manye prepares to hang up her baboon costume."
+    "title": "In Trump’s 2nd Term, More Incarcerations, Less Talk of Reform",
+    "link": "https://www.nytimes.com/2025/08/27/us/politics/trump-criminal-justice.html",
+    "summary": "The president is signaling a tough-on-crime message for the midterms next year."
   },
   {
     "title": "FDA Approves Updated Covid Vaccines With New Restrictions",
@@ -40,29 +65,19 @@
     "summary": "The agency’s fall recommendations underscore the goals of Health Secretary Robert F. Kennedy Jr. to limit access to the vaccines, which he has long opposed."
   },
   {
+    "title": "What to Know About Covid Vaccines This Fall",
+    "link": "https://www.nytimes.com/2025/08/27/well/covid-vaccines-guidelines-fall-2025.html",
+    "summary": "The F.D.A. introduced new rules. Here’s what to know."
+  },
+  {
     "title": "Riley Gaines Finished 5th. Now She Believes Victory Is in Her Grasp.",
     "link": "https://www.nytimes.com/2025/08/27/us/riley-gaines-trans-athletes.html",
     "summary": "The former college swimmer has used her race against Lia Thomas, a trans athlete, to propel her career as an influential, and unsparing, activist."
   },
   {
-    "title": "Federal Money Is a ‘Lifeline’ for This Republican School District",
-    "link": "https://www.nytimes.com/2025/08/27/us/federal-funding-education-department-republican-school-district.html",
-    "summary": "President Trump wants to cut federal spending for education. The money often goes toward disadvantaged students in Republican states."
-  },
-  {
-    "title": "As PBS Stations Confront Cuts, American History Takes a Hit",
-    "link": "https://www.nytimes.com/2025/08/27/arts/television/american-experience.html",
-    "summary": "The documentary series “American Experience” begins an abbreviated schedule this week. A victim of the federal funding take-back, it has suspended production and laid off its staff."
-  },
-  {
-    "title": "Partial Heart Transplants Show Promise",
-    "link": "https://www.nytimes.com/2025/08/27/well/partial-heart-transplants.html",
-    "summary": "Owen Monroe was born with a deadly heart defect. Thanks to a cutting-edge surgery, now he’s starting preschool."
-  },
-  {
-    "title": "Denmark Summons U.S. Envoy Over Greenland Espionage Allegations",
-    "link": "https://www.nytimes.com/2025/08/27/world/europe/trump-denmark-greenland-us-embassy.html",
-    "summary": "It’s the latest twist in the Greenland drama. President Trump wants the island, but Denmark refuses to hand it over."
+    "title": "Why Ukraine Is Allowing More Young Men to Leave the Country",
+    "link": "https://www.nytimes.com/2025/08/27/world/europe/young-ukrainians-18-22-leave.html",
+    "summary": "For three years of war, the country has banned young men from leaving the country once they turn 18, prompting an exodus of teenage boys. Now it is raising that age limit to 23."
   },
   {
     "title": "With Fuzzy Racket Bag, Venus Williams Highlights ERL and Other American Labels",
@@ -70,14 +85,19 @@
     "summary": "In her return at the U.S. Open, Ms. Williams decided to highlight labels based in the United States. Her shearling racket bag was hard to miss."
   },
   {
-    "title": "The Ralph Lauren Look of Taylor Swift and Travis Kelce’s Engagement Photos",
-    "link": "https://www.nytimes.com/2025/08/27/style/taylor-swift-engagement-dress.html",
-    "summary": "It’s picture-perfect, of course."
+    "title": "Travis Kelce and Taylor Swift Are Engaged. Kansas City Is Enchanted.",
+    "link": "https://www.nytimes.com/2025/08/27/us/taylor-swift-travis-kelce-engaged-kansas-city.html",
+    "summary": "Chiefs fans have been cheering on their star football player’s romance with the pop star for two years. They have the T-shirts, earrings and baked goods to prove it."
   },
   {
-    "title": "Taylor Swift’s Engagement Ring Marks a Return to Vintage Elegance",
-    "link": "https://www.nytimes.com/2025/08/26/style/taylor-swift-engagement-ring.html",
-    "summary": "The pop star’s antique-inspired sparkler channels the “heirloom look,” reflecting a return to antique stones."
+    "title": "Taylor Swift and Travis Kelce Got Engaged. So Did They.",
+    "link": "https://www.nytimes.com/2025/08/27/us/taylor-swift-travis-kelce-engagement-couples.html",
+    "summary": "Sure, one couple stole the spotlight on Tuesday. But other couples who also got engaged had their own news to share — though some were more thrilled by the frenzy than others."
+  },
+  {
+    "title": "Trump Is Building His Own Paramilitary Force",
+    "link": "https://www.nytimes.com/2025/08/27/opinion/ezra-klein-podcast-radley-balko.html",
+    "summary": "The journalist Radley Balko explains the mechanisms Trump is using to create a personal army."
   },
   {
     "title": "The Rise of the Democratic National Security Mom",
@@ -85,33 +105,28 @@
     "summary": "The Democratic Party is counting on a new type of leader to counteract Trump."
   },
   {
-    "title": "All the Things Trump Thinks He Owns",
-    "link": "https://www.nytimes.com/2025/08/27/opinion/trump-white-house-smithsonian-lisa-cook.html",
-    "summary": "The White House is not the president’s property. Neither is the Smithsonian. Nor Washington itself."
+    "title": "Has Your Family Argued About Housing and Inheritance?",
+    "link": "https://www.nytimes.com/2025/08/27/magazine/housing-inheritance-submissions.html",
+    "summary": "We want to hear from you for a New York Times Magazine feature about how much of America’s family wealth is tied up in parents’ homes."
   },
   {
-    "title": "The New State Interventions",
-    "link": "https://www.nytimes.com/2025/08/27/briefing/intel-tariffs-the-fed-state-intervention.html",
-    "summary": "Protectionism, industrial policy and government ownership — all once conservative boogeymen — have become official doctrine."
+    "title": "Airbnb’s Joe Gebbia is Trump’s Chief Design Officer. Some Peers Are Skeptical.",
+    "link": "https://www.nytimes.com/2025/08/27/style/joe-gebbia-trump-design-officer-airbnb.html",
+    "summary": "Joe Gebbia wants to make government services more “satisfying.” Some peers in the design industry are skeptical."
   },
   {
-    "title": "After Blocking U.N. Nuclear Watchdog, Iran Allows Inspectors to Return",
-    "link": "https://www.nytimes.com/2025/08/27/world/europe/iran-un-nuclear-watchdog-inspectors.html",
-    "summary": "Iran halted cooperation with the agency last month, as experts warned that Tehran may revive efforts to build a nuclear bomb."
+    "title": "Southwest Monsoon Brings Dust Storms and Rain",
+    "link": "https://www.nytimes.com/2025/08/27/weather/monsoon-dust-storm-arizona-burning-man.html",
+    "summary": "The season for strong storms came late. This week, it has led to travel delays, a snarled start to Burning Man and a recharged waterfall in Yosemite."
   },
   {
-    "title": "Sean Duffy Says Penn Station Renovation Will Begin in 2027",
-    "link": "https://www.nytimes.com/2025/08/27/nyregion/penn-station-renovation-2027.html",
-    "summary": "Amtrak intends to team up with a private developer to rebuild the dingy Manhattan train station on an accelerated schedule, transportation officials said."
+    "title": "Pat Moore, a Model Turned Institution at P.J. Clarke’s, Dies at 89",
+    "link": "https://www.nytimes.com/2025/08/27/dining/pat-moore-dead.html",
+    "summary": "She went from fashion shoots to becoming a familiar server at that venerable Manhattan saloon for some 45 years. She dated two of her more famous customers, Tony Bennett and Frank Sinatra."
   },
   {
-    "title": "Google Pixel 10 Pro Review: This A.I. Phone Can Save Time if You Surrender Your Data",
-    "link": "https://www.nytimes.com/2025/08/27/technology/personaltech/google-pixel-10-pro-review-ai-phone.html",
-    "summary": "The new artificially intelligent Pixel can help people streamline certain tasks. But that efficiency may not be worth the data you give up, our reviewer writes."
-  },
-  {
-    "title": "Uncovering the Genes That Let Our Ancestors Walk Upright",
-    "link": "https://www.nytimes.com/2025/08/27/science/human-evolution-ilium-bipedal.html",
-    "summary": "A new study reveals some of the crucial molecular steps on the path to bipedalism."
+    "title": "New N.Y.C. Food Standards Could Spell Doom for Chicken Nuggets",
+    "link": "https://www.nytimes.com/2025/08/27/nyregion/nyc-food-standards-chicken-nuggets.html",
+    "summary": "The standards prohibit processed meat and limit the use of artificial sweeteners in meals served by nearly a dozen city agencies, including the Department of Education."
   }
 ]

@@ -2,7 +2,12 @@
   {
     "title": "CDC Director Susan Monarez Is Fired, White House Says",
     "link": "https://www.nytimes.com/2025/08/27/health/cdc-monarez-kennedy-vaccines.html",
-    "summary": "Susan Monarez was said to have refused to adopt Health Secretary Robert F. Kennedy Jr.’s stance on vaccination policy."
+    "summary": "Susan Monarez was said to have refused to adopt Health Secretary Robert F. Kennedy Jr.’s stance on vaccination policy. A lawyer for Dr. Monarez said the firing was “legally deficient.”"
+  },
+  {
+    "title": "Steven Cook, a Former Chemical Industry Lawyer, Now at E.P.A., Wants to Change PFAS Rules",
+    "link": "https://www.nytimes.com/2025/08/28/climate/steven-cook-epa-pfas-forever-chemicals.html",
+    "summary": "A Trump appointee has proposed rewriting a measure that requires companies to clean up “forever chemicals,” documents show. The new version would shift costs from polluters."
   },
   {
     "title": "John Bolton Inquiry Eyes Emails Obtained by Foreign Government",
@@ -10,14 +15,19 @@
     "summary": "It is not clear what country intercepted Mr. Bolton’s private emails, but the investigation into President Trump’s former national security adviser picked up momentum under the Biden administration."
   },
   {
+    "title": "C.D.C. Loses Top Officials, and Why Israeli Reservists Aren’t Showing Up for Duty",
+    "link": "https://www.nytimes.com/2025/08/28/podcasts/the-headlines/cdc-five-top-officials-israeli-soldiers.html",
+    "summary": "Plus, robots for rent."
+  },
+  {
     "title": "Minneapolis Shooting Suspect Knew Her Target, but Motive Is a Mystery",
     "link": "https://www.nytimes.com/2025/08/27/us/minneapolis-school-shooting-suspect-gunman.html",
     "summary": "The shooter who attacked a Catholic school on Wednesday posted social media videos and writings that betrayed a litany of grievances and obsessions."
   },
   {
-    "title": "A Traumatized Minneapolis Confronts Another Tragedy",
-    "link": "https://www.nytimes.com/2025/08/27/us/minneapolis-shooting-reaction.html",
-    "summary": "The shooting of children at a Roman Catholic church came after a string of violent confrontations, going back to George Floyd, that has left the Twin Cities reeling."
+    "title": "Survivors of Minneapolis Catholic School Shooting Face Long Road Ahead",
+    "link": "https://www.nytimes.com/2025/08/28/us/minneapolis-school-shooting-victims-survivors-injuries.html",
+    "summary": "Children who survive school shootings deal with a host of complex feelings, ranging from anxiety and grief to guilt and shame."
   },
   {
     "title": "What We Know About the Minneapolis Catholic School Shooting",
@@ -25,14 +35,29 @@
     "summary": "Investigators were still searching for a motive in the shooting, which left two children dead at Annunciation Catholic Church in Minneapolis."
   },
   {
-    "title": "Nvidia Earnings Show Sales Jump Amid Strong Demand for A.I. Chips",
-    "link": "https://www.nytimes.com/2025/08/27/technology/nvidia-earnings-ai-chips.html",
-    "summary": "The chipmaker, now the most valuable public company in the world, said strong demand for its chips should continue this quarter."
-  },
-  {
     "title": "Trump’s Push to Fire Lisa Cook Puts Fed Independence on Trial",
     "link": "https://www.nytimes.com/2025/08/27/us/politics/supreme-court-fed-trump.html",
     "summary": "The Supreme Court has said the Federal Reserve Board’s independence warrants protection. President Trump’s effort to fire a member will test that commitment."
+  },
+  {
+    "title": "How Trump Could Gain Control of the Fed",
+    "link": "https://www.nytimes.com/video/business/economy/100000010362356/how-trump-could-gain-control-of-the-fed.html",
+    "summary": "President Trump’s attempt to fire Lisa Cook has laid bare the erosion of the Federal Reserve’s independence, which could lead to economic consequences for Americans, The New York Times’s chief economics correspondent explains."
+  },
+  {
+    "title": "Trump’s Fed Feud Spotlights Mortgage Data Privacy: Is Your Information Public?",
+    "link": "https://www.nytimes.com/2025/08/28/business/mortgage-data-privacy-lisa-cook-trump.html",
+    "summary": "After President Trump accused a Federal Reserve governor of mortgage fraud, everyday citizens are waking up to just how much information is out there."
+  },
+  {
+    "title": "Russian Missile and Drone Attack Kills at Least 15 in Kyiv",
+    "link": "https://www.nytimes.com/2025/08/28/world/europe/ukraine-russia-strikes.html",
+    "summary": "The strikes on Ukraine’s capital, nearly two weeks after the U.S.-Russia summit in Alaska, injured at least 45 people, officials said."
+  },
+  {
+    "title": "Russian Drones Are Flying Over U.S. Weapons Routes in Germany, Officials Say",
+    "link": "https://www.nytimes.com/2025/08/28/us/politics/russian-drones-weapons-routes.html",
+    "summary": "U.S. and European military officials are increasingly concerned about the flights, even as Russian acts of sabotage have declined."
   },
   {
     "title": "Austria’s Hills Are Still Alive, 60 Years Later",
@@ -40,44 +65,59 @@
     "summary": "In Salzburg, an anniversary of “The Sound of Music” looks grand through a child’s eyes, even if the locals are gazing elsewhere."
   },
   {
+    "title": "Nvidia Earnings Show Sales Jump Amid Strong Demand for A.I. Chips",
+    "link": "https://www.nytimes.com/2025/08/27/technology/nvidia-earnings-ai-chips.html",
+    "summary": "The chipmaker, now the most valuable public company in the world, said strong demand for its chips should continue this quarter."
+  },
+  {
+    "title": "U.S. Government Cracks Down on Organ Transplant System",
+    "link": "https://www.nytimes.com/2025/08/28/us/federal-crackdown-organ-donations.html",
+    "summary": "Organ donation groups accused of safety lapses are facing multiple investigations, and new policies are underway to protect patients."
+  },
+  {
+    "title": "A Push for More Organ Transplants Is Putting Donors at Risk",
+    "link": "https://www.nytimes.com/2025/07/20/us/organ-transplants-donors-alive.html",
+    "summary": "People across the United States have endured rushed or premature attempts to remove their organs. Some were gasping, crying or showing other signs of life."
+  },
+  {
+    "title": "Israel’s Exhausted Soldiers Complicate Plans for Gaza Assault",
+    "link": "https://www.nytimes.com/2025/08/28/world/middleeast/israels-exhausted-reservists-gaza.html",
+    "summary": "Worn down by hundreds of days of military service, fewer Israeli reservists are turning up for duty. Others are refusing to fight in a war they no longer believe in."
+  },
+  {
+    "title": "Nothing Could Topple the ‘Queen of Heels.’ Then Trump Came Along.",
+    "link": "https://www.nytimes.com/2025/08/28/us/politics/tariffs-luxury-shoes-brazil-trump.html",
+    "summary": "The president’s steep tariffs and erratic moves have turned manufacturing abroad into a minefield, even for entrepreneurs who set up in countries viewed as safe alternatives to China."
+  },
+  {
     "title": "A Casualty of Trump’s Tariffs: India’s Nascent Solar Industry",
     "link": "https://www.nytimes.com/2025/08/27/climate/india-solar-panels-tariff-exports.html",
     "summary": "The full weight of a 50 percent tariff on Indian goods took effect this week, undercutting one of the country’s most promising markets for solar exports."
   },
   {
-    "title": "Trump’s D.C. Law Enforcement Takeover Has Black Parents on Edge",
-    "link": "https://www.nytimes.com/2025/08/27/us/black-parents-washington-dc-crackdown-federal-law-enforcement.html",
-    "summary": "The deployment of federal agents and National Guard troops has caused some Black parents to return to the days of “the talk” about policing that they had hoped was no longer needed to keep their children safe."
+    "title": "At the U.S. Open, Players’ Dogs Have the Run of the Place",
+    "link": "https://www.nytimes.com/2025/08/28/style/us-open-dogs.html",
+    "summary": "At the U.S. Open, players’ dogs are a key part of the entourage, and they have the run of the place."
   },
   {
-    "title": "After Threats, Mayors of Blue Cities Seek United Front Against Trump",
-    "link": "https://www.nytimes.com/2025/08/27/us/politics/democrats-mayors-cities-trump-crime.html",
-    "summary": "“An attack on one of us is an attack on all of us,” said Mayor Justin Bibb of Cleveland, who led a private strategy call on Wednesday."
+    "title": "America Was Making Progress on Opioid Addiction. That’s Now at Risk",
+    "link": "https://www.nytimes.com/2025/08/28/opinion/opioids-progress-trump-policy-law.html",
+    "summary": "Trump’s budget law effectively undoes much of the good that the Affordable Care Act did in reducing opioid deaths."
   },
   {
-    "title": "In Trump’s 2nd Term, More Incarcerations, Less Talk of Reform",
-    "link": "https://www.nytimes.com/2025/08/27/us/politics/trump-criminal-justice.html",
-    "summary": "The president is signaling a tough-on-crime message for the midterms next year."
+    "title": "Disney World Is the Happiest Place on Earth, if You Can Afford It",
+    "link": "https://www.nytimes.com/2025/08/28/opinion/disney-world-economy-middle-class-rich.html",
+    "summary": "The theme-park operator, like so many other companies, is abandoning America’s middle class."
   },
   {
-    "title": "Russian Missile and Drone Attack Kills at Least 4 in Kyiv",
-    "link": "https://www.nytimes.com/2025/08/28/world/europe/ukraine-russia-strikes.html",
-    "summary": "The strikes on Ukraine’s capital early Thursday injured at least 22 people and left others trapped under rubble, officials said."
+    "title": "A Shooting in Minnesota",
+    "link": "https://www.nytimes.com/2025/08/28/briefing/shooting-minneapolis.html",
+    "summary": "We have the latest on the attack on Annunciation Catholic Church."
   },
   {
-    "title": "Why Ukraine Is Allowing More Young Men to Leave the Country",
-    "link": "https://www.nytimes.com/2025/08/27/world/europe/young-ukrainians-18-22-leave.html",
-    "summary": "For three years of war, the country has banned young men from leaving the country once they turn 18, prompting an exodus of teenage boys. Now it is raising that age limit to 23."
-  },
-  {
-    "title": "FDA Approves Updated Covid Vaccines With New Restrictions",
-    "link": "https://www.nytimes.com/2025/08/27/health/fda-covid-vaccines-rfk-jr.html",
-    "summary": "The agency’s fall recommendations underscore the goals of Health Secretary Robert F. Kennedy Jr. to limit access to the vaccines, which he has long opposed."
-  },
-  {
-    "title": "What to Know About Covid Vaccines This Fall",
-    "link": "https://www.nytimes.com/2025/08/27/well/covid-vaccines-guidelines-fall-2025.html",
-    "summary": "The F.D.A. introduced new rules. Here’s what to know."
+    "title": "Medicare Will Require Prior Approval for Certain Procedures",
+    "link": "https://www.nytimes.com/2025/08/28/health/medicare-prior-approval-health-care.html",
+    "summary": "A pilot program in six states will use a tactic employed by private insurers that has been heavily criticized for delaying and denying medical care."
   },
   {
     "title": "Jimmy Lai’s Freedom May Now Hinge on Beijing and Trump",
@@ -85,48 +125,13 @@
     "summary": "As the outspoken Hong Kong publisher awaits a verdict, his trial has become a test of China’s resolve to crush dissent, and of whether President Trump can free him."
   },
   {
-    "title": "What to Know About Jimmy Lai’s Trial in Hong Kong",
-    "link": "https://www.nytimes.com/2025/08/27/world/asia/jimmy-lai-trial-what-to-know.html",
-    "summary": "The media tycoon, jailed since 2020, ran a now-defunct newspaper that was critical of the government."
+    "title": "Inside the Crisis Gripping New Jersey’s Federal Courts",
+    "link": "https://www.nytimes.com/2025/08/28/nyregion/new-jersey-federal-court-slowdown.html",
+    "summary": "Trials and hearings have been delayed since a judge ruled that Alina Habba was serving unlawfully as U.S. attorney. The uncertainty may last for months."
   },
   {
-    "title": "Travis Kelce and Taylor Swift Are Engaged. Kansas City Is Enchanted.",
-    "link": "https://www.nytimes.com/2025/08/27/us/taylor-swift-travis-kelce-engaged-kansas-city.html",
-    "summary": "Chiefs fans have been cheering on their star football player’s romance with the pop star for two years. They have the T-shirts, earrings and baked goods to prove it."
-  },
-  {
-    "title": "Taylor Swift and Travis Kelce Got Engaged. So Did They.",
-    "link": "https://www.nytimes.com/2025/08/27/us/taylor-swift-travis-kelce-engagement-couples.html",
-    "summary": "Sure, one couple stole the spotlight on Tuesday. But other couples who also got engaged had their own news to share — though some were more thrilled by the frenzy than others."
-  },
-  {
-    "title": "Trump Is Building His Own Paramilitary Force",
-    "link": "https://www.nytimes.com/2025/08/27/opinion/ezra-klein-podcast-radley-balko.html",
-    "summary": "The journalist Radley Balko explains the mechanisms Trump is using to create a personal army."
-  },
-  {
-    "title": "The Rise of the Democratic National Security Mom",
-    "link": "https://www.nytimes.com/2025/08/27/opinion/spanberger-sherrill-women-governor-virginia-new-jersey.html",
-    "summary": "The Democratic Party is counting on a new type of leader to counteract Trump."
-  },
-  {
-    "title": "Even 2025’s Chaos Couldn’t Keep Brussels From the European August Holiday",
-    "link": "https://www.nytimes.com/2025/08/27/world/europe/brussels-august.html",
-    "summary": "With President Trump’s trade moves, war in Ukraine and wildfires, it was a busy month for the European Union. But not in Brussels."
-  },
-  {
-    "title": "Southwest Monsoon Brings Dust Storms and Rain",
-    "link": "https://www.nytimes.com/2025/08/27/weather/monsoon-dust-storm-arizona-burning-man.html",
-    "summary": "The season for strong storms came late. This week, it has led to travel delays, a snarled start to Burning Man and a recharged waterfall in Yosemite."
-  },
-  {
-    "title": "Gérard Chaliand, Intrepid Authority on Geopolitics, Dies at 91",
-    "link": "https://www.nytimes.com/2025/08/27/world/europe/gerard-chaliand-dead.html",
-    "summary": "His considerable influence in the French-speaking world was based on an unusual attribute: He had actually been to the revolutions he wrote about."
-  },
-  {
-    "title": "New N.Y.C. Food Standards Could Spell Doom for Chicken Nuggets",
-    "link": "https://www.nytimes.com/2025/08/27/nyregion/nyc-food-standards-chicken-nuggets.html",
-    "summary": "The standards prohibit processed meat and limit the use of artificial sweeteners in meals served by nearly a dozen city agencies, including the Department of Education."
+    "title": "Relics From an Ancient Egyptian ‘Party Town’ Are Pulled Out of the Sea",
+    "link": "https://www.nytimes.com/2025/08/28/world/middleeast/egypt-alexandria-sunken-city.html",
+    "summary": "Remnants of a 2,000-year-old sunken city, Canopus, were lifted from waters off Alexandria, Egypt, revealing the city might have been larger than thought."
   }
 ]

@@ -1,5 +1,35 @@
 [
   {
+    "title": "After Deadly Earthquake in Afghanistan, Emergency Aid Trickles In",
+    "link": "https://www.nytimes.com/2025/09/02/world/asia/afghanistan-earthquake.html",
+    "summary": "Villages remain cut off in the remote, mountainous areas in the east that have been hardest hit by the disaster, which has killed at least 1,400 people."
+  },
+  {
+    "title": "Landslide Kills Hundreds in Sudan",
+    "link": "https://www.nytimes.com/2025/09/02/world/africa/sudan-landslide.html",
+    "summary": "The landslide leveled a village in the remote Marra mountains, a local rebel group said. Its leader appealed for urgent help, saying, “This is a nightmare.”"
+  },
+  {
+    "title": "Scientists Denounce Trump Administration’s Climate Report",
+    "link": "https://www.nytimes.com/2025/09/02/climate/climate-science-report-energy-department.html",
+    "summary": "Scores of researchers reviewed the Energy Department’s argument about greenhouse gases and found serious deficiencies."
+  },
+  {
+    "title": "White House Counsel Eases Trump’s Path on Aggressive Agenda",
+    "link": "https://www.nytimes.com/2025/09/02/us/politics/white-house-counsel-david-warrington.html",
+    "summary": "David Warrington, the top lawyer inside the West Wing, focuses on “the art of the possible,” as one Trump adviser said."
+  },
+  {
+    "title": "House Oversight Committee Is Set to Meet With Accusers of Jeffrey Epstein",
+    "link": "https://www.nytimes.com/2025/09/02/us/politics/epstein-accusers-house-oversight-committee.html",
+    "summary": "Lawmakers are continuing their inquiry into Mr. Epstein, the disgraced financier, despite the Trump administration’s efforts to quell public demand for information."
+  },
+  {
+    "title": "In Protest, He Turned the Camera on China’s Surveillance State",
+    "link": "https://www.nytimes.com/2025/09/02/business/china-chongqing-protest.html",
+    "summary": "Before fleeing China, an activist in Chongqing staged an elaborate one-man demonstration against the Communist Party that doubled as performance art."
+  },
+  {
     "title": "Ukraine Pursues a Weapons Buildup More Potent Than Any Security Guarantee",
     "link": "https://www.nytimes.com/2025/09/02/world/europe/ukraine-weapons-security.html",
     "summary": "Kyiv sees a well-equipped army as a stronger deterrent to Moscow than any Western pledges to defend it. It is working to attract billions to buy more arms."
@@ -10,49 +40,9 @@
     "summary": "The Russian and Chinese leaders drew on a shared view of their countries’ roles in World War II to cast their modern-day partnership as a challenge to the West."
   },
   {
-    "title": "Putin Finds a Growing Embrace on the Global Stage",
-    "link": "https://www.nytimes.com/2025/09/01/world/europe/russia-ukraine-putin-diplomacy.html",
-    "summary": "Eurasian leaders eagerly met the Russian leader at a summit this week, as President Trump has helped ease his isolation over the war in Ukraine."
-  },
-  {
-    "title": "When Putin, Xi and Modi Get Together, and a Legal Blow to Trump’s Tariffs",
-    "link": "https://www.nytimes.com/2025/09/02/podcasts/the-headlines/putin-xi-modi-trumps-tariffs.html",
-    "summary": "Plus, the Bad Bunny economic boost."
-  },
-  {
-    "title": "White House Counsel Eases Trump’s Path on Aggressive Agenda",
-    "link": "https://www.nytimes.com/2025/09/02/us/politics/white-house-counsel-david-warrington.html",
-    "summary": "David Warrington, the top lawyer inside the West Wing, focuses on “the art of the possible,” as one Trump adviser said."
-  },
-  {
-    "title": "Trump Orders Have Stripped Nearly Half a Million Federal Workers of Union Rights",
-    "link": "https://www.nytimes.com/2025/09/01/us/politics/trumps-unions-federal-workers.html",
-    "summary": "The president, who has targeted collective bargaining contracts for nearly one million government employees, has said their functions touch on national security."
-  },
-  {
-    "title": "Trump’s D.C. Crime Crackdown Shows Administration’s Uneasy Relationship With Guns",
-    "link": "https://www.nytimes.com/2025/09/01/us/politics/dc-crime-trump-guns.html",
-    "summary": "If President Trump’s actions were intended to drive a law-and-order wedge between Democratic big-city leaders and their constituents, it has also exposed a division in his own coalition."
-  },
-  {
-    "title": "Why China Is Trying to Tame Its Electric Car Frenzy",
-    "link": "https://www.nytimes.com/2025/09/02/business/china-electric-vehicles-overcapacity.html",
-    "summary": "Beijing has run out of patience with companies slashing prices, and is urging restraint. But fierce competition is also producing a surge of innovation."
-  },
-  {
-    "title": "After Court Defeat, Trump Warns of Economic Chaos From Loss of Tariffs",
-    "link": "https://www.nytimes.com/2025/09/02/us/politics/trump-tariffs-appeals-court-ruling-economy.html",
-    "summary": "The president and his advisers have suggested they will fight a federal appeals court’s ruling that found many of the administration’s tariffs to be illegal."
-  },
-  {
-    "title": "A Move to the U.S. to Avoid Tariffs? There Are Trade-Offs.",
-    "link": "https://www.nytimes.com/2025/09/02/world/europe/germany-tariffs-bizerba-us-move.html",
-    "summary": "Bizerba, a German company that makes industrial slicers for Subway, is thinking about shifting production to the United States, if it can overcome the challenges."
-  },
-  {
-    "title": "Trump’s Fight with the Fed Carries a Heavy Cost, Experts Say",
-    "link": "https://www.nytimes.com/2025/09/02/business/dealbook/fed-trump-cook-political-independence.html",
-    "summary": "The president’s attacks on the central bank’s  independence could undermine investor confidence in the institution at a crucial time."
+    "title": "The Millionaire Who Left Wall Street to Become a Paramedic",
+    "link": "https://www.nytimes.com/2025/09/02/nyregion/rescue-medic-wall-street-.html",
+    "summary": "After making millions in a job he came to hate, Jonathan Kleisner joined the Fire Department as a rookie paramedic at the age of 41. Now he’s determined to be the best rescue medic anywhere."
   },
   {
     "title": "How Jair Bolsonaro Tried, and Failed, to Stage a Coup in Brazil",
@@ -60,9 +50,14 @@
     "summary": "Brazil’s former president, Jair Bolsonaro, stands trial on Tuesday, accused of plotting a coup after losing the 2022 elections. Evidence suggests this is how he tried to do it."
   },
   {
-    "title": "What to Know About Jair Bolsonaro’s Coup Plot Trial",
-    "link": "https://www.nytimes.com/2025/09/02/world/americas/jair-bolsonaro-coup-trial-what-to-know.html",
-    "summary": "The former Brazilian president is charged with planning a coup after losing the 2022 elections. He says he pursued only legal avenues to remain in power. Here is what to know about the trial."
+    "title": "Jair Bolsonaro, Charged With Plotting a Coup, Is Not at His Trial",
+    "link": "https://www.nytimes.com/2025/09/02/world/americas/bolsonaro-trial-brazil.html",
+    "summary": "Brazil’s Supreme Court began judging the case against the former president, who did not attend the proceedings because of poor health, his defense team said."
+  },
+  {
+    "title": "What Does Vogue Mean Today?",
+    "link": "https://www.nytimes.com/2025/09/02/style/vogue-chloe-malle.html",
+    "summary": "The magazine has a new editor in Chloe Malle. It may also need a new identity."
   },
   {
     "title": "Vogue Names Chloe Malle as Its New Editor",
@@ -75,29 +70,44 @@
     "summary": "As social media and wellness podcasters bombard young women with messages about the pill, many are questioning what they’ve long been told."
   },
   {
-    "title": "How Elon Musk Is Remaking Grok in His Image",
-    "link": "https://www.nytimes.com/2025/09/02/technology/elon-musk-grok-conservative-chatbot.html",
-    "summary": "Mr. Musk said he wanted xAI’s chatbot to be “politically neutral.” His actions say otherwise."
+    "title": "Is ‘The Wizard of Oz’ at Sphere the Future of Cinema? Or the End of It?",
+    "link": "https://www.nytimes.com/2025/09/01/movies/wizard-of-oz-sphere-review.html",
+    "summary": "Our critic went to Las Vegas to see the immersive presentation of the classic 1939 film. What she saw defied easy categorization."
   },
   {
-    "title": "Kraft Heinz to Break Up Its Food Businesses",
-    "link": "https://www.nytimes.com/2025/09/02/business/kraft-heinz-break-up.html",
-    "summary": "A planned split of the mega company that makes products from Velveeta to Kool-Aid comes as consumers shift away from processed foods."
+    "title": "After Court Defeat, Trump Warns of Economic Chaos From Loss of Tariffs",
+    "link": "https://www.nytimes.com/2025/09/02/us/politics/trump-tariffs-appeals-court-ruling-economy.html",
+    "summary": "The president and his advisers have suggested they will fight a federal appeals court’s ruling that found many of the administration’s tariffs to be illegal."
   },
   {
-    "title": "Cue the Sun: This Lab Recreates Hot, Sweaty Days to Test Humans",
-    "link": "https://www.nytimes.com/2025/09/02/climate/research-extreme-heat-lab.html",
-    "summary": "Our reporter hits the treadmill to understand how scientists study extreme heat."
+    "title": "A Move to the U.S. to Avoid Tariffs? There Are Trade-Offs.",
+    "link": "https://www.nytimes.com/2025/09/02/world/europe/germany-tariffs-bizerba-us-move.html",
+    "summary": "Bizerba, a German company that makes industrial slicers for Subway, is thinking about shifting production to the United States, if it can overcome the challenges."
+  },
+  {
+    "title": "Giuliani Finds a Home Away From Home in New Hampshire",
+    "link": "https://www.nytimes.com/2025/09/02/nyregion/rudy-giuliani-new-hampshire.html",
+    "summary": "Before his car crash, the former mayor of New York City was taking in a minor-league baseball game in Manchester, N.H., a city where he’s been known to enjoy a good cigar."
+  },
+  {
+    "title": "Poor Amazon Rains Linked to Brazil Deforestation",
+    "link": "https://www.nytimes.com/2025/09/02/climate/amazon-brazil-drought-rain-deforestation.html",
+    "summary": "Deforestation is playing a greater role than researchers expected, according to a new study."
+  },
+  {
+    "title": "Animal Activists Target Farmers in Sonoma, Known as ‘America’s Provence’",
+    "link": "https://www.nytimes.com/2025/09/02/us/california-farmers-animal-activists-bay-area-sonoma.html",
+    "summary": "A new generation of activists has used extreme tactics and viral video to challenge farmers in Sonoma County, a region known for some of the industry’s most humane practices."
   },
   {
     "title": "The One Danger That Should Unite the U.S. and China",
     "link": "https://www.nytimes.com/2025/09/02/opinion/ai-us-china.html",
-    "summary": "The U.S. and China must agree on a trust architecture for A.I. devices, or else rogue entities will destabilize these two superpower nations long before they get around to fighting a war."
+    "summary": "The U.S. and China must agree on a trust architecture for A.I., or rogue entities will destabilize the two superpowers long before they fight a war."
   },
   {
-    "title": "Do Not Re-Gerrymander California",
-    "link": "https://www.nytimes.com/2025/09/02/opinion/gerrymander-democrats-california.html",
-    "summary": "If Democrats gerrymander California, they will lose the moral high ground."
+    "title": "Forced Drug Treatment Isn’t Horrific. It’s a Relief.",
+    "link": "https://www.nytimes.com/2025/09/02/opinion/forced-drug-treatment-rehab.html",
+    "summary": "Besides, addicted people are not the only ones affected by their behavior."
   },
   {
     "title": "We Answer Your Questions About Education",
@@ -105,23 +115,23 @@
     "summary": "Our reporters address reader concerns about K-12 schooling."
   },
   {
-    "title": "It Was Supposed to Connect Segregated Neighborhoods. Did It Gentrify Them Instead?",
-    "link": "https://www.nytimes.com/2025/09/02/business/atlanta-beltline-success-displacement.html",
-    "summary": "The Atlanta BeltLine turned a mostly derelict 22-mile loop around the city into a wildly popular — and profitable — urban park. It also contributed to displacing longtime residents."
+    "title": "Reduced Screening May Have Led to Rise in Advanced Prostate Cancer Diagnoses",
+    "link": "https://www.nytimes.com/2025/09/02/science/prostate-cancer-rise-reduced-screening.html",
+    "summary": "Changes in screening recommendations over a decade ago may have inadvertently resulted in later diagnosis of the most common cancer in men, a new study has found."
   },
   {
-    "title": "Nadler, Pillar of Democratic Party’s Old Guard, Will Retire Next Year",
-    "link": "https://www.nytimes.com/2025/09/01/nyregion/jerrold-nadler-congress-retires.html",
-    "summary": "Representative Jerrold Nadler, the ex-House Judiciary chairman who helped lead President Trump’s impeachments, will not seek re-election in New York."
+    "title": "Maduro Says War With Venezuela Would Stain Trump’s Hands with Blood",
+    "link": "https://www.nytimes.com/2025/09/02/world/americas/maduro-trump-venezuela-war.html",
+    "summary": "As U.S. warships and troops gather in the Caribbean, Mr. Maduro threatened an “armed fight” in response to any military action. He also appealed for peace."
   },
   {
-    "title": "Kim Jong-un Heads to Beijing by Train",
-    "link": "https://www.nytimes.com/2025/09/02/world/asia/kim-north-korea-train.html",
-    "summary": "The North Korean leader’s favorite mode of transportation provides him — like his father and grandfather before him — with tight security. But it’s no express train."
+    "title": "How Protests, Tear Gas and Looting Roiled Indonesia",
+    "link": "https://www.nytimes.com/2025/09/02/world/asia/indonesia-jakarta-protests-economy.html",
+    "summary": "Deep-rooted resentment between the haves and have-nots set off a wave of antigovernment protests that have turned violent."
   },
   {
-    "title": "‘Dances With Wolves’ Actor Graham Greene Dies at 73",
-    "link": "https://www.nytimes.com/2025/09/02/movies/graham-greene-dead.html",
-    "summary": "The First Nations actor, who appeared in “Dances With Wolves” and other Hollywood blockbusters, remained active in Canadian film, theater and television."
+    "title": "Kraft Heinz to Split Into Two Businesses",
+    "link": "https://www.nytimes.com/2025/09/02/business/kraft-heinz-break-up.html",
+    "summary": "Food companies are coming under pressure for growth as the maker of Velveeta breaks up and an activist investor takes a stake in PepsiCo."
   }
 ]

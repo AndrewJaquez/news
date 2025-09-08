@@ -1,5 +1,40 @@
 [
   {
+    "title": "How JPMorgan Enabled the Crimes of Jeffrey Epstein",
+    "link": "https://www.nytimes.com/2025/09/08/magazine/jeffrey-epstein-jp-morgan.html",
+    "summary": "A Times investigation found that America’s leading bank spent years supporting — and profiting from — the notorious sex offender, ignoring red flags, suspicious activity and concerned executives."
+  },
+  {
+    "title": "What We Know About JPMorgan’s Long Relationship With Jeffrey Epstein",
+    "link": "https://www.nytimes.com/2025/09/08/magazine/what-we-know-about-jpmorgans-long-relationship-with-jeffrey-epstein.html",
+    "summary": "Times reporters combed through thousands of pages of legal and financial records to understand how America’s leading lender enabled the notorious sexual predator."
+  },
+  {
+    "title": "How America’s Largest Bank Helped Jeffrey Epstein, and a Show of Resistance in D.C.",
+    "link": "https://www.nytimes.com/2025/09/08/podcasts/the-headlines/how-americas-largest-bank-helped-jeffrey-epstein-and-a-show-of-resistance-in-dc.html",
+    "summary": "Plus, why you’re wrong about your Zodiac sign."
+  },
+  {
+    "title": "Raid on Georgia E.V. Battery Plant Raises New Risks for a Shaken Industry",
+    "link": "https://www.nytimes.com/2025/09/08/us/georgia-immigration-raid-ev-battery-plant-hyundai-lg.html",
+    "summary": "Foreign manufacturers were already dealing with tariffs and the end of E.V. tax credits. Now, they face greater scrutiny of their workers’ immigration status."
+  },
+  {
+    "title": "What We Know About the Hyundai-LG Plant Immigration Raid in Georgia",
+    "link": "https://www.nytimes.com/2025/09/07/us/politics/hyundai-plant-immigration-raid-georgia.html",
+    "summary": "Several hundred workers, most of them South Korean nationals, were detained at the construction site of a sprawling electric vehicle battery plant on Thursday."
+  },
+  {
+    "title": "Oil Prices Rise After Producers Announce New Increase in Output",
+    "link": "https://www.nytimes.com/2025/09/07/business/opec-plus-oil-production-increase.html",
+    "summary": "In a show of confidence in the market, the group, led by Saudi Arabia, said it would begin unwinding a further set of agreed cuts."
+  },
+  {
+    "title": "India’s Investors, Defying Tariffs, Keep Pouring Money Into Stocks",
+    "link": "https://www.nytimes.com/2025/09/08/business/india-stocks-investors-trump.html",
+    "summary": "Middle-class Indians have been plowing their savings into the stock market, making it far less vulnerable to the shocks of a trade war."
+  },
+  {
     "title": "RFK Jr., Rejecting Vaccine Data, Fuels Distrust of Public Health Agencies",
     "link": "https://www.nytimes.com/2025/09/07/us/politics/kennedy-health-vaccines-cdc.html",
     "summary": "By promoting suspicions about the institutions he oversees, critics say Robert F. Kennedy Jr. is jeopardizing public health. He says he is pursuing transparency."
@@ -10,44 +45,9 @@
     "summary": "The president had said on social media that Chicago was “about to find out why it’s called the Department of WAR,” drawing a fierce rebuke from Democrats."
   },
   {
-    "title": "Russia Strikes Ukraine Government Building in Largest Drone Assault of War",
-    "link": "https://www.nytimes.com/2025/09/07/world/europe/russian-strike-kyiv-ukraine.html",
-    "summary": "Ukrainians said it was the first time a key building in Kyiv’s government district had been damaged since the war began. Russia has kept attacking despite Trump administration efforts at peace talks."
-  },
-  {
-    "title": "Russia Steps Up Disinformation Efforts as Trump Abandons Resistance",
-    "link": "https://www.nytimes.com/2025/09/07/business/russia-disinformation-trump.html",
-    "summary": "The Kremlin has begun a campaign to sway the parliamentary election in Moldova in what could become a new model of election interference online."
-  },
-  {
-    "title": "Immigration Raid Exposes Tensions From Seoul to Washington to Rural Georgia",
-    "link": "https://www.nytimes.com/2025/09/06/us/immigration-raid-georgia.html",
-    "summary": "The raid at a Georgia plant being built with heavy investment from South Korea reveals strain as a rush to expand manufacturing in the United States clashes with an immigration crackdown."
-  },
-  {
-    "title": "What We Know About the Hyundai-LG Plant Immigration Raid in Georgia",
-    "link": "https://www.nytimes.com/2025/09/07/us/politics/hyundai-plant-immigration-raid-georgia.html",
-    "summary": "Several hundred workers, most of them South Korean nationals, were detained at the construction site of a sprawling electric vehicle battery plant on Thursday."
-  },
-  {
-    "title": "India’s Investors, Defying Tariffs, Keep Pouring Money Into Stocks",
-    "link": "https://www.nytimes.com/2025/09/08/business/india-stocks-investors-trump.html",
-    "summary": "Middle-class Indians have been plowing their savings into the stock market, making it far less vulnerable to the shocks of a trade war."
-  },
-  {
-    "title": "Trump Is Met With Mostly Boos at U.S. Open as Security Delays a Match",
-    "link": "https://www.nytimes.com/2025/09/07/us/politics/trump-us-open-tennis-boos-delays.html",
-    "summary": "With the president in attendance at Arthur Ashe Stadium, the men’s final began as hundreds of people were still waiting to go through security screening."
-  },
-  {
-    "title": "France, at an Impasse, Heads Toward Another Government Collapse",
-    "link": "https://www.nytimes.com/2025/09/08/world/europe/france-vote-government-collapse.html",
-    "summary": "A vote of confidence scheduled for Monday appears set to topple Prime Minister François Bayrou and put more pressure on President Emmanuel Macron."
-  },
-  {
-    "title": "Why France’s Financial Woes Are Pushing Its Government to the Brink",
-    "link": "https://www.nytimes.com/2025/09/07/business/france-government-collapse-economy.html",
-    "summary": "The French prime minister has proposed drastic spending cuts and tax increases to shore up the country’s accounts, but his plan could backfire."
+    "title": "Shooting in Jerusalem Leaves at Least 6 Dead",
+    "link": "https://www.nytimes.com/2025/09/08/world/middleeast/jerusalem-shooting-israel.html",
+    "summary": "The Israeli police described the incident as a terrorist attack and said that the perpetrators had been killed at the scene."
   },
   {
     "title": "Houthi Drone Hits Israeli Airport After Warning System Failure",
@@ -60,14 +60,24 @@
     "summary": "Japan, one of the world’s most stable democracies, is experiencing unusually rapid change. Shigeru Ishiba’s departure could herald a leadership crisis."
   },
   {
-    "title": "A Town Reluctantly Let a Mosque Expand. Then Came the Backlash.",
-    "link": "https://www.nytimes.com/2025/09/07/nyregion/oyster-bay-mosque-lawsuit.html",
-    "summary": "A Long Island town board failed to approve a settlement its lawyers had struck with Masjid Al-Baqi after a yearslong dispute tainted by bigotry. The mosque’s federal suit will be heard next month."
+    "title": "France, at an Impasse, Heads Toward Another Government Collapse",
+    "link": "https://www.nytimes.com/2025/09/08/world/europe/france-vote-government-collapse.html",
+    "summary": "A vote of confidence scheduled for Monday appears set to topple Prime Minister François Bayrou and put more pressure on President Emmanuel Macron."
   },
   {
-    "title": "John Burton, 92, Dies; California Political Boss Who Staged a Comeback",
-    "link": "https://www.nytimes.com/2025/09/07/us/politics/john-burton-dead.html",
-    "summary": "He left the House of Representatives while struggling with a crack addiction, his political career seemingly over. Actually, it had just begun."
+    "title": "Why France’s Financial Woes Are Pushing Its Government to the Brink",
+    "link": "https://www.nytimes.com/2025/09/07/business/france-government-collapse-economy.html",
+    "summary": "The French prime minister has proposed drastic spending cuts and tax increases to shore up the country’s accounts, but his plan could backfire."
+  },
+  {
+    "title": "Kara Walker Deconstructs a Statue, and a Myth",
+    "link": "https://www.nytimes.com/2025/09/08/arts/design/kara-walker-moca-monuments.html",
+    "summary": "As part of the group exhibition “Monuments,” the artist took a Stonewall Jackson bronze and transformed it into a radically new, unsettled thing."
+  },
+  {
+    "title": "Trump Is Met With Mostly Boos at U.S. Open as Security Delays a Match",
+    "link": "https://www.nytimes.com/2025/09/07/us/politics/trump-us-open-tennis-boos-delays.html",
+    "summary": "With the president in attendance at Arthur Ashe Stadium, the men’s final began as hundreds of people were still waiting to go through security screening."
   },
   {
     "title": "Memorable Moments of the 2025 MTV Video Music Awards: Mariah Carey, Lady Gaga and More",
@@ -80,28 +90,33 @@
     "summary": "Feathery boas, loopy braids, a rare Labubu and more."
   },
   {
-    "title": "A New War Is Emerging in Colombia",
-    "link": "https://www.nytimes.com/2025/09/08/opinion/colombia-violence-drugs-petro.html",
-    "summary": "Colombia’s return to conflict is a lesson in how hard it is to sustain progress toward peace."
+    "title": "The Clue to Unlocking Parkinson’s May Be All Around Us",
+    "link": "https://www.nytimes.com/2025/09/08/opinion/parkinsons-pesticides-chemicals.html",
+    "summary": "There is a growing mountain of imperfect but troubling evidence that pesticides and other chemicals may be behind the exploding rates of the disease."
   },
   {
-    "title": "Stop Acting Like This Is Normal",
-    "link": "https://www.nytimes.com/2025/09/07/opinion/trump-senate-democrats-shutdown.html",
-    "summary": "Democrats aren’t powerless, and they don’t have to enable autocracy."
+    "title": "Chicago’s Mayor: The National Guard Isn’t What We Need",
+    "link": "https://www.nytimes.com/2025/09/08/opinion/trump-chicago-national-guard.html",
+    "summary": "My city is taking an innovative approach to crime prevention. It does not involve the military."
   },
   {
-    "title": "West Point Alumni Group Cancels Award Honoring Tom Hanks",
-    "link": "https://www.nytimes.com/2025/09/07/us/politics/tom-hanks-west-point-award.html",
-    "summary": "The group was to bestow the Sylvanus Thayer Award on the actor, but it said it was canceling the event to focus on preparing academy cadets for the future."
+    "title": "Jeffrey Epstein’s Bankers",
+    "link": "https://www.nytimes.com/2025/09/08/world/jeffrey-epstein-jpmorgan-us-open.html",
+    "summary": "Until JPMorgan dropped him as a client in 2013, America’s leading bank financially enabled the century’s most notorious sexual predator."
   },
   {
-    "title": "Australian Woman, Erin Patterson, Gets Life in Mushroom Murder Case",
-    "link": "https://www.nytimes.com/2025/09/07/world/australia/australia-mushroom-murder-erin-patterson.html",
-    "summary": "Erin Patterson was found guilty of murdering three of her husband’s relatives and trying to kill a fourth by serving them deadly mushrooms."
+    "title": "A.I. Could Make the Smartphone Passé. What Comes Next?",
+    "link": "https://www.nytimes.com/2025/09/08/technology/personaltech/ai-iphones-android-smartphones.html",
+    "summary": "As Apple prepares to release new iPhones this week, industry veterans shared their predictions for what will be the next big thing in personal computing."
   },
   {
-    "title": "Brazilians Protest as Bolsonaro Coup Trial Nears Verdict",
-    "link": "https://www.nytimes.com/2025/09/07/world/americas/brazil-bolsonaro-trial-protests.html",
-    "summary": "Tensions are heating up in Brazil as the nation enters the final week of former President Jair Bolsonaro’s trial on attempted coup charges."
+    "title": "Trial to Begin for Ryan Routh, Man Charged in Trump Assassination Attempt in Florida",
+    "link": "https://www.nytimes.com/2025/09/08/us/ryan-routh-trial-trump-assassination-attempt.html",
+    "summary": "Ryan Routh has pleaded not guilty and plans to defend himself in court. The most serious charge against him carries a sentence of up to life in prison."
+  },
+  {
+    "title": "New Zealand Police Kill Man Who Disappeared With His Children",
+    "link": "https://www.nytimes.com/2025/09/08/world/australia/new-zealand-fugitive-father-police.html",
+    "summary": "Tom Phillips, who vanished with his three children in 2021, was killed after he shot a police officer on Monday, the authorities said. His children were found safe and unharmed."
   }
 ]

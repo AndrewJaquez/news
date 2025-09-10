@@ -1,8 +1,18 @@
 [
   {
-    "title": "Poland Says It Shot Down Russian Drones That Entered Its Airspace",
+    "title": "Venezuelan Boat Suspected of Drug Smuggling Is Said to Have Turned Before U.S. Strike",
+    "link": "https://www.nytimes.com/2025/09/10/us/trump-drug-boat-venezuela-strike.html",
+    "summary": "The Trump administration has argued that the summary killing of 11 people it accused of running drugs was legal under the laws of war."
+  },
+  {
+    "title": "Trump White House Exerts Enormous Influence Over FBI, Lawsuit Says",
+    "link": "https://www.nytimes.com/2025/09/10/us/politics/trump-fbi-lawsuit.html",
+    "summary": "A sprawling suit by three fired F.B.I. officials provides a disturbing account of efforts by top Trump aides to strip the bureau of its independence."
+  },
+  {
+    "title": "NATO Says It Scrambled Fighter Jets to Shoot Down Russian Drones Over Poland",
     "link": "https://www.nytimes.com/2025/09/10/world/europe/poland-russia-drones-ukraine-attack.html",
-    "summary": "The Polish military called the incursions an “act of aggression,” adding that NATO air forces had launched warplanes to respond."
+    "summary": "The incursion was the first time alliance planes had engaged enemy targets in NATO airspace. Poland’s leader called it “a large-scale provocation.”"
   },
   {
     "title": "Putin’s Message to Ukraine, Europe and Trump: I Won’t Back Down",
@@ -10,59 +20,29 @@
     "summary": "With escalating airstrikes, the Russian leader appears determined to demonstrate that he will dictate the terms for any end to the war."
   },
   {
-    "title": "How Gen Z Protests Overturned a Government, and a Crackdown on TV Drug Ads",
-    "link": "https://www.nytimes.com/2025/09/10/podcasts/the-headlines/nepal-protests-tv-drug-ads.html",
-    "summary": "Plus, 7-Eleven’s new master plan."
+    "title": "Poland Has Invoked NATO’s Article 4. What Comes Next?",
+    "link": "https://www.nytimes.com/2025/09/10/world/europe/what-is-nato-article-4.html",
+    "summary": "Article 4 allows member states to start a formal discussion within the alliance about threats to their security. It does not commit the alliance to military action."
   },
   {
-    "title": "Vaccines and C.D.C. Chaos Expose Tensions Between Trump and Kennedy",
+    "title": "Cuts to the Food Safety System Threaten Americans’ Health",
+    "link": "https://www.nytimes.com/2025/09/10/well/cdc-foodnet.html",
+    "summary": "Public health experts worry that downsizing the sprawling FoodNet surveillance system could make it harder to prevent food-borne illnesses."
+  },
+  {
+    "title": "Vaccines and CDC Chaos Expose Tensions Between Trump and RFK Jr.",
     "link": "https://www.nytimes.com/2025/09/10/us/politics/trump-rfk-vaccines-cdc.html",
     "summary": "While there is no evidence of a break between them, Health Secretary Robert F. Kennedy Jr. has caused consternation among President Trump and some of his aides."
   },
   {
-    "title": "Trump Moves to Crack Down on Drug Advertising",
-    "link": "https://www.nytimes.com/2025/09/09/health/fda-drug-advertising-warning-letters.html",
-    "summary": "The administration is proposing a return to a 1990s-era policy that kept most drug ads off TV. That could dent the revenues of drugmakers and major networks."
+    "title": "Trump Administration to Appeal Ruling That Allows Lisa Cook to Remain at Fed",
+    "link": "https://www.nytimes.com/2025/09/10/us/politics/trump-lisa-cook-fed-governor-appeal.html",
+    "summary": "The administration contested a preliminary injunction, issued late Tuesday, that temporarily blocked President Trump from firing her."
   },
   {
-    "title": "What Is in the MAHA Report?",
-    "link": "https://www.nytimes.com/2025/09/10/briefing/maha-report-qatar-russia-ukraine.html",
-    "summary": "Today we look at the Make America Healthy Again movement."
-  },
-  {
-    "title": "Trump Weighs Crackdown on Medicines From China",
-    "link": "https://www.nytimes.com/2025/09/10/business/trump-medicines-china-biotech.html",
-    "summary": "Behind the scenes, major pharmaceutical companies and Trump-tied billionaires are furiously lobbying in opposite directions over proposed anti-China measures."
-  },
-  {
-    "title": "Trump Warns of Doom if Tariffs Are Ruled Illegal. Others See a Tax Cut.",
-    "link": "https://www.nytimes.com/2025/09/10/us/politics/trump-tariffs.html",
-    "summary": "Many American companies have had to shoulder at least some of the costs of tariffs, biting into earnings the same way a corporate tax increase would, analysts say."
-  },
-  {
-    "title": "How Lutnick Is Using Government Power to Pressure Private Companies",
-    "link": "https://www.nytimes.com/2025/09/10/us/politics/howard-lutnick-government-private-companies.html",
-    "summary": "Commerce Secretary Howard Lutnick has been putting the squeeze on companies and trading partners in an unusual effort to raise revenue and expand the president’s role over the economy."
-  },
-  {
-    "title": "Judge Rules Fed Governor Can Remain in Role, for Now",
-    "link": "https://www.nytimes.com/2025/09/09/business/federal-reserve-lisa-cook-ruling.html",
-    "summary": "The decision is a win for Lisa Cook, the Federal Reserve governor whom President Trump sought to dismiss over allegations of mortgage fraud."
-  },
-  {
-    "title": "One of Trump’s Powers Over D.C. Reaches a Time Limit. Many Remain.",
-    "link": "https://www.nytimes.com/2025/09/10/us/one-of-trumps-powers-over-dc-reaches-a-time-limit-many-remain.html",
-    "summary": "The president’s authority to make demands of local police expires on Wednesday night, but the most visible federal interventions in the city will remain for now."
-  },
-  {
-    "title": "Fears Return for L.A. Immigrants After Supreme Court Allows Raids to Resume",
-    "link": "https://www.nytimes.com/2025/09/09/us/los-angeles-immigrant-reaction.html",
-    "summary": "Los Angeles residents are anxious once again following a Supreme Court ruling that allowed aggressive immigration raids to resume."
-  },
-  {
-    "title": "Protesters Call Out Trump as He Dines Out in Washington",
-    "link": "https://www.nytimes.com/2025/09/09/us/politics/trump-dc-joes-seafood-protesters.html",
-    "summary": "Mr. Trump made the short trek from the White House to Joe’s Seafood, Prime Steak & Stone Crab to show that his federal crackdown on crime in the nation’s capital was working."
+    "title": "Republicans Race to Advance Stephen Miran, Trump’s Fed Pick, Despite White House Ties",
+    "link": "https://www.nytimes.com/2025/09/10/business/trump-fed-stephen-miran.html",
+    "summary": "Stephen Miran, a top economic adviser to the president, cleared a key Senate hurdle on Wednesday, putting him one step closer to a seat on the Federal Reserve."
   },
   {
     "title": "Our Favorite Restaurants and Industry Trends of 2025",
@@ -70,59 +50,44 @@
     "summary": "What we’ve noticed, what we’d like to see more of and a few things we would rather see the end of."
   },
   {
-    "title": "12 of Our Staff’s Favorite Restaurant Recipes That You Can Make at Home",
-    "link": "https://cooking.nytimes.com/article/staff-favorite-restaurant-recipes",
-    "summary": "Try Vinegar Hill House’s skillet sourdough pancakes, Roberta’s pizza and more dishes we’ve adapted from restaurants and bakeries over the years."
-  },
-  {
     "title": "Israel’s Attack on Qatari Soil Leads Gulf Powers to Question U.S. Protection",
     "link": "https://www.nytimes.com/2025/09/10/world/middleeast/israel-strike-qatar-us.html",
-    "summary": "The audacious attempt to kill the political leaders of Hamas in Doha could upend the foundations of an American-led order in the Middle East."
+    "summary": "The brazen attempt to kill the political leaders of Hamas in Doha could upend the foundations of an American-led order in the Middle East."
   },
   {
-    "title": "Facing Israeli Assault, Many in Gaza City Say Fleeing Again Is Worse",
-    "link": "https://www.nytimes.com/2025/09/10/world/middleeast/gaza-city-residents-israel.html",
-    "summary": "Israel has ordered hundreds of thousands of people to evacuate the city and go to the southern Gaza Strip, but many residents say it is no safer for them there."
+    "title": "After Qatar, Israel Fires on Yemen: ‘Whoever Attacks Us, We Will Reach Them’",
+    "link": "https://www.nytimes.com/2025/09/10/world/middleeast/israel-houthi-yemen-strikes-qatar.html",
+    "summary": "Israel’s military launched multiple attacks on Houthi sites in northern Yemen, a day after its widely-criticized airstrike against Hamas officials on Qatari soil."
   },
   {
-    "title": "Israel’s Attack on Hamas in Qatar: What to Know",
-    "link": "https://www.nytimes.com/2025/09/10/world/middleeast/israel-attack-qatar-hamas.html",
-    "summary": "Why did Israel attack? Who was killed? What has been the Qatari response? Here are answers to those and other key questions."
+    "title": "CBS News Weighs Major Role for Bari Weiss as Part of Deal to Buy The Free Press",
+    "link": "https://www.nytimes.com/2025/09/10/business/media/cbs-news-bari-weiss-free-press.html",
+    "summary": "The talks with Ms. Weiss, a founder of The Free Press, are the strongest sign yet that the new owner of CBS News intends to make major changes."
   },
   {
-    "title": "With Qatar Attack, Israel Again Leaves Trump in the Dark",
-    "link": "https://www.nytimes.com/2025/09/09/us/politics/israel-trump-gaza-qatar-bombing.html",
-    "summary": "President Trump said he was “very unhappy about the way that went down.”"
+    "title": "The Moment Nepal’s Gen Z Protesters Felt the Vibe Change",
+    "link": "https://www.nytimes.com/2025/09/10/world/asia/nepal-gen-z-protesters.html",
+    "summary": "Before the destruction began, the Gen Z demonstrators had planned to look good while promoting democracy and sweeping away an entrenched leadership."
   },
   {
-    "title": "A Phony Trump Check and a ‘Depreciated’ Woman in Epstein’s Birthday Book",
-    "link": "https://www.nytimes.com/2025/09/09/us/epstein-trump-birthday-book.html",
-    "summary": "A photo in Jeffrey Epstein’s birthday book shows the disgraced financier holding a novelty check with a signature of “DJ TRUMP.” It includes a woman who dated both men in the 1990s."
+    "title": "Happy 10th Birthday to the Laser Interferometer Gravitational-Wave Observatory. Now Drop Dead.",
+    "link": "https://www.nytimes.com/2025/09/10/science/gravitational-waves-ligo-black-holes.html",
+    "summary": "Ten years ago, astronomers made an epic discovery with the Laser Interferometer Gravitational-Wave Observatory. Cosmology hasn’t been the same since, and it might not stay that way much longer."
   },
   {
-    "title": "Latest Revelations Complicate Trump’s Sweeping Denials About Epstein",
-    "link": "https://www.nytimes.com/2025/09/09/us/politics/trumps-epstein-response.html",
-    "summary": "President Trump often succeeds in pivoting the national conversation, but he is finding that more difficult when it comes to Jeffrey Epstein."
+    "title": "They Created a Streetwear Line From Scratch. In High School.",
+    "link": "https://www.nytimes.com/2025/09/10/nyregion/high-school-students-bronx-streetwear-clothing.html",
+    "summary": "At a school with a basketball-themed curriculum, students were “dreaming big.” But could they find a buyer?"
   },
   {
-    "title": "Inside Jeffrey Epstein’s 50th Birthday Book",
-    "link": "https://www.nytimes.com/2025/09/10/podcasts/the-daily/jeffrey-epstein-birthday-book-trump.html",
-    "summary": "A Times investigation looked into how the disgraced financier leveraged his rich and powerful friends."
+    "title": "Should Harris Have Told Biden Not to Run? ‘Perhaps,’ She Writes in New Book",
+    "link": "https://www.nytimes.com/2025/09/10/us/politics/kamala-harris-book-biden-107-days.html",
+    "summary": "Former Vice President Kamala Harris also accused White House aides, without naming names, of not defending her from right-wing attacks about her competence."
   },
   {
-    "title": "What We Know About the Protests in Nepal",
-    "link": "https://www.nytimes.com/2025/09/10/world/asia/nepal-gen-z-protests.html",
-    "summary": "Days of unrest in Nepal have left 22 people dead, triggered the resignation of its prime minister and brought troops to the streets of Kathmandu."
-  },
-  {
-    "title": "These Children Born After 9/11 Promise to Never Forget",
-    "link": "https://www.nytimes.com/2025/09/10/us/politics/a-new-9-11-generation-these-children-promise-to-never-forget.html",
-    "summary": "A generational shift has been taking place at the annual Sept. 11 remembrance ceremony in New York City."
-  },
-  {
-    "title": "A Collective Video Diary of 9/11, in 500 Hours",
-    "link": "https://www.nytimes.com/2025/09/10/arts/9-11-video-footage.html",
-    "summary": "The New York Public Library has acquired what may be the largest collection of crowdsourced footage of the attacks and the shellshocked aftermath."
+    "title": "Texas Professor Fired After Accusations of Teaching ‘Gender Ideology’",
+    "link": "https://www.nytimes.com/2025/09/10/us/texas-professor-fired-gender-ideology.html",
+    "summary": "Two administrators also lost their posts at Texas A&amp;M, an example of how Republican policies meant to curb liberal ideas are reaching into university classrooms."
   },
   {
     "title": "France Braces for Protests",
@@ -130,53 +95,43 @@
     "summary": "Protesters blocked roads, roundabouts and tram lines across the country as Sébastien Lecornu took office."
   },
   {
-    "title": "What Travelers Need to Know About the Upcoming Strike in France",
-    "link": "https://www.nytimes.com/2025/09/09/travel/france-strike-what-to-know.html",
-    "summary": "The planned shutdown, which will affect transit in and beyond Paris, dovetails with the tube strike in London."
+    "title": "Who Is France’s New Prime Minister, Sébastien Lecornu?",
+    "link": "https://www.nytimes.com/2025/09/10/world/europe/france-prime-minister-sebastien-lecornu-macron.html",
+    "summary": "Sébastien Lecornu had been defense minister. He is one of President Emmanuel Macron’s most loyal and enduring allies."
   },
   {
     "title": "Gaza War Turns New Yorkers Against Israel, With Mayor’s Race as Backdrop",
-    "link": "https://www.nytimes.com/2025/09/10/nyregion/israel-hamas-poll-mamdani.html",
+    "link": "https://www.nytimes.com/2025/09/10/nyregion/israel-gaza-poll-nyc-mayor.html",
     "summary": "More New Yorkers say their sympathies lie with Palestinians rather than Israel in the long-running conflict in Gaza, according to a New York Times/Siena poll."
   },
   {
-    "title": "The Battle to Make ‘One Battle After Another’",
-    "link": "https://www.nytimes.com/2025/09/08/movies/one-battle-after-another-leo-dicaprio.html",
-    "summary": "Leonardo DiCaprio, Sean Penn, Regina Hall and the rest of the cast talk about filming a politically charged movie in a fraught year."
+    "title": "New Yorkers Support Free Buses, but They Don’t Think It Should Happen",
+    "link": "https://www.nytimes.com/2025/09/10/upshot/polling-experiment-free-buses.html",
+    "summary": "A polling experiment shows how a small change in wording can make a big difference."
   },
   {
-    "title": "Trump Is Treating the Economy Like His Family Business",
-    "link": "https://www.nytimes.com/2025/09/10/opinion/trump-intel-deal-semiconductor.html",
-    "summary": "This is not how economic policy is supposed to work in a wealthy, democratic country."
+    "title": "How a Group of Students in the Pacific Islands Reshaped Global Climate Law",
+    "link": "https://www.nytimes.com/2025/09/10/magazine/global-climate-law-students.html",
+    "summary": "They watched climate change ravage their home countries as rich, polluting nations did nothing. Then they had an idea."
   },
   {
-    "title": "Kimmel Calls Epstein’s ‘Birthday Book’ a ‘Gift That Keeps on Giving’",
-    "link": "https://www.nytimes.com/2025/09/10/arts/television/kimmel-trump-epstein-birthday-book.html",
-    "summary": "President Trump’s administration denied that he’d signed a lewd tribute to Jeffrey Epstein, but Jimmy Kimmel isn’t convinced."
+    "title": "Prince Harry Reunites With King Charles for First Time in Over a Year",
+    "link": "https://www.nytimes.com/2025/09/10/world/europe/prince-harry-king-charles-reunion.html",
+    "summary": "Harry and Charles had tea at Clarence House, the king’s London residence, on Wednesday afternoon, a palace official confirmed."
   },
   {
-    "title": "New York’s Ban on Cellphones in Schools Is Going ‘Better Than Expected’",
-    "link": "https://www.nytimes.com/2025/09/10/nyregion/nyc-school-phone-device-ban.html",
-    "summary": "In the country’s largest district to ban phones, students, teachers and parents reported some frustrations, but also benefits."
+    "title": "German Court Convicts Syrian National for Stabbing Attack That Killed 3",
+    "link": "https://www.nytimes.com/2025/09/10/world/europe/german-stabbing-attack.html",
+    "summary": "Issa al Hasan was found guilty of murder in the Islamic State-inspired rampage last year that spurred a national debate about refugees and migration."
   },
   {
-    "title": "Why Trump Is Targeting a Brazilian Judge",
-    "link": "https://www.nytimes.com/video/world/americas/100000010385022/trump-moraes-bolsonaro-trial.html",
-    "summary": "Tens of thousands of supporters of former President Jair Bolsonaro flooded streets in Brazil to protest the criminal prosecution of Bolsonaro on charges that he attempted to stage a coup in 2022. Ana Ionova, a correspondent for The New York Times in Brazil, explains how the Supreme Court justice presiding over the trial has taken center stage."
+    "title": "Polly Holliday, a Sassy Waitress on the Sitcom ‘Alice,’ Dies at 88",
+    "link": "https://www.nytimes.com/2025/09/10/arts/television/polly-holiday-dead.html",
+    "summary": "“Kiss my grits,” her character, Flo, was known to say. But that high-profile role was just one facet of a long, busy stage and screen career."
   },
   {
-    "title": "South Korean Woman Cleared Decades After Biting Attacker’s Tongue During Attempted Rape",
-    "link": "https://www.nytimes.com/2025/09/10/world/asia/south-korea-woman-tongue-attempted-rape.html",
-    "summary": "Choi Mal-ja, who was convicted of inflicting bodily harm, said she fought for a retrial so other South Korean women would not suffer as she did."
-  },
-  {
-    "title": "Ozempic Maker Novo Nordisk to Cut 9,000 Jobs",
-    "link": "https://www.nytimes.com/2025/09/10/business/novo-nordisk-job-cuts-ozempic.html",
-    "summary": "The Danish drugmaker said it needed to streamline operations and become more agile, as it faces a more competitive and consumer-focused market."
-  },
-  {
-    "title": "Suspect in Couple’s Fiery Deaths Went Door to Door Asking to Come In",
-    "link": "https://www.nytimes.com/2025/09/09/nyregion/queens-couple-arson-homicide.html",
-    "summary": "Rescuers who came to a burning house in Queens found Frank Olton, 76, bound in the basement and his wife, Maureen, 77, dead on the first floor. The police were seeking a man with a lengthy criminal record."
+    "title": "British Courts Service Destroys Banksy Mural Depicting Attack by Judge",
+    "link": "https://www.nytimes.com/2025/09/10/arts/design/banksy-destroyed.html",
+    "summary": "The work, painted onto the walls of one of Britain’s most important court buildings, showed a judge attacking a demonstrator with a gavel."
   }
 ]

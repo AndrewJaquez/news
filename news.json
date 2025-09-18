@@ -1,8 +1,13 @@
 [
   {
-    "title": "Senator and Insurers Cast Doubt on U.S. Vaccine Panel as It Readies Review",
+    "title": "Questions Are Raised About Vaccine Panel’s Reliability as Policy Review Gets Underway",
     "link": "https://www.nytimes.com/2025/09/17/health/kennedy-acip-insurers-cassidy.html",
-    "summary": "Insurers suggested they would still cover routine shots even if a C.D.C. panel tried to limit them, as an influential senator warned against new restrictions."
+    "summary": "Senator Bill Cassidy warned against any new restrictions, and insurers suggested they would still cover routine vaccinations even if a C.D.C. panel tried to limit them."
+  },
+  {
+    "title": "Susan Monarez, Fired C.D.C. Director, to Testify About Her Clash With Kennedy",
+    "link": "https://www.nytimes.com/2025/09/17/us/politics/monarez-cdc-senate-cassidy.html",
+    "summary": "At a Senate health committee hearing, Dr. Susan Monarez painted a picture of Health Secretary Robert F. Kennedy Jr. as a man wedded to his own ideology and uninterested in government scientists."
   },
   {
     "title": "How Vaccines Are Revealing Cracks in Trump’s G.O.P.",
@@ -15,19 +20,29 @@
     "summary": "The senator, Markwayne Mullin, quickly backtracked after pressing the now former director, Susan Monarez, on an exchange with the health secretary."
   },
   {
-    "title": "ABC Pulls Jimmy Kimmel Off Air for Charlie Kirk Comments",
+    "title": "ABC Pulls Jimmy Kimmel Off Air for Charlie Kirk Comments After F.C.C. Pressure",
     "link": "https://www.nytimes.com/2025/09/17/business/media/abc-jimmy-kimmel.html",
-    "summary": "Mr. Kimmel faced criticism from the chairman of the Federal Communications Commission for remarks about the motives of the man who is accused of killing Mr. Kirk, the conservative activist."
+    "summary": "Mr. Kimmel faced criticism from the chairman of the Federal Communications Commission for remarks about the politics of the man who is accused of killing Mr. Kirk, the conservative activist."
+  },
+  {
+    "title": "Who Is Brendan Carr, the F.C.C. Chair Who Played a Role In Jimmy Kimmel’s Suspension?",
+    "link": "https://www.nytimes.com/2025/09/18/technology/brendan-carr-fcc-jimmy-kimmel.html",
+    "summary": "The chairman of the F.C.C., who is in the spotlight for his comments that may have led to the suspension of late night TV show host Jimmy Kimmel, has long criticized the media for perceived bias."
+  },
+  {
+    "title": "Reactions to ABC’s Pulling of ‘Kimmel’ Reflect America’s Partisan Divide",
+    "link": "https://www.nytimes.com/2025/09/17/arts/television/jimmy-kimmel-pulled-reactions.html",
+    "summary": "Fans and liberals expressed anger while conservatives hailed ABC’s decision to pull Jimmy Kimmel’s late-night show off the air after comments about the killing of Charlie Kirk."
   },
   {
     "title": "3 Police Officers Are Killed in Shooting in Southern Pennsylvania",
     "link": "https://www.nytimes.com/2025/09/17/us/york-pa-officers-shot.html",
-    "summary": "Two other officers were injured in the shooting in York County, officials said, adding that the person who fired on the officers was also dead."
+    "summary": "Two other officers were injured in the shooting in York County, and the person who fired on the officers was also dead, officials said."
   },
   {
-    "title": "U.K. Offers Trump a Royal Welcome of Maximum Pomp and Minimum Politics",
-    "link": "https://www.nytimes.com/2025/09/17/world/europe/uk-trump-state-visit.html",
-    "summary": "A day of military and monarchical pageantry demonstrated Britain’s eagerness to appeal to a president who has seemed intent on upending the post-World War II order."
+    "title": "Behind Castle Walls, the Rich and Powerful Celebrate Trump",
+    "link": "https://www.nytimes.com/2025/09/17/world/europe/trump-uk-state-visit-banquet-royals.html",
+    "summary": "The seating chart at the state dinner for President Trump was a cross-section of the rich and the powerful hoping to get on his good side."
   },
   {
     "title": "Melania Trump, in Windsor, Takes Royal Refuge in Fashion",
@@ -45,12 +60,17 @@
     "summary": "Just over 100 staff members served 160 guests at the white-tie event."
   },
   {
+    "title": "Hong Kong’s Dim Sum Cart ‘Aunties’ Make Their Final Rounds",
+    "link": "https://www.nytimes.com/2025/09/18/world/asia/hong-kong-dim-sum-cart.html",
+    "summary": "Metropol, a massive banquet hall, is closing, and fading along with it is a cherished tradition of dim sum carts and the chatty women who push them."
+  },
+  {
     "title": "Upending Precedent, Thune Bows To Realities of a Polarized Senate",
     "link": "https://www.nytimes.com/2025/09/17/us/politics/john-thune-senate-filibuster.html",
     "summary": "In using the nuclear option, John Thune has turned a Senate precedent on its head, defying his reputation as an institutionalist."
   },
   {
-    "title": "As Shutdown Looms, Democrats Outline Spending Demands on Medicaid and Obamacare",
+    "title": "As Shutdown Looms, Democrats Outline Demands on Medicaid and Obamacare",
     "link": "https://www.nytimes.com/2025/09/17/us/politics/democrats-spending-demands-shutdown.html",
     "summary": "After rejecting a G.O.P.-written plan to keep federal funding flowing, Democrats released a counteroffer that would add more than $1 trillion in health spending."
   },
@@ -58,11 +78,6 @@
     "title": "Top Scientists Find Growing Evidence That Greenhouse Gases Are, in Fact, a Danger",
     "link": "https://www.nytimes.com/2025/09/17/climate/national-academies-climate-trump.html",
     "summary": "The assessment contradicts the Trump administration’s legal arguments for relaxing pollution rules."
-  },
-  {
-    "title": "He Raised Three Marines. His Wife Is American. The U.S. Wants to Deport Him.",
-    "link": "https://www.nytimes.com/2025/09/17/us/narciso-barranco-ice-deport-marines-trump.html",
-    "summary": "After three decades in California, Narciso Barranco was arrested by agents while weeding outside an IHOP, stirring outrage and a fight to stop his deportation."
   },
   {
     "title": "Pig Organ Transplants May Pose a Dilemma for Some Jews and Muslims",
@@ -85,48 +100,33 @@
     "summary": "As part of a unit known as the Bloody 100th, he flew 25 harrowing missions in his B-17 bomber over German-held territory during World War II."
   },
   {
-    "title": "Robert Redford and Paul Newman Defined a Cinematic Era",
-    "link": "https://www.nytimes.com/2025/09/16/movies/robert-redford-paul-newman.html",
-    "summary": "Though the two leading men starred in only two films together, their collaborations led to a lifelong friendship that had its prickly moments."
+    "title": "In the West Bank, Trump Is Not Standing in Israel’s Way",
+    "link": "https://www.nytimes.com/2025/09/18/opinion/israel-gaza-city-west-bank-trump.html",
+    "summary": "The Trump administration has not given its blessing to Israeli annexation of the West Bank. But it is doing little to stand in Israel’s way."
   },
   {
-    "title": "Robert Redford Didn’t Love Hollywood, Yet Hollywood Loved Him",
-    "link": "https://www.nytimes.com/2025/09/17/business/robert-redford-hollywood.html",
-    "summary": "Mr. Redford’s outspoken opinions and his championing of young filmmakers overshadowed his many criticisms of the industry."
+    "title": "The Imperial Nostalgia of Donald Trump",
+    "link": "https://www.nytimes.com/2025/09/18/opinion/trump-britain-state-visit.html",
+    "summary": "Both the United States and Britain are suffering through crises of identity."
   },
   {
-    "title": "The Trump Fantasy Is Unraveling",
-    "link": "https://www.nytimes.com/2025/09/17/opinion/trump-economy-deportation-inflation.html",
-    "summary": "The president’s voters wanted to have it both ways. Reality said no."
+    "title": "Meta Unveils Smart Glasses With Apps and an Artificial Intelligence Assistant",
+    "link": "https://www.nytimes.com/2025/09/17/technology/personaltech/meta-smart-glasses-ai.html",
+    "summary": "At its annual developer conference on Wednesday, Meta showed several new smart glasses, which have been a surprise hit for the company."
   },
   {
-    "title": "Charlie Kirk Challenged College Students. We Need More Like Him.",
-    "link": "https://www.nytimes.com/2025/09/17/opinion/charlie-kirk-college-campus-speaker.html",
-    "summary": "As a college leader, I know better than most that we must encourage controversial speakers, not silence them."
+    "title": "Remnants of Tropical Storm Mario Could Bring Heavy Rain to Southern California",
+    "link": "https://www.nytimes.com/2025/09/16/weather/california-rain-tropical-storm-mario-forecast.html",
+    "summary": "‘There’s a lot that could happen and there’s a lot that could not happen at all,’ one meteorologist said of the complex forecast unfolding this week."
   },
   {
-    "title": "Fed Lowered Rates for First Time This Year",
-    "link": "https://www.nytimes.com/2025/09/17/briefing/fed-interest-rates-cdc-leader-testimony.html",
-    "summary": "Also, Trump received a royal welcome in Britain. Here’s the latest at the end of Wednesday."
-  },
-  {
-    "title": "This Is Peak Hurricane Season. Or Is It?",
-    "link": "https://www.nytimes.com/2025/09/17/weather/hurricane-season-forecast-updates.html",
-    "summary": "Despite a few decidedly quiet periods so far, forecasters say the conditions are still favorable for more hurricanes this year. The latest storm, Gabrielle, formed on Wednesday."
+    "title": "Ash Cloud Over Mount St. Helens Conjures Memories of 1980 Disaster",
+    "link": "https://www.nytimes.com/2025/09/17/us/mount-st-helens-volcanic-ash-cloud.html",
+    "summary": "A hazy cloud that emerged over the active volcano was the result of high winds rather than a new eruption."
   },
   {
     "title": "Woman, 95, Charged With Killing 89-Year-Old Roommate in Nursing Home",
     "link": "https://www.nytimes.com/2025/09/17/nyregion/coney-island-nursing-home-killing.html",
     "summary": "A witness found the suspect washing her hands in a room spattered with blood in a nursing home in Coney Island, Brooklyn, the authorities said."
-  },
-  {
-    "title": "Many Minor Hits Can Damage an Athlete’s Brain, Studies Find",
-    "link": "https://www.nytimes.com/2025/09/17/well/mind/brain-damage-sports.html",
-    "summary": "New research in amateur football and soccer players has identified some potential early warning signs of C.T.E."
-  },
-  {
-    "title": "France’s Oscars Pick Is an Acclaimed Iranian Film Snubbed by Iran",
-    "link": "https://www.nytimes.com/2025/09/17/movies/it-was-just-an-accident-france-oscar-pick.html",
-    "summary": "“It Was Just an Accident,” the Palme d’Or winner, will be eligible for best international feature. Its director criticized the selection process by nondemocratic countries."
   }
 ]

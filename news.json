@@ -1,23 +1,33 @@
 [
   {
+    "title": "CDC Vaccine Panel Postpones One Vote and Reverses Another Amid Confusion",
+    "link": "https://www.nytimes.com/2025/09/19/health/cdc-vaccines-mmrv-hepatitis-b.html",
+    "summary": "Committee members delayed indefinitely a vote on a hepatitis B vaccine for newborns because they did not feel ready to make a decision."
+  },
+  {
+    "title": "The S.E.C. Drops Efforts to Recoup Funds From Trump Clemency Recipients",
+    "link": "https://www.nytimes.com/2025/09/19/us/politics/sec-trump-clemency.html",
+    "summary": "Devon Archer, Trevor Milton and Carlos Watson were convicted in fraud schemes totaling hundreds of millions of dollars. Now, they will not be required by the government to pay back victims."
+  },
+  {
+    "title": "Draft Bill Would Authorize Trump to Kill People He Deems Narco-Terrorists",
+    "link": "https://www.nytimes.com/2025/09/19/us/politics/trump-drug-cartels-war-authorization.html",
+    "summary": "Potential legislation circulating in the executive branch and Congress would grant President Trump sweeping military powers."
+  },
+  {
     "title": "How Outrage at Kimmel Grew to a Shout From a Whisper",
     "link": "https://www.nytimes.com/2025/09/19/technology/kimmel-carr-outrage-online.html",
     "summary": "Right-wing users on social media on Tuesday were frustrated but not yet apoplectic about Jimmy Kimmel’s monologue. Things changed."
   },
   {
-    "title": "What Is ‘Consequence Culture’?",
-    "link": "https://www.nytimes.com/2025/09/18/style/consequence-culture-kirk-kimmel.html",
-    "summary": "As some prominent conservatives target both ordinary people and public figures for their comments about Charlie Kirk, they are trying to rebrand a practice they once maligned."
+    "title": "In Pressuring ABC Over Kimmel, Trump May Have Crossed a Constitutional Line",
+    "link": "https://www.nytimes.com/2025/09/19/us/politics/supreme-court-jimmy-kimmel-free-speech.html",
+    "summary": "The Supreme Court has distinguished bully-pulpit persuasion, which is permissible under the First Amendment, from coercion and threats, which are not."
   },
   {
-    "title": "Trump Pressures Broadcasters Over Critical Coverage, Escalating Attack on Speech",
-    "link": "https://www.nytimes.com/2025/09/18/us/politics/trump-fcc-licenses.html",
-    "summary": "The president’s suggestion that broadcasters should lose their licenses because of criticism of him indicated that his assault on critics’ language is driven in part by personal animus."
-  },
-  {
-    "title": "F.C.C. Head Says Kimmel Not ‘the Last Shoe to Drop,’ and Musk Goes All In on A.I.",
-    "link": "https://www.nytimes.com/2025/09/19/podcasts/the-headlines/kimmel-musk-ai.html",
-    "summary": "Plus, your Friday news quiz."
+    "title": "Judge Dismisses Trump’s $15 Billion Lawsuit Against The New York Times",
+    "link": "https://www.nytimes.com/2025/09/19/business/media/trump-new-york-times-lawsuit.html",
+    "summary": "The judge said that the complaint failed to contain a “short and plain statement of the claim.” Mr. Trump has 28 days to refile."
   },
   {
     "title": "Battered but Undefeated, Hamas Remains a Fighting Force in Gaza",
@@ -25,19 +35,64 @@
     "summary": "Some Israeli officials believe the military assault on Gaza City will deliver a decisive blow to the group, which continues to stage ambushes and guerrilla attacks."
   },
   {
-    "title": "RFK Jr.’s Vaccine Committee to Vote on Hepatitis B and Covid Shots",
-    "link": "https://www.nytimes.com/2025/09/18/health/kennedy-cdc-vaccine-meeting-hepatitis-covid.html",
-    "summary": "The members voted against the combination shot for measles, mumps, rubella and chickenpox. Guidelines on vaccines given separately to prevent those infections remain unchanged."
-  },
-  {
     "title": "What Charlie Kirk Could Mean for the Future of Marriage and Family",
     "link": "https://www.nytimes.com/2025/09/19/us/politics/charlie-kirk-erika-family-marriage-children.html",
     "summary": "Erika Kirk said her husband aspired to “revive the American family.” Conservative activists wonder if Charlie Kirk’s legacy will lend new urgency to White House policy discussions."
   },
   {
-    "title": "‘Peak SF’ on a Friday Night Is a Robot Fight",
-    "link": "https://www.nytimes.com/2025/09/19/technology/san-francisco-robot-fight.html",
-    "summary": "The artificial intelligence boom, which has brought techies flocking back to the city, has fueled a resurgence of live — and sometimes futuristic — events."
+    "title": "Charlie Kirk’s Base Was Young People. Now His Tent Might Be Expanding.",
+    "link": "https://www.nytimes.com/2025/09/19/us/charlie-kirk-turning-point-usa.html",
+    "summary": "Since his death, the parents and grandparents of his original followers are discovering his work. They like what they see."
+  },
+  {
+    "title": "The Plot to Free the Nuns",
+    "link": "https://www.nytimes.com/2025/09/19/world/europe/nuns-austria-sisters.html",
+    "summary": "The last of their order, they are now known for a dispute with the church they gave their lives to over where to live in retirement. And they wanted to stay home."
+  },
+  {
+    "title": "A Missing Woman, an N.B.A. Hopeful and an Arrest That Shocked a Team",
+    "link": "https://www.nytimes.com/2025/09/19/us/comanche-murder-trial-stockton-kings-nba.html",
+    "summary": "In 2023, Chance Comanche was playing some of the best basketball of his life. His teammates thought he was on his way to the N.B.A. Instead, he was accused of murder."
+  },
+  {
+    "title": "Russian Fighter Jets Enter Airspace of Estonia, a NATO Member",
+    "link": "https://www.nytimes.com/2025/09/19/world/europe/russian-fighter-jets-estonia-nato.html",
+    "summary": "Estonia’s foreign minister described the flights, which lasted for an unusually long 12 minutes, as an “unprecedentedly brazen” intrusion."
+  },
+  {
+    "title": "Europe Announces New Sanctions to Ramp Up Pressure on Russia",
+    "link": "https://www.nytimes.com/2025/09/19/world/europe/eu-sanctions-russia-ukraine.html",
+    "summary": "The latest set of European Union restrictions are aimed at chipping away at Russia’s energy profits and ability to do business globally."
+  },
+  {
+    "title": "Political Violence Isn’t New. But Something About This Moment Is.",
+    "link": "https://www.nytimes.com/2025/09/19/magazine/tyler-robinson-political-violence.html",
+    "summary": "Charlie Kirk’s assassination fits into American history. How does it fit into our politics?"
+  },
+  {
+    "title": "Trump and China, in Vague Statements, Suggest TikTok Deal Could Move Ahead",
+    "link": "https://www.nytimes.com/2025/09/19/business/trump-tiktok-deal-china.html",
+    "summary": "The president wrote on Truth Social, “appreciate the TikTok approval,” after a call with China’s top leader, Xi Jinping. But he also suggested the deal and other issues were still in progress."
+  },
+  {
+    "title": "How China Could Use a TikTok Deal to Ease U.S. Pressure",
+    "link": "https://www.nytimes.com/2025/09/19/world/asia/tiktok-xi-trump-china.html",
+    "summary": "The Chinese leader’s willingness to discuss a TikTok deal suggests that the fate of the app matters less than issues like tariffs, technology and Taiwan."
+  },
+  {
+    "title": "As Farm Aid Reaches 40 Years, It Deals With Familiar Farming Crises",
+    "link": "https://www.nytimes.com/2025/09/19/business/farm-aid-40-concert-farmers-crisis-hotline.html",
+    "summary": "Saturday’s star-studded concert will air on TV for the first time in years as the hotline for farmers gets more calls about a mix of complicated problems."
+  },
+  {
+    "title": "Trump Officials Question Harvard’s Stability, Saying Federal Inquiries Raise Financial Risk",
+    "link": "https://www.nytimes.com/2025/09/19/us/politics/trump-harvard-financial-risk.html",
+    "summary": "The administration’s latest attack on the nation’s oldest university comes as negotiations stall for a settlement to restore billions in frozen federal research funds."
+  },
+  {
+    "title": "Texas A&M President to Step Down After Controversy Over ‘Gender Ideology’",
+    "link": "https://www.nytimes.com/2025/09/18/us/texas-am-president-gender-ideology-controversy.html",
+    "summary": "The university had been roiled after a student filmed herself arguing with the instructor of a children’s literature course that recognized more than two genders."
   },
   {
     "title": "Autocrats Move Quickly to Fill Void as Trump Retreats From U.N.",
@@ -50,59 +105,24 @@
     "summary": "U.S. funding cuts are straining the United Nations and giving Beijing an opening to strengthen its influence, at a fraction of the cost Washington once paid."
   },
   {
-    "title": "Political Violence Isn’t New. But Something About This Moment Is.",
-    "link": "https://www.nytimes.com/2025/09/19/magazine/tyler-robinson-political-violence.html",
-    "summary": "Charlie Kirk’s assassination fits into American history. How does it fit into our politics?"
+    "title": "Elon Musk Has Focused on xAI Since Leaving Washington",
+    "link": "https://www.nytimes.com/2025/09/18/technology/elon-musk-artificial-intelligence-xai.html",
+    "summary": "Mr. Musk spent the summer at his artificial intelligence start-up xAI, trying to match the runaway success of OpenAI. The result was chaos."
   },
   {
-    "title": "Texas A&M President to Step Down After Controversy Over ‘Gender Ideology’",
-    "link": "https://www.nytimes.com/2025/09/18/us/texas-am-president-gender-ideology-controversy.html",
-    "summary": "The university had been roiled after a student filmed herself arguing with the instructor of a children’s literature course that recognized more than two genders."
+    "title": "Agnes Gund, Who Oversaw a Major Expansion of MoMA, Dies at 87",
+    "link": "https://www.nytimes.com/2025/09/19/arts/agnes-gund-dead.html",
+    "summary": "A champion of contemporary art, she was the museum’s president for 11 years. She also founded the Art for Justice Fund, donating $100 million."
   },
   {
-    "title": "How Xi Is Using a TikTok Tradeoff to Court Trump",
-    "link": "https://www.nytimes.com/2025/09/19/world/asia/tiktok-xi-trump-china.html",
-    "summary": "Agreeing to a deal suggests that the fate of TikTok matters less to Beijing than gaining leverage on issues it cares most about, like tariffs, technology and Taiwan."
+    "title": "She’s Starting a Blood Bank for Zoos",
+    "link": "https://www.nytimes.com/2025/09/19/science/zoo-veterinarian-blood.html",
+    "summary": "Captive animals sometimes need a transfusion, but the typical approach to blood banking isn’t practical for zoos and aquariums. One veterinarian is testing a solution."
   },
   {
-    "title": "Trump and Xi Set to Finalize TikTok Deal",
-    "link": "https://www.nytimes.com/2025/09/19/business/media/trump-and-xi-set-to-finalize-tiktok-deal.html",
-    "summary": "The two leaders are expected to speak Friday to discuss a deal to keep the wildly popular app from going dark in the United States."
-  },
-  {
-    "title": "Draft Bill Would Authorize Trump to Wage Drug Trafficking War",
-    "link": "https://www.nytimes.com/2025/09/19/us/politics/trump-drug-cartels-war-authorization.html",
-    "summary": "The potential legislation would grant President Trump sweeping power to use military force if he saw a link to “narco-terrorists.”"
-  },
-  {
-    "title": "Democrats Seek to Limit Trump’s War Powers After Venezuela Boat Strikes",
-    "link": "https://www.nytimes.com/2025/09/19/us/politics/trump-military-powers-democrats-venezuela.html",
-    "summary": "Lawmakers have said that President Trump has not provided sufficient evidence about the threat posed by the vessels or the legal basis to use force against them."
-  },
-  {
-    "title": "Taliban Rebuffs Trump’s Effort to Regain Air Base in Afghanistan",
-    "link": "https://www.nytimes.com/2025/09/19/world/asia/trump-bagram-taliban.html",
-    "summary": "An Afghan official rejected the idea of a renewed presence for the U.S. military in the country, but left the door open for “political and economic relations.”"
-  },
-  {
-    "title": "The Race Is on to Make Rare Earth Magnets Outside China",
-    "link": "https://www.nytimes.com/2025/09/19/business/china-rare-earths-magnets.html",
-    "summary": "After Beijing exerted its power over the valuable magnets as leverage, other countries started to add production, but only incrementally. And China is far ahead."
-  },
-  {
-    "title": "The Plot to Free the Nuns",
-    "link": "https://www.nytimes.com/2025/09/19/world/europe/nuns-austria-sisters.html",
-    "summary": "The last of their order, they are now known for a dispute with the church they gave their lives to over where to live in retirement. And they wanted to stay home."
-  },
-  {
-    "title": "Flattery and Flourish for Trump. For His U.K. Hosts, Relief at Avoiding Strife.",
-    "link": "https://www.nytimes.com/2025/09/19/world/europe/trump-king-charles-keir-starmer.html",
-    "summary": "The president was feted by King Charles III with the sort of pageantry he covets, signed a technology deal and steered clear of big disagreements with Prime Minister Keir Starmer."
-  },
-  {
-    "title": "The Trump Administration’s Chilling Efforts to Punish Free Speech",
-    "link": "https://www.nytimes.com/2025/09/19/opinion/trump-freedom-of-speech-crackdown-kimmel.html",
-    "summary": "If the American ideal of freedom means anything, it is that we can engage in an extremely wide range of political speech, including the tasteless and the offensive."
+    "title": "We Can No Longer Tell Ourselves This Isn’t Really Happening",
+    "link": "https://www.nytimes.com/2025/09/19/opinion/jimmy-kimmel-trump-media-government.html",
+    "summary": "Laughter is now a government-regulated product."
   },
   {
     "title": "Spencer Cox Wants to Pull Our Politics Back From the Brink",
@@ -110,18 +130,23 @@
     "summary": "The Utah governor is trying to model a different kind of leadership in a very dangerous political moment."
   },
   {
+    "title": "Soros Gives $10 Million to Newsom Redistricting Fight",
+    "link": "https://www.nytimes.com/2025/09/19/us/politics/gavin-newsom-redistricting-california-fundraising.html",
+    "summary": "The sum makes the Soros family the single largest funder so far in favor of the California effort to counter President Trump."
+  },
+  {
     "title": "32 Years After a Brutal Murder, a Man Is on Trial. Again.",
     "link": "https://www.nytimes.com/2025/09/19/nyregion/tonanwanda-murder-retrial.html",
     "summary": "A judge vacated the convictions of two men accused of killing Deborah Meindl in her Tonawanda, N.Y., home. The district attorney is trying to convict them once more."
   },
   {
-    "title": "‘Harrowing Beyond Description’: Dozens Killed While at Prayer in Sudan",
-    "link": "https://www.nytimes.com/2025/09/19/world/africa/sudan-strike-mosque-rsf.html",
-    "summary": "A doctor who spoke with The Times last week was among those killed when a missile hit a mosque on Friday as paramilitaries stepped up their brutal siege of the city of El Fasher."
+    "title": "The Race Is on to Make Rare Earth Magnets Outside China",
+    "link": "https://www.nytimes.com/2025/09/19/business/china-rare-earths-magnets.html",
+    "summary": "After Beijing exerted its power over the valuable magnets as leverage, other countries started to add production, but only incrementally. And China is far ahead."
   },
   {
-    "title": "The F.J. King, a Ship Lost in 1886, Is Found in Lake Michigan",
-    "link": "https://www.nytimes.com/2025/09/18/us/ghost-ship-wreckage-lake-michigan.html",
-    "summary": "Long rumored to be on the floor of the lake but never seen, the schooner had eluded divers and taunted storytellers for generations. It was miles off the Door Peninsula in Wisconsin."
+    "title": "Brett James, Grammy-Winning Songwriter, Dies in Plane Crash in North Carolina",
+    "link": "https://www.nytimes.com/2025/09/19/us/plane-crash-north-carolina-brett-james.html",
+    "summary": "He had written hits for Carrie Underwood, Kenny Chesney and other country stars. Two other people on the plane were also killed when it crashed into a field in Franklin, N.C., officials said."
   }
 ]

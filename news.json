@@ -1,20 +1,5 @@
 [
   {
-    "title": "Tylenol, Autism and Vaccines: What to Know After Trump’s Announcement",
-    "link": "https://www.nytimes.com/2025/09/22/health/autism-tylenol-vaccines-explained.html",
-    "summary": "For decades, researchers have looked for links. Most believe the disorder springs from a complex interplay of genetics and environmental factors."
-  },
-  {
-    "title": "Kenvue, the Company Behind Tylenol, Tries to Navigate Its Latest Crisis",
-    "link": "https://www.nytimes.com/2025/09/22/health/tylenol-autism-kenvue.html",
-    "summary": "Kenvue, a two-year-old spinoff from Johnson & Johnson, is confronting a public-relations nightmare as President Trump and others suggest unproven links between the pain reliever and autism."
-  },
-  {
-    "title": "F.D.A. to Relabel Leucovorin for Autism Treatment",
-    "link": "https://www.nytimes.com/2025/09/22/well/leucovorin-autism-fda.html",
-    "summary": "The F.D.A. announced Monday that it would change the drug’s label to reflect potential benefits in reducing autism symptoms."
-  },
-  {
     "title": "Jimmy Kimmel’s Show to Return to ABC on Tuesday Night",
     "link": "https://www.nytimes.com/2025/09/22/business/media/jimmy-kimmel-returns-abc.html",
     "summary": "The network’s removal of Mr. Kimmel’s show last week almost immediately morphed into a flashpoint for free speech in America."
@@ -32,7 +17,27 @@
   {
     "title": "‘The View’ Hosts Criticize Trump Administration Over Kimmel",
     "link": "https://www.nytimes.com/2025/09/22/business/media/the-view-trump-jimmy-kimmel.html",
-    "summary": "The chairman of the Federal Communications Commission has suggested that the daytime talk show should could also come under government scrutiny."
+    "summary": "The chairman of the Federal Communications Commission has suggested that the daytime talk show should also come under government scrutiny."
+  },
+  {
+    "title": "Trump Issues Warning Based on Unproven Link Between Tylenol and Autism",
+    "link": "https://www.nytimes.com/2025/09/22/health/kennedy-autism-tylenol-trump.html",
+    "summary": "Top U.S. health officials urged pregnant women not to use acetaminophen, the active ingredient in Tylenol, claiming it could cause autism, though studies have been inconclusive."
+  },
+  {
+    "title": "Tylenol, Autism and Vaccines: What to Know After Trump’s Announcement",
+    "link": "https://www.nytimes.com/2025/09/22/health/autism-tylenol-vaccines-explained.html",
+    "summary": "For decades, researchers have looked for links. Most believe the disorder springs from a complex interplay of genetics and environmental factors."
+  },
+  {
+    "title": "Kenvue, the Company Behind Tylenol, Tries to Navigate Its Latest Crisis",
+    "link": "https://www.nytimes.com/2025/09/22/health/tylenol-autism-kenvue.html",
+    "summary": "Kenvue, a two-year-old spinoff from Johnson & Johnson, is confronting a public-relations nightmare as President Trump and others suggest unproven links between the pain reliever and autism."
+  },
+  {
+    "title": "F.D.A. to Relabel Leucovorin for Autism Treatment",
+    "link": "https://www.nytimes.com/2025/09/22/well/leucovorin-autism-fda.html",
+    "summary": "The F.D.A. announced Monday that it would change the drug’s label to reflect potential benefits in reducing autism symptoms."
   },
   {
     "title": "Supreme Court Allows Trump to Fire F.T.C. Commissioner",
@@ -40,9 +45,9 @@
     "summary": "The justices said they will consider whether to overrule a landmark Supreme Court precedent that has limited the president’s ability to fire top officials at the agency."
   },
   {
-    "title": "Trump’s Tax Cut Is Underwater. Can a ‘Refund Boom’ Save It?",
-    "link": "https://www.nytimes.com/2025/09/22/us/politics/trump-tax-cuts.html",
-    "summary": "Republicans are hoping a new name, along with larger refunds for many Americans next year, can buoy an economic agenda that polls show is unpopular."
+    "title": "Trump Signs Order Targeting Antifa Movement",
+    "link": "https://www.nytimes.com/2025/09/22/us/politics/trump-antifa-order-terrorism.html",
+    "summary": "President Trump’s executive order threatened to prosecute donors who support antifascist philosophy and issued a domestic terrorism designation that doesn’t exist under U.S. law."
   },
   {
     "title": "Halligan, Trump’s Chosen Prosecutor, Takes Over Comey and James Cases",
@@ -50,19 +55,14 @@
     "summary": "The president is pushing up against the statute of limitations in his pursuit of charges against a former F.B.I. director, and also wants the attorney general of New York and a California senator prosecuted."
   },
   {
-    "title": "Trump’s Pick to Replace Ousted U.S. Attorney Lacks Prosecutorial Experience",
-    "link": "https://www.nytimes.com/live/2025/09/22/us/trump-news/lindsey-halligan-trump",
-    "summary": "Lindsey Halligan worked as a personal lawyer for President Trump and then led the effort to scrutinize the Smithsonian for “improper ideology.”"
-  },
-  {
     "title": "Trump’s Efforts to Punish His Enemies Are Ramping Up",
     "link": "https://www.nytimes.com/2025/09/22/us/politics/trump-justice-department-enemies.html",
     "summary": "Some rank-and-file prosecutors are growing alarmed about pressure to bring indictments even when evidence is weak."
   },
   {
-    "title": "The Wary, Warming, Wildly Consequential Alliance of Ocasio-Cortez and Mamdani",
-    "link": "https://www.nytimes.com/2025/09/22/nyregion/ocasio-cortez-mamdani-new-york-mayor.html",
-    "summary": "She was the ‘big sister’ he hoped to impress. He seemed inexperienced to her. Now, they’re the faces of a political movement — and New York is its test case."
+    "title": "Foreigners Have Flocked to Copenhagen for Weddings. Is the Honeymoon Over?",
+    "link": "https://www.nytimes.com/2025/09/22/world/europe/copenhagen-denmark-weddings.html",
+    "summary": "The Danish capital is limiting when foreign couples can marry and setting aside new funding for civil ceremonies."
   },
   {
     "title": "World Leaders Recognize Palestinian State, in a Challenge to U.S. and Israel",
@@ -75,39 +75,14 @@
     "summary": "Even before the war in Gaza, negotiations failed to produce peace between the Israelis and the Palestinians."
   },
   {
+    "title": "U.S. News Rankings Are Out After a Tumultuous Year for Colleges",
+    "link": "https://www.nytimes.com/2025/09/23/us/us-news-rankings.html",
+    "summary": "But despite it all, very little changed on the lists many parents and prospective students turn to as admissions season kicks off."
+  },
+  {
     "title": "Trump’s H-1B Visa Fee Knocks Down Bridge Between India and the U.S.",
     "link": "https://www.nytimes.com/2025/09/22/business/trump-h-1b-visa-fee-india.html",
     "summary": "The H-1B visa lured a generation of Indian professionals to take part in the American dream. A $100,000 fee has forced a rethink of the route."
-  },
-  {
-    "title": "When ICE Shows Up at a Factory, What Can a Governor Do?",
-    "link": "https://www.nytimes.com/2025/09/22/nyregion/ice-raid-hochul.html",
-    "summary": "“I’m used to being able to solve problems,” Gov. Kathy Hochul of New York said as she visited a factory where immigration officials arrested 57 people."
-  },
-  {
-    "title": "Harris-Biden Rift Outlined in ’107 Days’ Reflects Long Pattern of History",
-    "link": "https://www.nytimes.com/2025/09/22/us/politics/kamala-harris-joe-biden-rift-history.html",
-    "summary": "Many presidents and vice presidents fall out by the end of their tenures, a fraught dynamic that goes back to the early days of the republic."
-  },
-  {
-    "title": "Nvidia to Invest $100 Billion in OpenAI",
-    "link": "https://www.nytimes.com/2025/09/22/technology/nvidia-openai-100-billion-investment.html",
-    "summary": "The chipmaker’s investment in the San Francisco start-up is an indication of the wild financial figures being tossed around in the world of artificial intelligence."
-  },
-  {
-    "title": "U.S. Asks Judge to Break Up Google’s Advertising Technology Monopoly",
-    "link": "https://www.nytimes.com/2025/09/22/technology/google-ad-tech-monopoly.html",
-    "summary": "The Justice Department argued that the best way to address the company’s unfair advantage was to force it to sell off portions of its business."
-  },
-  {
-    "title": "Earthquake Jolts Bay Area Residents Awake",
-    "link": "https://www.nytimes.com/2025/09/22/us/earthquake-bay-area-berkeley.html",
-    "summary": "A 4.3-magnitude earthquake was strong enough to rattle nerves in the middle of the night, especially in the heavily populated East Bay where it was centered."
-  },
-  {
-    "title": "Greenlandic Woman Wins Her Baby Back in Denmark",
-    "link": "https://www.nytimes.com/2025/09/22/world/europe/denmark-greenland-baby-reunited.html",
-    "summary": "A young Greenlandic woman living in Denmark will regain custody of the infant girl taken from her shortly after birth. The case has become the latest flashpoint between Denmark and Greenland."
   },
   {
     "title": "High Holiday Reflections on the State of American Jews",
@@ -120,9 +95,29 @@
     "summary": "Mr. Mamdani intends to appear at explicitly Jewish spaces during the High Holy Days, seeking to bridge a divide with some Jewish voters as he runs for mayor."
   },
   {
-    "title": "Review: ‘Amazing Adventures of Kavalier & Clay’ at the Met",
-    "link": "https://www.nytimes.com/2025/09/22/arts/music/kavalier-clay-met-opera-review.html",
-    "summary": "The Metropolitan Opera opened its season with a superficial adaptation of Michael Chabon’s novel “The Amazing Adventures of Kavalier & Clay.”"
+    "title": "Sean Combs’s Lawyers Urge Judge to Free Him Before the End of 2025",
+    "link": "https://www.nytimes.com/2025/09/23/arts/sean-combs-sentence-mann-act.html",
+    "summary": "Mr. Combs’s lawyers said in a filing that their incarcerated client deserves to be let go soon after his Oct. 3 sentencing on prostitution-related charges."
+  },
+  {
+    "title": "Harris-Biden Rift Outlined in ’107 Days’ Reflects Long Pattern of History",
+    "link": "https://www.nytimes.com/2025/09/22/us/politics/kamala-harris-joe-biden-rift-history.html",
+    "summary": "Many presidents and vice presidents fall out by the end of their tenures, a fraught dynamic that goes back to the early days of the republic."
+  },
+  {
+    "title": "Mamdani Lands Endorsement From Kamala Harris, His Biggest Yet",
+    "link": "https://www.nytimes.com/2025/09/22/us/politics/kamala-harris-endorsement-zohran-mamdani.html",
+    "summary": "“I support the Democrat in the race,” Ms. Harris said during an interview with Rachel Maddow. She added of the Democratic Party, “we’ve got a big tent and we’ve got a lot of stars.”"
+  },
+  {
+    "title": "How Norway Adopted New Tech in Its Hunt for ‘Missing’ Oil",
+    "link": "https://www.nytimes.com/2025/09/23/business/norway-oil-exploration.html",
+    "summary": "Going against conventional wisdom, explorers at a Norwegian energy company drilled horizontally to find oil in an abandoned natural gas field."
+  },
+  {
+    "title": "The New Buzzword That’s Scaring China",
+    "link": "https://www.nytimes.com/2025/09/23/opinion/china-economy-deflation-neijuan.html",
+    "summary": "China’s problem with competition is that it’s too brutal."
   },
   {
     "title": "President Trump Eulogizes Charlie Kirk",
@@ -130,33 +125,23 @@
     "summary": "Trump’s first presidential eulogy made no effort to unite the country, which is the traditional goal of a presidential eulogy."
   },
   {
-    "title": "What the Government Autism Announcement Got So Wrong",
-    "link": "https://www.nytimes.com/2025/09/22/opinion/autism-kennedy-report.html",
-    "summary": "The Trump administration misunderstands autism and what autistic people and our families need."
-  },
-  {
-    "title": "Jimmy Kimmel’s Show Is Coming Back",
-    "link": "https://www.nytimes.com/2025/09/22/briefing/jimmy-kimmel-palestinian-statehood-un.html",
-    "summary": "Also, Palestinian statehood took center stage at the U.N. Here’s the latest at the end of Monday."
-  },
-  {
     "title": "Retired Lobbyist in Federal Custody in ABC Affiliate Shooting in Sacramento, California",
     "link": "https://www.nytimes.com/2025/09/22/us/sacramento-california-tv-station-shooting.html",
     "summary": "Prosecutors say that the suspect, a 64-year-old Sacramento man, had a note critical of Trump administration officials and a separate calendar reminder to “Do the Next Scary Thing.”"
   },
   {
-    "title": "North Carolina Republicans Unveil Broad Crime Bill After Stabbing",
-    "link": "https://www.nytimes.com/2025/09/22/us/north-carolina-republicans-crime-bill-train-stabbing.html",
-    "summary": "The state measure would keep more defendants in jail before trial and increase oversight of judicial officials. But it is unclear if it would have made a difference in the August attack."
+    "title": "Unification Church Leader Is Arrested on Corruption Charges in South Korea",
+    "link": "https://www.nytimes.com/2025/09/23/world/asia/unification-church-leader-han-arrest.html",
+    "summary": "Han Hak-ja — the widow of the church’s founder, the Rev. Sun Myung Moon — was accused of bribing a former first lady for business and political favors."
   },
   {
-    "title": "Tiger Handler Linked to Joe Exotic Is Fatally Mauled by Tiger",
-    "link": "https://www.nytimes.com/2025/09/22/us/tiger-handler-mauled-dead-joe-exotic.html",
-    "summary": "Ryan Easley, 37, was performing at his family-run private zoo in Hugo, Okla., when a tiger attacked him, the authorities said. He was pronounced dead at the scene."
+    "title": "Ron DiMenna, Ron Jon Surf Shop Founder, Dies at 88",
+    "link": "https://www.nytimes.com/2025/09/22/business/ron-dimenna-dead.html",
+    "summary": "As the founder of a national chain, he was a key figure in surfing’s expansion into mainstream culture, with a life said to be “the stuff of folklore.”"
   },
   {
-    "title": "Tech Executive Dies After Falling 2,000 Feet on Mount Shasta",
-    "link": "https://www.nytimes.com/2025/09/22/us/argentina-tech-ceo-dead-mount-shasta.html",
-    "summary": "While the Argentine hiker and entrepreneur, Matias Augusto Travizano, was descending the mountain, he fell down a glacier, the authorities said."
+    "title": "Man Who Shined a Laser at Marine One With Trump Aboard Is Arrested, U.S. Says",
+    "link": "https://www.nytimes.com/2025/09/22/us/laser-marine-one-trump-arrest.html",
+    "summary": "Jacob Winkler aimed a laser pointer at the presidential helicopter as it took off from the White House on Saturday, the authorities said. He was charged with a felony."
   }
 ]

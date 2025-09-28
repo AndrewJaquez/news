@@ -1,8 +1,8 @@
 [
   {
-    "title": "Trump Predicts More Indictments After Comey and Claims It’s Not Revenge",
-    "link": "https://www.nytimes.com/2025/09/26/us/politics/trump-comey-revenge.html",
-    "summary": "President Trump has made clear that he expects the Justice Department to mete out punishment to his perceived enemies."
+    "title": "Inside the Trump Administration’s Push to Prosecute James Comey",
+    "link": "https://www.nytimes.com/2025/09/27/us/politics/trump-comey-justice-department.html",
+    "summary": "President Trump’s campaign of retribution began to intensify in mid-July and hit a fever pitch over the last week, culminating in the indictment of one of his foremost enemies."
   },
   {
     "title": "Trump’s Repeated Attacks May Undercut Case Against Comey",
@@ -10,14 +10,9 @@
     "summary": "The president’s voluble vitriol could provide defense lawyers with an avenue to protect the very people he most wants to punish."
   },
   {
-    "title": "Justice Dept. Seeks Information on Fani Willis, Georgia D.A. Who Prosecuted Trump",
-    "link": "https://www.nytimes.com/2025/09/26/us/justice-department-fani-willis-trump.html",
-    "summary": "Federal investigators have subpoenaed records related to travel they believe Fani Willis took around the time of last year’s election, but it was not immediately clear why."
-  },
-  {
-    "title": "Trump Fired a U.S. Attorney Who Insisted on Following a Court Order",
-    "link": "https://www.nytimes.com/2025/09/26/us/trump-fires-us-attorney-california-immigration.html",
-    "summary": "The top federal prosecutor in Sacramento was fired hours after she reminded a Border Patrol chief to abide by court-ordered restrictions on immigration raids."
+    "title": "Examining James Comey’s 2020 Testimony at the Heart of His Indictment",
+    "link": "https://www.nytimes.com/2025/09/26/us/politics/james-comey-testimony-trump.html",
+    "summary": "The charges against the former F.B.I. director center on an appearance he made before a Senate committee in September 2020. Here’s a closer look."
   },
   {
     "title": "Trump Says He Has Ordered Troops to Portland, Oregon, to Protect ICE Facilities",
@@ -25,24 +20,9 @@
     "summary": "The president characterized Immigration and Customs Enforcement facilities as being under siege from domestic terrorists."
   },
   {
-    "title": "Give In or Fight Back? Colleges Are Torn on How to Respond to Trump.",
-    "link": "https://www.nytimes.com/2025/09/27/us/trump-university-california-berkeley-tactics.html",
-    "summary": "The University of California, one of the Trump administration’s biggest targets so far, is in an uproar over how to respond to the president’s attacks. So is the rest of higher education."
-  },
-  {
     "title": "FBI Fires Agents Seen Kneeling During 2020 Racial Justice Protests",
     "link": "https://www.nytimes.com/2025/09/27/us/politics/kash-patel-fbi-firing.html",
     "summary": "Agents group says the latest dismissals are part of a “dangerous pattern” of weakening the nation’s top law enforcement agency."
-  },
-  {
-    "title": "Netanyahu’s Defiant U.N. Speech Aimed at Home as Well as the World",
-    "link": "https://www.nytimes.com/2025/09/27/world/middleeast/israel-netanyahu-united-nations.html",
-    "summary": "The Israeli prime minister faced walkouts and protests at the United Nations, but signaled that resisting Palestinian statehood could become the core of his appeal to Israeli voters."
-  },
-  {
-    "title": "Doctors Without Borders Closes in Gaza City as Israel Intensifies Offensive",
-    "link": "https://www.nytimes.com/2025/09/27/world/middleeast/gaza-hospitals-doctors-without-borders.html",
-    "summary": "Doctors Without Borders pulled its staff from Gaza City as the medical system buckled. The U.N. has warned that more hospitals may have to close."
   },
   {
     "title": "Trump Displays Little Interest in Fostering Unity Amid Political Violence",
@@ -50,9 +30,29 @@
     "summary": "After an assassination attempt, Gov. George Wallace, the segregationist, got a surprise visitor: Shirley Chisholm, the first Black woman elected to Congress. Could this happen today?"
   },
   {
-    "title": "Onstage, Chappell Roan Is a Powerhouse. And Exactly Where She Wants to Be.",
-    "link": "https://www.nytimes.com/2025/09/27/arts/music/chappell-roan-damsels-dangerous-things-tour.html",
-    "summary": "The singer’s Visions of Damsels & Other Dangerous Things Tour highlights how she continues to deviate from the rising pop star’s expected playbook."
+    "title": "Des Moines Schools Superintendent Arrested By ICE Is Placed on Leave",
+    "link": "https://www.nytimes.com/2025/09/27/us/des-moines-schools-superintendent-ice-leave.html",
+    "summary": "School Board members in Iowa’s capital made the decision one day after immigration officials accused the superintendent, Ian Roberts, of being in the country illegally."
+  },
+  {
+    "title": "Restoring the Sound, if Not the Fury, of William Faulkner’s Piano",
+    "link": "https://www.nytimes.com/2025/09/27/arts/music/william-faulkner-museum-piano.html",
+    "summary": "Hoping to draw more visitors to Rowan Oak, Faulkner’s home in Oxford, Miss., a group helped refurbish its piano."
+  },
+  {
+    "title": "Netanyahu’s Defiant U.N. Speech Aimed at Home as Well as the World",
+    "link": "https://www.nytimes.com/2025/09/27/world/middleeast/israel-netanyahu-united-nations.html",
+    "summary": "The Israeli prime minister faced walkouts and protests at the United Nations, but signaled that resisting Palestinian statehood could become the core of his appeal to Israeli voters."
+  },
+  {
+    "title": "U.S. Ambassador to Israel Is Expected to Make Rare Visit to Egypt",
+    "link": "https://www.nytimes.com/2025/09/27/world/middleeast/ambassador-huckabee-istael-egypt-travel.html",
+    "summary": "Ambassador Mike Huckabee is to travel to Cairo for talks that officials said would focus on the Gaza war and tensions between Israel and Egypt."
+  },
+  {
+    "title": "Iranians Brace for Economic Impact of New U.N. Sanctions",
+    "link": "https://www.nytimes.com/2025/09/27/world/middleeast/sanctions-iran-economy-snapback.html",
+    "summary": "Already suffering a 40 percent inflation rate and critical shortages of power and water, many in Iran expect conditions to get worse."
   },
   {
     "title": "New Retail Leaders Confront Trump’s Tariffs, Policy Shifts and Weak Spending",
@@ -65,11 +65,6 @@
     "summary": "Oura Health makes a pricey smart ring that busy executives, celebrities and others use to track health measures like their sleep patterns. It expects $1 billion in sales this year."
   },
   {
-    "title": "Des Moines Schools Superintendent Ian Roberts Detained by ICE, Officials Say",
-    "link": "https://www.nytimes.com/2025/09/26/us/des-moines-schools-ice-immigration.html",
-    "summary": "Federal immigration officials said the superintendent had received a deportation order in May 2024 and fled from agents when they approached him on Friday."
-  },
-  {
     "title": "His Parents Disappeared. In a TV Studio, He Confessed to Killing Them.",
     "link": "https://www.nytimes.com/2025/09/27/nyregion/albany-parent-murders-interview.html",
     "summary": "After investigators came looking, Lorenz Kraus told a reporter he had strangled Franz and Theresia Kraus eight years ago. Two bodies were buried in their backyard."
@@ -80,14 +75,14 @@
     "summary": "In a former residence in Mexico City, passed down through the Kahlo family, it presents an intimate side of the Mexican painter’s life."
   },
   {
-    "title": "Iowa Matters Less Than Ever for Democrats, but They Can’t Quit It",
-    "link": "https://www.nytimes.com/2025/09/27/us/politics/iowa-democrats-president.html",
-    "summary": "The state no longer goes first for the party’s presidential nomination process, but ambitious politicians with an eye toward 2028 keep showing up. It’s “the gravitational pull,” as one Iowa Democrat put it."
+    "title": "C.T.E. Looms Over Friday Night Lights",
+    "link": "https://www.nytimes.com/2025/09/27/us/cte-high-school-football.html",
+    "summary": "Parents revealed conflicting emotions after the finding that a gunman who killed four people in July had the brain disease that has been linked with football and other contact sports."
   },
   {
     "title": "Why Comey Should Not Have Been Indicted, According to Trump",
     "link": "https://www.nytimes.com/2025/09/27/opinion/james-comey-indictment.html",
-    "summary": "The best case against indicting James Comey is the one the president made for firing him."
+    "summary": "Why James Comey should not have been indicted, according to Trump."
   },
   {
     "title": "We’re All Going to Die — Soonish!",
@@ -95,33 +90,18 @@
     "summary": "Even with big blue eyes or amazing pecs, A.I.’s allure can be deadly."
   },
   {
-    "title": "Banner Year",
-    "link": "https://www.nytimes.com/2025/09/27/briefing/banner-year.html",
-    "summary": "Milestone birthdays occasion consideration of what we’ve done with our lives, and what we want to do with the time to come."
+    "title": "Giuliani and Dominion Voting Systems Settle $1.3 Billion Defamation Suit",
+    "link": "https://www.nytimes.com/2025/09/27/us/politics/rudy-giuliani-dominion-case-settlement.html",
+    "summary": "The election technology company Dominion Voting Systems had accused Rudolph W. Giuliani of waging “a viral disinformation campaign” over the 2020 election."
   },
   {
-    "title": "Do You Use A.I. Chatbots for Health Advice?",
-    "link": "https://www.nytimes.com/2025/09/25/well/ai-chatbots-health.html",
-    "summary": "We want to hear about it."
+    "title": "Stampede at Actor’s Political Rally Kills at Least 36 in India",
+    "link": "https://www.nytimes.com/2025/09/27/world/asia/stampede-vijay-rally-india.html",
+    "summary": "The stampede took place at an event for Joseph Vijay Chandrasekhar, the popular actor known professionally as Vijay. A health official said the toll was likely to rise."
   },
   {
-    "title": "For Want of a Ferryman, a Two-Century U.S.-Canada Link Is Severed",
-    "link": "https://www.nytimes.com/2025/09/27/world/canada/horne-ferry-ontario-canada-new-york.html",
-    "summary": "With the closing of a crossing between a sleepy Ontario island and a village in New York State, islanders face modest inconvenience — and the end of an era."
-  },
-  {
-    "title": "‘Biometric Exit’ Quietly Expands Across U.S. Airports, Unnerving Some",
-    "link": "https://www.nytimes.com/2025/09/26/travel/airports-biometric-exit-program.html",
-    "summary": "The program, in which federal officers take departing international passengers’ photos, is set to grow, raising privacy concerns."
-  },
-  {
-    "title": "Hawaiian Village Rebuilds With Modular Tiny Homes After Maui Wildfire Destruction",
-    "link": "https://www.nytimes.com/2025/09/27/headway/lahaina-hawaii-modular-homes-wildfires.html",
-    "summary": "After Lahaina burned in August 2023, the state invested in a modular home development, hoping to nurture community and leave behind permanent infrastructure."
-  },
-  {
-    "title": "Get Ready for Higher Health Insurance Premiums Next Year",
-    "link": "https://www.nytimes.com/2025/09/26/your-money/health-insurance-premiums-increase.html",
-    "summary": "Employers say they are facing the biggest increase in health costs in more than a decade — almost 9 percent on average. Workers’ best option, experts say, is to carefully weigh various plans."
+    "title": "Neil Kraft, Visionary Adman Who Sold ‘a Mood and a Lifestyle,’ Dies at 67",
+    "link": "https://www.nytimes.com/2025/09/27/business/media/neil-kraft-dead.html",
+    "summary": "His ads for Calvin Klein and others captured a fizzy moment in the 1980s and ’90s, featuring celebrities like the young rapper Marky Mark wearing nothing but underwear and a grin."
   }
 ]

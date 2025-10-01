@@ -2,12 +2,37 @@
   {
     "title": "Government Shutdown That May Lead to Mass Layoffs Begins",
     "link": "https://www.nytimes.com/2025/09/30/us/politics/government-shutdown-deadlock.html",
-    "summary": "A bitter spending deadlock between President Trump and Democrats plunged the federal government into the first shutdown since 2019."
+    "summary": "Government funding was cut off shortly after midnight in a spending deadlock that could cut essential services and lead to mass layoffs."
   },
   {
-    "title": "A More Polarized Senate Drives Shutdown Gridlock",
+    "title": "What Are the Effects of a Government Shutdown?",
+    "link": "https://www.nytimes.com/video/us/100000010431360/government-shutdown-economic-effects.html",
+    "summary": "Ben Casselman, the chief economics correspondent for The New York Times, describes the economic effects of a government shutdown."
+  },
+  {
+    "title": "Democrats See No Need to Capitulate, Nor Republicans to Cut a Deal",
     "link": "https://www.nytimes.com/2025/09/30/us/politics/polarized-senate-shutdown-gridlock.html",
-    "summary": "With few senators from conservative states in their ranks, Democrats feel less pressure to capitulate, while more conservative Republicans are not inclined to cut a deal."
+    "summary": "The last time Senate Democrats found themselves taking the blame for a government shutdown, they quickly caved. That’s less likely to happen now."
+  },
+  {
+    "title": "How a Government Shutdown Will Affect Social Security",
+    "link": "https://www.nytimes.com/2025/10/01/business/government-shutdown-social-security-trump.html",
+    "summary": "Retirement, survivor and disability payments will continue, but some services may be temporarily unavailable."
+  },
+  {
+    "title": "U.S. Shutdown Begins, and Trump Tells Military to Use U.S. Cities as ‘Training Grounds’",
+    "link": "https://www.nytimes.com/2025/10/01/podcasts/the-headlines/shutdown-trump-military-italian-cooking.html",
+    "summary": "Plus, Italian grandmothers’ secret weapon."
+  },
+  {
+    "title": "Moscow Indicates Retaliation if Europe Uses Russian Assets for Ukraine",
+    "link": "https://www.nytimes.com/2025/10/01/world/europe/russia-frozen-assets-ukraine-loan.html",
+    "summary": "Amid a plan to lend $165 billion to Kyiv using Russian state assets, European officials are mindful of the possibility of blowback as they gather to discuss the idea."
+  },
+  {
+    "title": "What Is Europe’s ‘Drone Wall’?",
+    "link": "https://www.nytimes.com/2025/10/01/world/europe/drone-wall-european-union-russia.html",
+    "summary": "The European Union is talking about shoring up defenses in its eastern airspace. Recent Russian drone incursions have lent urgency to the project."
   },
   {
     "title": "Trump Gave the Military’s Brass a Rehashed Speech. Until Minute 44.",
@@ -20,9 +45,9 @@
     "summary": "Senior officers, summoned from around the world, are entrusted to manage complex military operations. They got a lecture on fitness and grooming standards."
   },
   {
-    "title": "Judge Disqualifies Nevada’s Acting U.S. Attorney From Handling Cases",
-    "link": "https://www.nytimes.com/2025/09/30/us/nevada-acting-us-attorney-chattah-disqualified.html",
-    "summary": "A federal judge said Sigal Chattah was not “validly serving as acting U.S. attorney.” The Trump administration had appointed her to the post in a way that circumvented federal procedures."
+    "title": "The $400 Million Restaurant Man",
+    "link": "https://www.nytimes.com/2025/09/30/dining/stephen-starr-restaurants.html",
+    "summary": "Stephen Starr has become one of America’s most successful restaurateurs, making and replicating dining magic at places like Pastis and Osteria Mozza."
   },
   {
     "title": "White House Withdraws Nomination of E.J. Antoni, Trump’s Pick to Lead BLS",
@@ -30,39 +55,24 @@
     "summary": "E.J. Antoni, a conservative economist, had faced bipartisan criticism as President Trump’s nominee to lead the Bureau of Labor Statistics."
   },
   {
-    "title": "Trump Administration Moves to Relax Rules on Hydrofluorocarbons",
-    "link": "https://www.nytimes.com/2025/09/30/climate/trump-hydrofluorocarbons-hfcs.html",
-    "summary": "The E.P.A. plan would allow grocery stores, air-conditioning manufacturers and others to phase out hydrofluorocarbons in cooling equipment more slowly."
+    "title": "Judge Disqualifies Nevada’s Acting U.S. Attorney From Handling Cases",
+    "link": "https://www.nytimes.com/2025/09/30/us/nevada-acting-us-attorney-chattah-disqualified.html",
+    "summary": "A federal judge said Sigal Chattah was not “validly serving as acting U.S. attorney.” The Trump administration had appointed her to the post in a way that circumvented federal procedures."
   },
   {
-    "title": "Trump Cuts to Counterterrorism Funds for New York Reach $187 Million",
-    "link": "https://www.nytimes.com/2025/09/30/nyregion/terrorism-funds-hochul-noem.html",
-    "summary": "Gov. Kathy Hochul of New York asked that the funding be restored, accusing the Trump administration of “walking away from the fight against terrorism.”"
+    "title": "Should the Autism Spectrum Be Split Apart?",
+    "link": "https://www.nytimes.com/2025/10/01/health/autism-spectrum-neurodiversity-kennedy.html",
+    "summary": "Families of people with severe autism say the repeated expansion of the diagnosis pushed them to the sidelines. A new focus on the disorder has opened the way for them to argue their cause."
   },
   {
-    "title": "Judge Rules Trump Unlawfully Targeted Noncitizens Over Pro-Palestinian Speech",
-    "link": "https://www.nytimes.com/2025/09/30/us/politics/student-speech-palestinians-ruling.html",
-    "summary": "In a blistering opinion, a federal judge in Boston said the Trump administration used the threat of deportations to systematically intimidate certain campus demonstrators into silence."
+    "title": "Did a Green Beret Unit Commit One of the Worst U.S. War Crimes in Decades?",
+    "link": "https://www.nytimes.com/2025/09/30/magazine/2012-green-beret-killings-nerkh-war-crimes.html",
+    "summary": "In 2012, after a team member was nearly killed, a Special Forces unit went on a rampage that might have been one of the worst war crimes in recent U.S. history."
   },
   {
-    "title": "In Unusual Move, Prosecutors Secure Federal Charges From Local Grand Jury",
-    "link": "https://www.nytimes.com/2025/09/30/us/politics/federal-charges-grand-jury-dc.html",
-    "summary": "A judge, Zia M. Faruqui, said that what appeared to be a kind of grand jury forum shopping seemed to have broken “decades-long norms and the rule of law.”"
-  },
-  {
-    "title": "Kimmel and Colbert, Joined in New York, Show a United Front",
-    "link": "https://www.nytimes.com/2025/09/30/business/media/kimmel-colbert-trump.html",
-    "summary": "The two late-night hosts shared stories on each other’s shows on Tuesday about their recent turmoil, and some criticism of President Trump."
-  },
-  {
-    "title": "After Vesuvius Buried Pompeii, Some Survivors Moved Back In",
-    "link": "https://www.nytimes.com/2025/09/30/science/archaeology-vesuvius-pompeii.html",
-    "summary": "As many as 30,000 Romans fled the ruined region in A.D. 79. But some returned, a new study reveals, and the city limped on as a fragile, ashen shantytown."
-  },
-  {
-    "title": "Release of Democrat’s Naval Record Scrambles a Tight Governor’s Race",
-    "link": "https://www.nytimes.com/2025/09/30/nyregion/nj-governors-race-naval-academy-cheating-scandal.html",
-    "summary": "In the New Jersey governor’s race, Mikie Sherrill, the Democrat, is locked in a bitter battle with Jack Ciattarelli, the Republican, over the release of records tied to her military service."
+    "title": "Inside the U.S. Special Forces: 5 Takeaways on a Culture of Lawlessness in Afghanistan",
+    "link": "https://www.nytimes.com/2025/09/30/magazine/afghanistan-war-green-berets-trump-hegseth.html",
+    "summary": "Until now, many of the troubling events that took place during the war in Afghanistan have been shrouded in secrecy."
   },
   {
     "title": "China Displays Its Gizmos and Ambition, but Fewer Answers on Trade",
@@ -70,54 +80,49 @@
     "summary": "The vast Global Digital Trade Expo in Hangzhou stood as a rebuke to U.S. efforts to hem in China’s technology. But the real competition is internal, and profits are hard to find."
   },
   {
-    "title": "Earthquake in Philippines Kills Dozens, Officials Say",
-    "link": "https://www.nytimes.com/2025/09/30/world/asia/philippines-earthquake-cebu.html",
-    "summary": "The 6.9-magnitude earthquake shook the province of Cebu, killing at least 53 people and injuring more than 150. Heavy rainfall has hampered rescue efforts."
+    "title": "The Race to Figure Out Why More Young People Are Getting Cancer",
+    "link": "https://www.nytimes.com/2025/10/01/well/cancer-young-people.html",
+    "summary": "In the last decade, more than a dozen types of cancer have risen among people under 50. Scientists don’t have all of the answers, but research is starting to offer clues."
   },
   {
-    "title": "Uber Not Responsible for Sex Assault, Jury Finds, as More Cases Follow",
-    "link": "https://www.nytimes.com/2025/09/30/technology/uber-sexual-assualt-bellwether-lawsuit.html",
-    "summary": "The company is facing similar lawsuits in federal and state courts from people who claim their drivers sexually assaulted or harassed them."
+    "title": "Tell us about your experience with early-onset cancer.",
+    "link": "https://www.nytimes.com/2025/10/01/well/tell-us-about-your-experience-with-early-onset-cancer.html",
+    "summary": "We want to hear your stories of living with cancer as a younger adult."
   },
   {
-    "title": "Trump Says a Deal With Harvard Is Close",
-    "link": "https://www.nytimes.com/2025/09/30/us/trump-harvard-deal.html",
-    "summary": "The agreement, if finalized, would follow months of grappling over federal dollars as the Trump administration pressured the university in its broader push to reshape higher education."
+    "title": "What to Know Before Sean ‘Diddy’ Combs’s Sentencing",
+    "link": "https://www.nytimes.com/2025/10/01/arts/music/sean-combs-diddy-sentencing-to-what-know.html",
+    "summary": "The music mogul will be in court on Friday when a judge is scheduled to announce Mr. Combs’s penalty for convictions on two prostitution-related offenses."
   },
   {
-    "title": "Harvard Blasts Administration Over ‘Distorted’ Civil Rights Investigation",
-    "link": "https://www.nytimes.com/2025/09/30/us/politics/harvard-response-trump.html",
-    "summary": "The Sept. 19 letter came days before the Department of Health and Human Services started the process of cutting off federal funds to the university."
+    "title": "She Turned the World On With Her Smile. But Where Will the Hat Live?",
+    "link": "https://www.nytimes.com/2025/10/01/style/mary-tyler-moore-hat-clothes.html",
+    "summary": "Mary Tyler Moore’s piece of television history seeks a permanent home."
   },
   {
-    "title": "U.S. Eases Visa Restrictions on South Korean Workers",
-    "link": "https://www.nytimes.com/2025/10/01/world/asia/south-korea-georgia-factory-visa.html",
-    "summary": "The agreement came after an ICE raid on a factory in Georgia outraged one of America’s key allies."
+    "title": "The Real Stakes of the Shutdown",
+    "link": "https://www.nytimes.com/2025/10/01/opinion/government-shutdown-health-care-democrats.html",
+    "summary": "President Trump is seeking to deprive millions of Americans of their health insurance. Senate Democrats are refusing to acquiesce."
   },
   {
-    "title": "Scores Accused of Immigration Fraud in Federal Sweep in Minnesota",
-    "link": "https://www.nytimes.com/2025/09/30/us/politics/immigration-fraud-minnesota.html",
-    "summary": "The investigation is the “first of many” targeted at U.S. cities, said Joseph B. Edlow, the director of U.S.C.I.S."
+    "title": "Is James Talarico the Answer to Democratic Prayers?",
+    "link": "https://www.nytimes.com/2025/10/01/opinion/james-talarico-religious-left.html",
+    "summary": "James Talarico sees a spiritual void at the center of our society."
   },
   {
-    "title": "Journalist Injured in Chaotic Scene at New York Immigration Court",
-    "link": "https://www.nytimes.com/2025/09/30/nyregion/journalist-injured-immigration-courthouse.html",
-    "summary": "A Turkish journalist was taken away on a stretcher and taken to the hospital after U.S. agents shoved another journalist."
+    "title": "The Federal Government Shut Down Overnight",
+    "link": "https://www.nytimes.com/2025/10/01/briefing/the-federal-government-shut-down-overnight.html",
+    "summary": "We also look at a gathering of generals in Washington."
   },
   {
-    "title": "The Looming Shutdown Is About Obamacare",
-    "link": "https://www.nytimes.com/2025/09/30/opinion/government-shutdown-republican-obamacare.html",
-    "summary": "What the looming shutdown is really about: Republicans trying to repeal Obamacare."
+    "title": "Ronny Chieng Shades Pete Hegseth’s Military Address",
+    "link": "https://www.nytimes.com/2025/10/01/arts/television/ronny-chieng-pete-hegseth-military-late-night.html",
+    "summary": "“Listen, we all do weird things when we’re drunk, OK?\" Chieng said. “Some of us slide into an ex’s DMs, and some of us call every U.S. general to a meeting at Quantico.”"
   },
   {
-    "title": "The U.S. Has Placed Palestinian Rights Under Assault",
-    "link": "https://www.nytimes.com/2025/10/01/opinion/human-rights-palestinians-international-criminal-court.html",
-    "summary": "Sanctions on small human rights groups are the latest Trump attack on global efforts to protect civil liberties."
-  },
-  {
-    "title": "The Activists and the Anime",
-    "link": "https://www.nytimes.com/2025/09/30/world/anime-protests-flag-moldova-nepal-indonesia-gaza.html",
-    "summary": "We take a closer look at Gen Z protests raging against the political establishment, from Nepal to Madagascar."
+    "title": "Oktoberfest Closed Because of Bomb Threat in Munich",
+    "link": "https://www.nytimes.com/2025/10/01/world/europe/oktoberfest-munich-bomb-threat-explosion.html",
+    "summary": "The German authorities said the rare decision was taken after an earlier explosion in a residential area of the city."
   },
   {
     "title": "Can This Japanese City Make Residents Put Down Their Smartphones?",
@@ -125,18 +130,13 @@
     "summary": "The authorities in Toyoake, Japan, introduced a rule limiting the use of digital devices to two hours per day outside of work and school. Some residents say it is an overreach."
   },
   {
-    "title": "Long Covid Risk for Children Doubles After a Second Infection, Study Finds",
-    "link": "https://www.nytimes.com/2025/09/30/health/long-covid-children.html",
-    "summary": "The new research provides evidence that Covid reinfections can increase the risk of long-term health consequences."
+    "title": "Kimmel and Colbert, Joined in New York, Show a United Front",
+    "link": "https://www.nytimes.com/2025/09/30/business/media/kimmel-colbert-trump.html",
+    "summary": "The two late-night hosts shared stories on each other’s shows on Tuesday about their recent turmoil, and some criticism of President Trump."
   },
   {
-    "title": "Nicole Kidman Files for Divorce From Keith Urban After Nearly 20 Years",
-    "link": "https://www.nytimes.com/2025/09/30/arts/nicole-kidman-keith-urban-divorce.html",
-    "summary": "The couple married in Australia in 2006. Their breakup surprised many fans."
-  },
-  {
-    "title": "Marilyn Knowlden, Child Actress of 1930s Hollywood, Dies at 99",
-    "link": "https://www.nytimes.com/2025/09/30/movies/marilyn-knowlden-dead.html",
-    "summary": "A spontaneous screen test led to a career that lasted into her teens. She appeared alongside stars like Bette Davis and Katharine Hepburn, played piano with Chico Marx and danced with Charles Laughton."
+    "title": "Earthquake in Philippines Kills Dozens, Officials Say",
+    "link": "https://www.nytimes.com/2025/09/30/world/asia/philippines-earthquake-cebu.html",
+    "summary": "The 6.9-magnitude earthquake shook the province of Cebu, killing at least 69 people and injuring more than 150. Heavy rainfall has hampered rescue efforts."
   }
 ]

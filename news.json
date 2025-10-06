@@ -1,8 +1,13 @@
 [
   {
-    "title": "Amid the Gaza War, Israel Is More Divided and Isolated Than Ever",
-    "link": "https://www.nytimes.com/2025/10/05/world/middleeast/israel-challenges-gaza-war.html",
-    "summary": "The longest war of an endless Israeli-Palestinian conflict has come to challenge Israel’s own image and understanding of itself."
+    "title": "Pritzker Says Federal Agents Are Trying to Make Chicago a ‘War Zone’",
+    "link": "https://www.nytimes.com/2025/10/05/us/politics/pritzker-chicago-immigration.html",
+    "summary": "Gov. JB Pritzker of Illinois said he had ordered state agencies to investigate a raid on a Chicago apartment building where there had been reports of  “nearly naked” children zip-tied by federal officers."
+  },
+  {
+    "title": "2 Motorists Charged in Chicago, Including One Shot by Federal Agent",
+    "link": "https://www.nytimes.com/2025/10/05/us/politics/chicago-motorists-charged-border-patrol.html",
+    "summary": "The account in the federal criminal complaint, which differs significantly from an earlier homeland security statement, says the motorists rammed officers’ vehicle and that an agent shot one when she drove her car at him."
   },
   {
     "title": "Strong-Armed by Trump, Netanyahu Embraces Gaza Deal as a Personal Win",
@@ -12,37 +17,12 @@
   {
     "title": "Rubio Says U.S. Wants Quick Deal to Bring Gaza Hostages Home",
     "link": "https://www.nytimes.com/2025/10/05/world/middleeast/trump-israel-hamas-gaza.html",
-    "summary": "Secretary of State Marco Rubio said talks on a U.S. plan to end the Gaza war are focused now on a hostage release in exchange for an Israeli withdrawal from parts of Gaza. Difficult issues will be left for later, he said."
+    "summary": "Secretary of State Marco Rubio said talks on a U.S. plan to end the Gaza war are focused now on hostages, with other difficult issues to be left for later, he said."
   },
   {
-    "title": "Both Parties Are Resigned to Deadlock as Government Shutdown Takes Hold",
-    "link": "https://www.nytimes.com/2025/10/05/us/politics/parties-deadlock-shutdown.html",
-    "summary": "Republicans, who hold a governing trifecta, have adopted a mostly passive stance while Democrats dig in for a fight, with both feeling they have the political upper hand."
-  },
-  {
-    "title": "Not All National Parks Remain Open in the Shutdown. Here’s What to Know.",
-    "link": "https://www.nytimes.com/2025/10/05/us/shutdown-national-parks.html",
-    "summary": "Some underground attractions are closed, and many outdoor sites have reduced their services."
-  },
-  {
-    "title": "Push for Military Coverage of I.V.F. Faces Challenge in Congress",
-    "link": "https://www.nytimes.com/2025/10/05/us/politics/military-ivf-congress.html",
-    "summary": "A proposal to expand the Defense Department’s health care plan to include in vitro fertilization is moving through Congress but could die behind closed doors, again."
-  },
-  {
-    "title": "Can Conversion Therapy Be Banned? Supreme Court Will Decide on Colorado Law.",
-    "link": "https://www.nytimes.com/2025/10/05/us/politics/supreme-court-conversion-therapy.html",
-    "summary": "Colorado and more than 20 other states restrict therapists from trying to change the gender identity or sexual orientation of clients under age 18."
-  },
-  {
-    "title": "A Pacific Gateway Shows the Kremlin’s Grip on Russia’s Vast Expanse",
-    "link": "https://www.nytimes.com/2025/10/05/world/europe/vladivostok-moscow-kremlin-rule.html",
-    "summary": "In a country where power is highly centralized, Moscow sets the tone for Vladivostok, 4,000 miles away, complicating longstanding ambitions to make it a trading powerhouse."
-  },
-  {
-    "title": "Russia Targets Ukraine’s Energy Infrastructure With Deadly Bombardment",
-    "link": "https://www.nytimes.com/2025/10/05/world/europe/russia-ukraine-strikes-energy-lviv.html",
-    "summary": "At least five people were killed before dawn in another large-scale and wide-ranging assault."
+    "title": "Ian Roberts, Des Moines Superintendent, Had a Story Too Good to Be True",
+    "link": "https://www.nytimes.com/2025/10/05/us/des-moines-iowa-superintendent-ian-roberts-immigration-ice.html",
+    "summary": "Ian Roberts rose through the ranks of American education with talent, charm and a riveting back story. He was also hiding a shocking secret."
   },
   {
     "title": "Craft Breweries Struggle as Sales and Appetites Wane",
@@ -50,33 +30,48 @@
     "summary": "Once the darling of the alcohol industry, small-batch beer makers are shutting down because of increased competition and flagging interest."
   },
   {
+    "title": "A Chilling New Tactic in Nicaragua: Arrest, Then Silence",
+    "link": "https://www.nytimes.com/2025/10/05/us/nicaragua-people-disappearing.html",
+    "summary": "Nicaragua’s authoritarian government has begun holding dissidents without revealing their whereabouts or acknowledging their detention. Two have turned up dead."
+  },
+  {
+    "title": "In Central Park, Pedestrians, Horses and E-Bikes Battle for Space",
+    "link": "https://www.nytimes.com/2025/10/04/nyregion/central-park-e-bikes-walking.html",
+    "summary": "Critics say the park’s drives have become increasingly chaotic as e-bike riders move through at high speeds."
+  },
+  {
+    "title": "Is Sports Betting Illegal in Your State? Not if You Call It a ‘Prediction Market.’",
+    "link": "https://www.nytimes.com/2025/10/05/upshot/sports-betting-prediction-markets.html",
+    "summary": "Prediction markets like Kalshi, once known for offering wagers on elections, are now in the multibillion-dollar sports betting business and outside the reach of state regulations and taxes."
+  },
+  {
+    "title": "Tony Shalhoub Stars in New Travel Show ‘Breaking Bread’",
+    "link": "https://www.nytimes.com/2025/09/30/dining/tony-shalhoub-breaking-bread-cnn.html",
+    "summary": "The “Monk” and “Marvelous Mrs. Maisel” star joins the food-centric travel TV circuit with his new show, “Breaking Bread.”"
+  },
+  {
     "title": "This Crazy Crypto Heist Is the Story of Our Time",
     "link": "https://www.nytimes.com/2025/10/05/opinion/bitcoin-georgia-ivanishvili-bachiashvili.html",
     "summary": "The souring of the relationship between Georgia’s billionaire master and his former aide is a cautionary tale."
   },
   {
-    "title": "The West Is Defined by Loss",
-    "link": "https://www.nytimes.com/2025/10/05/opinion/west-europe-america-lost.html",
-    "summary": "Loss has become a pervasive condition of life in Europe and America."
+    "title": "G.O.P. to Gen Z: Pay Double for Health Insurance or Go Without",
+    "link": "https://www.nytimes.com/2025/10/05/opinion/shutdown-health-care-republicans-young.html",
+    "summary": "If Democrats don’t win the shutdown fight, millions of young Americans may lose coverage because of higher prices."
   },
   {
-    "title": "Donald Trump, the Sports Fan",
-    "link": "https://www.nytimes.com/2025/10/05/world/hostage-deal-israel-hamas-portland-syria.html",
-    "summary": "Today, we take a look at the president’s sports fandom and what it reveals about his worldview."
+    "title": "Why Brittle Bones Aren’t Just a Woman’s Problem",
+    "link": "https://www.nytimes.com/2025/10/04/health/osteoporosis-men.html",
+    "summary": "More men are now living long enough to develop osteoporosis. But few are aware of the risk, and fewer still are screened and treated."
   },
   {
-    "title": "Canada Post Strike Poses Challenges for Remote Communities",
-    "link": "https://www.nytimes.com/2025/10/04/world/canada/canada-post-strike-fort-simpson.html",
-    "summary": "A strike, and growing prospects of drastic cuts to the state-owned postal service, make life very hard for Canada’s remote communities."
+    "title": "Deputy Charged With Murder Knelt on Inmate’s Back, Affidavit Says",
+    "link": "https://www.nytimes.com/2025/10/05/us/inmate-murder-kansas-adair-fatherley.html",
+    "summary": "A recently released affidavit relates new details about the July death in a Kansas jail of a man with medical problems who was handcuffed and face down on a bunk."
   },
   {
-    "title": "Leader of U.K. Conservatives Vows to Deport 150,000 People a Year",
-    "link": "https://www.nytimes.com/2025/10/05/world/europe/kemi-badenoch-uk-conservative-party-deportations.html",
-    "summary": "Kemi Badenoch, whose party is sinking in polls, outlined plans resembling Trump policies against those accused of being in the United States illegally."
-  },
-  {
-    "title": "New York City Is Full of Green Space. You Just Have to Find It.",
-    "link": "https://www.nytimes.com/2025/10/05/nyregion/new-york-city-green-space.html",
-    "summary": "The city’s millions of residents are crammed together, competing for space to live, play, work and rest."
+    "title": "Costco to Sell Ozempic and Wegovy, Weight-Loss Wonder Drugs",
+    "link": "https://www.nytimes.com/2025/10/05/health/ozempic-wegovy-costco.html",
+    "summary": "Costco members will pay $499 a month out of pocket, the same price offered at CVS and Walmart, and on the manufacturer’s direct-to-consumer website."
   }
 ]

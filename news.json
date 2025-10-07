@@ -1,48 +1,13 @@
 [
   {
-    "title": "Trump to Unveil Farmer Aid as China Shuns U.S. Crops",
-    "link": "https://www.nytimes.com/2025/10/07/us/politics/trump-farmers-aid-china-trade-war.html",
-    "summary": "As it did in 2018, the White House plans to dole out relief funds to struggling U.S. farmers who have lost their biggest customer."
-  },
-  {
-    "title": "In 2020, Trump Intervened in Portland’s Protests. They Got Even Worse.",
-    "link": "https://www.nytimes.com/2025/10/07/us/politics/portland-trump.html",
-    "summary": "Here are five lessons for cities in the president’s sights, like Chicago and Memphis, drawn from the one city targeted by Mr. Trump in his first term, Portland, Ore."
-  },
-  {
-    "title": "Trump Considers Insurrection Act, and Flights Slow During Government Shutdown",
-    "link": "https://www.nytimes.com/2025/10/07/podcasts/the-headlines/trump-insurrection-act-flights-delayed-government-shutdown.html",
-    "summary": "Plus, a new way to fight robocalls."
-  },
-  {
-    "title": "Israel Marks Two-Year Anniversary of Oct. 7 in Subdued Fashion",
-    "link": "https://www.nytimes.com/2025/10/07/world/middleeast/october-7-anniversary-israel.html",
-    "summary": "The second anniversary of the Oct. 7 attacks comes with peace talks underway, but with hostages still in Gaza, more than 67,000 Palestinians dead and Israel more isolated than ever before."
-  },
-  {
-    "title": "A Former Israeli Hostage Is Freed From Hamas, but Not Captivity",
-    "link": "https://www.nytimes.com/2025/10/06/world/middleeast/emily-damari-hostage-israel.html",
-    "summary": "In the tunnels of Gaza where she was held captive, Emily Damari learned how to survive. These photos show her learning to be alive again."
-  },
-  {
-    "title": "Supreme Court Hears Free Speech Challenge to Ban on Conversion Therapy",
-    "link": "https://www.nytimes.com/2025/10/07/us/politics/supreme-court-colorado-conversion-therapy.html",
-    "summary": "The court’s ruling in the Colorado case will have implications for more than 20 other states with similar laws."
-  },
-  {
     "title": "A Debate Over ‘Conversion Therapy,’ Once Widely Condemned, Is Back",
     "link": "https://www.nytimes.com/2025/10/07/us/conversion-therapy-transgender.html",
     "summary": "As more young people identify as transgender, a fight has re-emerged over therapy that questions their gender identities."
   },
   {
-    "title": "Supreme Court, for Now, Rejects Google Bid to Block Changes to App Store",
-    "link": "https://www.nytimes.com/2025/10/06/us/politics/supreme-court-google-fortnite.html",
-    "summary": "The emergency order is the latest turn in a longstanding legal dispute between the tech giant and the creator of the popular game Fortnite."
-  },
-  {
-    "title": "Shutdown Politics Has Republicans Singing Government’s Praises",
-    "link": "https://www.nytimes.com/2025/10/06/us/politics/shutdown-republicans-trump-government.html",
-    "summary": "As Republicans try to pin blame for shutdown damage on Democrats, they are hailing a federal bureaucracy they normally bash as wasteful and overreaching."
+    "title": "White House May Try to Deny Back Pay to Furloughed Federal Workers",
+    "link": "https://www.nytimes.com/2025/10/07/us/politics/trump-back-pay-furloughed-workers-shutdown.html",
+    "summary": "Union leaders and Democratic lawmakers say the move would run afoul of a law adopted under President Trump’s first term."
   },
   {
     "title": "Flight Delays Begin as Air Traffic Staffing Shortages Worsen",
@@ -50,19 +15,74 @@
     "summary": "The delays came just hours after the transportation secretary warned that flying could be disrupted by the government shutdown."
   },
   {
+    "title": "Israel Marks Two-Year Anniversary of Oct. 7 in Subdued Fashion",
+    "link": "https://www.nytimes.com/2025/10/07/world/middleeast/october-7-anniversary-israel.html",
+    "summary": "The somber milestone comes with peace talks underway, hostages from the Hamas-led attack still in Gaza, more than 67,000 Palestinians dead and Israel more isolated than ever."
+  },
+  {
+    "title": "Witkoff and Kushner Expected to Join Israel-Hamas Talks",
+    "link": "https://www.nytimes.com/2025/10/07/world/middleeast/trump-witkoff-kushner-israel-hamas-talks.html",
+    "summary": "Steve Witkoff and Jared Kushner, both architects of President Trump’s plan to end the war, are expected to join mediation efforts between Israel and Hamas."
+  },
+  {
+    "title": "In 2020, Trump Intervened in Portland’s Protests. They Got Even Worse",
+    "link": "https://www.nytimes.com/2025/10/07/us/politics/portland-trump.html",
+    "summary": "Here are five lessons for cities in the president’s sights, like Chicago and Memphis, drawn from the one city targeted by Mr. Trump in his first term, Portland, Ore."
+  },
+  {
+    "title": "Trump Said He Could Invoke the Insurrection Act to Deploy Troops. Here’s What to Know.",
+    "link": "https://www.nytimes.com/2025/10/06/us/trump-insurrection-act-national-guard.html",
+    "summary": "The president said he would invoke emergency powers to deploy the National Guard if “people were being killed, and courts were holding us up.”"
+  },
+  {
+    "title": "Klarna, Affirm, Afterpay: How ‘Buy Now Pay Later’ Built a New Culture of Consumption",
+    "link": "https://www.nytimes.com/2025/10/07/magazine/buy-now-pay-later-klarna-affirm-shopping.html",
+    "summary": "‘Buy Now, Pay Later’ has built a delirious new culture of consumption — and trapped users in a vortex of debt."
+  },
+  {
+    "title": "EU Proposes 50% Steel Tariffs, a Move to Counter Chinese Imports",
+    "link": "https://www.nytimes.com/2025/10/07/business/eu-steel-tariffs-quotas.html",
+    "summary": "European officials want to sharply lower the bloc’s quota on tariff-free steel imports, while doubling levies to 50 percent, as President Trump’s tariffs create domino effects."
+  },
+  {
+    "title": "Trump to Unveil Farmer Aid as China Shuns U.S. Crops",
+    "link": "https://www.nytimes.com/2025/10/07/us/politics/trump-farmers-aid-china-trade-war.html",
+    "summary": "As it did in 2018, the White House plans to dole out relief funds to struggling U.S. farmers who have lost their biggest customer."
+  },
+  {
+    "title": "Gold Price Hits $4,000 an Ounce, a Sign of Turmoil and Unease",
+    "link": "https://www.nytimes.com/2025/10/06/business/gold-price-us-economy.html",
+    "summary": "The precious metal is on course for its best year since the 1970s, underscoring unease in financial markets."
+  },
+  {
+    "title": "Global Trade Growth to Slow Sharply Next Year, W.T.O. Says",
+    "link": "https://www.nytimes.com/2025/10/07/business/economy/global-trade-growth-wto.html",
+    "summary": "The World Trade Organization said trade growth had proved more resilient in 2025 than expected, but would slow next year as result of President Trump’s tariffs."
+  },
+  {
+    "title": "Parents Struggle to Find Covid Vaccines for Their Children Amid Regulatory Confusion",
+    "link": "https://www.nytimes.com/2025/10/07/well/covid-vaccine-children-parents-issues-rfk-jr.html",
+    "summary": "Children under 12 need different versions of Covid vaccines, but many pharmacies and pediatricians’ offices aren’t stocking them."
+  },
+  {
+    "title": "Taking Too Much Tylenol Has Proven Risks. Trump Didn’t Talk About Those.",
+    "link": "https://www.nytimes.com/2025/10/07/health/tylenol-acetominophen-liver-damage-kenvue.html",
+    "summary": "Acetaminophen’s link to autism is unproven. But hundreds of Americans accidentally overdose on the drug each year, suffering liver damage that can require a transplant or even be fatal."
+  },
+  {
+    "title": "Saul Zabar, Smoked Fish Czar of Upper West Side, Dies at 97",
+    "link": "https://www.nytimes.com/2025/10/07/dining/saul-zabar-dead.html",
+    "summary": "He led his parents’ appetizing store, Zabar’s, for more than 70 years, turning it into an institution synonymous with New York."
+  },
+  {
     "title": "With Sébastien Lecornu’s Resignation, France Faces Increasing Turmoil",
     "link": "https://www.nytimes.com/2025/10/07/world/europe/france-government-turmoil-sebastien-lecornu.html",
     "summary": "The record-fast collapse of yet another government confronts President Emmanuel Macron and his country with an intensifying crisis."
   },
   {
-    "title": "France’s Government Is Gone (Again). What Comes Next?",
-    "link": "https://www.nytimes.com/2025/09/09/world/europe/france-government-what-next.html",
-    "summary": "President Emmanuel Macron could appoint a new prime minister. But he is under increasing pressure to call new parliamentary elections."
-  },
-  {
     "title": "Nobel Prize in Physics Is Awarded for Work in Quantum Mechanics",
     "link": "https://www.nytimes.com/2025/10/07/science/nobel-prize-physics.html",
-    "summary": "The prize was awarded to John Clarke, Michel H. Devoret and John M. Martinis."
+    "summary": "John Clarke, Michel H. Devoret and John M. Martinis were recognized for work that made behaviors of the subatomic realm observable at a larger scale."
   },
   {
     "title": "Winning a Nobel Prize Interrupted His Off-the-Grid Vacation",
@@ -70,34 +90,14 @@
     "summary": "Fred Ramsdell found out about his Nobel Prize nearly 12 hours after it was announced because he was on vacation in the Rockies."
   },
   {
-    "title": "Nobel Prizes 2025: What to Know",
-    "link": "https://www.nytimes.com/2025/10/06/world/europe/nobel-prize.html",
-    "summary": "The awards are being announced this week."
-  },
-  {
-    "title": "Is Adams’s Exit a Game-Changer for Cuomo? Not So Far.",
-    "link": "https://www.nytimes.com/2025/10/07/nyregion/cuomo-campaign-mayor.html",
-    "summary": "There has been little evidence that Mayor Eric Adams’s decision to end his re-election bid has had a major effect on Andrew Cuomo’s bid to attract donors or voters."
-  },
-  {
-    "title": "Where in the World Is Eric Adams? Try Albania.",
-    "link": "https://www.nytimes.com/2025/10/06/nyregion/eric-adams-albania.html",
-    "summary": "The decision by Mr. Adams, a lame-duck mayor, to spend nearly a week of his remaining time in office visiting the Balkan nation raised eyebrows back in New York."
-  },
-  {
-    "title": "In a Toxic World, Pets Could Be Vital Health Watchdogs",
-    "link": "https://www.nytimes.com/2025/10/07/science/pets-health-pollution.html",
-    "summary": "A better understanding of how pollution affects pets could benefit humans and animals alike."
-  },
-  {
-    "title": "How to Protect Your Pets From Pollution",
-    "link": "https://www.nytimes.com/2025/10/07/science/pets-health-pollution-tips.html",
-    "summary": "Wildfire smoke, lead paint and other environmental toxins are health hazards for animals, too."
-  },
-  {
     "title": "Recruiters Use A.I. to Scan Résumés. Applicants Are Trying to Trick It.",
     "link": "https://www.nytimes.com/2025/10/07/business/ai-chatbot-prompts-resumes.html",
     "summary": "In an escalating cat-and-mouse game, job hunters are trying to fool A.I. into moving their applications to the top of the pile with embedded instructions."
+  },
+  {
+    "title": "Is A.I. Investment Getting Too Circular?",
+    "link": "https://www.nytimes.com/2025/10/07/business/dealbook/openai-nvidia-amd-investments-circular.html",
+    "summary": "Skeptics of a recent investment spree involving OpenAI and others say deals raise questions about the robustness of the artificial intelligence boom."
   },
   {
     "title": "He Was Expected to Get Alzheimer’s 25 Years Ago. Why Hasn’t He?",
@@ -105,14 +105,14 @@
     "summary": "Scientists are searching for the secret in Doug Whitney’s biology that has protected him from dementia, hoping it could lead to ways to treat or prevent Alzheimer’s for many other people."
   },
   {
-    "title": "Lessons From a Long War",
-    "link": "https://www.nytimes.com/2025/10/07/opinion/lessons-from-a-long-war.html",
-    "summary": "The only viable path to a Palestinian state is an end to the fantasy of Israel’s destruction."
+    "title": "That Hegseth Speech on D.E.I. in the Military Was Actually Pretty Good",
+    "link": "https://www.nytimes.com/2025/10/07/opinion/pete-hegseth-speech-dei.html",
+    "summary": "Despite some rude provocations, he outlined a nuanced vision of the military."
   },
   {
-    "title": "No, Trump Can’t Order Troops to Wherever He Wants",
-    "link": "https://www.nytimes.com/2025/10/07/opinion/trump-national-guard-cities.html",
-    "summary": "The president’s claims about cities don’t hold up."
+    "title": "Mamdani’s Charm Offensive and Crash Course in How to Govern",
+    "link": "https://www.nytimes.com/2025/10/07/opinion/zohran-mamdani-govern-mayor.html",
+    "summary": "Being mayor of New York City is one of the toughest jobs in politics. One glimpse of how Zohran Mamdani may seek to do it is whom he’s talking to."
   },
   {
     "title": "President Trump and the Military",
@@ -120,28 +120,23 @@
     "summary": "Today, we look at how Trump melds his politics with his role as head of the armed forces."
   },
   {
-    "title": "Jimmy Kimmel Says His Numbers Are Better Than Trump’s",
-    "link": "https://www.nytimes.com/2025/10/07/arts/television/jimmy-kimmel-trump-poll.html",
-    "summary": "Kimmel is keeping the results of a new poll in perspective: “At this point, finding a toenail in your salad has a seven-point lead over Donald Trump.”"
+    "title": "200 Animals and a 95-Year-Old Are Found Inside a Squalid Suburban Home",
+    "link": "https://www.nytimes.com/2025/10/07/nyregion/long-island-animal-hoarding-charges.html",
+    "summary": "The woman was confined to her room by clutter, and a Long Island wildlife rehabilitator faces charges. The authorities found everything from cats to voles, many of them in dire conditions."
   },
   {
-    "title": "In Tennessee Special Election, a Crowded Field for an Open Congressional Seat",
-    "link": "https://www.nytimes.com/2025/10/07/us/politics/in-tennessee-special-election-a-crowded-field-for-an-open-congressional-seat.html",
-    "summary": "More than a dozen candidates are vying to represent the state’s Seventh Congressional District, which includes part of Nashville but was redrawn to favor Republicans."
+    "title": "Deadly Clashes Erupt Between Syrian Government Forces and Kurdish Fighters",
+    "link": "https://www.nytimes.com/2025/10/07/world/middleeast/syria-sdf-clashes.html",
+    "summary": "Tensions have been building over government attempts to bring the Kurdish-led region in northeastern Syria under its authority. Kurdish leaders have so far resisted."
   },
   {
-    "title": "France’s Energy Giant Sees Opportunity in the Volatile Electricity Market",
-    "link": "https://www.nytimes.com/2025/10/07/business/totalenergies-investing-in-electricity.html",
-    "summary": "Hoping to help grid operators adapt to changes buffeting the power markets, TotalEnergies is assembling a portfolio of battery farms and natural-gas-fired power plants."
+    "title": "Eric Adams’s Exit From the NYC Mayoral Race Isn’t Having a Major Effect on Cuomo’s Bid So Far",
+    "link": "https://www.nytimes.com/2025/10/07/nyregion/cuomo-campaign-mayor.html",
+    "summary": "There has been little evidence that Mayor Eric Adams’s decision to end his re-election bid has had a major effect on Andrew Cuomo’s bid to attract donors or voters."
   },
   {
-    "title": "Ken Jacobs, Visionary Experimental Filmmaker, Is Dead at 92",
-    "link": "https://www.nytimes.com/2025/10/06/movies/ken-jacobs-dead.html",
-    "summary": "Using found footage and toying with dimensions (2-D could seem like dazzling 3-D), he sought to explode cinema’s traditional boundaries."
-  },
-  {
-    "title": "Can Sweet Songs Prevail Over Bloody Ones? Mexico Is Giving It a Try.",
-    "link": "https://www.nytimes.com/2025/10/06/world/americas/mexico-canta-cartel-violence-music.html",
-    "summary": "On Sunday, three contestants were crowned winners of the inaugural, government-run “Mexico Sings” competition, meant to promote songs that aren’t about drug cartels or violence."
+    "title": "2025 National Book Award Finalists Are Announced",
+    "link": "https://www.nytimes.com/2025/10/07/books/2025-national-book-award-finalists.html",
+    "summary": "Novels by Karen Russell and Bryan Washington are among those vying for the award in fiction, while books about Gaza, foster care and women in Russia are up for the nonfiction prize."
   }
 ]

@@ -1,23 +1,38 @@
 [
   {
+    "title": "How Jared Kushner, a Self-Described ‘Deal Guy,’ Helped Broker a Gaza Breakthrough",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/jared-kushner-gaza-deal.html",
+    "summary": "Trained in New York City real estate, the president’s son-in-law had a single goal: Get to a yes first, and hash out the details later. “It’s just different being deal guys — just a different sport,” he said."
+  },
+  {
     "title": "Who Are the Hostages Believed Alive in Gaza?",
     "link": "https://www.nytimes.com/2025/10/09/world/middleeast/hostages-profiles.html",
     "summary": "Israel says 20 living hostages are held by Hamas, set for release in a prisoner exchange together with the remains of those who died. Here’s what we know about them."
   },
   {
-    "title": "JB Pritzker Has Had It With Democrats Who Won’t Stand Up to Trump",
-    "link": "https://www.nytimes.com/2025/10/08/us/politics/pritzker-trump-national-guard-chicago.html",
-    "summary": "The Illinois governor, a potential presidential candidate, is fighting the presence of National Guard troops and the activities of ICE agents in Chicago."
+    "title": "Trump Has His Eyes on a Nobel Peace Prize. Will He Get It?",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/trump-nobel-peace-prize.html",
+    "summary": "President Trump has coveted the prize for years. The winner will be unveiled 48 hours after President Trump announced a breakthrough in the Israel-Hamas war."
   },
   {
-    "title": "Oklahoma’s Republican Governor Criticizes National Guard Deployment in Chicago",
-    "link": "https://www.nytimes.com/2025/10/09/us/politics/oklahoma-governor-national-guard.html",
-    "summary": "Gov. Kevin Stitt, the current chairman of the National Governors Association, broke with Texas, saying, “Oklahomans would lose their mind” if Illinois sent troops to their red state."
+    "title": "Big Investors Await Windfall From Trump’s Argentina Bailout",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/argentina-bailout-investors.html",
+    "summary": "The United States finalized a $20 billion lifeline for Argentina that will benefit Treasury Secretary Scott Bessent’s allies."
   },
   {
-    "title": "Trump Fires Black Officials From an Overwhelmingly White Administration",
-    "link": "https://www.nytimes.com/2025/10/08/us/politics/black-leaders-trump.html",
-    "summary": "Separately, in the administration’s first 200 days, only two of 98 Senate-confirmed appointees to the most senior jobs in government were Black."
+    "title": "Trump Baselessly Claims He ‘Took the Freedom of Speech Away’ From Flag Burners",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/trump-freedom-of-speech-flag-burning.html",
+    "summary": "The president said he had made flag burning a crime punishable by a year in prison. But such a claim contradicts both Supreme Court precedent and the text of an executive order he signed."
+  },
+  {
+    "title": "Democratic Alarm Over an Unbound Trump Fuels Shutdown Standoff",
+    "link": "https://www.nytimes.com/2025/10/09/us/politics/democrats-shutdown-trump-administration.html",
+    "summary": "The threat of rising Obamacare premiums has been Democrats’ main focus in the public debate, but the president’s defiance of laws, norms and congressional constraints has helped hold them together in opposition."
+  },
+  {
+    "title": "Government Shutdown Scrambles Some Home Sales in Flood Zones",
+    "link": "https://www.nytimes.com/2025/10/09/realestate/flood-insurance-government-shutdown.html",
+    "summary": "When the government shut down, so did the federal flood insurance program, forcing some buyers into the costly private market."
   },
   {
     "title": "Who Can Afford Three Kids in New York City?",
@@ -30,14 +45,19 @@
     "summary": "After a TikTok video of a woman charging to “car sit” gained attention, New Yorkers were reminded that the price of street parking is rarely paid at a meter."
   },
   {
-    "title": "Laszlo Krasznahorkai Is Awarded Nobel Prize in Literature",
-    "link": "https://www.nytimes.com/2025/10/09/books/laszlo-krasznahorkai-nobel-prize-in-literature.html",
-    "summary": "​The prize committee said the Hungarian writer’s work “reaffirms the power of art.”"
+    "title": "Mamdani Maintains 13-Point Lead as Cuomo Gains Ground After Adams’s Exit",
+    "link": "https://www.nytimes.com/2025/10/09/nyregion/mayor-poll-nyc-quinnipiac.html",
+    "summary": "While former Gov. Andrew M. Cuomo benefited from Mayor Eric Adams’s departure, Zohran Mamdani still enjoyed a sizable lead in the Quinnipiac University poll."
   },
   {
-    "title": "Government Shutdown Scrambles Some Home Sales in Flood Zones",
-    "link": "https://www.nytimes.com/2025/10/09/realestate/flood-insurance-government-shutdown.html",
-    "summary": "When the government shut down, so did the federal flood insurance program, forcing some buyers into the costly private market."
+    "title": "A Mystery C.E.O. and Billions in Sales: Is China Buying Banned Nvidia Chips?",
+    "link": "https://www.nytimes.com/2025/10/09/technology/nvidia-chips-china-megaspeed.html",
+    "summary": "An executive of a Singaporean firm called Megaspeed socialized with Nvidia’s Jensen Huang. Now the company is being scrutinized by U.S. officials for its ties to China."
+  },
+  {
+    "title": "Intel’s Big Bet: Inside the Chipmaker’s Make-or-Break Factory",
+    "link": "https://www.nytimes.com/2025/10/09/technology/intel-chip-factory-fab52.html",
+    "summary": "The centerpiece of the company’s comeback hopes is a multibillion-dollar facility in the Arizona desert. Will it draw new customers?"
   },
   {
     "title": "Thomas Pynchon Saw Where We Were Headed. How Does “Shadow Ticket” Hold Up?",
@@ -45,14 +65,14 @@
     "summary": "The novelist anticipated our bizarre present. How does his latest book hold up in an age of eroding reality?"
   },
   {
-    "title": "Katie Porter Goes Viral for ‘Unhappy’ TV Interview in California Governor’s Race",
-    "link": "https://www.nytimes.com/2025/10/08/us/katie-porter-interview-ca-governors-race.html",
-    "summary": "The former Democratic congresswoman, known for her own grilling of executives on Capitol Hill, threatened to abandon an interview after she was asked several follow-up questions."
+    "title": "Nobel Prizes This Year Offer Three Cheers for Slow Science",
+    "link": "https://www.nytimes.com/2025/10/09/science/nobel-prizes-science-basic-research.html",
+    "summary": "The scientific Nobels announced this week — in Physiology or Medicine, Physics and Chemistry — honored achievements rooted in fundamental research from decades ago."
   },
   {
-    "title": "10 Months Later, Russia Admits Deadly Downing of Azerbaijani Plane",
-    "link": "https://www.nytimes.com/2025/10/09/world/europe/russia-azerbaijan-flight-8243-crash.html",
-    "summary": "President Vladimir Putin’s rare acknowledgment of a Russian military mistake came as relations have deteriorated between the two former Soviet states."
+    "title": "Laszlo Krasznahorkai Is Awarded Nobel Prize in Literature",
+    "link": "https://www.nytimes.com/2025/10/09/books/laszlo-krasznahorkai-nobel-prize-in-literature.html",
+    "summary": "​The prize committee said the Hungarian writer’s work “reaffirms the power of art.”"
   },
   {
     "title": "Modi Rosenfeld Is Gay. He’s Religious. His Comedy Career Is Booming.",
@@ -60,34 +80,14 @@
     "summary": "Mordechi Rosenfeld, known as Modi, already has the synagogue crowd. Now he wants the “Goyim, gays and theys,” too."
   },
   {
-    "title": "Oscar S. Wyatt Jr., Wily Texas Oilman, Is Dead at 101",
-    "link": "https://www.nytimes.com/2025/10/09/business/dealbook/oscar-s-wyatt-jr-dead.html",
-    "summary": "He made billions selling energy with his Coastal Corporation, courted presidents and dictators, and eventually went to prison for paying kickbacks to the Iraqi government."
+    "title": "Why Arguments About Free Speech Don’t Apply to the Riyadh Comedy Festival",
+    "link": "https://www.nytimes.com/2025/10/09/arts/television/riyadh-comedy-festival-free-speech.html",
+    "summary": "Bill Burr, Dave Chappelle and others have framed their participation as a matter of open expression. Yet they’re maddeningly vague about how much dissent is possible in Saudi Arabia."
   },
   {
-    "title": "Number of Children Fleeing Violence in Haiti Soars",
-    "link": "https://www.nytimes.com/2025/10/09/us/haiti-violence-children-crime.html",
-    "summary": "Haitian children face intensifying problems of crime, hunger and homelessness as the country’s humanitarian crisis shows no signs of easing, a report from a U.N. agency found."
-  },
-  {
-    "title": "We Have a Cease-Fire. Now the Middle East Needs Leadership.",
-    "link": "https://www.nytimes.com/2025/10/09/opinion/palestinians-israel-gaza-war-ceasefire-peace.html",
-    "summary": "Promises of peace between Jews and Palestinians must be turned into reality."
-  },
-  {
-    "title": "He Believes America Should Be a Theocracy. He Says His Influence Is Growing.",
-    "link": "https://www.nytimes.com/2025/10/09/opinion/doug-wilson-america-religion-theocracy.html",
-    "summary": "Doug Wilson’s political project to “stop making God angry.”"
-  },
-  {
-    "title": "A Gaza Deal",
-    "link": "https://www.nytimes.com/2025/10/09/briefing/a-gaza-deal.html",
-    "summary": "The world is waking up to an agreement between Israel and Hamas. We explain what we know about the breakthrough."
-  },
-  {
-    "title": "Another Guilty Verdict After Appeal in Gisèle Pelicot Rape Case",
-    "link": "https://www.nytimes.com/2025/10/09/world/europe/pelicot-rape-case.html",
-    "summary": "One of the dozens of men convicted of raping Gisèle Pelicot appealed his verdict, but a French court again found him guilty."
+    "title": "Katie Porter Goes Viral for ‘Unhappy’ TV Interview in California Governor’s Race",
+    "link": "https://www.nytimes.com/2025/10/08/us/katie-porter-interview-ca-governors-race.html",
+    "summary": "The former Democratic congresswoman, known for her own grilling of executives on Capitol Hill, threatened to abandon an interview after she was asked several follow-up questions."
   },
   {
     "title": "In N.J. Governor’s Race, Energy Costs Have Become a Central Issue",
@@ -95,13 +95,43 @@
     "summary": "Energy costs have become a central issue in the governor’s race between Jack Ciattarelli, the Republican, and Representative Mikie Sherrill, the Democrat."
   },
   {
-    "title": "Chinese Surgeons Perform First Pig-to-Human Liver Transplant",
-    "link": "https://www.nytimes.com/2025/10/09/health/chinese-surgeons-first-pig-human-liver-transplant.html",
-    "summary": "The transplanted portion of the genetically modified pig liver was removed after 38 days, and the patient, who had advanced liver cancer and cirrhosis, died several months later."
+    "title": "Why Many Students in Thailand Can’t Let Their Hair Down",
+    "link": "https://www.nytimes.com/2025/10/09/world/asia/thailand-school-students-haircuts.html",
+    "summary": "For decades, Thai students have been subjected to unwanted haircuts in class. Many of them carry the humiliating memory into adulthood."
   },
   {
-    "title": "Irish Factory Prospered Because of China’s Babies. Then Nestlé Pulled the Plug.",
-    "link": "https://www.nytimes.com/2025/10/09/world/europe/ireland-china-nestle-baby-formula.html",
-    "summary": "China’s baby boom enriched a small Irish town where a Nestlé factory made formula for Chinese newborns. Then a baby bust unraveled it all. Or so it seemed."
+    "title": "Democrats Are Increasing Inequality",
+    "link": "https://www.nytimes.com/2025/10/09/opinion/democrats-education-failure.html",
+    "summary": "When it comes to education policy, Republicans are now kicking Democrats in the butt."
+  },
+  {
+    "title": "These Are the 10 Old Television Series Every Kid Needs to Watch",
+    "link": "https://www.nytimes.com/2025/10/09/opinion/television-series-parenting-kids-old.html",
+    "summary": "Here’s the list of ancient shows I inflict on my daughters. What’s yours?"
+  },
+  {
+    "title": "The Gaza Cease-Fire Is Beginning to Take Shape",
+    "link": "https://www.nytimes.com/2025/10/09/briefing/gaza-deal-letitia-james-charges.html",
+    "summary": "Also, New York’s attorney general was indicted. Here’s the latest at the end of Thursday."
+  },
+  {
+    "title": "Who is Jonathan Rinderknecht? What We Know About The Palisades Fire Arrest",
+    "link": "https://www.nytimes.com/2025/10/08/us/palisades-fire-arrest-jonathan-rinderknecht.html",
+    "summary": "More details are emerging about Jonathan Rinderknecht, 29, who was accused of starting a small blaze in January that later rekindled and grew into the fire that devastated Pacific Palisades."
+  },
+  {
+    "title": "Ruth Weiss, Who Chronicled Apartheid After Fleeing the Nazis, Dies at 101",
+    "link": "https://www.nytimes.com/2025/10/09/books/ruth-weiss-dead.html",
+    "summary": "Her life and work were shaped by confronting injustice in South Africa and Germany. “Blacks under apartheid — Jews under the swastika. Was it all that different?” she asked."
+  },
+  {
+    "title": "Judge Dismisses Drake’s Lawsuit Over Kendrick Lamar’s ‘Not Like Us’",
+    "link": "https://www.nytimes.com/2025/10/09/arts/music/drake-kendrick-lamar-not-like-us-lawsuit-dismissed.html",
+    "summary": "The Canadian rapper sued for defamation and harassment, and accused the record company behind both artists of boosting his rival."
+  },
+  {
+    "title": "Crypto Investor Known as ‘Bitcoin Jesus’ Reaches Deal With Prosecutors",
+    "link": "https://www.nytimes.com/2025/10/09/technology/roger-ver-bitcoin-justice-department-deal.html",
+    "summary": "In the Trump administration’s latest example of dialing back cryptocurrency enforcement, Roger Ver agreed to pay about $48 million to end a tax fraud case."
   }
 ]

@@ -10,9 +10,29 @@
     "summary": "“We were happy for our prisoners — and for the Israelis, too,” one Gaza resident said. “We love peace and the truce.”"
   },
   {
+    "title": "Trump Takes a Victory Lap, but Avoids Questions About What’s Next",
+    "link": "https://www.nytimes.com/2025/10/13/world/middleeast/trump-victory-lap-whats-next.html",
+    "summary": "Except for brief references, President Trump did not talk about what it would take to rebuild Gaza or the future of the Palestinian people."
+  },
+  {
     "title": "Palestinians See Little to Celebrate Even Though the Bombs Have Stopped",
     "link": "https://www.nytimes.com/2025/10/13/world/europe/gazans-ceasefire-relief-gloom.html",
     "summary": "The cease-fire in Gaza has taken hold. Hostages and prisoners have been exchanged. But amid the utter devastation of two years of war, a sense of gloom pervades."
+  },
+  {
+    "title": "Trump Enacts Tariffs on Imported Lumber and Furniture",
+    "link": "https://www.nytimes.com/2025/10/14/business/economy/trump-ramps-up-trade-war-as-tariffs-on-lumber-and-furniture-kick-in.html",
+    "summary": "The new taxes went into effect on Tuesday as President Trump also threatened to widen his trade war with China."
+  },
+  {
+    "title": "Trump’s Two Minds on China Sow a Chaotic Few Days",
+    "link": "https://www.nytimes.com/2025/10/13/us/politics/trump-china-tariffs.html",
+    "summary": "The president’s bellicose vow of steep new tariffs, followed quickly by a more conciliatory message, pointed to an internal tug of war over his approach."
+  },
+  {
+    "title": "U.S. Starts Charging Chinese Ships to Dock at Its Ports",
+    "link": "https://www.nytimes.com/2025/10/14/business/us-starts-charging-chinese-ships-to-dock-at-its-ports.html",
+    "summary": "The measure is aimed at countering China’s dominance of commercial shipbuilding and helping to revitalize the American industry."
   },
   {
     "title": "Part Enabler, Part Buffer: The Bind of the Justice Dept.’s No. 2",
@@ -35,26 +55,6 @@
     "summary": "A group of financiers is trying to convince the public to invest heavily in private equity and crypto — a risky gambit with some real 1920s vibes."
   },
   {
-    "title": "Tim Curry’s Memoir “Vagabond” Recalls an Exciting Career Interrupted by Illness",
-    "link": "https://www.nytimes.com/2025/10/13/books/review/tim-curry-memoir-vagabond.html",
-    "summary": "A 2012 stroke has largely kept him from acting, but not from writing — and recording — a new memoir. “It was very peculiar not to be able to speak,” he says."
-  },
-  {
-    "title": "Rama Duwaji, Zohran Mamdani’s Wife, Could Become the New York’s First Lady Before Her 30th Birthday",
-    "link": "https://www.nytimes.com/2025/10/12/style/rama-duwaji-zohran-mamdani-wife.html",
-    "summary": "Rama Duwaji moved to the city to pursue a career in art, met a guy named Zohran Mamdani online, married him, and now could become the city’s first lady before her 30th birthday."
-  },
-  {
-    "title": "Dozens Are Dead and Dozens More Missing as Catastrophic Rains Devastate Mexico",
-    "link": "https://www.nytimes.com/2025/10/13/world/americas/mexico-torrential-rain-deaths.html",
-    "summary": "Torrential rains set off deadly floods and landslides across five Mexican states, leaving a trail of destruction."
-  },
-  {
-    "title": "Doug Lebda, LendingTree C.E.O. and Founder, Dies in ATV Accident",
-    "link": "https://www.nytimes.com/2025/10/13/business/doug-lebda-lendingtree-accident-death.html",
-    "summary": "Mr. Lebda died on Sunday following an all-terrain vehicle accident on his family’s North Carolina farm, a company spokeswoman said."
-  },
-  {
     "title": "Diane Keaton Defied Beauty Standards",
     "link": "https://www.nytimes.com/2025/10/13/style/why-diane-keatons-death-hits-harder.html",
     "summary": "For many of her fans, she was like a rare bird soaring from bygone days when progress and growing freedoms for women seemed inevitable."
@@ -65,19 +65,34 @@
     "summary": "“I made movies for an audience of one, Diane Keaton,” Allen wrote in a remembrance that reflected on the breadth of their relationship."
   },
   {
-    "title": "Diane Keaton’s Only Documentary Was About the Afterlife",
-    "link": "https://www.nytimes.com/2025/10/13/movies/diane-keaton-documentary.html",
-    "summary": "Keaton, who died on Saturday, was an actor, director and producer on multiple films and series. Her sole documentary, “Heaven,” explored popular ideas of the afterlife."
+    "title": "Dozens Are Dead and Dozens More Missing as Catastrophic Rains Devastate Mexico",
+    "link": "https://www.nytimes.com/2025/10/13/world/americas/mexico-torrential-rain-deaths.html",
+    "summary": "Torrential rains set off deadly floods and landslides across five Mexican states, leaving a trail of destruction."
+  },
+  {
+    "title": "Doug Lebda, LendingTree C.E.O. and Founder, Dies in ATV Accident",
+    "link": "https://www.nytimes.com/2025/10/13/business/doug-lebda-lendingtree-accident-death.html",
+    "summary": "Mr. Lebda died on Sunday after an all-terrain vehicle accident on his family’s North Carolina farm, a company spokeswoman said."
+  },
+  {
+    "title": "Rama Duwaji, Zohran Mamdani’s Wife, Could Become the New York’s First Lady Before Her 30th Birthday",
+    "link": "https://www.nytimes.com/2025/10/12/style/rama-duwaji-zohran-mamdani-wife.html",
+    "summary": "Rama Duwaji moved to the city to pursue a career in art, met a guy named Zohran Mamdani online, married him, and now could become the city’s first lady before her 30th birthday."
+  },
+  {
+    "title": "Letitia James and Zohran Mamdani Unite to Fight Trump",
+    "link": "https://www.nytimes.com/2025/10/13/nyregion/letitia-james-rally-zohran-mamdani.html",
+    "summary": "Ms. James, in her first public appearance since her federal indictment, said that she and Mr. Mamdani knew what it was like to be threatened and harassed."
+  },
+  {
+    "title": "Opioid Deaths Suddenly Dominate a Governor’s Race. Here’s What We Know.",
+    "link": "https://www.nytimes.com/2025/10/13/nyregion/opioids-nj-governor-race.html",
+    "summary": "Representative Mikie Sherrill, a New Jersey Democrat, said a firm once owned by her Republican opponent, Jack Ciattarelli, spread misinformation about opioids. His campaign has threatened to sue her for defamation."
   },
   {
     "title": "Madagascar’s President Goes Into Hiding",
     "link": "https://www.nytimes.com/2025/10/13/world/africa/madagascar-president-rajoelina.html",
     "summary": "The move followed weeks of intense and deadly protests against the government of President Andry Rajoelina, who said he would defy growing calls to resign."
-  },
-  {
-    "title": "Miami Says Farewell to Its Seaquarium",
-    "link": "https://www.nytimes.com/2025/10/13/us/miami-seaquarium-closing.html",
-    "summary": "The aquatic park, a South Florida landmark for 70 years and also the subject of complaints over animal rights, drew visitors on Sunday before closing for good."
   },
   {
     "title": "Marc Maron on the End of the “WTF” Podcast",
@@ -95,18 +110,18 @@
     "summary": "And what that might mean for the future of American politics."
   },
   {
-    "title": "Cuban Dissident Leader Leaves Prison for Exile in the U.S.",
-    "link": "https://www.nytimes.com/2025/10/13/world/americas/jose-daniel-ferrer-cuba.html",
-    "summary": "José Daniel Ferrer said long periods in solitary confinement left him feeling buried alive. Secretary of State Marco Rubio welcomed his arrival in Miami."
-  },
-  {
-    "title": "In L.A., a Former Ally of Mayor Bass Will Run Against Her",
-    "link": "https://www.nytimes.com/2025/10/11/us/mayor-bass-austin-beutner.html",
-    "summary": "The former supporter, Austin Beutner, who once ran the city’s public schools, announced he will challenge Ms. Bass’s re-election bid in next year’s mayoral race."
+    "title": "California Forecast: Early-Season Storm Brings a Deluge of Rain",
+    "link": "https://www.nytimes.com/2025/10/13/weather/california-storms-rain-forecast.html",
+    "summary": "A storm like this is rare for October, forecasters said."
   },
   {
     "title": "Milton Esterow, Who Reported on Art Stolen in World War II, Dies at 97",
     "link": "https://www.nytimes.com/2025/10/13/arts/milton-esterow-dead.html",
     "summary": "At The New York Times and then ARTnews, which he bought, he brought an investigative edge to stories about artwork looted by the Germans during World War II and the Soviets afterward."
+  },
+  {
+    "title": "4 People Arrested in Deadly Mississippi Shooting",
+    "link": "https://www.nytimes.com/2025/10/13/us/mississippi-shooting-arrests.html",
+    "summary": "The shooting in Leland, Miss., which killed six people, was the deadliest of three across the state over the weekend."
   }
 ]

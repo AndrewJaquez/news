@@ -1,8 +1,23 @@
 [
   {
-    "title": "Eric Adams Considers Endorsing Cuomo",
-    "link": "https://www.nytimes.com/2025/10/16/nyregion/eric-adams-nyc-debate.html",
-    "summary": "The New York City mayor said he has been in discussions to back former Gov. Andrew M. Cuomo, and maintains his opposition to Assemblyman Zohran Mamdani, the front-runner."
+    "title": "John Bolton Indicted Over Handling of Classified Information",
+    "link": "https://www.nytimes.com/2025/10/16/us/politics/john-bolton-indictment-trump.html",
+    "summary": "Mr. Bolton, a Trump aide turned critic, is part of a string of presidential foes to become prosecutorial targets. But his case gained momentum in the Biden administration."
+  },
+  {
+    "title": "How the Bolton Indictment Compares to Trump’s Classified Documents Case",
+    "link": "https://www.nytimes.com/2025/10/16/us/politics/trump-bolton-indictment-documents.html",
+    "summary": "Some charges against the onetime national security adviser resemble the dropped case against President Trump, but there are also differences."
+  },
+  {
+    "title": "7 Takeaways From the First N.Y.C. Mayoral Debate",
+    "link": "https://www.nytimes.com/2025/10/16/nyregion/nyc-mayor-debate-mamdani-cuomo-takeaways.html",
+    "summary": "Zohran Mamdani, Andrew Cuomo and Curtis Sliwa sparred over serious topics like the Israel-Hamas war and President Trump, and more curious subjects like parade attendance."
+  },
+  {
+    "title": "The Top Zingers of the Mayoral Debate",
+    "link": "https://www.nytimes.com/2025/10/16/nyregion/mamdani-cuomo-sliwa-debate.html",
+    "summary": "The two-hour slugfest produced some memorable one-liners, on subjects ranging from the candidates’ parents to imaginary sports championships."
   },
   {
     "title": "Military Commander Overseeing Escalating Attacks Off Venezuela Coast Is Stepping Down, Officials Say",
@@ -25,6 +40,11 @@
     "summary": "Democrats want guarantees that President Trump will not continue to claw back spending, ignoring any agreement they strike. But he has promised to keep defying Congress."
   },
   {
+    "title": "Trump Refiles $15 Billion Lawsuit Against The New York Times",
+    "link": "https://www.nytimes.com/2025/10/17/business/media/trump-lawsuit-new-york-times.html",
+    "summary": "A federal judge had previously dismissed the complaint as unnecessarily lengthy and digressive. The president claims that The Times sought to defame him during the 2024 election."
+  },
+  {
     "title": "Trump Plans to Meet With Putin to Talk About a Cease-Fire in Ukraine",
     "link": "https://www.nytimes.com/2025/10/16/us/politics/trump-putin-cease-fire-ukraine.html",
     "summary": "A day ahead of his meeting with Ukraine’s leader at the White House to discuss an arms package, President Trump suggested that Russia might be open to a diplomatic solution to the war it started."
@@ -40,9 +60,9 @@
     "summary": "A consummate showman, he was known for playing guitars rigged with pyrotechnic effects and for his distinctive stage persona."
   },
   {
-    "title": "She Self-Deported. Now She and Other Crime Survivors Are Suing ICE.",
-    "link": "https://www.nytimes.com/2025/10/16/us/deport-domestic-violence-ice-lawsuit.html",
-    "summary": "Lawyers argue that the agency’s new policies have led to the detention and removal of victims of domestic violence and trafficking, despite their legal protections."
+    "title": "Salesforce Offers Its Services to Boost Trump’s Immigration Force",
+    "link": "https://www.nytimes.com/2025/10/16/us/salesforce-benioff-ice.html",
+    "summary": "The San Francisco-based firm has told ICE that it could use A.I. to help the agency nearly triple its staff. The company’s C.E.O., once a progressive tech titan, has embraced President Trump."
   },
   {
     "title": "Appeals Court Maintains Block on Trump’s Troop Deployment to Illinois",
@@ -50,19 +70,9 @@
     "summary": "“Political opposition is not rebellion,” wrote a Seventh Circuit panel, rejecting an attempt by the Trump administration to remove an order by a trial court judge."
   },
   {
-    "title": "Venture Capitalist Ron Conway Resigns From Board Over Benioff National Guard Comments",
-    "link": "https://www.nytimes.com/2025/10/16/us/salesforce-resign-benioff-ron-conway.html",
-    "summary": "Ron Conway stepped down from the board of Salesforce’s philanthropic arm after the company’s chief executive, Marc Benioff, said he supported President Trump and wanted the National Guard to come to San Francisco."
-  },
-  {
     "title": "Wisconsin Man Used TikTok to Call for the Killing of ICE Agents, U.S. Says",
     "link": "https://www.nytimes.com/2025/10/16/us/wisconsin-man-tiktok-threats-ice.html",
     "summary": "Andrew Stanton, 38, was charged with threatening federal law enforcement officers, whom he said should be shot. He pleaded not guilty and remains in custody."
-  },
-  {
-    "title": "Ben Stiller Honors His Parents In ‘Stiller & Meara: Nothing Is Lost’",
-    "link": "https://www.nytimes.com/2025/10/16/movies/ben-stiller-parents-nothing-is-lost.html",
-    "summary": "How to lead an artistic life and be part of a family is a tension he has only recently faced in life and now, onscreen, for a film about his comedian parents."
   },
   {
     "title": "Trump Warns Hamas of Strikes if Violence in Gaza Continues",
@@ -80,9 +90,9 @@
     "summary": "It was unclear when Maj. Gen. Mohammed al-Ghomari was killed, or by whom, but Israel appeared to claim the killing."
   },
   {
-    "title": "Kanchha Sherpa, Last Member of First Team to Conquer Everest, Dies at 92",
-    "link": "https://www.nytimes.com/2025/10/16/world/asia/kanchha-sherpa-mt-everest-dead.html",
-    "summary": "A trip to India to find work led to a career climbing the world’s highest mountain."
+    "title": "Tomiichi Murayama, Japanese Leader Who Gave War Apology, Dies at 101",
+    "link": "https://www.nytimes.com/2025/10/17/world/asia/tomiichi-murayama-dead.html",
+    "summary": "His televised address as prime minister delivered 50 years to the day after Japan announced its surrender set a marker for his country’s “deep remorse” over wartime atrocities."
   },
   {
     "title": "Parties Brace for a Political Future Without the Voting Rights Act",
@@ -90,29 +100,24 @@
     "summary": "After the Supreme Court appeared poised to weaken a key provision of the landmark civil rights law, both parties began to reckon with an uncertain future."
   },
   {
+    "title": "Book Review: ‘Nobody’s Girl,’ by Virginia Roberts Giuffre",
+    "link": "https://www.nytimes.com/2025/10/16/books/review/virginia-roberts-giuffre-nobodys-girl-memoir.html",
+    "summary": "Virginia Roberts Giuffre’s posthumous “Nobody’s Girl” doesn’t break political news, but might break your heart."
+  },
+  {
     "title": "Little Fliers Everywhere",
     "link": "https://www.nytimes.com/2025/10/16/style/fliers-memes-instagram.html",
     "summary": "They’re not just for missing pets or yard sales. Fliers these days are for internet memes, self-promotion and extremely esoteric messages."
   },
   {
-    "title": "Something Is Stirring in Christian America, and It’s Making Me Nervous",
-    "link": "https://www.nytimes.com/2025/10/16/opinion/christianity-charlie-kirk-revolution-revival.html",
-    "summary": "Don’t mistake a revolution for a revival."
+    "title": "The Real Trump Factor in the Gaza Deal",
+    "link": "https://www.nytimes.com/2025/10/17/opinion/trump-netanyahu-gaza-israel-deal.html",
+    "summary": "The secret of Donald Trump’s success with the Israeli prime minister was offering carrots on domestic politics — not sticks on foreign policy."
   },
   {
     "title": "Amy Coney Barrett Is Looking Beyond the Trump Era",
     "link": "https://www.nytimes.com/2025/10/16/opinion/amy-coney-barrett-interesting-times-podcast.html",
     "summary": "The Supreme Court justice isn’t making decisions based on public opinion."
-  },
-  {
-    "title": "John Bolton Is Indicted",
-    "link": "https://www.nytimes.com/2025/10/16/briefing/john-bolton-indictment-trump-putin-meeting.html",
-    "summary": "Also, Trump and Putin plan to meet. Here’s the latest at the end of Thursday."
-  },
-  {
-    "title": "Can’t Find the Right Holiday Gift? We Can Help!",
-    "link": "https://www.nytimes.com/2025/10/06/t-magazine/holiday-gifts-presents.html",
-    "summary": "Ahead of the holidays, we’re responding to readers’ hardest gifting quandaries."
   },
   {
     "title": "After Racist Texts, New York G.O.P. Is Set to Disband Young Republicans",
@@ -125,13 +130,8 @@
     "summary": "His willingness to bring scientific rigor to Sasquatch studies earned him the gratitude of enthusiasts and the withering scorn of debunkers."
   },
   {
-    "title": "JB Pritzker Won $1.4 Million Playing Blackjack in Las Vegas",
-    "link": "https://www.nytimes.com/2025/10/16/us/jb-pritzker-blackjack-winnings-charity.html",
-    "summary": "The Illinois governor reported the winnings on his 2024 tax returns, which his campaign released this week. “I was incredibly lucky,” he said."
-  },
-  {
-    "title": "Diane Keaton’s Cause of Death Revealed as Pneumonia",
-    "link": "https://www.nytimes.com/2025/10/16/movies/diane-keaton-cause-of-death.html",
-    "summary": "A death certificate released Thursday said that the Oscar-winning actor died on Oct. 11 of bacterial pneumonia."
+    "title": "Police Warn Against Pranking People With A.I. Images of Homeless Intruder",
+    "link": "https://www.nytimes.com/2025/10/16/us/police-prank-ai-homeless-tiktok.html",
+    "summary": "Law enforcement departments in several states said that an online trend in which people are tricked into believing a homeless man is in their homes could have dangerous consequences."
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
+    "title": "Clashes in Gaza Reveal Cease-Fire’s Fragility, With Rougher Road Ahead",
+    "link": "https://www.nytimes.com/2025/10/20/world/middleeast/gaza-israel-hamas-cease-fire.html",
+    "summary": "A round of violence on Sunday was short-lived, but analysts expect more tensions between Israel and Palestinian militants that will put the truce under strain."
+  },
+  {
     "title": "Israel Strikes Gaza and Temporarily Halts Aid, Saying Hamas Broke Truce",
     "link": "https://www.nytimes.com/2025/10/19/world/middleeast/israel-gaza-ceasefire.html",
     "summary": "Israel launched a wave of attacks on Gaza after accusing Palestinian militants of attacking its forces across cease-fire lines. Both sides say they are still committed to the truce."
-  },
-  {
-    "title": "Far From Gaza, a Palestinian Enclave Thrives, Even as War Feels Near",
-    "link": "https://www.nytimes.com/2025/10/19/nyregion/palestinians-new-jersey-gaza-war.html",
-    "summary": "Fifteen miles west of Manhattan, in Paterson, N.J., a community is directly, and often painfully, connected to a conflict half a world away."
   },
   {
     "title": "Where Does the Israel-Hamas Cease-Fire Stand?",
@@ -15,19 +15,54 @@
     "summary": "Unresolved issues and flare-ups of violence threaten to destabilize the fragile agreement."
   },
   {
+    "title": "Violence Flares in Gaza, and White House Responds to Protests: ‘Who Cares?’",
+    "link": "https://www.nytimes.com/2025/10/20/podcasts/the-headlines/violence-gaza-white-house-louvre.html",
+    "summary": "Plus, a brazen heist at the Louvre."
+  },
+  {
+    "title": "To Fight ICE, Portland’s Leaders Turn to What They Know Best: Zoning",
+    "link": "https://www.nytimes.com/2025/10/20/us/politics/portland-ice.html",
+    "summary": "Portland, Ore., is well known for its dense laws on land use. Now, under pressure from its liberal residents, the city is using those restrictions against immigrant detention."
+  },
+  {
+    "title": "Judge Demands Answers on Trump Immigration Crackdown in Chicago",
+    "link": "https://www.nytimes.com/2025/10/20/us/chicago-hearing-tear-gas-trump.html",
+    "summary": "A federal judge has ordered operational leaders of the crackdown to appear before her on Monday to be questioned about their tactics and their use of tear gas."
+  },
+  {
+    "title": "Amazon’s AWS Disruption Creates Outages for Hundreds of Websites for Hours",
+    "link": "https://www.nytimes.com/2025/10/20/business/aws-down-internet-outage.html",
+    "summary": "Amazon Web Services, a major provider of cloud services, said most services were back up. Hulu, Snapchat, McDonald’s and the British government’s official site were among those that reported outages."
+  },
+  {
     "title": "Colombia’s Leader Accuses U.S. of Murder, Prompting Trump to Halt Aid",
     "link": "https://www.nytimes.com/2025/10/19/world/americas/trump-colombia-petro-aid.html",
     "summary": "President Gustavo Petro said a U.S. strike in the Caribbean had killed a fisherman. President Trump said he would cut aid and impose new tariffs on Colombian imports."
   },
   {
-    "title": "Shell Detonated Over Interstate 5 During Marines Event, California Officials Say",
-    "link": "https://www.nytimes.com/2025/10/19/us/politics/shell-interstate-5-marines-california.html",
-    "summary": "The mishap, during an anniversary celebration for the Marine Corps attended by the vice president and defense secretary, underscores safety concerns that Gov. Gavin Newsom voiced before Saturday’s event at Camp Pendleton."
+    "title": "Australia Could Be a Rare Earths Alternative to China for the U.S.",
+    "link": "https://www.nytimes.com/2025/10/20/world/australia/australia-rare-earths-china-trump.html",
+    "summary": "China’s escalating curbs on the critical minerals has given Australia, a longstanding U.S. ally, the opportunity to reposition itself to a transactional president."
   },
   {
-    "title": "U.S. Kills 3 on Boat Suspected of Smuggling Drugs for Colombian Rebels",
-    "link": "https://www.nytimes.com/2025/10/19/us/politics/trump-military-boat-strike-colombia.html",
-    "summary": "It was the seventh known strike in President Trump’s military campaign of attacking, rather than arresting, those suspected of running drugs in the Caribbean."
+    "title": "Santos Thanks Trump During TV Appearances After His Release From Prison",
+    "link": "https://www.nytimes.com/2025/10/19/nyregion/santos-cnn-fox-prison-release.html",
+    "summary": "Mr. Santos, the disgraced congressman from Long Island, lashed out at the warden of the prison where he had been held and suggested he was now free to get Botox."
+  },
+  {
+    "title": "Are You Resigned to a World of Bad News? Or Do You Need Some ‘Cope’?",
+    "link": "https://www.nytimes.com/2025/10/20/magazine/cope.html",
+    "summary": "There are new words for how we process bad news. They’re cynical, hopeful or maybe delusional."
+  },
+  {
+    "title": "In China, a Forbidden Question Looms: Who Leads After Xi?",
+    "link": "https://www.nytimes.com/2025/10/20/world/asia/china-communist-succession-plenum.html",
+    "summary": "Xi Jinping seems to believe that only his continued rule can secure China’s rise. But as he ages, choosing a successor will become riskier and more difficult."
+  },
+  {
+    "title": "China’s Economy Held Steady in the Third Quarter, but Consumers Were More Cautious",
+    "link": "https://www.nytimes.com/2025/10/19/business/china-economy-gdp-q3.html",
+    "summary": "A further increase in China’s trade surplus failed to fully offset the effects of a worsening housing market, which has left consumers wary."
   },
   {
     "title": "Louvre Robbers Take ‘Priceless’ French Jewels",
@@ -40,54 +75,24 @@
     "summary": "The stolen items include glittering royal tiaras, necklaces and earrings."
   },
   {
-    "title": "Santos Thanks Trump During TV Appearances After His Release From Prison",
-    "link": "https://www.nytimes.com/2025/10/19/nyregion/santos-cnn-fox-prison-release.html",
-    "summary": "Mr. Santos, the disgraced congressman from Long Island, lashed out at the warden of the prison where he had been held and suggested he was now free to get Botox."
+    "title": "Louvre Museum Remains Closed After Jewelry Robbery: What to Know",
+    "link": "https://www.nytimes.com/2025/10/20/world/europe/france-louvre-jewel-heist.html",
+    "summary": "A stunning heist has raised uncomfortable questions about security at the famed Paris museum."
   },
   {
-    "title": "It’s 2025, and Democrats Are Still Running Against Trump",
-    "link": "https://www.nytimes.com/2025/10/19/us/politics/democratic-campaign-ads-trump.html",
-    "summary": "In New Jersey, Virginia and beyond, voters have been inundated with ads linking Republican candidates to the president. Some Democratic strategists see a missed opportunity to forge a more positive message."
+    "title": "AI Data Centers Create Fury From Mexico to Ireland",
+    "link": "https://www.nytimes.com/2025/10/20/technology/ai-data-center-backlash-mexico-ireland.html",
+    "summary": "As tech companies build data centers worldwide to advance artificial intelligence, vulnerable communities have been hit by blackouts and water shortages."
   },
   {
-    "title": "Mamdani and Cuomo Make Their Cases in Last Weekend Before Early Voting",
-    "link": "https://www.nytimes.com/2025/10/19/nyregion/mamdani-cuomo-campaign-new-york.html",
-    "summary": "As the New York City mayoral campaign enters its final weeks, the candidates appeared at a forum at Queens College and at a soccer tournament in Coney Island."
+    "title": "How Chile Embodies A.I.’s No-Win Politics",
+    "link": "https://www.nytimes.com/2025/10/20/technology/chile-ai-politics.html",
+    "summary": "Political debates have flared across Chile over artificial intelligence. Should the nation pour billions into A.I. and risk public backlash, or risk being left behind?"
   },
   {
-    "title": "The Democratic Mayor Who Thinks Cities Are Handling Trump Wrong",
-    "link": "https://www.nytimes.com/2025/10/19/us/politics/houston-mayor.html",
-    "summary": "Mayor John Whitmire of Houston believes the best way to govern a diverse, immigrant-heavy city in the current political climate is by keeping your head down and your ambitions modest."
-  },
-  {
-    "title": "A Tower on Billionaires’ Row Is Full of Cracks. Who’s to Blame?",
-    "link": "https://www.nytimes.com/2025/10/19/nyregion/432-park-avenue-condo-tower.html",
-    "summary": "A superstar team of architects and developers insisted on an all-white concrete facade. It could explain some of the building’s problems."
-  },
-  {
-    "title": "An ICE Raid at a Building in Chicago Swept Up Dozens of U.S. Citizens",
-    "link": "https://www.nytimes.com/2025/10/19/us/chicago-south-shores-border-patrol-raid.html",
-    "summary": "An immigration raid on an apartment building in Chicago followed years of problems with crime, and neglect by landlords. It swept up dozens of U.S. citizens who were detained in the middle of the night."
-  },
-  {
-    "title": "What Powers Does the Border Patrol Have Across the Country?",
-    "link": "https://www.nytimes.com/2025/10/18/us/politics/border-patrol-immigration-explainer.html",
-    "summary": "The Trump administration is increasingly relying on the agency for immigration enforcement within the U.S."
-  },
-  {
-    "title": "The Tech Right Gets Its Own Phyllis Schlafly",
-    "link": "https://www.nytimes.com/2025/10/19/business/katherine-boyle-andreesen-horowitz-american-dynamism.html",
-    "summary": "Katherine Boyle, an influential venture capitalist who is a friend of the vice president, thinks the country’s path forward involves cultural conservatism and more weapons production."
-  },
-  {
-    "title": "An Ode to October Baseball",
-    "link": "https://www.nytimes.com/2025/10/19/world/la-dodgers-postseason-louvre-robbery.html",
-    "summary": "With the World Series just days away, we look at the beauty of baseball — even if one team looks unbeatable."
-  },
-  {
-    "title": "For Alaskan Evacuees, Home Is Gone, With No Return in Sight",
-    "link": "https://www.nytimes.com/2025/10/19/us/alaska-storm-flooding-evacuations.html",
-    "summary": "Their communities devastated from last weekend’s storm, many are in shelters in Anchorage and facing life in a completely different world."
+    "title": "Senior German General Says Europe Must Do All It Can to Help Ukraine",
+    "link": "https://www.nytimes.com/2025/10/20/world/europe/ukraine-russia-war-europe.html",
+    "summary": "European democracy and rule of law are at risk, the general says, so Europe must give Ukraine whatever it can to pressure Moscow, even if Trump does not."
   },
   {
     "title": "Peanut Allergies Have Plummeted in Children, Study Shows",
@@ -95,38 +100,48 @@
     "summary": "Doctors have long recommended that infants avoid peanuts. But in 2017, experts officially reversed that guidance, and food allergies decreased sharply."
   },
   {
-    "title": "Sanae Takaichi Is Set to Be Japan’s First Female Prime Minister. But Will She Advance Women’s Rights?",
-    "link": "https://www.nytimes.com/2025/10/19/world/asia/japan-women-prime-minister.html",
-    "summary": "Sanae Takaichi is poised to break Japan’s political glass ceiling. But some worry she will maintain policies that have held women back."
+    "title": "154,000 New York City Students Were Homeless Last Year, a Record Number",
+    "link": "https://www.nytimes.com/2025/10/20/nyregion/homeless-students-new-york-record-number.html",
+    "summary": "If these pupils made up their own school system, it would be one of the 20 largest districts in the United States. The number includes those who are doubled up in crowded apartments."
   },
   {
-    "title": "How Wendell Pierce Spends His Day Exploring New York City",
-    "link": "https://www.nytimes.com/2025/10/18/nyregion/routine-wendell-pierce.html",
-    "summary": "Mr. Pierce, the popular actor from shows like “The Wire,” said time is precious. He spends his shopping in Harlem, walking through Central Park and staying up all night listening to jazz."
+    "title": "Some N.F.L. Players Are Finding Second Careers as Nurses",
+    "link": "https://www.nytimes.com/2025/10/19/well/nfl-players-nurses.html",
+    "summary": "A handful of pro players are choosing scrubs after leaving the football field."
   },
   {
-    "title": "Trump Is Dragging Us Down to His Level",
-    "link": "https://www.nytimes.com/2025/10/19/opinion/republican-group-chat-trump.html",
-    "summary": "The Young Republicans’ Telegram chat was revealing in so many ways."
+    "title": "For the Ghosts in a Berkshires Mansion, the Gilded Age Never Ended",
+    "link": "https://www.nytimes.com/2025/10/20/realestate/ventfort-hall-gilded-age-berkshires.html",
+    "summary": "Ventfort Hall, an 1893 mansion built for J.P. Morgan’s sister, was in disrepair. The living and the dead teamed up to save it."
   },
   {
-    "title": "The HBO Miniseries ‘Task’ Gets Rural America Right",
-    "link": "https://www.nytimes.com/2025/10/19/opinion/hbo-task-yellowstone.html",
-    "summary": "Since the first election of President Trump, Hollywood has fretted about portraying rural and red state Americans. Some new TV series show how to get it right."
+    "title": "America Still Has a Political Center, and It’s the Key to Winning",
+    "link": "https://www.nytimes.com/2025/10/20/opinion/moderation-strategy-democrat-republican-center.html",
+    "summary": "The antidote to our polarized politics is a creative, re-energized political center."
   },
   {
-    "title": "Emirates Cargo Plane Slides Off Hong Kong Runway, Killing 2 Ground Crew",
-    "link": "https://www.nytimes.com/2025/10/19/world/asia/emirates-hong-kong-cargo-plane.html",
-    "summary": "The plane, arriving from Dubai, skidded off the runway after landing and fell into the sea, Hong Kong officials said."
+    "title": "Senator Ruben Gallego Has Three Words For Democrats",
+    "link": "https://www.nytimes.com/2025/10/20/opinion/ruben-gallego-interview-democrats-border-security-affordability.html",
+    "summary": "Lessons from a Democrat who won in a Republican state."
   },
   {
-    "title": "China’s Economy Held Steady in the Third Quarter, but Consumers Were More Cautious",
-    "link": "https://www.nytimes.com/2025/10/19/business/china-economy-gdp-q3.html",
-    "summary": "A further increase in China’s trade surplus failed to fully offset the effects of a worsening housing market, which has left consumers wary."
+    "title": "For Alaskan Evacuees, Home Is Gone, With No Return in Sight",
+    "link": "https://www.nytimes.com/2025/10/19/us/alaska-storm-flooding-evacuations.html",
+    "summary": "Their communities devastated from last weekend’s storm, many are in shelters in Anchorage and facing life in a completely different world."
   },
   {
-    "title": "Sam Rivers, Bassist for Limp Bizkit, Dies at 48",
-    "link": "https://www.nytimes.com/2025/10/19/arts/music/sam-rivers-dead.html",
-    "summary": "As a founding member of the band, he helped it achieve mainstream success."
+    "title": "‘Don’t Touch My Retirement!’ Wins the Day in France",
+    "link": "https://www.nytimes.com/2025/10/19/world/europe/dont-touch-my-retirement-wins-the-day-in-france.html",
+    "summary": "The country’s attachment to an early pension, seen as a fundamental right, forced a major concession by the government, allowing it to survive, for now."
+  },
+  {
+    "title": "Can a University From Tennessee Help Accelerate Growth in West Palm Beach?",
+    "link": "https://www.nytimes.com/2025/10/19/business/vanderbilt-university-expansion.html",
+    "summary": "At a time of financial and enrollment uncertainty in higher education, Vanderbilt University, along with other schools, has forged ahead with expansion."
+  },
+  {
+    "title": "Mamdani and Cuomo Make Their Cases in Last Weekend Before Early Voting",
+    "link": "https://www.nytimes.com/2025/10/19/nyregion/mamdani-cuomo-campaign-new-york.html",
+    "summary": "As the New York City mayoral campaign enters its final weeks, the candidates appeared at a forum at Queens College and at a soccer tournament in Coney Island."
   }
 ]

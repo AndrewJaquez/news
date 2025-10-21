@@ -1,13 +1,33 @@
 [
   {
-    "title": "Appeals Court Ruling Allows Trump to Deploy National Guard Troops to Portland",
-    "link": "https://www.nytimes.com/2025/10/20/us/appeals-court-national-guard-troops-portland-trump.html",
-    "summary": "Deployment can move forward, for now, under a preliminary ruling by the U.S. Court of Appeals for the Ninth Circuit. But legal wrangling will likely continue."
+    "title": "How a Long Government Shutdown Could Leave Scars on the Economy",
+    "link": "https://www.nytimes.com/2025/10/21/business/economy/government-shutdown-economic-effects.html",
+    "summary": "The effect is rippling beyond missing paychecks to federal services that support much of the economy."
   },
   {
-    "title": "White House’s East Wing Partially Demolished to Build Trump’s Ballroom",
-    "link": "https://www.nytimes.com/2025/10/20/us/politics/trump-white-house-east-wing-demolition-ballroom.html",
-    "summary": "The president had pledged that construction wouldn’t “interfere with the current building,” a promise that always seemed unrealistic given the grand scale of the plans."
+    "title": "No Education Department? No Problem, Trump’s Education Secretary Says.",
+    "link": "https://www.nytimes.com/2025/10/21/us/education-department-shutdown-layoffs.html",
+    "summary": "The shutdown means there is, essentially, no Education Department. The latest round of layoffs would leave few workers to enforce special education and civil rights laws."
+  },
+  {
+    "title": "What Could Torpedo the Stock Rally",
+    "link": "https://www.nytimes.com/2025/10/21/business/dealbook/stocks-rally-bulls-bears.html",
+    "summary": "The S&amp;P 500 is nearing another record, but some analysts caution that a host of factors may stall its momentum."
+  },
+  {
+    "title": "Judges Warn of ‘Judicial Crisis,’ and Universities Reject Trump Offer",
+    "link": "https://www.nytimes.com/2025/10/21/podcasts/the-headlines/judicial-crisis-warning-trump-offer-universities.html",
+    "summary": "Plus, a drastic drop in peanut allergies."
+  },
+  {
+    "title": "Nations Hesitate to Send Troops to Gaza, Fearing Clashes With Hamas",
+    "link": "https://www.nytimes.com/2025/10/21/world/middleeast/gaza-ceasefire-international-security-force-hamas.html",
+    "summary": "The Trump peace plan calls for an international security force in the Gaza Strip, but countries that might send troops are wary of danger, an unclear mission and being seen as occupiers."
+  },
+  {
+    "title": "Vance Lands in Israel as U.S. Tries to Shore Up Gaza Cease-Fire Deal",
+    "link": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html",
+    "summary": "With the cease-fire deal under strain, Vice President JD Vance is set to meet with Prime Minister Benjamin Netanyahu and other leaders."
   },
   {
     "title": "G.O.P. Senators Oppose Trump Watchdog Nominee After Report of Racist Texts",
@@ -15,9 +35,9 @@
     "summary": "At least four Republican senators, including the Senate majority leader, signaled their opposition to Paul Ingrassia, the president’s pick to lead the Office of Special Counsel."
   },
   {
-    "title": "All but 2 Universities Decline a Trump Offer of Preferential Funding",
-    "link": "https://www.nytimes.com/2025/10/20/us/politics/universities-funding-compact.html",
-    "summary": "One of the two, Vanderbilt University, signaled it had reservations."
+    "title": "White House’s East Wing Partially Demolished to Build Trump’s Ballroom",
+    "link": "https://www.nytimes.com/2025/10/20/us/politics/trump-white-house-east-wing-demolition-ballroom.html",
+    "summary": "The president had pledged that construction wouldn’t “interfere with the current building,” a promise that always seemed unrealistic given the grand scale of the plans."
   },
   {
     "title": "China Has Another Lever to Pull in Showdown With Trump: Factory Lines",
@@ -30,24 +50,29 @@
     "summary": "An interview with a 26-year-old entrepreneur, who has taken seven trips to China to buy handbags, clothes and jewelry. “China is the center of everything,” she said."
   },
   {
-    "title": "To Counter China’s Hold on Rare Minerals, Trump Turns to Australia",
-    "link": "https://www.nytimes.com/2025/10/20/us/politics/china-critical-minerals-trump-australia.html",
-    "summary": "The United States hopes to become less dependent on China by increasing access to mineral-rich countries. Rare earth metals are vital to an array of modern industries."
+    "title": "Can a U.S.-Australia Deal on Rare Earths Counter China’s Dominance?",
+    "link": "https://www.nytimes.com/2025/10/21/world/australia/rare-earths-us-partnership.html",
+    "summary": "Australia’s got reserves and mining expertise, and the United States is eager to invest in alternatives to China. But building mines, refineries and factories could take years."
   },
   {
-    "title": "Vance Heads to Israel as U.S. Tries to Shore Up Gaza Cease-Fire Deal",
-    "link": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html",
-    "summary": "With the cease-fire deal under strain, Vice President JD Vance is set to meet with Prime Minister Benjamin Netanyahu and other leaders."
+    "title": "I Went on a ‘Dark Retreat’ and Spent Three Days in Total Darkness",
+    "link": "https://www.nytimes.com/2025/10/21/magazine/dark-retreat-meditation-sensory-deprivation-spirituality.html",
+    "summary": "The author spent days in a room with no light. Who would he be when he emerged?"
   },
   {
-    "title": "Gaza Humanitarian Foundation Operations Unravel",
-    "link": "https://www.nytimes.com/2025/10/20/world/middleeast/gaza-humanitarian-foundation.html",
-    "summary": "The Gaza Humanitarian Foundation has suspended its aid operations because of the cease-fire, but it is also running low on funds and faces logistical obstacles to resuming its work."
+    "title": "Louvre Robbery Raises Questions About Security",
+    "link": "https://www.nytimes.com/2025/10/21/world/europe/louvre-robbery-security-paris.html",
+    "summary": "Investigators were looking into the alarm systems at an institution that one expert said “wasn’t built with an obsession over security.”"
   },
   {
-    "title": "Can an Israel Philharmonic Concert Be Just About Music?",
-    "link": "https://www.nytimes.com/2025/10/20/arts/music/israel-philharmonic-orchestra-carnegie-hall.html",
-    "summary": "In the days following a cease-fire in Gaza, the orchestra returned to New York under circumstances that were more tense than usual."
+    "title": "Russia Pushes a State-Controlled ‘Super App’ by Sabotaging Its Rivals",
+    "link": "https://www.nytimes.com/2025/10/21/world/europe/russia-max-app.html",
+    "summary": "As the Kremlin throttles WhatsApp and Telegram, the new MAX messaging app is moving Russia closer to a restricted internet without foreign technology."
+  },
+  {
+    "title": "More Than 100 Cases of Measles Reported in Utah and Arizona",
+    "link": "https://www.nytimes.com/2025/10/21/well/more-than-100-cases-of-measles-reported-in-utah-and-arizona.html",
+    "summary": "In the hardest-hit counties, childhood vaccination rates steeply declined during the pandemic."
   },
   {
     "title": "Sanae Takaichi is Japan’s New Prime Minister, and She’s a Heavy Metal Drummer",
@@ -55,9 +80,24 @@
     "summary": "Sanae Takaichi, a fan of Iron Maiden, had an improbable rise to power. Like her mentor, Shinzo Abe, she is expected to lead Japan to the right."
   },
   {
-    "title": "Louvre Museum Remains Closed After Jewelry Robbery: What to Know",
-    "link": "https://www.nytimes.com/2025/10/20/world/europe/france-louvre-jewel-heist.html",
-    "summary": "A stunning heist has raised uncomfortable questions about security at the Paris museum."
+    "title": "Who Is Sanae Takaichi, Japan’s First Female Prime Minister?",
+    "link": "https://www.nytimes.com/2025/10/04/world/asia/sanae-takaichi-japan.html",
+    "summary": "The hard-line conservative is making history in a country where women are drastically underrepresented at the highest levels of power."
+  },
+  {
+    "title": "Grace Wales Bonner Is Named Creative Director of Men’s Wear at Hermès",
+    "link": "https://www.nytimes.com/2025/10/21/style/grace-wales-bonner-hermes-men.html",
+    "summary": "Grace Wales Bonner is the new creative director of men’s wear at the French fashion house."
+  },
+  {
+    "title": "Inside Amazon’s Plans to Replace Workers With Robots",
+    "link": "https://www.nytimes.com/2025/10/21/technology/inside-amazons-plans-to-replace-workers-with-robots.html",
+    "summary": "Internal documents show the company that changed how people shop has a far-reaching plan to automate 75 percent of its operations."
+  },
+  {
+    "title": "The Robots Fueling Amazon’s Automation",
+    "link": "https://www.nytimes.com/2025/10/21/technology/amazon-robotics-automation.html",
+    "summary": "Meet Sparrow, Cardinal and Proteus. They’re the robots that, step by step, are replacing human workers in the company’s warehouses."
   },
   {
     "title": "Amazon’s AWS Disruption Creates Outages for Hundreds of Websites for Hours",
@@ -65,29 +105,39 @@
     "summary": "Amazon Web Services, a major provider of cloud services, cited a problem at its data center in Northern Virginia. The outage highlighted the fragility of global internet infrastructure."
   },
   {
-    "title": "How an Elite Public High School Set Mamdani on the Path to Politics",
-    "link": "https://www.nytimes.com/2025/10/20/nyregion/mamdani-bronx-science-high.html",
-    "summary": "Zohran Mamdani’s time at the Bronx High School of Science expanded and helped shape his views of New York, from the cricket pitch to politics."
+    "title": "Curtis Sliwa Has the Spotlight. He’s Not About to Give It Up.",
+    "link": "https://www.nytimes.com/2025/10/21/nyregion/curtis-sliwa-mayor.html",
+    "summary": "Mr. Sliwa, the Republican nominee for mayor of New York City, finds himself a major player in the race. He’s under heavy pressure to drop out."
   },
   {
-    "title": "A Boston Restaurant Displayed Whitey Bulger’s Mug Shot. An Uproar Ensued.",
-    "link": "https://www.nytimes.com/2025/10/20/us/a-boston-restaurant-displayed-whitey-bulgers-mug-shot-an-uproar-ensued.html",
-    "summary": "The owners of Savin Bar & Kitchen have so far rejected requests from residents to remove photos of gangsters who terrorized the city for decades."
+    "title": "Wolfgang Puck’s Spago Had Star Power in the ’80s. Does It Still Shine?",
+    "link": "https://www.nytimes.com/2025/10/21/dining/restaurant-review-spago-los-angeles.html",
+    "summary": "The groundbreaking Beverly Hills power restaurant still draws crowds. But the food isn’t what it once was."
   },
   {
-    "title": "Your November Election Guide (Yes, This November)",
-    "link": "https://www.nytimes.com/2025/10/20/us/politics/elections-california-new-jersey-nyc.html",
-    "summary": "It’s not a presidential election year, or even the midterms, but races this fall will offer a sense of voters’ moods in the first year of the new Trump administration."
+    "title": "Trump’s Self-Inflicted Soybean Problem",
+    "link": "https://www.nytimes.com/2025/10/21/opinion/trump-soybeans-tariffs.html",
+    "summary": "Tariffs don’t seem to be working as planned."
   },
   {
-    "title": "What to Know About the California Special Election",
-    "link": "https://www.nytimes.com/2025/10/16/us/california-election-redistricting-newsom.html",
-    "summary": "Some 23 million voters have received mail ballots for the Nov. 4 election. The only statewide measure this fall is a redistricting plan spearheaded by Gov. Gavin Newsom."
+    "title": "The Louvre Heist",
+    "link": "https://www.nytimes.com/2025/10/21/world/louvre-jewelry-heist.html",
+    "summary": "Today, we look at how thieves pulled off this weekend’s brazen daylight robbery in Paris and why they did it."
   },
   {
-    "title": "With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas",
-    "link": "https://www.nytimes.com/2025/10/20/science/nasa-moon-lander-spacex.html",
-    "summary": "Blue Origin, owned by Jeff Bezos, and Lockheed Martin are among the contractors that may compete with Elon Musk’s company in the race back to the lunar surface."
+    "title": "Late Night Revisits Ye Olde ‘No Kings’ Protests",
+    "link": "https://www.nytimes.com/2025/10/21/arts/television/late-night-no-kings-protests.html",
+    "summary": "Jon Stewart consulted the Declaration of Independence’s king-inspired stipulations on “The Daily Show.”"
+  },
+  {
+    "title": "France Sends Former President Nicolas Sarkozy to Prison to Start 5-Year Sentence",
+    "link": "https://www.nytimes.com/2025/10/21/world/europe/sarkozy-france-president-jail.html",
+    "summary": "Nicolas Sarkozy, the president of France from 2007 to 2012, received a five-year sentence after being convicted in a campaign finance scandal."
+  },
+  {
+    "title": "Guard Enraged by Chaos at Jail Chased and Shot at Smugglers, U.S. Says",
+    "link": "https://www.nytimes.com/2025/10/21/nyregion/brooklyn-mdc-contraband-guard-trial.html",
+    "summary": "Leon Wilson worked at the troubled Metropolitan Detention Center in Brooklyn for decades. Prosecutors say he pursued suspects for five miles in a violent fury."
   },
   {
     "title": "With Diwali Comes the Start of Air Pollution Season in New Delhi",
@@ -95,43 +145,8 @@
     "summary": "The air quality in India’s capital ranks among the worst in the world, but experts say politics stand in the way of improving it."
   },
   {
-    "title": "What to Know About Diwali, the Hindu Festival of Lights",
-    "link": "https://www.nytimes.com/article/diwali-india-festival-lights.html",
-    "summary": "The biggest public holiday in India, Diwali features prayers for prosperity and good fortune — and lots of sweets."
-  },
-  {
-    "title": "Fallen Confederate Statues Take Center Stage in the Year’s Boldest Show",
-    "link": "https://www.nytimes.com/2025/10/20/arts/design/art-civil-war-monuments-brick-geffen-contemporary-los-angeles.html",
-    "summary": "“Monuments,” a group exhibition in Los Angeles, led by Kara Walker, places contemporary art face to face with statuary removed in the last decade."
-  },
-  {
-    "title": "Trump Posted a Video of Himself Dumping Excrement on Our Cities. It’s a Glimpse of His Deepest Drives.",
-    "link": "https://www.nytimes.com/2025/10/20/opinion/trump-degredation-maga.html",
-    "summary": "A perverse delight in degradation has always coursed through MAGA circles."
-  },
-  {
-    "title": "George Santos and President Trump’s Theory of Mercy",
-    "link": "https://www.nytimes.com/2025/10/20/opinion/george-santos-trump-pardon.html",
-    "summary": "More than any other presidential actions, clemencies tell us who presidents are."
-  },
-  {
-    "title": "Iranian Wedding Video Plunges Top Official Into Scandal",
-    "link": "https://www.nytimes.com/2025/10/20/world/middleeast/iran-wedding-video.html",
-    "summary": "Rear Adm. Ali Shamkhani oversaw a brutal crackdown on women, but traditional notions of Islamic morality were little on display at his daughter’s wedding."
-  },
-  {
-    "title": "Daniel Naroditsky, Chess Grandmaster, Dies at 29",
-    "link": "https://www.nytimes.com/2025/10/20/us/daniel-naroditsky-chess-grandmaster-dead.html",
-    "summary": "He earned the highest title in the chess world at 17 and built a career as an accomplished chess teacher, commentator and author."
-  },
-  {
-    "title": "Man Is Arrested After Threatening to Open Fire at Atlanta Airport, Police Say",
-    "link": "https://www.nytimes.com/2025/10/20/us/atlanta-airport-shooting-threat-arrest.html",
-    "summary": "The man, Billy J. Cagle, 49, was arrested after family members told the police that he was headed to the airport, “in their words, ‘to shoot it up,’” Atlanta’s police chief said."
-  },
-  {
-    "title": "A Flat $40 Train Ticket From NYC to Albany? It’s Happening Next Year.",
-    "link": "https://www.nytimes.com/2025/10/20/nyregion/metro-north-trains-albany-hochul.html",
-    "summary": "For the first time, Metro-North will run trains past Poughkeepsie through the Hudson Valley to Albany. Some Amtrak service will also be restored."
+    "title": "This Democrat Lost a Big Race. The Party Is Uneasy About His Return.",
+    "link": "https://www.nytimes.com/2025/10/21/us/politics/mandela-barnes-governors-race-wisconsin.html",
+    "summary": "Mandela Barnes, the former lieutenant governor of Wisconsin, lost a race for Senate in 2022. He is likely to run for governor in 2026, while Democrats are eager for new candidates and new ideas."
   }
 ]

@@ -1,58 +1,38 @@
 [
   {
-    "title": "Obamacare Prices Become Public, Highlighting Big Increases",
-    "link": "https://www.nytimes.com/2025/10/29/health/obamacare-prices-health-insurance.html",
-    "summary": "The government website now shows consumers how much their health insurance costs will increase next year, as Congress remains at an impasse over the plans’ subsidies."
+    "title": "Nvidia Is First Company to Top $5 Trillion in Market Value Amid AI Boom",
+    "link": "https://www.nytimes.com/2025/10/29/technology/nvidia-value-market-ai.html",
+    "summary": "The A.I. chip maker has become a linchpin in the Trump administration’s trade negotiations in Asia."
   },
   {
-    "title": "In Utah, Trump’s Vision for Homelessness Begins to Take Shape",
-    "link": "https://www.nytimes.com/2025/10/29/us/politics/utah-trump-homeless-campus.html",
-    "summary": "State officials promise large-scale involuntary addiction and mental health treatment at Salt Lake City’s edge. Critics see “a prison, or a warehouse.”"
+    "title": "As Trump Weighs Sale of Advanced A.I. Chips to China, Critics Sound Alarm",
+    "link": "https://www.nytimes.com/2025/10/29/us/politics/trump-china-nvidia-chips-sales.html",
+    "summary": "The president signaled he would discuss the sale of Nvidia’s Blackwell chips in a summit on Thursday, a move U.S. officials warned would be a “massive” national security mistake."
   },
   {
-    "title": "When This Reporter Comes Calling, the White House Insults Go Flying",
-    "link": "https://www.nytimes.com/2025/10/29/business/media/shirish-date-white-house-journalist-huffpost.html",
-    "summary": "The administration often criticizes journalists, but the treatment of Shirish Dáte, a reporter for HuffPost, stands out."
+    "title": "Geert Wilders’s Party for Freedom Loses Seats in Dutch Election",
+    "link": "https://www.nytimes.com/2025/10/29/world/europe/netherlands-elections-geert-wilders.html",
+    "summary": "A center-left party was poised to become the country’s largest political party, according to exit polls. The anti-immigrant Party for Freedom, led by Mr. Wilders, was expected to lose 12 seats."
   },
   {
-    "title": "U.S. Manufacturing’s Mixed Picture in 4 Charts",
-    "link": "https://www.nytimes.com/2025/10/29/business/mixed-picture-united-states-manufacturing-in-four-charts.html",
-    "summary": "President Trump vowed to bring factories back. Is he succeeding?"
+    "title": "As Both Sides Remain Dug in, What Can Break the Government Shutdown Impasse?",
+    "link": "https://www.nytimes.com/2025/10/29/us/politics/democrats-republicans-shutdown-impasse.html",
+    "summary": "Significant milestones over the next few weeks could shuffle the status quo. For now, both sides remain dug in as the closure heads into a fifth week."
   },
   {
-    "title": "Boeing Reports Big Quarterly Loss but Sales Improved",
-    "link": "https://www.nytimes.com/2025/10/29/business/boeing-earnings-third-quarter.html",
-    "summary": "The aerospace company was hurt by the delay of a new plane but made progress on increasing production of the 737 Max, its most popular aircraft."
+    "title": "F.B.I. Opposes Push for Gabbard to Take Lead on Counterintelligence",
+    "link": "https://www.nytimes.com/2025/10/29/us/politics/fbi-gabbard-counterintelligence.html",
+    "summary": "The F.B.I. made the disclosure in a pointed letter that underscored broader concern over a House bill that would give more authority to Tulsi Gabbard, the director of national intelligence."
   },
   {
-    "title": "South Korea Says the United States Agreed to 15% Tariffs",
-    "link": "https://www.nytimes.com/2025/10/29/us/politics/tariff-trump-south-korea-trade.html",
-    "summary": "Seoul will invest $200 billion, or as much as $20 billion a year, and set aside another $150 billion to invest in its American shipbuilding operations, a South Korean official said."
+    "title": "Kat Abughazaleh, Democratic Congressional Candidate, Among ICE Protesters Indicted",
+    "link": "https://www.nytimes.com/2025/10/29/us/chicago-immigration-protest-indictments.html",
+    "summary": "Six people, including the congressional candidate Kat Abughazaleh, were indicted by a grand jury in Chicago. Ten others were arrested on charges stemming from California protests."
   },
   {
-    "title": "Feted as a Peacemaker in South Korea, Trump Vows to End Hostilities With North Korea",
-    "link": "https://www.nytimes.com/2025/10/29/world/asia/trump-south-north-korea-kim.html",
-    "summary": "President Trump lamented not being able to speak with Mr. Kim, the North Korean leader, but vowed to end the decades of hostilities between the two Koreas."
-  },
-  {
-    "title": "As China and U.S. Split Over Energy, Korea Is Stuck in the Middle",
-    "link": "https://www.nytimes.com/2025/10/29/climate/china-us-korea-clean-energy-tariffs.html",
-    "summary": "It needs the United States for defense and has spent billions building factories in America. But a Trump trade deal this week with China could erase a Korean edge in the U.S. market."
-  },
-  {
-    "title": "Toyota Says $10 Billion U.S. Investment Touted by Trump Isn’t New",
-    "link": "https://www.nytimes.com/2025/10/29/business/trump-toyota-10-billion.html",
-    "summary": "Japanese officials have called into question some elements of the flurry of big new investments announced by President Trump during his Japan visit."
-  },
-  {
-    "title": "Israeli Strikes in Gaza Kill at Least 100, Local Health Officials Say",
-    "link": "https://www.nytimes.com/2025/10/29/world/middleeast/gaza-israel-strikes-ceasefire.html",
-    "summary": "After what appeared to be the deadliest day since a truce deal was agreed on this month, Israel said the cease-fire had resumed."
-  },
-  {
-    "title": "U.S. Middle East Envoy Presses Lebanon to Disarm Hezbollah",
-    "link": "https://www.nytimes.com/2025/10/29/world/middleeast/us-middle-east-envoy-presses-lebanon-to-disarm-hezbollah.html",
-    "summary": "The visit by the envoy, Morgan Ortagus, coincided with a spike in Israeli attacks on Hezbollah in recent weeks that has stoked fears of a renewed conflict."
+    "title": "Prosecutors Who Called Jan. 6 Attackers a ‘Mob of Rioters’ Are Punished",
+    "link": "https://www.nytimes.com/2025/10/29/us/politics/prosecutors-jan-6-trump.html",
+    "summary": "The prosecutors were put on leave after filing a sentencing memo in the case of a man who showed up armed near the home of former President Barack Obama."
   },
   {
     "title": "Helen DeWitt’s New Novel Almost Drove Her To Despair",
@@ -60,39 +40,49 @@
     "summary": "Helen DeWitt’s bewildering co-written novel, “Your Name Here,” took almost 20 years to publish, a process that nearly drove her to despair."
   },
   {
-    "title": "Hurricane Melissa Aftermath Photos and Video: Jamaica and the Caribbean",
-    "link": "https://www.nytimes.com/2025/10/28/weather/hurricane-melissa-caribbean-photos-video.html",
-    "summary": "The system made landfall in Jamaica on Tuesday afternoon, causing widespread flooding and destruction."
+    "title": "How Japan’s New Prime Minister Bonded With Trump",
+    "link": "https://www.nytimes.com/video/world/asia/100000010485242/how-japans-new-prime-minister-bonded-with-trump.html",
+    "summary": "President Trump met with Japan’s new prime minister, Sanae Takaichi, on Tuesday. Javier C. Hernández, The Times’s Tokyo bureau chief, looks at their chemistry, given the friendship Mr. Trump had with her mentor, the slain former Prime Minister Shinzo Abe."
   },
   {
-    "title": "Cuomo Blasts Mamdani for His Rent-Stabilized Unit. But He Had One, Too.",
-    "link": "https://www.nytimes.com/2025/10/29/nyregion/cuomo-rent-stabilized-apartment.html",
-    "summary": "Former Gov. Andrew M. Cuomo lived in what he once described as “a dump, just one long hallway.”"
+    "title": "South Korea Says the United States Agreed to 15% Tariffs",
+    "link": "https://www.nytimes.com/2025/10/29/us/politics/tariff-trump-south-korea-trade.html",
+    "summary": "Seoul will invest $200 billion, or as much as $20 billion a year, and set aside another $150 billion to invest in its American shipbuilding operations, a South Korean official said."
   },
   {
-    "title": "Mamdani Still Hasn’t Said Whether He Supports Ballot Housing Proposals",
-    "link": "https://www.nytimes.com/2025/10/29/nyregion/zohran-mamdani-housing-ballot-measures.html",
-    "summary": "Zohran Mamdani, the front-runner in the New York City mayor’s race, has dodged questions about his position on ballot measures that seek to address the housing crisis, a key issue."
+    "title": "Bloomberg Gives $1.5 Million to Pro-Cuomo Super PAC",
+    "link": "https://www.nytimes.com/2025/10/29/nyregion/bloomberg-cuomo-super-pac.html",
+    "summary": "Michael R. Bloomberg, the former New York City mayor, had stayed out of the race since backing former Gov. Andrew M. Cuomo’s failed Democratic primary campaign."
   },
   {
-    "title": "Street Battles Rage in Ukrainian City After Russian Troops Enter Stronghold",
-    "link": "https://www.nytimes.com/2025/10/29/world/europe/ukraine-russia-street-battles-pokrovsk.html",
-    "summary": "Moscow’s forces infiltrated Pokrovsk after months of attacks on the city, a strategic part of Ukraine’s eastern defenses."
+    "title": "Mamdani’s Candidacy Roils Jewish Communities Across the Country",
+    "link": "https://www.nytimes.com/2025/10/29/us/politics/zohran-mamdani-jews-rabbis.html",
+    "summary": "Zohran Mamdani, the Democratic candidate for mayor of New York City, has said he cannot support Israel as long as it is an officially Jewish state. More than 1,100 American rabbis are warning that the safety of Jews is at risk."
   },
   {
-    "title": "U.S. Says It Will Cut Troops in Eastern Europe",
-    "link": "https://www.nytimes.com/2025/10/29/world/europe/us-troops-eastern-europe-romania.html",
-    "summary": "About 700 troops are expected to be withdrawn as Trump administration officials shift resources to the Indo-Pacific region."
+    "title": "Karine Jean-Pierre and a Book Tour Most Authors Would Not Dream Of",
+    "link": "https://www.nytimes.com/2025/10/29/us/politics/karine-jean-pierre-book.html",
+    "summary": "The Biden White House press secretary seems to be everywhere promoting her memoir, including an “absolute train wreck’’ of an interview with The New Yorker."
   },
   {
-    "title": "Putin Announces Test of Tsunami-Making Nuclear Weapon",
-    "link": "https://www.nytimes.com/2025/10/29/world/europe/russia-missile-poseidon-putin-nuclear-tests.html",
-    "summary": "The test comes days after President Vladimir V. Putin announced the previous trial of another Russian nuclear weapon."
+    "title": "In Mississippi, Democrats Hope New Maps Lead to Statehouse Wins",
+    "link": "https://www.nytimes.com/2025/10/29/us/politics/mississippi-elections.html",
+    "summary": "A federal court says Republican legislators diluted Black voter strength. New maps may help Democrats break the G.O.P. supermajority in Jackson on Nov. 4."
   },
   {
-    "title": "Whole Foods, MAHA and the Battle Over Healthy Eating in America",
-    "link": "https://www.nytimes.com/2025/10/29/dining/whole-foods.html",
-    "summary": "As diet and wellness become increasingly politicized, one of the most recognizable grocery brands navigates the debate."
+    "title": "Police Raid in Rio de Janeiro Leaves Over 130 Dead",
+    "link": "https://www.nytimes.com/2025/10/29/world/americas/rio-brazil-police-raid-deaths.html",
+    "summary": "The death toll in Rio’s deadliest police operation in history rose to 132 people, the state authorities say, sparking outrage and a reckoning."
+  },
+  {
+    "title": "Burglars in Disguise. Millions in Jewels Taken. But This Was in Queens.",
+    "link": "https://www.nytimes.com/2025/10/29/nyregion/jewel-theft-jamaica-hills-queens.html",
+    "summary": "Thieves dressed as construction workers stole $3.2 million in jewels and cash from a jewelry store owner’s family home, the police said."
+  },
+  {
+    "title": "Video Analysis Shows Staged Recovery of Israeli Hostage Remains",
+    "link": "https://www.nytimes.com/2025/10/29/world/europe/gaza-hamas-israel-remains.html",
+    "summary": "Israel’s military released a drone video of the incident in Gaza, and The New York Times analyzed the footage."
   },
   {
     "title": "Life Lessons from (Very Old) Bowhead Whales",
@@ -100,38 +90,38 @@
     "summary": "A gene that helped bowheads adapt to frigid Arctic waters also granted them extraordinary longevity. Could it help aging humans become more resilient?"
   },
   {
-    "title": "The Best Ice Cream, Coffee and More ‘Little Treats’ in NYC",
-    "link": "https://www.nytimes.com/2025/10/29/dining/coffee-ice-cream-candy-nyc-treats.html",
-    "summary": "Cake slices, sundaes, morning buns, noodles and shakes — all $20 or under — for your immediate consumption."
+    "title": "Trump Lost the Trade War to China",
+    "link": "https://www.nytimes.com/2025/10/29/opinion/china-us-trade-war-xi-trump.html",
+    "summary": "Xi now sees our weakness and will try to exploit it, perhaps leaving America a diminished presence in Asia."
   },
   {
-    "title": "A Nazi Tattoo Exposes Democrats’ Greatest Weakness",
-    "link": "https://www.nytimes.com/2025/10/29/opinion/nazi-tattoo-graham-platner-democrats.html",
-    "summary": "Do Democrats know what the working class actually looks like?"
+    "title": "The Fed Resisted Trump. Can It Resist a Return of Inflation?",
+    "link": "https://www.nytimes.com/2025/10/29/opinion/federal-reserve-powell-miran-schmid-inflation.html",
+    "summary": "The Federal Reserve didn’t comply with President Trump’s wishes."
   },
   {
-    "title": "Hurricane Melissa Has Arrived in Cuba",
-    "link": "https://www.nytimes.com/2025/10/29/us/jamaica-melissa-destruction-cuba-hurricane.html",
-    "summary": "The storm hit Jamaica as one of the strongest Atlantic hurricanes ever."
+    "title": "Obamacare Prices Set to Increase Significantly",
+    "link": "https://www.nytimes.com/2025/10/29/briefing/obamacare-prices-hurricane-melissa-damage.html",
+    "summary": "Also, the Caribbean begins to assess damage from Melissa. Here’s the latest at the end of Wednesday."
   },
   {
-    "title": "Southern California Edison Offers Compensation to Los Angeles Fire Victims",
-    "link": "https://www.nytimes.com/2025/10/29/us/los-angeles-eaton-fire-victims-settlement-offer.html",
-    "summary": "The utility whose equipment has been linked to the devastating Eaton fire in January is offering to pay fire survivors. But if they accept, they would be giving up their right to sue."
+    "title": "Virginia Moves Closer to Redistricting Plan That Would Help Democrats",
+    "link": "https://www.nytimes.com/2025/10/29/us/virginia-congress-redistricting-midterms.html",
+    "summary": "Republicans in Texas, North Carolina and Missouri have passed new maps while Democrats in California, Illinois and Virginia are pursuing similar efforts in response."
   },
   {
-    "title": "To Avert Crisis, Talladega College Sells Its Art Treasures",
-    "link": "https://www.nytimes.com/2025/10/29/arts/design/talladega-college-sells-hale-woodruff-murals-hbcu.html",
-    "summary": "An H.B.C.U.’s remarkable Hale Woodruff murals commemorating Black history have been bought by an art museum and two foundations. But the college says it is not completely letting go."
+    "title": "Covid and Flu Can Triple Your Risk of Heart Attack",
+    "link": "https://www.nytimes.com/2025/10/29/well/viral-infections-covid-flu-heart-attacks.html",
+    "summary": "A new analysis adds to the research about the link between viral infections and heart disease."
   },
   {
-    "title": "Paramount to Lay Off 2,000 Employees",
-    "link": "https://www.nytimes.com/2025/10/29/business/media/paramount-layoffs-skydance.html",
-    "summary": "The job cuts are the result of a merger with Skydance, the Hollywood studio founded by David Ellison."
+    "title": "Five Houses Collapse in North Carolina’s Outer Banks",
+    "link": "https://www.nytimes.com/2025/10/29/us/outer-banks-homes-collapsing-ocean.html",
+    "summary": "Stormy weather, strong winds and erosion have swept away more than a dozen houses on the barrier islands since mid-September."
   },
   {
-    "title": "Character.AI to Ban Children Under 18 From Using Its Chatbots",
-    "link": "https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html",
-    "summary": "The start-up, which creates A.I. companions, faces lawsuits from families who have accused Character.AI’s chatbots of leading teenagers to kill themselves."
+    "title": "2 Louvre Heist Suspects Have ‘Partially Admitted’ to the Crime",
+    "link": "https://www.nytimes.com/2025/10/29/world/europe/louvre-theft-suspects-confession.html",
+    "summary": "The Paris prosecutor overseeing the case said the two men face 15 years in prison for stealing some of France’s crown jewels, while two other suspects have yet to be caught."
   }
 ]

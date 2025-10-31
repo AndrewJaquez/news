@@ -1,8 +1,33 @@
 [
   {
+    "title": "A.I. Spending Is Accelerating Among Tech’s Biggest Companies",
+    "link": "https://www.nytimes.com/2025/10/31/technology/ai-spending-accelerating.html",
+    "summary": "Despite the risk of a bubble, Google, Meta, Microsoft and Amazon plan to spend billions more on artificial intelligence than they already do."
+  },
+  {
+    "title": "Nvidia Uncertain if Return to China Is Closer After Trump-Xi Meeting",
+    "link": "https://www.nytimes.com/2025/10/31/business/jensen-huang-nvidia-china.html",
+    "summary": "Amid skyrocketing demand for artificial intelligence systems, the chip-making giant has been thrust into the economic feud between Beijing and Washington."
+  },
+  {
+    "title": "Food Stamp Funds Running Out, and Prince Andrew Loses Royal Title Amid Epstein Scandal",
+    "link": "https://www.nytimes.com/2025/10/31/podcasts/the-headlines/government-shutdown-snap-benefits-air-traffic-control.html",
+    "summary": "Plus, your Friday news quiz."
+  },
+  {
+    "title": "The Debate Dividing the Supreme Court’s Liberal Justices",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/supreme-court-kagan-jackson-liberal-justices.html",
+    "summary": "Outnumbered and facing vast stakes, Justices Kagan and Jackson are split over the best approach: investing in diplomacy inside the court or sounding the alarm outside."
+  },
+  {
     "title": "Trump’s Call to Resume Nuclear Testing After Decades Revives a Cold War Debate",
     "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-nuclear-testing-cold-war.html",
     "summary": "President Trump explained the order by saying other, unnamed nations were testing their own nuclear weapons, even though no country has tested since 2017."
+  },
+  {
+    "title": "How the Trump-Xi Meeting Eased a Major Trade War",
+    "link": "https://www.nytimes.com/video/world/asia/100000010489449/trump-xi-jinping-trade-war.html",
+    "summary": "President Trump and China’s leader Xi Jinping just had a highly anticipated meeting in South Korea. David Pierson, a New York Times foreign correspondent covering China, breaks down what they accomplished and how they de-escalated a major trade war."
   },
   {
     "title": "In China Truce on Tariffs and Rare Earths, National Security Controls Are Bargaining Chip",
@@ -15,9 +40,14 @@
     "summary": "Though the country’s nuclear arsenal has undergone no explosive testing for decades, federal experts say it can reliably obliterate targets halfway around the globe."
   },
   {
-    "title": "Judge Skeptical Over Trump Administration Decision to Suspend Food Stamps",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/food-stamps-shutdown.html",
-    "summary": "The arguments at times appeared to frustrate the judge, who promised to rule soon on a suit filed by roughly two dozen states seeking to ensure people don’t go hungry as a result of a budgetary dispute."
+    "title": "Executions and Mass Casualties: Videos Show Horror Unfolding in Sudan",
+    "link": "https://www.nytimes.com/2025/10/30/world/africa/sudan-el-fasher-atrocities-executions-video.html",
+    "summary": "Evidence of atrocities emerging from the city of El Fasher stoked fears that the Sudanese region of Darfur is plunging, once again, into a cycle of genocidal violence."
+  },
+  {
+    "title": "Dissecting Three Stephen King Adaptations",
+    "link": "https://www.nytimes.com/video/books/100000010476801/dissecting-three-stephen-king-adaptations.html",
+    "summary": "Gilbert Cruz, editor of The New York Times Book Review, breaks down three Stephen King movie adaptations and how they differ from their source material."
   },
   {
     "title": "In Louisiana, Threat of Lost SNAP Food Benefits Is Rattling the Vulnerable",
@@ -25,14 +55,24 @@
     "summary": "The state has vowed to step in and provide food assistance for many who face a cut-off in federal SNAP aid. But there is still fear and anxiety about how to get by."
   },
   {
-    "title": "Older New Yorkers Brace for Food Stamp Cuts: ‘I’m Just Praying’",
-    "link": "https://www.nytimes.com/2025/10/30/nyregion/nyc-snap-food-stamps-shutdown.html",
-    "summary": "The SNAP program is losing federal funding on Saturday. Many older people won’t be able to easily line up at food pantries or go out and get second jobs."
+    "title": "Judge Skeptical Over Trump Administration Decision to Suspend Food Stamps",
+    "link": "https://www.nytimes.com/2025/10/30/us/politics/food-stamps-shutdown.html",
+    "summary": "The arguments at times appeared to frustrate the judge, who promised to rule soon on a suit filed by roughly two dozen states seeking to ensure people don’t go hungry as a result of a budgetary dispute."
   },
   {
-    "title": "Executions and Mass Casualties: Videos Show Horror Unfolding in Sudan",
-    "link": "https://www.nytimes.com/2025/10/30/world/africa/sudan-el-fasher-atrocities-executions-video.html",
-    "summary": "Evidence of atrocities emerging from the city of El Fasher stoked fears that the Sudanese region of Darfur is plunging, once again, into a cycle of genocidal violence."
+    "title": "Some of Trump’s Favorite Things on Asia Trip: A Crown and ‘Vicious’ Weapons",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/trump-south-korea-china-trade.html",
+    "summary": "President Trump traveled to Asia to be a statesman, a showman and a traveling salesman, depending on the audience."
+  },
+  {
+    "title": "Carney Plans to Meet With Xi to Try and Reset Relations",
+    "link": "https://www.nytimes.com/2025/10/31/world/canada/carney-xi-meeting-canada-china.html",
+    "summary": "The leaders of Canada and China met for the first time in eight years to try to reset relations after years of acrimony."
+  },
+  {
+    "title": "Xi Delivers Veiled Warning to Nations Not to Take the U.S.’s Side",
+    "link": "https://www.nytimes.com/2025/10/31/world/asia/china-apec-trump-trade.html",
+    "summary": "At an Asia-Pacific summit, the Chinese leader urged countries to “resist unilateral bullying,” an appeal that seemed at odds with his country’s recent actions."
   },
   {
     "title": "Trump Officials Move Into Military Residences in D.C. Area",
@@ -45,16 +85,6 @@
     "summary": "The F.A.A. warned that a lack of certified air traffic controllers in Orlando could cause delays throughout the East Coast."
   },
   {
-    "title": "Trump Calls on Republicans to End Filibuster in Shutdown Fight",
-    "link": "https://www.nytimes.com/2025/10/31/us/politics/trump-filibuster-shutdown.html",
-    "summary": "The president said it was time for G.O.P. leaders to get rid of the longstanding rule requiring most Senate legislation to have 60 votes to pass."
-  },
-  {
-    "title": "A Top Trump Official Had to Sell His Stock. He May Have Saved Millions.",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/frank-bisignano-fiserv-stock-price.html",
-    "summary": "Frank Bisignano, who holds top jobs at the Social Security Administration and the I.R.S., sold his stake in Fiserv before the company’s stock cratered this week."
-  },
-  {
     "title": "JPMorgan Alerted U.S. to Epstein Transfers Involving Wall St. Figures",
     "link": "https://www.nytimes.com/2025/10/30/business/jpmorgan-jeffrey-epstein.html",
     "summary": "After Jeffrey Epstein’s 2019 death, the bank reported more than $1 billion in potentially suspicious transactions."
@@ -65,29 +95,34 @@
     "summary": "The extraordinary move caps his fall from grace over his ties to the convicted sexual predator Jeffrey Epstein."
   },
   {
+    "title": "Mamdani’s Speech About Being Muslim Resonates Beyond New York City",
+    "link": "https://www.nytimes.com/2025/10/31/nyregion/mamdani-muslim-speech.html",
+    "summary": "A video of a recent address by Zohran Mamdani, the Democratic mayoral candidate, has been viewed more than 25 million times."
+  },
+  {
+    "title": "If Elected, How Might Mamdani Use Mayoral Power in Ways That Affect Israel?",
+    "link": "https://www.nytimes.com/2025/10/31/nyregion/mamdani-boycott-israel.html",
+    "summary": "Zohran Mamdani’s opposition to Israel’s treatment of Palestinians could influence New York City’s investments, his appointees and city policing tactics."
+  },
+  {
+    "title": "Coal Jobs Are Disappearing on the Navajo Nation. Can Trump Bring Them Back?",
+    "link": "https://www.nytimes.com/2025/10/31/business/coal-jobs-are-disappearing-on-the-navajo-nation-can-trump-bring-them-back.html",
+    "summary": "As the economic engine for the region, coal offered solid work. But it has also used up water, polluted the air and raised health concerns."
+  },
+  {
+    "title": "Exxon’s and Chevron’s Profits Fall as Oil Prices Stay Low",
+    "link": "https://www.nytimes.com/2025/10/31/business/energy-environment/exxon-mobil-chevron-earnings.html",
+    "summary": "But the companies and other large oil producers are continuing to increase production because drilling still remains profitable."
+  },
+  {
     "title": "2 Men Die in Basement Flooding as Sudden Downpour Hits New York Area",
     "link": "https://www.nytimes.com/2025/10/30/nyregion/nyc-floods-brooklyn-basement-death.html",
     "summary": "Much of the rainfall came in an intense 20-minute period in the afternoon, officials said. A record two inches fell at LaGuardia Airport."
   },
   {
-    "title": "Amid Flattened Homes, Jamaica Starts to Assess Hurricane Melissa’s Damage",
-    "link": "https://www.nytimes.com/2025/10/30/us/hurricane-melissa-jamaica.html",
-    "summary": "The Jamaican authorities said they were not able to confirm the death toll from the storm yet, but expected it to rise in the coming days. At least 30 people died in Haiti, officials said."
-  },
-  {
-    "title": "A Texas Family Rode Out Hurricane Melissa at a Jamaican Beach Resort",
-    "link": "https://www.nytimes.com/2025/10/30/travel/hurricane-melissa-jamaica-resort.html",
-    "summary": "A Texas woman stranded in Jamaica with her family described what it was like to experience the catastrophic storm while sheltering at a Sandals resort."
-  },
-  {
-    "title": "Jamaica Prepared a Financial Fortress for Disaster. Hurricane Melissa Will Test It.",
-    "link": "https://www.nytimes.com/2025/10/30/world/americas/jamaica-hurricane-melissa-disaster-preparedness-finances.html",
-    "summary": "All of Jamaica’s financial defenses — insurance, bonds and credit lines — could be deployed to recover from Hurricane Melissa. Will it be enough?"
-  },
-  {
-    "title": "Gov. Gavin Newsom Turns California Election Into Possible 2028 Platform",
-    "link": "https://www.nytimes.com/2025/10/30/us/newsom-california-proposition-50-presidential.html",
-    "summary": "Gov. Gavin Newsom has attracted support for his redistricting ballot measure from voters outside of California. He could reap the benefits for a 2028 presidential run."
+    "title": "A Legal Blizzard in Texas Targets Democrats and Promotes Ken Paxton",
+    "link": "https://www.nytimes.com/2025/10/31/us/politics/ken-paxton.html",
+    "summary": "The Texas attorney general has escalated the pace of high-profile legal actions, raising concern that his Senate campaign is influencing his law enforcement work."
   },
   {
     "title": "Ohio Republicans Gain Ground in Push for More Seats in Congress",
@@ -95,43 +130,43 @@
     "summary": "The map, which is expected to be approved on Friday morning by the state’s redistricting commission, improves Republicans’ odds of picking up two more seats."
   },
   {
-    "title": "Apple’s iPhones Fuel Record Sales and Profit",
-    "link": "https://www.nytimes.com/2025/10/30/business/apple-earnings.html",
-    "summary": "The company’s revenue rose to above $100 billion in the quarter for the first time, and profit soared 86 percent."
+    "title": "Tim Meadows Just Wants to Keep Showing Up to Be Funny",
+    "link": "https://www.nytimes.com/2025/10/30/arts/television/tim-meadows-just-wants-to-keep-showing-up-to-be-funny.html",
+    "summary": "Twenty-five years after he left “S.N.L.,” he is still finding new audiences, most recently with a new CBS sitcom and a role in the DC Comics universe."
   },
   {
-    "title": "Amazon’s Profit Is Up 38% on Strong Performance",
-    "link": "https://www.nytimes.com/2025/10/30/business/amazon-earnings.html",
-    "summary": "After unexpectedly strong sales and profits across its consumer and cloud businesses, the tech giant said another strong quarter might be ahead."
+    "title": "The Unanswered Question From the Biden Autopen Controversy",
+    "link": "https://www.nytimes.com/2025/10/31/opinion/biden-comer-autopen.html",
+    "summary": "What happens when a President’s physical or mental decline makes him unfit to continue to serve?"
   },
   {
-    "title": "Hey, Lefties! Trump Has Stolen Your Game.",
-    "link": "https://www.nytimes.com/2025/10/30/opinion/trump-conservatives-progressives.html",
-    "summary": "MAGA is using left ideas to destroy the left."
+    "title": "At the Supreme Court, Liberal Justices Are Split",
+    "link": "https://www.nytimes.com/2025/10/31/briefing/at-the-supreme-court-liberal-justices-are-split.html",
+    "summary": "We go inside their strained relationship."
   },
   {
-    "title": "I Now Mispronounce You the Likely Next Mayor of New York City",
-    "link": "https://www.nytimes.com/2025/10/30/opinion/mispronouncing-mamdani.html",
-    "summary": "A lot of people seem to trip over Zohran Mamdani’s name. The reason may not be as simple as it seems."
+    "title": "Jimmy Kimmel Can’t Believe He Agrees With Marjorie Taylor Greene",
+    "link": "https://www.nytimes.com/2025/10/31/arts/television/jimmy-kimmel-marjorie-taylor-greene.html",
+    "summary": "“Sometimes you go so far right you come out on the other side,” Kimmel said of the congresswoman, who has clashed with fellow Republicans over health care."
   },
   {
-    "title": "Democrats Condemn Trump Officials for Boat Strike Secrecy",
-    "link": "https://www.nytimes.com/2025/10/30/us/politics/trump-democrats-boat-strikes.html",
-    "summary": "Senator Mark Warner said the administration’s decision to hold a Republicans-only briefing on the campaign was “corrosive to our democracy.”"
+    "title": "How Saudi Arabia and Qatar Benefited From Rule Changes to Reach the World Cup",
+    "link": "https://www.nytimes.com/2025/10/31/world/asia/saudi-arabia-qatar-world-cup-rules.html",
+    "summary": "A soccer governing body that both countries have helped bankroll gave them extra rest and home-field advantage to set up World Cup qualification."
   },
   {
-    "title": "Thieves Steal More Than 1,000 Items From Oakland Museum of California",
-    "link": "https://www.nytimes.com/2025/10/30/arts/design/museum-heist-oakland-california.html",
-    "summary": "A robbery this month targeted Indigenous baskets, jewelry and other artifacts from a storage facility of the Oakland Museum of California."
+    "title": "Jamaica Prepared a Financial Fortress for Disaster. Hurricane Melissa Will Test It.",
+    "link": "https://www.nytimes.com/2025/10/30/world/americas/jamaica-hurricane-melissa-disaster-preparedness-finances.html",
+    "summary": "All of Jamaica’s financial defenses — insurance, bonds and credit lines — could be deployed to recover from Hurricane Melissa. Will it be enough?"
   },
   {
-    "title": "Sean ‘Diddy’ Combs Transferred to Federal Prison in New Jersey",
-    "link": "https://www.nytimes.com/2025/10/30/arts/music/sean-combs-diddy-prison.html",
-    "summary": "The music mogul was sentenced earlier this month to 50 months in prison for two counts of transportation to engage in prostitution."
+    "title": "Three Billionaires Walk Into a Fried Chicken Restaurant",
+    "link": "https://www.nytimes.com/2025/10/31/business/nvidia-samsung-hyundai-chicken-korea.html",
+    "summary": "Jensen Huang, the Nvidia chief executive, and the leaders of Samsung and Hyundai staged a regular-folks outing in Seoul before announcing a business deal."
   },
   {
-    "title": "Marthe Gautier, 96, Dies; Had Key Role in Down Syndrome Breakthrough",
-    "link": "https://www.nytimes.com/2025/10/30/health/marthe-gautier-dead.html",
-    "summary": "She had to fight for recognition after a male colleague took credit for her work in identifying an extra chromosome as the cause of that genetic condition."
+    "title": "Patricia Crowther, Who Brought Witchcraft Out of the Shadows, Dies at 97",
+    "link": "https://www.nytimes.com/2025/10/30/style/patricia-crowther-dead.html",
+    "summary": "As a high priestess of Wicca, a branch of modern paganism founded in England, she promoted an image of witches as early feminists who were benevolent and spiritual."
   }
 ]

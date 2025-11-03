@@ -2,17 +2,17 @@
   {
     "title": "Supreme Court Confronts Trump and His Tariffs in Test of Presidential Power",
     "link": "https://www.nytimes.com/2025/11/03/us/politics/supreme-court-trump-tariffs.html",
-    "summary": "The justices face so-called legitimacy dilemma as they deal with a tricky legal dispute and a president who has made clear he would view defeat as a personal insult."
+    "summary": "The justices face a so-called legitimacy dilemma as they deal with a tricky legal dispute and a president who has made clear he would view defeat as a personal insult."
   },
   {
-    "title": "The Monthslong Legal Battle to Save Foreign Aid",
-    "link": "https://www.nytimes.com/2025/11/03/us/politics/twisted-path-foreign-aid-court-case.html",
-    "summary": "One lawsuit, underway since February, has sought to compel President Trump to honor Congress’s vision for foreign aid. It still has a long way to go."
+    "title": "Jack Smith, Trump’s Target, Moves From Defense to Counterattack",
+    "link": "https://www.nytimes.com/2025/11/03/us/politics/jack-smith-trump-investigations.html",
+    "summary": "The former special counsel has told people in his orbit he welcomes the opportunity to present the public case against the president denied to him by adverse court rulings and the 2024 election."
   },
   {
-    "title": "The Big Elections to Watch This Week, and a Louvre Heist Update",
-    "link": "https://www.nytimes.com/2025/11/03/podcasts/the-headlines/election-day-zohran-mamdani-new-york-new-jersey-virginia-redistricting.html",
-    "summary": "Plus, squeezing in a marathon before your full-time job."
+    "title": "Ford Foundation Leader Vows to Protect Elections and Law as Trump Threatens Crackdown",
+    "link": "https://www.nytimes.com/2025/11/03/us/politics/ford-foundation-heather-gerken-trump.html",
+    "summary": "Heather K. Gerken, a voting rights scholar and former dean of Yale Law School, plans to intensify its emphasis on democracy as it girds for attacks from the Trump administration."
   },
   {
     "title": "In Redistricting Battles, Here’s How Trump, Republicans and Democrats Are Faring",
@@ -45,14 +45,24 @@
     "summary": "Meet Mark Grebner, the Michigan statistician who helped pioneer the science of predicting whether someone will vote Republican or Democratic."
   },
   {
-    "title": "These 5 Key Voting Groups Could Decide the Mayor’s Race",
-    "link": "https://www.nytimes.com/2025/11/03/nyregion/nyc-mayoral-election-voting-blocs.html",
-    "summary": "From religion to race, age to ethnicity, pockets of New Yorkers represent key blocs that can unlock tens of thousands of votes in a citywide race."
+    "title": "Our Election Guide",
+    "link": "https://www.nytimes.com/2025/11/03/briefing/our-election-guide.html",
+    "summary": "Tomorrow is an off-year Election Day across the United States. We explain what is happening."
   },
   {
-    "title": "N.J. Democrats Hope Early Vote Advantage Is Enough as Race Enters Last Days",
-    "link": "https://www.nytimes.com/2025/11/03/nyregion/nj-democrats-early-votes-governor.html",
-    "summary": "As a close race for governor between Mikie Sherrill and Jack Ciattarelli comes to a close, the two campaigns were reading the tea leaves and pulling out the stops."
+    "title": "Kimberly-Clark to Buy Tylenol Maker Kenvue for $40 Billion",
+    "link": "https://www.nytimes.com/2025/11/03/business/kimberly-clark-kenvue.html",
+    "summary": "The owner of Kleenex and Huggies will acquire the company that has fought unproven claims by the Trump administration that a common pain reliever is linked to autism."
+  },
+  {
+    "title": "John Irving Talks About ‘Queen Esther,’ Trump and Why He Can’t Stop Writing",
+    "link": "https://www.nytimes.com/2025/11/03/style/john-irving-queen-esther.html",
+    "summary": "The literary titan is still publishing books, and still pushing envelopes, at 83. But you will not see him in the United States anytime soon."
+  },
+  {
+    "title": "China Started Separating Its Economy From the West Years Ago",
+    "link": "https://www.nytimes.com/2025/11/03/business/china-five-year-plan.html",
+    "summary": "Two decades of sustained effort to build national self-reliance and minimize imports have antagonized trade partners but fortified what a senior adviser called Beijing’s “bulwark” against conflicts."
   },
   {
     "title": "‘A Big Positive’: How One Company Plans to Profit From Medicaid Cuts",
@@ -65,14 +75,14 @@
     "summary": "Poor Americans will face new challenges to enroll, and states will have to build new bureaucracies."
   },
   {
-    "title": "In Israel, an Unfamiliar Word Is Heard: Peace",
-    "link": "https://www.nytimes.com/2025/11/03/world/middleeast/israel-hamas-peace-gaza.html",
-    "summary": "A new kind of Mideast peace process is underway, as a determined Trump administration and its allies in the Muslim world seek to broaden a tenuous cease-fire between Israel and Hamas."
-  },
-  {
     "title": "Control of Tesla Is at Stake in Vote on Elon Musk’s Pay Plan",
     "link": "https://www.nytimes.com/2025/11/03/business/elon-musk-tesla-pay-vote.html",
     "summary": "Mr. Musk’s supporters say he may quit if shareholders don’t approve a trillion-dollar package. Some investors say it’s excessive and would give him too much sway."
+  },
+  {
+    "title": "OpenAI Signs $38 Billion Cloud Computing Deal With Amazon",
+    "link": "https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html",
+    "summary": "After signing agreements to use computing power from Nvidia, AMD and Oracle, OpenAI is teaming up with the world’s largest cloud computing company."
   },
   {
     "title": "Arrests in Louvre Heist Show Power of DNA Databases in Solving Crimes",
@@ -80,24 +90,29 @@
     "summary": "France’s trove of DNA profiles has helped solve high-profile crimes and was used to find some of the Louvre suspects, and it is growing. The police can also access other countries’ databases."
   },
   {
+    "title": "Louvre Heist: What to Know About the Suspects and Investigation",
+    "link": "https://www.nytimes.com/2025/11/03/world/europe/louvre-museum-robbery-suspects-investigation.html",
+    "summary": "Three of the four people whom the police believe carried out the theft have been arrested. But the jewelry is nowhere to be found."
+  },
+  {
+    "title": "After Fleeing a Massacre, Survivors Encountered Still More Gunfire and Abductions",
+    "link": "https://www.nytimes.com/2025/11/03/world/africa/sudan-el-fasher-darfur-massacre-rsf.html",
+    "summary": "Thousands of people who witnessed atrocities have tried to escape El Fasher in Sudan’s Darfur region since paramilitary fighters seized that city in late October."
+  },
+  {
+    "title": "How A.I. Is Transforming Dating Apps",
+    "link": "https://www.nytimes.com/2025/11/03/technology/ai-dating-apps.html",
+    "summary": "Meet your artificial intelligence matchmakers. These A.I. tools are changing dating apps, so users don’t have to swipe through an endless scroll of profiles."
+  },
+  {
+    "title": "Facebook Dating Has Become a Surprise Hit for the Social Network",
+    "link": "https://www.nytimes.com/2025/11/03/technology/facebook-dating-surprise-hit.html",
+    "summary": "Facebook’s free dating service has 21 million users, more than the popular dating app Hinge, as the social network reinvents itself."
+  },
+  {
     "title": "How the Interborough Express Could Transform New York",
     "link": "https://www.nytimes.com/2025/10/31/nyregion/interborough-express-ibx-new-york-subway.html",
     "summary": "The new light-rail train, linking Queens and Brooklyn, would signal a shift in the city’s center of gravity, toward one less tethered to the office towers of Midtown."
-  },
-  {
-    "title": "A Thrilling Finish to N.Y.C. Marathon as Kenyans Dominate Elite Races",
-    "link": "https://www.nytimes.com/2025/11/02/nyregion/nyc-marathon-elite-races-winners-records.html",
-    "summary": "It was a record-setting day as more than 50,000 athletes packed the streets for the 2025 New York City Marathon. Benson Kipruto and Hellen Obiri triumphed."
-  },
-  {
-    "title": "The NYC Marathon in Photos and Videos",
-    "link": "https://www.nytimes.com/2025/11/02/nyregion/nyc-marathon-photos-videos.html",
-    "summary": "Some 55,000 people came out to race through the five boroughs on a sunny Sunday."
-  },
-  {
-    "title": "Maria Riva, Dietrich Daughter Who Demystified the Legend, Dies at 100",
-    "link": "https://www.nytimes.com/2025/11/02/arts/television/maria-riva-dead.html",
-    "summary": "She was her mother’s handmaiden and aide-de-camp. In 1993, her blockbuster biography told of the awful price she paid."
   },
   {
     "title": "These Israeli Dissidents Can Show Americans How to Be a Good Citizen of a Bad Country",
@@ -110,23 +125,23 @@
     "summary": "The Vermont senator on how to take the country back from elites — on both sides of the aisle."
   },
   {
-    "title": "At Least 15 Dead and Hundreds More Injured After Quake Hits Afghanistan",
-    "link": "https://www.nytimes.com/2025/11/02/world/asia/afghanistan-earthquake-blue-mosque.html",
-    "summary": "The 6.3-magnitude quake struck near Mazar-i-Sharif, a northern city known for its magnificent Blue Mosque, which suffered damage."
+    "title": "Torre dei Conti Partially Collapses in Rome, Trapping Worker",
+    "link": "https://www.nytimes.com/2025/11/03/world/europe/tower-collapse-rome-colosseum-torre-dei-conti.html",
+    "summary": "Rescue workers were trying to remove the man from the debris at the medieval tower, but said it was a dangerous operation. Another man was seriously injured in the collapse."
   },
   {
-    "title": "Inspired by Rome’s Pantheon: Antony Gormley and Tadao Ando’s Art Cave",
-    "link": "https://www.nytimes.com/2025/11/03/arts/south-korea-museum-art-cave.html",
-    "summary": "The British sculptor Antony Gormley and the Japanese architect Tadao Ando designed an installation evoking the ancient Roman dome. Building it was complicated."
+    "title": "A Bloody Prison Beating Was Caught on Video. No Guards Were Punished.",
+    "link": "https://www.nytimes.com/2025/11/03/nyregion/ny-prison-guards-inmate-video.html",
+    "summary": "A New York prisoner accused corrections officers of assault and sexual abuse. State officials deemed his claims unfounded despite footage of the encounter."
   },
   {
-    "title": "India Wins Women’s Cricket World Cup",
-    "link": "https://www.nytimes.com/2025/11/03/world/asia/india-women-cricket-world-cup.html",
-    "summary": "A team that faced seemingly insurmountable odds wins its first championship, with wider ramifications for the role women play in public life."
+    "title": "In Israel, an Unfamiliar Word Is Heard: Peace",
+    "link": "https://www.nytimes.com/2025/11/03/world/middleeast/israel-hamas-peace-gaza.html",
+    "summary": "A new kind of Mideast peace process is underway, as a determined Trump administration and its allies in the Muslim world seek to broaden a tenuous cease-fire between Israel and Hamas."
   },
   {
-    "title": "Martha Layne Collins, 88, Dies; Kentucky’s First Female Governor",
-    "link": "https://www.nytimes.com/2025/11/02/obituaries/martha-layne-collins-dead.html",
-    "summary": "She rose from a junior high school teacher to the state’s top official, and helped persuade Toyota to build its first American factory in Georgetown, Ky."
+    "title": "In Mexico, Killer Whales Take Down Great White Sharks",
+    "link": "https://www.nytimes.com/2025/11/03/science/white-sharks-orcas.html",
+    "summary": "A pod of orcas in the Gulf of California has repeatedly hunted juvenile white sharks to feast on their livers."
   }
 ]

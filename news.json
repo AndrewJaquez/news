@@ -1,8 +1,23 @@
 [
   {
-    "title": "Supreme Court Confronts Trump and His Tariffs in Test of Presidential Power",
-    "link": "https://www.nytimes.com/2025/11/03/us/politics/supreme-court-trump-tariffs.html",
-    "summary": "The justices face a so-called legitimacy dilemma as they deal with a tricky legal dispute and a president who has made clear he would view defeat as a personal insult."
+    "title": "With Acquisition, Kimberly-Clark Bets That Tylenol Can Weather the Storm",
+    "link": "https://www.nytimes.com/2025/11/03/health/tylenol-autism-kimberly-clark-kenvue.html",
+    "summary": "The consumer products giant reached a $40 billion deal to buy Kenvue, the maker of Tylenol, despite a barrage of unproven claims from President Trump and others that use of the pain reliever during pregnancy can cause autism."
+  },
+  {
+    "title": "The Battle Over an Activist Who Protested Stephen Miller Near His Virginia Home",
+    "link": "https://www.nytimes.com/2025/11/03/us/politics/stephen-miller-activist-battle-free-speech.html",
+    "summary": "Criminal inquiries pit the Miller family’s safety concerns against the First Amendment rights of an activist in Northern Virginia critical of the administration."
+  },
+  {
+    "title": "Houses of Worship Struggle to Feed New Yorkers During SNAP Stalemate",
+    "link": "https://www.nytimes.com/2025/11/03/nyregion/church-pantries-food-aid.html",
+    "summary": "In New York City, there are about 600 food pantries scattered across the five boroughs and at least 90 percent are run by either a religious organization or a nonprofit connected to a place of worship."
+  },
+  {
+    "title": "WIC Food Aid Program for Families Gets Funding Stopgap",
+    "link": "https://www.nytimes.com/2025/11/03/us/politics/wic-snap-food-aid.html",
+    "summary": "An injection of $450 million for WIC comes as the Trump administration announced it would only fund partial benefits for another food aid program, the Supplemental Nutrition Assistance Program, or SNAP, for November."
   },
   {
     "title": "Jack Smith, Trump’s Target, Moves From Defense to Counterattack",
@@ -10,49 +25,24 @@
     "summary": "The former special counsel has told people in his orbit he welcomes the opportunity to present the public case against the president denied to him by adverse court rulings and the 2024 election."
   },
   {
+    "title": "Supreme Court Confronts Trump and His Tariffs in Test of Presidential Power",
+    "link": "https://www.nytimes.com/2025/11/03/us/politics/supreme-court-trump-tariffs.html",
+    "summary": "The justices face a so-called legitimacy dilemma as they deal with a tricky legal dispute and a president who has made clear he would view defeat as a personal insult."
+  },
+  {
     "title": "Ford Foundation Leader Vows to Protect Elections and Law as Trump Threatens Crackdown",
     "link": "https://www.nytimes.com/2025/11/03/us/politics/ford-foundation-heather-gerken-trump.html",
     "summary": "Heather K. Gerken, a voting rights scholar and former dean of Yale Law School, plans to intensify its emphasis on democracy as it girds for attacks from the Trump administration."
   },
   {
-    "title": "In Redistricting Battles, Here’s How Trump, Republicans and Democrats Are Faring",
-    "link": "https://www.nytimes.com/2025/11/03/us/politics/midterm-elections-redistricting-trump.html",
-    "summary": "President Trump is imploring lawmakers to redraw their congressional maps to stave off Democratic control of the House. But the debate over redistricting has revealed fissures within both parties."
+    "title": "How New York’s Mayoral Race Became a Vote on the Middle East",
+    "link": "https://www.nytimes.com/2025/11/03/nyregion/mamdani-gaza.html",
+    "summary": "Many New Yorkers have been agonizing over the war between Israel and Hamas since Oct. 7, 2023. Now they are casting their ballots."
   },
   {
-    "title": "The Nationwide Battle Over Electoral Maps",
-    "link": "https://www.nytimes.com/video/us/elections/100000010489716/the-nationwide-battle-over-electoral-maps.html",
-    "summary": "What began with Texas drawing what could be five new Republican districts in the House of Representatives at President Trump’s behest has spiraled into a nationwide redistricting race. Nick Corasaniti, a New York Times reporter covering national politics, gives an overview."
-  },
-  {
-    "title": "Future of Gerrymandering? Here’s How Weird Things Could Look.",
-    "link": "https://www.nytimes.com/2025/11/01/upshot/gerrymanders-redistricting-maps.html",
-    "summary": "These extreme maps may not be likely, but they might soon be legal, with temptations to go further than ever before."
-  },
-  {
-    "title": "Moon Duchin on the Math of Gerrymandering",
-    "link": "https://www.nytimes.com/2025/11/03/science/duchin-math-elections-gerrymandering.html",
-    "summary": "Why the challenge of truly representative democracy is so complex."
-  },
-  {
-    "title": "Elections Across the U.S. Will Test Democrats’ Momentum Ahead of 2026 Midterms",
-    "link": "https://www.nytimes.com/2025/11/03/us/politics/us-elections-democrats-trump.html",
-    "summary": "Democrats have no federal contests that would allow them to check President Trump’s power, but governors’ races, mayoral contests and referendums will test momentum and divisions in both parties."
-  },
-  {
-    "title": "‘Political Scores’ Use Reams of Data to Predict Your Vote",
-    "link": "https://www.nytimes.com/2025/11/03/us/political-score-voting-predictions.html",
-    "summary": "Meet Mark Grebner, the Michigan statistician who helped pioneer the science of predicting whether someone will vote Republican or Democratic."
-  },
-  {
-    "title": "Our Election Guide",
-    "link": "https://www.nytimes.com/2025/11/03/briefing/our-election-guide.html",
-    "summary": "Tomorrow is an off-year Election Day across the United States. We explain what is happening."
-  },
-  {
-    "title": "Kimberly-Clark to Buy Tylenol Maker Kenvue for $40 Billion",
-    "link": "https://www.nytimes.com/2025/11/03/business/kimberly-clark-kenvue.html",
-    "summary": "The owner of Kleenex and Huggies will acquire the company that has fought unproven claims by the Trump administration that a common pain reliever is linked to autism."
+    "title": "What the Virginia Governor Election Might Portend for Trump",
+    "link": "https://www.nytimes.com/2025/11/03/us/politics/virginia-governor-trump.html",
+    "summary": "The governor’s race in the president’s backyard could tell us if a backlash has arrived."
   },
   {
     "title": "John Irving Talks About ‘Queen Esther,’ Trump and Why He Can’t Stop Writing",
@@ -60,44 +50,39 @@
     "summary": "The literary titan is still publishing books, and still pushing envelopes, at 83. But you will not see him in the United States anytime soon."
   },
   {
+    "title": "After Hurricane Melissa, a Seaside Town in Jamaica Picks Up the Pieces",
+    "link": "https://www.nytimes.com/2025/11/03/world/americas/hurricane-melissa-jamaica-black-river.html",
+    "summary": "The devastation caused by Hurricane Melissa in Black River, Jamaica, reflects the broader destruction and rebuilding facing many Jamaican communities."
+  },
+  {
+    "title": "ICE Altercation With Protester in Colorado Prompts a Police Chief to Push Back",
+    "link": "https://www.nytimes.com/2025/11/03/us/politics/durango-colorado-ice-protester.html",
+    "summary": "At the Durango, Colo., police chief’s request, Colorado law enforcement will investigate whether a federal agent broke the law when he appeared to put a protester in a chokehold."
+  },
+  {
     "title": "China Started Separating Its Economy From the West Years Ago",
     "link": "https://www.nytimes.com/2025/11/03/business/china-five-year-plan.html",
     "summary": "Two decades of sustained effort to build national self-reliance and minimize imports have antagonized trade partners but fortified what a senior adviser called Beijing’s “bulwark” against conflicts."
   },
   {
-    "title": "‘A Big Positive’: How One Company Plans to Profit From Medicaid Cuts",
-    "link": "https://www.nytimes.com/2025/11/03/health/medicaid-cuts-equifax-data.html",
-    "summary": "New work requirements are expected to leave millions of poor Americans uninsured. For Equifax, which charges states steep prices for its trove of employment data, it is a business opportunity."
+    "title": "Diane Ladd, Oscar-Nominated Actress and Mother of Laura Dern, Dies at 89",
+    "link": "https://www.nytimes.com/2025/11/03/movies/diane-ladd-dead.html",
+    "summary": "She was a three-time Oscar contender playing strikingly different characters, in one case starring alongside her daughter and fellow nominee, Laura Dern."
   },
   {
-    "title": "How Medicaid’s New Work Requirement Will Work",
-    "link": "https://www.nytimes.com/2025/11/03/upshot/medicaid-work-requirements-faq.html",
-    "summary": "Poor Americans will face new challenges to enroll, and states will have to build new bureaucracies."
+    "title": "Dodger Fans Celebrate World Series Victory at Los Angeles Parade",
+    "link": "https://www.nytimes.com/2025/11/03/us/los-angeles-dodgers-parade.html",
+    "summary": "Tens of thousands of Dodger fans attended a parade and rally on Monday, a joyful moment celebrating the team’s World Series win in what has been a turbulent year for Los Angeles."
   },
   {
-    "title": "Control of Tesla Is at Stake in Vote on Elon Musk’s Pay Plan",
-    "link": "https://www.nytimes.com/2025/11/03/business/elon-musk-tesla-pay-vote.html",
-    "summary": "Mr. Musk’s supporters say he may quit if shareholders don’t approve a trillion-dollar package. Some investors say it’s excessive and would give him too much sway."
+    "title": "A Celebrated French Writer Loved Russia. War Forced a Reckoning.",
+    "link": "https://www.nytimes.com/2025/11/03/world/europe/emmanuel-carrere-russia-ukraine.html",
+    "summary": "Emmanuel Carrère’s best sellers on Russia grew out of a deep affection. Since Moscow invaded Ukraine, he has traveled to the war-torn country to rethink his views."
   },
   {
-    "title": "OpenAI Signs $38 Billion Cloud Computing Deal With Amazon",
-    "link": "https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html",
-    "summary": "After signing agreements to use computing power from Nvidia, AMD and Oracle, OpenAI is teaming up with the world’s largest cloud computing company."
-  },
-  {
-    "title": "Arrests in Louvre Heist Show Power of DNA Databases in Solving Crimes",
-    "link": "https://www.nytimes.com/2025/11/03/world/europe/louvre-heist-dna-databases.html",
-    "summary": "France’s trove of DNA profiles has helped solve high-profile crimes and was used to find some of the Louvre suspects, and it is growing. The police can also access other countries’ databases."
-  },
-  {
-    "title": "Louvre Heist: What to Know About the Suspects and Investigation",
-    "link": "https://www.nytimes.com/2025/11/03/world/europe/louvre-museum-robbery-suspects-investigation.html",
-    "summary": "Three of the four people whom the police believe carried out the theft have been arrested. But the jewelry is nowhere to be found."
-  },
-  {
-    "title": "After Fleeing a Massacre, Survivors Encountered Still More Gunfire and Abductions",
-    "link": "https://www.nytimes.com/2025/11/03/world/africa/sudan-el-fasher-darfur-massacre-rsf.html",
-    "summary": "Thousands of people who witnessed atrocities have tried to escape El Fasher in Sudan’s Darfur region since paramilitary fighters seized that city in late October."
+    "title": "Halloween Becomes Another Target of the Kremlin’s Culture Wars",
+    "link": "https://www.nytimes.com/2025/11/03/world/europe/halloween-party-canceled-russia.html",
+    "summary": "The Russian authorities canceled a festival in St. Petersburg, branding it “Satanist,” as part of a larger assault on anything viewed as a Western influence."
   },
   {
     "title": "How A.I. Is Transforming Dating Apps",
@@ -110,9 +95,9 @@
     "summary": "Facebook’s free dating service has 21 million users, more than the popular dating app Hinge, as the social network reinvents itself."
   },
   {
-    "title": "How the Interborough Express Could Transform New York",
-    "link": "https://www.nytimes.com/2025/10/31/nyregion/interborough-express-ibx-new-york-subway.html",
-    "summary": "The new light-rail train, linking Queens and Brooklyn, would signal a shift in the city’s center of gravity, toward one less tethered to the office towers of Midtown."
+    "title": "Trump’s China Trade and Tariff Policy Is a Hot Mess",
+    "link": "https://www.nytimes.com/2025/11/03/opinion/trump-china-trade-tariffs.html",
+    "summary": "As he so often does, the president is pushing the wrong answer to the right question on trade policy with Beijing."
   },
   {
     "title": "These Israeli Dissidents Can Show Americans How to Be a Good Citizen of a Bad Country",
@@ -120,28 +105,33 @@
     "summary": "And why it matters so much to try."
   },
   {
-    "title": "Bernie Sanders: ‘There Ain’t Much of a Democratic Party’",
-    "link": "https://www.nytimes.com/2025/11/03/opinion/bernie-sanders-oligarchs-americas-story.html",
-    "summary": "The Vermont senator on how to take the country back from elites — on both sides of the aisle."
+    "title": "The Trump Administration Plans to Offer Only Partial Food Stamp Benefits",
+    "link": "https://www.nytimes.com/2025/11/03/briefing/food-stamps-tylenol-maker-margaret-atwood.html",
+    "summary": "Also, Election Day is tomorrow for millions of Americans. Here’s the latest at the end of Monday."
   },
   {
-    "title": "Torre dei Conti Partially Collapses in Rome, Trapping Worker",
-    "link": "https://www.nytimes.com/2025/11/03/world/europe/tower-collapse-rome-colosseum-torre-dei-conti.html",
-    "summary": "Rescue workers were trying to remove the man from the debris at the medieval tower, but said it was a dangerous operation. Another man was seriously injured in the collapse."
+    "title": "Do You Rely on Food Stamps? Tell Us About How You’re Preparing for the Possible Loss of Assistance.",
+    "link": "https://www.nytimes.com/2025/10/30/us/snap-food-stamps.html",
+    "summary": "As food assistance funding runs out, Times reporters want to hear from people who rely on it, or who work to help feed people in their community."
   },
   {
-    "title": "A Bloody Prison Beating Was Caught on Video. No Guards Were Punished.",
-    "link": "https://www.nytimes.com/2025/11/03/nyregion/ny-prison-guards-inmate-video.html",
-    "summary": "A New York prisoner accused corrections officers of assault and sexual abuse. State officials deemed his claims unfounded despite footage of the encounter."
+    "title": "Donna Jean Godchaux-MacKay, Grateful Dead Singer, Dies at 78",
+    "link": "https://www.nytimes.com/2025/11/03/arts/music/donna-jean-godchaux-grateful-dead.html",
+    "summary": "She helped shape the band’s sound in the 1970s, a decade that took the band to new heights."
   },
   {
-    "title": "In Israel, an Unfamiliar Word Is Heard: Peace",
-    "link": "https://www.nytimes.com/2025/11/03/world/middleeast/israel-hamas-peace-gaza.html",
-    "summary": "A new kind of Mideast peace process is underway, as a determined Trump administration and its allies in the Muslim world seek to broaden a tenuous cease-fire between Israel and Hamas."
+    "title": "‘The Boat,’ Despised Floating Jail Near Rikers, Heads for the Scrap Heap",
+    "link": "https://www.nytimes.com/2025/11/03/nyregion/rikers-floating-jail-towed-scrap.html",
+    "summary": "The jail barge, officially called the Vernon C. Bain Center, was a relic of the crack cocaine era. It was notorious even among Rikers Island’s many troubled lockups."
   },
   {
-    "title": "In Mexico, Killer Whales Take Down Great White Sharks",
-    "link": "https://www.nytimes.com/2025/11/03/science/white-sharks-orcas.html",
-    "summary": "A pod of orcas in the Gulf of California has repeatedly hunted juvenile white sharks to feast on their livers."
+    "title": "Meet the Billionaire Trying to Save College Football From Itself",
+    "link": "https://www.nytimes.com/2025/11/03/business/college-football-cody-campbell-texas-tech.html",
+    "summary": "Cody Campbell, an oilman, has spent millions paying students to play football at Texas Tech. Now he worries that people like him are ruining college sports."
+  },
+  {
+    "title": "Starbucks to Sell 60% of Its China Business to a Private Equity Firm",
+    "link": "https://www.nytimes.com/2025/11/03/business/starbucks-china-boyu-capital.html",
+    "summary": "In a deal valued at $4 billion, Boyu Capital will acquire a stake in the coffee giant’s 8,000 stores in China."
   }
 ]

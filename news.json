@@ -1,5 +1,20 @@
 [
   {
+    "title": "Trump Loyalists Push ‘Grand Conspiracy’ as New Subpoenas Land",
+    "link": "https://www.nytimes.com/2025/11/09/us/politics/trump-conspiracy-probe-subpoenas.html",
+    "summary": "The Justice Department moved an inquiry that appeared initially focused on the former C.I.A. director John O. Brennan to South Florida and is beginning to recruit line prosecutors."
+  },
+  {
+    "title": "A Timeline of the Legal Saga Surrounding SNAP Payments",
+    "link": "https://www.nytimes.com/2025/11/08/us/politics/snap-payments-timeline.html",
+    "summary": "Weeks of uncertainty during the longest government shutdown in American history have left some states struggling to issue payments to food stamp recipients."
+  },
+  {
+    "title": "Airport Disruptions May Get Worse This Week Amid Shutdown",
+    "link": "https://www.nytimes.com/2025/11/09/business/airport-flights-cancellations.html",
+    "summary": "The fact that planes are generally less full in early November have helped to ease the impact. That will change as Thanksgiving nears."
+  },
+  {
     "title": "Where Democrats Will Duel Next for the Party’s Future",
     "link": "https://www.nytimes.com/2025/11/09/us/politics/democrats-midterms-senate-house.html",
     "summary": "In Michigan, Maine and many other states, primary candidates will decide the party’s direction on a host of policy issues, and ultimately whether it has a center-left or left-wing vision."
@@ -10,7 +25,7 @@
     "summary": "At an annual gathering in Puerto Rico for New York’s political class, former foes of Zohran Mamdani put aside their differences and tried to get information about his inner circle."
   },
   {
-    "title": "With a Mayor From Queens, the Borough Is Having a Moment",
+    "title": "With a Mayor-Elect From Queens, Mamdani’s Borough Is Having a Moment",
     "link": "https://www.nytimes.com/2025/11/09/nyregion/mamdani-queens-mayor.html",
     "summary": "When Zohran Mamdani is sworn in as New York City’s 111th mayor, he will be the first with such an intimate connection to Queens."
   },
@@ -20,24 +35,14 @@
     "summary": "Celebrating his recent redistricting victory, the California governor swooped into a state led by a Republican rival and sent the latest signal about his presidential ambitions."
   },
   {
-    "title": "Trump Loyalists Push ‘Grand Conspiracy’ as New Subpoenas Land",
-    "link": "https://www.nytimes.com/2025/11/09/us/politics/trump-conspiracy-probe-subpoenas.html",
-    "summary": "The Justice Department moved an inquiry that appeared initially focused on John O. Brennan to South Florida and is beginning to recruit line prosecutors."
-  },
-  {
-    "title": "Airport Disruptions May Get Worse This Week",
-    "link": "https://www.nytimes.com/2025/11/09/business/airport-flights-cancellations.html",
-    "summary": "The fact that planes are generally less full in early November helped airlines limit the impact. That will change as Thanksgiving nears."
-  },
-  {
-    "title": "A Timeline of the Legal Saga Surrounding SNAP Payments",
-    "link": "https://www.nytimes.com/2025/11/08/us/politics/snap-payments-timeline.html",
-    "summary": "Weeks of uncertainty during the longest government shutdown in American history have left some states struggling to issue payments to food stamp recipients."
-  },
-  {
     "title": "The Dangerous Stalemate Over Iran’s Nuclear Program",
     "link": "https://www.nytimes.com/2025/11/09/world/middleeast/iran-nuclear-program-israel.html",
     "summary": "With no negotiations, no oversight and no clarity about Iran’s stock of nuclear material, many in the region fear another war with Israel is inevitable."
+  },
+  {
+    "title": "Hamas Hands Over Body of Israeli Soldier Held Since 2014",
+    "link": "https://www.nytimes.com/2025/11/09/world/middleeast/hamas-hadar-goldin-israel.html",
+    "summary": "Hamas returned to Israel the remains of Lt. Hadar Goldin, who was killed in a 2014 war in Gaza."
   },
   {
     "title": "Israeli Academics Find Themselves Isolated Despite Gaza Cease-Fire",
@@ -55,28 +60,43 @@
     "summary": "Valentino Luchin, 62, once owned an acclaimed Italian restaurant. Now he sits in a Bay Area jail."
   },
   {
-    "title": "Josh Shapiro Believes the Center Can Hold",
+    "title": "Cruelty, Bigotry and Rage. What’s Not to Like?",
+    "link": "https://www.nytimes.com/2025/11/09/opinion/right-wing-america-politics-culture.html",
+    "summary": "This is what happens when the fringe becomes the mainstream (and vice versa)."
+  },
+  {
+    "title": "Josh Shapiro Knows What the Democrats Need",
     "link": "https://www.nytimes.com/2025/11/09/opinion/josh-shapiro-democratic-party.html",
     "summary": "The Democratic Party will not return to the White House, nor reclaim Congress, until it learns to embrace centrist politicians like Pennsylvania’s governor."
   },
   {
-    "title": "Exercising Is the Worst",
-    "link": "https://www.nytimes.com/2025/11/08/opinion/excercise-fitness-optimization.html",
-    "summary": "Exercise has never been fun, but our expectations for physical performance, what it means to be healthy, and what it means to age have gotten too high."
+    "title": "Banning Social Media",
+    "link": "https://www.nytimes.com/2025/11/09/briefing/banning-social-media.html",
+    "summary": "More schools and governments are turning to tech bans to try to keep kids off screens. Do they work?"
   },
   {
-    "title": "With Mortgage Rates Declining, Should You Refinance?",
-    "link": "https://www.nytimes.com/2025/11/09/business/mortgage-refinance.html",
-    "summary": "More than four million borrowers could potentially benefit from locking in a lower rate. Here’s what to consider."
+    "title": "What Questions Do You Have About Climate Change?",
+    "link": "https://www.nytimes.com/2025/11/09/world/ask-a-correspondent-somini-sengupta-climate-change.html",
+    "summary": "“Ask a Correspondent” will take your questions to Somini Sengupta, our international climate reporter."
   },
   {
-    "title": "A Quebec Writer Confronts His ‘Little Darkness’ as a Class Defector",
-    "link": "https://www.nytimes.com/2025/11/09/world/americas/a-quebec-writer-confronts-his-little-darkness-as-a-class-defector.html",
-    "summary": "Jean-Philippe Pleau’s book and play about moving up socially became a cultural reckoning in Quebec, but created a gulf with his family."
+    "title": "Philippines Braces for Typhoon Fung-Wong, While Still Reeling From the Last Storm",
+    "link": "https://www.nytimes.com/2025/11/09/world/asia/philippines-typhoon-fung-wong.html",
+    "summary": "Typhoon Fung-wong made landfall on the main island of Luzon, prompting the evacuation of more than one million people, just days after an earlier storm killed over 200."
   },
   {
-    "title": "A.I. Isn’t the Only Thing Pushing Up Electricity Bills. (But It’s Mostly A.I.)",
-    "link": "https://www.nytimes.com/2025/11/08/business/exelon-calvin-butler-ai-data-centers.html",
-    "summary": "Calvin Butler, the chief executive of Exelon, one of the nation’s largest utility companies, is trying to keep the lights on."
+    "title": "Arctic Blast Is Sweeping East, Bringing First Snow of the Season",
+    "link": "https://www.nytimes.com/2025/11/09/weather/cold-snow-weather-forecast.html",
+    "summary": "Temperatures 10 to 20 degrees below normal are expected to reach as deep as the South, forecasters said. Snow is likely in the Great Lakes, parts of the Northeast and the Appalachians."
+  },
+  {
+    "title": "Outkast, the White Stripes, Cyndi Lauper and Soundgarden Join the Rock & Roll Hall of Fame",
+    "link": "https://www.nytimes.com/2025/11/09/arts/music/rock-and-roll-hall-of-fame-induction.html",
+    "summary": "Gen X celebrated its heroes at the ceremony, where Soundgarden and Salt-N-Pepa were honored alongside Chubby Checker, Bad Company, Joe Cocker and Warren Zevon."
+  },
+  {
+    "title": "Blue Origin to Launch NASA’s ESCAPADE Mission to Mars: How to Watch",
+    "link": "https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html",
+    "summary": "This will be the second flight of the orbital rocket from Jeff Bezos’s space company and will include a key test of whether it can land a booster stage for later reuse."
   }
 ]

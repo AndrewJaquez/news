@@ -2,12 +2,27 @@
   {
     "title": "Supreme Court Ruling on SNAP Benefits Leaves Families in Limbo",
     "link": "https://www.nytimes.com/2025/11/08/us/politics/families-food-stamps-supreme-court-order.html",
-    "summary": "The fate of SNAP was once again in question on Saturday after the Supreme Court temporarily agreed to allow the Trump administration to withhold full aid under the program."
+    "summary": "In many states, it remained unclear how the Supreme Court’s Friday night order might immediately affect low-income residents."
   },
   {
-    "title": "Judge Blocks National Guard From Portland and Says Trump Overstepped His Authority",
-    "link": "https://www.nytimes.com/2025/11/07/us/politics/portland-oregon-national-guard.html",
-    "summary": "With her temporary block expiring, Judge Karin Immergut said the Trump administration had failed to prove that protesters were hampering President Trump’s policies."
+    "title": "How the Government Shutdown Is Affecting Air Travel",
+    "link": "https://www.nytimes.com/video/business/100000010510963/how-the-government-shutdown-is-affecting-air-travel.html",
+    "summary": "Niraj Chokshi, our reporter covering transportation, describes where and how flights are being cut in the government shutdown."
+  },
+  {
+    "title": "A Timeline of the Legal Saga Surrounding SNAP Payments",
+    "link": "https://www.nytimes.com/2025/11/08/us/politics/snap-payments-timeline.html",
+    "summary": "Weeks of uncertainty during the longest government shutdown in American history have left some states struggling to issue payments to food stamp recipients."
+  },
+  {
+    "title": "How Families Are Coping with SNAP Cuts During the Shutdown",
+    "link": "https://www.nytimes.com/2025/11/07/us/politics/snap-benefits-cuts-shutdown.html",
+    "summary": "For the 42 million people who rely on the country’s largest anti-hunger program, it has been a chaotic, nerve-racking week. Here are some of their stories."
+  },
+  {
+    "title": "Worries Increase on Second Day of Flight Cancellations",
+    "link": "https://www.nytimes.com/2025/11/08/us/worries-mount-as-air-traffic-delays-stretch-to-second-day.html",
+    "summary": "Disruptions to air travel on Saturday were modest, but officials and passengers were bracing for worse as the government shutdown continued."
   },
   {
     "title": "A Light in Very Dark Days: Nancy Pelosi and AIDS",
@@ -15,9 +30,14 @@
     "summary": "As Ms. Pelosi announced her retirement, she was celebrated for her long tenure in Washington. But back home, she was remembered for showing up at a terrifying moment when others turned away."
   },
   {
-    "title": "Among Mamdani’s Many Upcoming Challenges: Fixing New York City’s Schools",
-    "link": "https://www.nytimes.com/2025/11/08/nyregion/mamdani-public-schools-challenges.html",
-    "summary": "Zohran Mamdani, the mayor-elect, will encounter dwindling enrollment, lackluster reading scores and federal officials spoiling for a fight."
+    "title": "Gavin Newsom, Eyeing 2028, Tries to Mess With Texas",
+    "link": "https://www.nytimes.com/2025/11/08/us/politics/newsom-2028-texas-rally-abbott-trump.html",
+    "summary": "Celebrating his recent redistricting victory, the California governor swooped into a state led by a Republican rival and sent the latest signal about his presidential ambitions."
+  },
+  {
+    "title": "Live From New York: Zohran Mamdani’s Got Jokes",
+    "link": "https://www.nytimes.com/2025/11/08/nyregion/mamdani-humor-funny.html",
+    "summary": "New York City’s next mayor showed during the campaign that he has a sharp sense of humor. Keeping things light at City Hall could be trickier."
   },
   {
     "title": "Inside Trump’s Deportation of Venezuelans: Four Months in a Salvadoran Prison",
@@ -25,39 +45,29 @@
     "summary": "The Times interviewed dozens of migrant men sent to a prison in El Salvador by the Trump administration. Independent forensic analysts called the testimony credible and consistent and said the treatment met the U.N.’s definition of torture."
   },
   {
-    "title": "A New Generation of Gamblers Searches for Help",
-    "link": "https://www.nytimes.com/2025/11/08/well/gambling-addiction-recovery.html",
-    "summary": "The sports betting boom has drawn in millions of young men. Are recovery efforts for problem gamblers lagging behind?"
+    "title": "Trump Was Never a Kingmaker. Are Republicans Finally Seeing It?",
+    "link": "https://www.nytimes.com/2025/11/08/opinion/election-results-democrats-republicans.html",
+    "summary": "The round table convenes to discuss what comes after the Democrats’ big wins — and whether the “red hat” coalition can recover."
   },
   {
-    "title": "Why Is Trump So Afraid of American Voters?",
-    "link": "https://www.nytimes.com/video/opinion/100000010512300/why-is-trump-so-afraid-of-american-voters.html",
-    "summary": "President Trump raged after Democrats won multiple elections this week. And now he’s calling on lawmakers to take action: To do more gerrymandering, to outlaw mail-in ballots and to make voter ID laws more strict. Why is Trump so afraid of American voters? He’s afraid of losing his majority in the midterm elections, argues Times Opinion editor Kathleen Kingsbury."
+    "title": "Bruce Springsteen’s Father Complicates a Powerful American Narrative",
+    "link": "https://www.nytimes.com/2025/11/08/opinion/bruce-springsteen-father-men-america.html",
+    "summary": "He had a good factory job that helped him raise a family. But it didn’t save him from despair."
   },
   {
-    "title": "We Can’t Pretend to Know the Future of the Democratic Party",
-    "link": "https://www.nytimes.com/2025/11/08/opinion/democrats-elections-new-york-new-jersey-virginia.html",
-    "summary": "There is no one-size-fits-all template for winning elections."
+    "title": "The Astonishing Bull Market Will End One Day. Are You Ready?",
+    "link": "https://www.nytimes.com/2025/11/07/business/stock-market-safety.html",
+    "summary": "Big stock gains have always been followed by big losses. Here are tips on how to prepare."
   },
   {
-    "title": "Sound System",
-    "link": "https://www.nytimes.com/2025/11/08/briefing/sound-system.html",
-    "summary": "It can be challenging to discover new music on streaming platforms. Today, some ideas to help you out of a listening rut."
-  },
-  {
-    "title": "At Least 4 Dead After Driver Slams Into Crowd Outside a Tampa Bar, Police Say",
-    "link": "https://www.nytimes.com/2025/11/08/us/car-crash-tampa-florida.html",
-    "summary": "The crash left 11 people injured. The police said they chased the vehicle after trying to pull over a reckless driver, who sped off and then lost control."
+    "title": "Merck PCSK9 Pill Results Point to Extremely Low Cholesterol Future",
+    "link": "https://www.nytimes.com/2025/11/08/health/merck-cholesterol-pill-pcsk9.html",
+    "summary": "The drug targets the PCSK9 protein, and could give millions of people a more affordable option to reduce their heart disease risk."
   },
   {
     "title": "John Cleary, Wounded in Kent State Shooting, Dies at 74",
     "link": "https://www.nytimes.com/2025/11/07/us/john-cleary-dead.html",
     "summary": "He was shot in 1970 by the National Guard during a student protest over the Vietnam War that left four dead in Ohio. A photo of him lying on the ground and bleeding made the cover of Life magazine."
-  },
-  {
-    "title": "Biden Warns of a ‘Very, Very Dark Moment’ as He Hits Out at Trump",
-    "link": "https://www.nytimes.com/2025/11/07/us/politics/biden-trump-omaha-nebraska.html",
-    "summary": "The former president, now a far less popular figure in his party, appeared in Nebraska for an overtly political speech that slammed his successor."
   },
   {
     "title": "After More Than 30 Years, a Man Is Charged in Seattle Girl’s Killing",

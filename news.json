@@ -1,5 +1,25 @@
 [
   {
+    "title": "Trump Signs Bill to End Government Shutdown",
+    "link": "https://www.nytimes.com/2025/11/12/us/politics/government-shutdown-vote-trump.html",
+    "summary": "President Trump signed the bill ending the shutdown after 43 days, after the House approved it, largely on party lines."
+  },
+  {
+    "title": "As Shutdown Ends, When Will SNAP and Air Travel Be Back to Normal?",
+    "link": "https://www.nytimes.com/2025/11/12/us/shutdown-travel-snap-backpay.html",
+    "summary": "Some programs like SNAP could be restored within hours, while other effects could take longer to unravel."
+  },
+  {
+    "title": "Food Stamps May Face Lasting Damage From Trump’s Halt to Funds in Shutdown",
+    "link": "https://www.nytimes.com/2025/11/12/us/politics/trump-food-stamps-safety-net.html",
+    "summary": "For the poorest Americans, the end of the longest shutdown in history has left doubt and anxiety around the benefits known as SNAP."
+  },
+  {
+    "title": "After Trump Split, Epstein Said He Could ‘Take Him Down’",
+    "link": "https://www.nytimes.com/2025/11/12/us/epstein-emails-trump.html",
+    "summary": "Jeffrey Epstein cast himself as a Trump insider and wanted to leverage potentially damaging information about the president and his business dealings, according to emails with associates."
+  },
+  {
     "title": "What Epstein’s Emails Claim About Trump’s Knowledge of His Conduct",
     "link": "https://www.nytimes.com/2025/11/12/us/politics/epstein-emails-trump.html",
     "summary": "The House Oversight Committee on Wednesday released more than 20,000 pages of documents from Jeffrey Epstein’s estate. Times reporters provide context on key emails."
@@ -10,26 +30,6 @@
     "summary": "The former Treasury secretary corresponded routinely with Jeffrey Epstein. In one series of exchanges, he sought Mr. Epstein’s advice on how to handle a female acquaintance."
   },
   {
-    "title": "Michael Wolff, Chronicler of Elites, Advised Epstein About Trump",
-    "link": "https://www.nytimes.com/2025/11/12/us/michael-wolff-epstein-trump-emails.html",
-    "summary": "Mr. Wolff, it turns out, was enough of an insider to provide advice to Jeffrey Epstein on how to handle his dealings with Donald J. Trump."
-  },
-  {
-    "title": "By Not Funding Food Stamps, Trump Risks Lasting Damage to Safety Net",
-    "link": "https://www.nytimes.com/2025/11/12/us/politics/trump-food-stamps-safety-net.html",
-    "summary": "For the poorest Americans, the expected end to the longest shutdown in history has left doubt and anxiety around the benefits known as SNAP."
-  },
-  {
-    "title": "What to Know About SNAP, America’s Main Food Aid Program",
-    "link": "https://www.nytimes.com/2025/11/12/us/politics/snap-food-aid-government-shutdown.html",
-    "summary": "The shutdown brought the scale of the federal food aid program into focus and raised questions about how such a rich country could have so many people on nutrition assistance."
-  },
-  {
-    "title": "As Shutdown Nears End, When Will SNAP and Air Travel Be Back to Normal?",
-    "link": "https://www.nytimes.com/2025/11/12/us/shutdown-travel-snap-backpay.html",
-    "summary": "Some programs like SNAP could be restored within hours, while other effects could take longer to unravel."
-  },
-  {
     "title": "Catholic Bishops Rebuke Trump’s Immigration Tactics in Rare Statement",
     "link": "https://www.nytimes.com/2025/11/12/us/bishops-trump-immigration.html",
     "summary": "In a rare statement, the bishops framed the immigration crisis in starkly moral terms. “We feel compelled now in this environment to raise our voices in defense of God-given human dignity,” they said."
@@ -38,6 +38,11 @@
     "title": "Federal Judge Calls For Release of Some Immigrants Arrested in Chicago Area",
     "link": "https://www.nytimes.com/2025/11/12/us/immigrants-wrongful-detention-chicago-release.html",
     "summary": "The judge raised concerns that federal agents may have violated terms of a consent decree during their immigration enforcement crackdown in Illinois."
+  },
+  {
+    "title": "Trump Administration to Drastically Cut Housing Grants",
+    "link": "https://www.nytimes.com/2025/11/12/us/politics/trump-homeless-funding.html",
+    "summary": "In a major shift, HUD’s plan would direct most of the $3.5 billion in homelessness funds away from Housing First to programs that prioritize work and drug treatment."
   },
   {
     "title": "City Council Approves Plan That Could Bring 14,700 Homes to Queens",
@@ -60,19 +65,19 @@
     "summary": "A long decline into irrelevance ended on Wednesday in Philadelphia."
   },
   {
-    "title": "He Died at a School for Disabled People. Decades Later, His Brother Sought Answers.",
-    "link": "https://www.nytimes.com/2025/11/12/us/fernald-state-school-disabled-people.html",
-    "summary": "John Scott was rarely spoken of in his family after he was placed in an institution. After a half-century, his youngest brother set out to learn who he was and what happened to him."
+    "title": "Japan’s Prime Minister Faces Backlash Over 3 A.M. Staff Meeting",
+    "link": "https://www.nytimes.com/2025/11/12/world/asia/japan-takaichi-work-overtime.html",
+    "summary": "Sanae Takaichi drew criticism for requiring staff to work in the wee hours in a country scarred by “death from overwork.”"
+  },
+  {
+    "title": "How France Remembers the November 2015 Terrorist Attacks in Paris",
+    "link": "https://www.nytimes.com/2025/11/13/world/europe/france-paris-terrorist-attacks-anniversary.html",
+    "summary": "A decade ago, Islamic State militants killed 130 people in an assault that shocked France. Some survivors are still struggling, but for many of their compatriots, memories of the attacks are growing more distant."
   },
   {
     "title": "Gustavo Petro, the Rebel Turned President Willing to Take on Trump",
     "link": "https://www.nytimes.com/2025/11/12/world/americas/gustavo-petro-colombia-trump.html",
     "summary": "From his guerrilla roots, Colombia’s president, Gustavo Petro, has long embraced a confrontational style. Now, he has incurred President Trump’s wrath and is facing political fallout at home."
-  },
-  {
-    "title": "350 Teachers on How Screens Take Over Classrooms, as Early as Kindergarten",
-    "link": "https://www.nytimes.com/2025/11/12/upshot/teachers-survey-chromebooks-class.html",
-    "summary": "Even as schools have banned phones, a Times survey shows how the pandemic-era practice of giving students their own laptops and tablets is here to stay."
   },
   {
     "title": "Michelle Obama’s New Book Is a Historical Document Dressed Up as a Coffee-Table Tome",
@@ -85,9 +90,14 @@
     "summary": "She received an Oscar nomination for the 1987 film “Anna” but spent much of her prolific career as a go-to supporting actress in movies like “The Sting” and “JFK.”"
   },
   {
-    "title": "Former Aide to Gavin Newsom Charged With Corruption",
-    "link": "https://www.nytimes.com/2025/11/12/us/newsom-aide-corruption-charges.html",
-    "summary": "Dana Williamson, a top Democratic consultant in California, was accused of conspiring to skim over $200,000 in campaign funds that belonged to a Biden administration official."
+    "title": "Greenhouse Gas Emissions Head for a Record in 2025, Global Carbon Project Reports",
+    "link": "https://www.nytimes.com/2025/11/12/climate/greenhouse-gas-emissions-china.html",
+    "summary": "But there are signs that greenhouse gas pollution in China might be slowing, according to a new analysis."
+  },
+  {
+    "title": "U.K. Gives Go-Ahead to Smaller Nuclear Reactor in Wales",
+    "link": "https://www.nytimes.com/2025/11/12/business/uk-nuclear-power-plant.html",
+    "summary": "The government pledged 2.5 billion pounds for initial site work, but the decision to build a small, modular design may disappoint others, including the U.S. nuclear industry."
   },
   {
     "title": "Iraq’s Prime Minister Leads in Elections but May Struggle to Form a Government",
@@ -95,19 +105,9 @@
     "summary": "Mohammed al-Sudani pitches himself as someone who can keep Iranian influence in check, but his vote share may not be big enough to ensure a clear political victory."
   },
   {
-    "title": "Greenhouse Gas Emissions Head for a Record in 2025, Global Carbon Project Reports",
-    "link": "https://www.nytimes.com/2025/11/12/climate/greenhouse-gas-emissions-china.html",
-    "summary": "But there are signs that greenhouse gas pollution in China might be slowing, according to a new analysis."
-  },
-  {
-    "title": "Britain Gives Go-Ahead to Smaller Nuclear Reactor in Wales",
-    "link": "https://www.nytimes.com/2025/11/12/business/britain-nuclear-power-plant.html",
-    "summary": "The government pledged 2.5 billion pounds for initial site work, but the decision to build a small, modular design may disappoint others, including the U.S. nuclear industry."
-  },
-  {
-    "title": "Tim Kaine on Why He Voted to End the Government Shutdown",
-    "link": "https://www.nytimes.com/2025/11/12/opinion/tim-kaine-shutdown-vote.html",
-    "summary": "Extending the government shutdown would not have worked."
+    "title": "From Here in Beijing, China Doesn’t Look So Strong",
+    "link": "https://www.nytimes.com/2025/11/13/opinion/china-politics-social-public-mood.html",
+    "summary": "Despair about dimming economic and personal prospects has created an outwardly strong, inwardly brittle nation."
   },
   {
     "title": "Democrats Sure Taught Trump a Lesson",
@@ -115,28 +115,23 @@
     "summary": "It’s one he is unlikely to forget."
   },
   {
-    "title": "Jeffrey Epstein Discussed Trump in Emails Released by Congress",
-    "link": "https://www.nytimes.com/2025/11/12/briefing/epstein-trump-congress-shutdown.html",
-    "summary": "Also, the penny was officially retired. Here’s the latest at the end of Wednesday."
-  },
-  {
-    "title": "Former Syrian Security Official Indicted in Austria",
-    "link": "https://www.nytimes.com/2025/11/12/world/europe/syria-security-official-indicted-war-crimes.html",
-    "summary": "Prosecutors say a Syrian security official accused of torture hid in plain sight in Europe for years, protected by Israeli and Austrian intelligence agents."
-  },
-  {
     "title": "Russian Humanoid Robot Falls on Its Face in Hyped Debut",
     "link": "https://www.nytimes.com/2025/11/12/technology/ai-robot-russia-falls.html",
     "summary": "The robot, known as AIDOL, staggered onstage during a technology showcase in Moscow. Organizers blamed the mishap on calibration and lighting issues."
   },
   {
-    "title": "Lucas Museum of Narrative Art in Los Angeles Sets 2026 Opening Date",
-    "link": "https://www.nytimes.com/2025/11/12/arts/design/lucas-museum-opening-septemeber-2026.html",
-    "summary": "The 300,000-square-foot building will open Sept. 22 and showcase comic art, illustrations and more across 35 galleries. It began construction in 2018 but faced multiple delays."
+    "title": "Northern Lights Are Beautiful, but for Satellites They’re Risky",
+    "link": "https://www.nytimes.com/2025/11/12/science/northern-lights-solar-satellites.html",
+    "summary": "At least one space launch has been put on hold, as satellite operators and rocket companies manage the effects of the current geomagnetic storm hitting Earth."
   },
   {
     "title": "California Rain Forecast Suddenly Intensifies, Raising Flooding Risks",
     "link": "https://www.nytimes.com/2025/11/12/weather/california-storm-la-san-francisco-rain-forecast.html",
-    "summary": "The storm is expected to move quickly through Northern California by Thursday morning, but forecasters are concerned that it will stall in the southern part of the state."
+    "summary": "The storm is expected to move quickly through Northern California, but forecasters are concerned that it will stall in the southern part of the state."
+  },
+  {
+    "title": "Gavin Newsom’s Former Chief of Staff Arrested and Charged With Corruption",
+    "link": "https://www.nytimes.com/2025/11/12/us/newsom-aide-corruption-charges.html",
+    "summary": "Dana Williamson, a top Democratic consultant in California, was accused of conspiring to skim over $200,000 in campaign funds that belonged to a Biden administration official."
   }
 ]

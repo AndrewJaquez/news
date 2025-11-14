@@ -1,5 +1,20 @@
 [
   {
+    "title": "Justice Dept. Memo Blessing Boat Strikes Is Said to Rely on Trump’s Claims About Cartels",
+    "link": "https://www.nytimes.com/2025/11/13/us/politics/boat-strikes-doj-memo-trump.html",
+    "summary": "Accounts of a secret Justice Department memo offer a window into how administration lawyers approved the president’s desired course of action."
+  },
+  {
+    "title": "Family of Fisherman Killed in U.S. Military Strike Says It Wants Justice",
+    "link": "https://www.nytimes.com/2025/11/13/world/americas/trump-drug-boat-strikes-colombian-fisherman.html",
+    "summary": "Colombia was a top U.S. ally in Latin America until the Trump administration began deadly strikes in international waters. Now, one family wants justice."
+  },
+  {
+    "title": "U.S. Strike Kills 4 on Boat Trump Says Was Smuggling Drugs",
+    "link": "https://www.nytimes.com/2025/11/13/us/politics/trump-drug-boat-strike-caribbean.html",
+    "summary": "The strike in the Caribbean brings the death toll in the Trump administration’s lethal campaign to 80 since early September."
+  },
+  {
     "title": "Texas A&M Tightens Rules on Talking About Race and Gender in Classes",
     "link": "https://www.nytimes.com/2025/11/13/us/texas-am-gender-race-ideology-rules-classroom.html",
     "summary": "The university system will ban advocacy of “race or gender ideology, or topics related to sexual orientation or gender identity” without approval."
@@ -10,69 +25,9 @@
     "summary": "The professor will no longer be able to teach a class on diversity after she showed students a diagram that included the “Make America Great Again” slogan as an example of white supremacy."
   },
   {
-    "title": "Some TSA Workers to Get $10,000 Bonus Checks for Shutdown Work",
-    "link": "https://www.nytimes.com/2025/11/13/us/politics/tsa-worker-checks-bonus-shutdown.html",
-    "summary": "Kristi Noem, the homeland security secretary, began handing out $10,000 checks to T.S.A. workers who “went above and beyond” during the shutdown, after the president recommended similar bonuses for some air traffic controllers."
-  },
-  {
-    "title": "After Trump Split, Epstein Said He Could ‘Take Him Down’",
-    "link": "https://www.nytimes.com/2025/11/12/us/epstein-emails-trump.html",
-    "summary": "Jeffrey Epstein cast himself as a Trump insider and wanted to leverage potentially damaging information about the president and his business dealings, according to emails with associates."
-  },
-  {
-    "title": "Epstein’s Emails About Trump",
-    "link": "https://www.nytimes.com/video/us/politics/100000010520312/epstein-trump-emails-explained.html",
-    "summary": "Our investigative reporter Steve Eder provides context about Jeffrey Epstein’s relationship with President Donald Trump based on information from over 20,000 pages of documents from Epstein’s estate released by the House Oversight Committee on Wednesday."
-  },
-  {
-    "title": "What Epstein’s Emails Claim About Trump’s Knowledge of His Conduct",
-    "link": "https://www.nytimes.com/2025/11/12/us/politics/epstein-emails-trump.html",
-    "summary": "The House Oversight Committee on Wednesday released more than 20,000 pages of documents from Jeffrey Epstein’s estate. Times reporters provide context on key emails."
-  },
-  {
-    "title": "What’s Behind the Coming House Vote on Releasing the Epstein Files",
-    "link": "https://www.nytimes.com/2025/11/13/us/politics/house-vote-epstein-files.html",
-    "summary": "Proponents of fuller transparency used an arcane rule to prod their leaders to act. When it became clear they had succeeded, the speaker agreed to hold a vote."
-  },
-  {
-    "title": "Former Prince Andrew and Another Prominent Briton Come Up in the Epstein Emails",
-    "link": "https://www.nytimes.com/2025/11/13/world/europe/epstein-files-mountbatten-windsor-mandelson.html",
-    "summary": "Newly released files from Jeffrey Epstein include correspondence with Andrew Mountbatten-Windsor and Peter Mandelson, the former British ambassador to Washington."
-  },
-  {
-    "title": "How a 17-Year-Old Girl Became Enmeshed in the Matt Gaetz Scandal",
-    "link": "https://www.nytimes.com/2025/11/13/us/politics/in-matt-gaetz-scandal-circumstances-left-girl-vulnerable-to-exploitation.html",
-    "summary": "A 17-year-old with a homeless parent wanted money for braces and ended up having sex for money with powerful men. She wants the public to have a fuller understanding of how she was victimized."
-  },
-  {
-    "title": "Trump Officials Prepare Tariff Exemptions, Seeking to Lower Food Prices",
-    "link": "https://www.nytimes.com/2025/11/13/us/politics/trump-tariffs-food-prices.html",
-    "summary": "If the proposal goes into effect, it would be the latest rollback of one of President Trump’s key economic policies over concerns about affordability."
-  },
-  {
-    "title": "SNAP Benefits Are Resuming as Government Reopens After Shutdown",
-    "link": "https://www.nytimes.com/2025/11/13/us/politics/snap-benefits-food-stamps-shutdown-update.html",
-    "summary": "Several states have restarted food stamp payments, but millions of Americans are still awaiting the November deposits that the Trump administration resisted paying out in full."
-  },
-  {
-    "title": "SNAP’s Problems Started Long Before the Shutdown",
-    "link": "https://www.nytimes.com/2025/11/13/dining/snap-recipients-government-shutdown.html",
-    "summary": "The government shutdown caused a panic among recipients, but the monthly budgeting issues go back 50 years and may get worse."
-  },
-  {
-    "title": "U.S. Officials Raise Concerns About Saudi Arabia’s Bid for F-35 Jets",
-    "link": "https://www.nytimes.com/2025/11/13/us/politics/trump-saudi-fighter-jets.html",
-    "summary": "A Pentagon intelligence report says China could try to acquire advanced F-35 technology in Saudi Arabia if the Trump administration sells jets to the kingdom."
-  },
-  {
-    "title": "Why Can’t We Fix Penn Station?",
-    "link": "https://www.nytimes.com/video/nyregion/100000010438314/why-cant-we-fix-penn-station.html",
-    "summary": "The biggest thing holding Penn Station back from a much-needed rehaul is what’s on top of it: Madison Square Garden."
-  },
-  {
-    "title": "Family of Fisherman Killed in U.S. Military Strike Says It Wants Justice",
-    "link": "https://www.nytimes.com/2025/11/13/world/americas/trump-drug-boat-strikes-colombian-fisherman.html",
-    "summary": "Colombia was a top U.S. ally in Latin America until the Trump administration began deadly strikes in international waters. Now, one family wants justice."
+    "title": "Trump Administration Revokes Biden Ban on Drilling and Mining in Alaska Wilderness",
+    "link": "https://www.nytimes.com/2025/11/13/climate/trump-revokes-biden-ban-on-drilling-mining-in-alaska-wilderness.html",
+    "summary": "The decision to allow oil and gas drilling in Alaska’s ecologically sensitive North Slope has the support of the state’s governor and senators."
   },
   {
     "title": "BBC Apologizes to Trump Over Film Edit but Declines to Pay Compensation",
@@ -80,24 +35,34 @@
     "summary": "The BBC said it would not rebroadcast a misleadingly edited documentary but added, “We strongly disagree there is a basis for a defamation claim.”"
   },
   {
-    "title": "At 97, the Bard of Albany Still Spins Tales of Gangsters and Politicians",
-    "link": "https://www.nytimes.com/2025/11/13/arts/william-kennedy-albanys-bard-reads-a-story-with-legs.html",
-    "summary": "William Kennedy raised money for the food pantry at his old church by reading from “Legs,” the gangster novel he began his celebrated Albany cycle with half a century ago."
+    "title": "Republicans Tried to Squelch the Epstein Furor. Instead, They Fed It.",
+    "link": "https://www.nytimes.com/2025/11/13/us/politics/republicans-epstein-trump-house.html",
+    "summary": "A House investigation that the G.O.P. has tried to use to deflect calls for more transparency has yielded striking revelations that have only fueled the Epstein saga."
   },
   {
-    "title": "Katie Wilson, a Political Newcomer, Is Elected Mayor in Seattle",
-    "link": "https://www.nytimes.com/2025/11/13/us/politics/seattle-mayor-election-results.html",
-    "summary": "Ms. Wilson, a self-described socialist, joined the race after Mayor Bruce Harrell opposed taxing high-income residents to finance construction of new housing."
+    "title": "Former Prince Andrew and Another Prominent Briton Come Up in the Epstein Emails",
+    "link": "https://www.nytimes.com/2025/11/13/world/europe/epstein-files-mountbatten-windsor-mandelson.html",
+    "summary": "Newly released files from Jeffrey Epstein include correspondence with Andrew Mountbatten-Windsor and Peter Mandelson, the former British ambassador to Washington."
   },
   {
-    "title": "Seattle Elects a Left-Wing Mayor With a Light Résumé but Mamdani Appeal",
-    "link": "https://www.nytimes.com/2025/11/13/us/politics/seattle-mayor.html",
-    "summary": "Katie Wilson, who narrowly defeated the incumbent, Bruce Harrell, emerged from the city’s left-wing activist class and brings with her little experience in governing."
+    "title": "Wifredo Lam: Artist-Poet of Tropical Dreams and Sorrows",
+    "link": "https://www.nytimes.com/2025/11/13/arts/design/wifredo-lam-retrospective-moma.html",
+    "summary": "The great Cuban modernist, whose politics and Afro-Asian roots shaped his paintings and inspired generations of artists, gets a revelatory survey at MoMA."
   },
   {
-    "title": "Blue Origin Lands Booster After Rocket Launch and Matches SpaceX’s Feat",
-    "link": "https://www.nytimes.com/2025/11/13/science/blue-origin-launch-rocket.html",
-    "summary": "The lower half of the New Glenn rocket set down on a platform in the Atlantic Ocean after lifting a small NASA Mars mission to space."
+    "title": "How a 17-Year-Old Girl Became Enmeshed in the Matt Gaetz Scandal",
+    "link": "https://www.nytimes.com/2025/11/13/us/politics/in-matt-gaetz-scandal-circumstances-left-girl-vulnerable-to-exploitation.html",
+    "summary": "A 17-year-old with a homeless parent wanted money for braces and ended up having sex for money with powerful men. She wants the public to have a fuller understanding of how she was victimized."
+  },
+  {
+    "title": "The Shutdown Is Over. For Many SNAP Recipients, the Scars Remain.",
+    "link": "https://www.nytimes.com/2025/11/14/us/the-shutdown-is-over-for-many-snap-recipients-the-scars-remain.html",
+    "summary": "Some recipients have seen their benefits return but are worried they could still be taken away. Others wonder whether the funding could be stopped again at some point."
+  },
+  {
+    "title": "Trump Officials Prepare Tariff Exemptions, Seeking to Lower Food Prices",
+    "link": "https://www.nytimes.com/2025/11/13/us/politics/trump-tariffs-food-prices.html",
+    "summary": "If the proposal goes into effect, it would be the latest rollback of one of President Trump’s key economic policies over concerns about affordability."
   },
   {
     "title": "Infant Formula Company Tied to Botulism Outbreak Had Known Problems",
@@ -110,19 +75,19 @@
     "summary": "For all his bluster, the F.B.I.’s deputy director Dan Bongino played a central role in stoking expectations that the bureau would quickly find the suspects who planted pipe bombs."
   },
   {
-    "title": "Mamdani and Hochul Discuss Their Challenges: Trump and Child Care",
-    "link": "https://www.nytimes.com/2025/11/13/nyregion/mamdani-hochul-child-care-trump.html",
-    "summary": "Zohran Mamdani, the mayor-elect of New York City, and Gov. Kathy Hochul met to talk about how to prepare for threats from President Trump."
+    "title": "‘No Closure, No Transparency’: Harassment Victims Seek Resolution",
+    "link": "https://www.nytimes.com/2025/11/14/business/workplace-sexual-harassment-south-korea.html",
+    "summary": "Fewer women in South Korea are reporting workplace harassment, but those who do say their claims are often not taken seriously or handled sensitively."
   },
   {
-    "title": "Hochul Approved Permits That Could Help Clients of Her Husband’s Firm",
-    "link": "https://www.nytimes.com/2025/11/13/nyregion/hochul-husband-davis-polk.html",
-    "summary": "Opponents of a natural gas pipeline approved by Gov. Kathy Hochul of New York noted that the project would benefit a client of the prominent law firm where her husband works."
+    "title": "An Escape From India’s Air Pollution for Those Who Can Afford It",
+    "link": "https://www.nytimes.com/2025/11/14/business/india-pollution-clean-air.html",
+    "summary": "Companies are offering much-needed, but expensive, air purification systems to shelter from the smog in one of the world’s most polluted cities."
   },
   {
-    "title": "Wifredo Lam: Artist-Poet of Tropical Dreams and Sorrows",
-    "link": "https://www.nytimes.com/2025/11/13/arts/design/wifredo-lam-retrospective-moma.html",
-    "summary": "The great Cuban modernist, whose politics and Afro-Asian roots shaped his paintings and inspired generations of artists, gets a revelatory survey at MoMA."
+    "title": "Sharon Camp, Mother of the ‘Plan B’ Contraceptive Pill, Dies at 83",
+    "link": "https://www.nytimes.com/2025/11/14/health/policy/sharon-camp-dead.html",
+    "summary": "An advocate for women’s reproductive health, she started one of the world’s smallest pharmaceutical companies to bring an emergency birth-control method to market."
   },
   {
     "title": "An Alternative to Christian Nationalism",
@@ -135,23 +100,18 @@
     "summary": "Trump has a favorite power."
   },
   {
-    "title": "The Government Reopened",
-    "link": "https://www.nytimes.com/2025/11/13/briefing/the-government-reopened.html",
-    "summary": "Also, Ukraine is facing a dilemma in Pokrovsk. Here’s the latest at the end of Thursday."
+    "title": "A.I. Cheating Rattles Top Universities in South Korea",
+    "link": "https://www.nytimes.com/2025/11/14/world/asia/south-korea-ai-cheating-college.html",
+    "summary": "As many elite colleges struggle to adapt to the technology, the nation’s most prestigious universities said dozens of students used artificial intelligence tools to cheat."
+  },
+  {
+    "title": "U.S. Officials Raise Concerns About Saudi Arabia’s Bid for F-35 Jets",
+    "link": "https://www.nytimes.com/2025/11/13/us/politics/trump-saudi-fighter-jets.html",
+    "summary": "A Pentagon intelligence report says China could try to acquire advanced F-35 technology in Saudi Arabia if the Trump administration sells jets to the kingdom."
   },
   {
     "title": "Jim Avila, Former ABC News Correspondent, Dies at 70",
     "link": "https://www.nytimes.com/2025/11/13/business/media/jim-avila-abc-news-dead.html",
     "summary": "He spent almost two decades at the network, covering a wide range of court cases and the White House. He was also at the center of a defamation lawsuit over “pink slime.”"
-  },
-  {
-    "title": "Justice Dept. Joins Lawsuit to Challenge California’s New Redistricting Maps",
-    "link": "https://www.nytimes.com/2025/11/13/us/doj-lawsuit-california-house-redistricting.html",
-    "summary": "The agency intervened in a lawsuit brought by the California Republican Party seeking to throw out a map, approved last week by the state’s voters, that would redraw House districts to favor Democrats."
-  },
-  {
-    "title": "Carney Accelerates Economic Plan for Canada to Rely Less on U.S. Amid Trade War",
-    "link": "https://www.nytimes.com/2025/11/13/world/canada/carney-economy-trade-trump-tariffs.html",
-    "summary": "Prime Minister Mark Carney fast-tracked mines and other natural resource projects to the dismay of some Indigenous groups and many environmentalists."
   }
 ]

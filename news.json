@@ -1,13 +1,18 @@
 [
   {
-    "title": "Homeland Security Department Shifts Its Focus to Immigration Crackdown",
+    "title": "Homeland Security Missions Falter Amid Focus on Deportations",
     "link": "https://www.nytimes.com/2025/11/16/us/politics/dhs-agents-reassigned.html",
-    "summary": "The Department of Homeland Security was established to keep Americans safe. Under President Trump, it has so shifted its focus to illegal immigration that other aspects of its mission are suffering."
+    "summary": "Under President Trump, an agency intended to keep Americans safe has diverted resources from combating child abuse, trafficking and terrorism."
   },
   {
     "title": "Epstein Emails Reveal a Lost New York",
     "link": "https://www.nytimes.com/2025/11/16/style/epstein-emails-reveal-a-lost-new-york.html",
     "summary": "The disgraced financier’s recently released documents are steeped in a clubby world that is all but gone."
+  },
+  {
+    "title": "Pentagon to Withdraw Some National Guard Troops From Chicago and Portland",
+    "link": "https://www.nytimes.com/2025/11/16/us/politics/national-guard-withdrawal-chicago-portland.html",
+    "summary": "The move comes amid court battles and objections by state and local leaders to President Trump’s deployment orders."
   },
   {
     "title": "What’s More Dangerous Than India’s Frequent Heat Waves? Heat Stress.",
@@ -25,14 +30,19 @@
     "summary": "High-ranking inmates known as trusties were ordered to do guards’ bidding, former inmates and guards said, and the culture of violence in the jail went straight to the top."
   },
   {
+    "title": "James Watson Saw the True Form of DNA. Then It Blinded Him.",
+    "link": "https://www.nytimes.com/2025/11/16/opinion/james-watson-dna.html",
+    "summary": "James Watson’s legacy is a cautionary tale against letting a profound discovery shape your entire worldview."
+  },
+  {
     "title": "Pope Leo Doesn’t Want to Be the Anti-Trump. But He Is.",
     "link": "https://www.nytimes.com/2025/11/16/opinion/trump-pope-leo-maga-christianity.html",
     "summary": "A Christian answer to Trumpism is beginning to emerge."
   },
   {
-    "title": "The Screen That Ate Your Child’s Education",
-    "link": "https://www.nytimes.com/2025/11/16/opinion/laptop-classroom-test-scores.html",
-    "summary": "Asking students to drill down on their schoolwork amid an array of digital distractions is inimical to learning."
+    "title": "Meet Dr. ChatGPT",
+    "link": "https://www.nytimes.com/2025/11/16/briefing/meet-dr-chatgpt.html",
+    "summary": "Chatbots are empathetic and accessible, but they can sometimes be wrong. What happens when you ask them for medical advice?"
   },
   {
     "title": "The N.Y.P.D. Prepares for Mayor Mamdani and a New Era in Public Safety",
@@ -43,6 +53,11 @@
     "title": "Wheelchair? Hearing Aids? Yes. ‘Disabled’? No Way.",
     "link": "https://www.nytimes.com/2025/11/15/health/older-people-disability.html",
     "summary": "Many older Americans shun an identity that could bring helpful accommodations, improve care and provide community."
+  },
+  {
+    "title": "A Family Fell for a Rent-A-Bank Scheme. Now They Are Facing Foreclosure.",
+    "link": "https://www.nytimes.com/2025/11/16/your-money/rent-a-bank-loan-scheme.html",
+    "summary": "Predatory lenders often take part in schemes that enable them to circumvent state lending laws and charge borrowers sky-high interest rates."
   },
   {
     "title": "What to Know About Chile’s Election on Sunday",

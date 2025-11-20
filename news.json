@@ -1,33 +1,13 @@
 [
   {
-    "title": "Trump Approves the Epstein Files Release, but Some May Be Withheld",
-    "link": "https://www.nytimes.com/2025/11/19/us/politics/trump-epstein-files-loopholes.html",
-    "summary": "The president sought to take credit for the legislation, despite months of pressure to kill it. The bill has significant exceptions that could mean many documents would stay confidential."
-  },
-  {
-    "title": "Lawrence Summers Has Come Back From Scandals. Will This Be His Last?",
-    "link": "https://www.nytimes.com/2025/11/20/us/larry-summers-jeffrey-epstein-emails-scandal.html",
-    "summary": "The former Harvard president has come back from controversy before, but revelations in new Epstein emails are threatening his omnipresence in public life."
-  },
-  {
-    "title": "Larry Summers to Stop Teaching at Harvard While It Investigates His Epstein Ties",
-    "link": "https://www.nytimes.com/2025/11/19/us/larry-summers-harvard-epstein.html",
-    "summary": "The former Harvard president had previously stepped down from other positions following revelations about his longtime connections to Jeffrey Epstein."
-  },
-  {
-    "title": "Nvidia’s Eye-Popping Profit, and Where Those Scam Calls Are Coming From",
-    "link": "https://www.nytimes.com/2025/11/20/podcasts/the-headlines/nvidia-profit-scam-calls.html",
-    "summary": "Plus, a surge in meat allergies caused by ticks."
-  },
-  {
-    "title": "Holiday Hiring Slows, Frustrating Job Seekers",
-    "link": "https://www.nytimes.com/2025/11/20/business/retailers-scale-back-holiday-hiring.html",
-    "summary": "Retailers are adding fewer of the seasonal roles that many Americans rely on to make ends meet."
+    "title": "September Jobs Report Injects More Uncertainty Into Fed’s December Decision",
+    "link": "https://www.nytimes.com/2025/11/20/business/economy/jobs-fed-interest-rates.html",
+    "summary": "Policymakers at the central bank are at odds over the need to cut interest rates for a third straight meeting, as inflation picks up again and the labor market slows down."
   },
   {
     "title": "Walmart Sales Rise as Shoppers Look For Savings",
     "link": "https://www.nytimes.com/2025/11/20/business/walmart-holiday-sales.html",
-    "summary": "The retailer increased its guidance for the year, anticipating more price-conscious shoppers would flock to their stores."
+    "summary": "The retailer increased its guidance for the year, anticipating more price-conscious shoppers would flock to its stores."
   },
   {
     "title": "Family Affair: Commerce Secretary’s Sons Cash In on A.I. Frenzy",
@@ -35,14 +15,9 @@
     "summary": "Howard Lutnick is helping push data center projects. His family companies are profiting from them."
   },
   {
-    "title": "Trump and Mamdani Will Meet at White House on Friday",
-    "link": "https://www.nytimes.com/2025/11/19/nyregion/trump-mamdani-white-house-meeting.html",
-    "summary": "The meeting between Zohran Mamdani, the mayor-elect of New York City, and President Trump will come after the two men have fiercely attacked one another."
-  },
-  {
-    "title": "Lindsey Halligan Admits Grand Jury Never Saw Final Comey Indictment",
-    "link": "https://www.nytimes.com/2025/11/19/us/politics/comey-vindictive-prosecution-trump.html",
-    "summary": "Grand jurors have to vote on indictments to approve them, but a prosecutor told the judge in the case that only the foreperson formally approved the second charging document, a move that could cripple the case."
+    "title": "Lawsuit Challenges Trump Administration Over $1.8 Million in Immigration Fines",
+    "link": "https://www.nytimes.com/2025/11/20/us/politics/lawsuit-immigration-penalties.html",
+    "summary": "A class-action suit accuses the Trump administration of weaponizing civil penalties to force undocumented migrants to self-deport through enormous penalties."
   },
   {
     "title": "California Has a Legal Clause for Housing That Could Put NIMBYs in a Corner",
@@ -50,9 +25,49 @@
     "summary": "For years, the state has been nudging its cities to build housing to address a severe shortage. Maybe what they needed was a shove."
   },
   {
+    "title": "Cheney Remembered for Transforming National Security and Standing Against Trump",
+    "link": "https://www.nytimes.com/2025/11/20/us/politics/dick-cheney-funeral-memorial.html",
+    "summary": "As the former vice president is honored at Washington National Cathedral on Thursday, many eyes are focused on who came — and who did not."
+  },
+  {
+    "title": "Trump Was Not Invited to Cheney’s Memorial Service",
+    "link": "https://www.nytimes.com/2025/11/20/us/politics/trump-dick-cheney-funeral.html",
+    "summary": "Former Vice President Dick Cheney, a once-powerful Republican, turned on Mr. Trump last year by announcing he would vote for Vice President Kamala Harris."
+  },
+  {
     "title": "The Grand Ole Opry at 100",
     "link": "https://www.nytimes.com/2025/11/20/arts/music/grand-ole-opry-100th-anniversary.html",
     "summary": "As the country music institution celebrates a century of its radio broadcast, listen to how the show defined the culture — and was reshaped by it — decade by decade."
+  },
+  {
+    "title": "Trump Approves the Epstein Files Release, but Some May Be Withheld",
+    "link": "https://www.nytimes.com/2025/11/19/us/politics/trump-epstein-files-loopholes.html",
+    "summary": "The president sought to take credit for the legislation, despite months of pressure to kill it. The bill has significant exceptions that could mean many documents would stay confidential."
+  },
+  {
+    "title": "Former Harvard President Lawrence Summers Has Come Back From Scandals. Will This Be His Last?",
+    "link": "https://www.nytimes.com/2025/11/20/us/larry-summers-jeffrey-epstein-emails-scandal.html",
+    "summary": "The former Harvard president has come back from controversy before, but revelations in new Epstein emails are threatening his omnipresence in public life."
+  },
+  {
+    "title": "Wyden Presses for Investigation Into JPMorgan Chase and Epstein",
+    "link": "https://www.nytimes.com/2025/11/20/us/politics/jeffrey-epstein-jpmorgan-chase-ron-wyden.html",
+    "summary": "Senator Ron Wyden, an Oregon Democrat, wants to examine how the nation’s largest bank handled the reporting of more than $1 billion in suspicious transactions."
+  },
+  {
+    "title": "To Meld A.I. With Supercomputers, National Labs Are Picking Up the Pace",
+    "link": "https://www.nytimes.com/2025/11/20/technology/national-laboratories-ai-supercomputers.html",
+    "summary": "A.I. has added urgency to the U.S. national laboratories that have been sites of cutting-edge scientific research, leading to deals with tech giants like Nvidia to speed up."
+  },
+  {
+    "title": "Did Nvidia Do Enough to Chill A.I. Bubble Fears?",
+    "link": "https://www.nytimes.com/2025/11/20/business/dealbook/nvidia-ai-boom.html",
+    "summary": "The chipmaker at the center of the artificial intelligence boom reported blowout results. But that hasn’t resolved some key questions behind the tech rally."
+  },
+  {
+    "title": "Ukraine and Europe Chafe at Being Excluded From U.S.-Russian Peace Plan",
+    "link": "https://www.nytimes.com/2025/11/20/world/europe/ukraine-russia-trump-peace-talks.html",
+    "summary": "Some in Kyiv expressed confusion over the Trump administration’s multiple diplomatic tracks as Washington tries to revive negotiations."
   },
   {
     "title": "Move Over, Netflix: Ukraine’s Corruption Investigators Bring the Drama",
@@ -60,39 +75,9 @@
     "summary": "The country’s anti-graft agencies have taken a cinematic approach to revealing a scandal that has touched President Volodymyr Zelensky’s inner circle."
   },
   {
-    "title": "U.S.-Russian Peace Plan Would Force Ukraine to Cede Land and Cut Army",
-    "link": "https://www.nytimes.com/2025/11/19/world/europe/us-russia-ukraine-peace-plan.html",
-    "summary": "The 28-point proposal, which comes as the Trump administration tries to restart settlement talks, includes demands long rejected by Kyiv as  nonstarters."
-  },
-  {
-    "title": "As Sanctions on Russian Oil Loom, India Prepares to End Its Buying Spree",
-    "link": "https://www.nytimes.com/2025/11/20/business/india-russia-oil-sanctions.html",
-    "summary": "India has been snapping up discounted Russian crude for three years, but U.S. sanctions that take effect on Friday are expected to end the lucrative trade."
-  },
-  {
-    "title": "Nvidia Earnings Show Profit Jumped 65% to $31.9 Billion",
-    "link": "https://www.nytimes.com/2025/11/19/technology/nvidia-earnings.html",
-    "summary": "The company, which makes the computer chips essential to the artificial intelligence boom, also said revenue in its recent quarter rose to $57 billion."
-  },
-  {
-    "title": "Nvidia Earnings Fuel Rally in Global Technology Stocks",
-    "link": "https://www.nytimes.com/2025/11/19/business/stocks-nvidia-earnings.html",
-    "summary": "The chipmaker’s profit surge and strong revenue forecast helped to ease fears that spending on A.I. infrastructure might be outpacing demand."
-  },
-  {
-    "title": "Trump Meeting With Saudi Prince Showcased Prince’s Makeover — and America’s",
+    "title": "Trump Meeting With Saudi Prince Showcased Prince’s Makeover, and America’s",
     "link": "https://www.nytimes.com/2025/11/20/world/middleeast/trump-saudi-prince-mohammed-meeting.html",
-    "summary": "Prince Mohammed was briefly a global pariah after the killing of a Saudi dissident. But over the years he has rebuilt his image as a deal-maker and influential investor."
-  },
-  {
-    "title": "Saudi Arabia’s Prince Has Big Plans, but His Giant Fund Is Low on Cash",
-    "link": "https://www.nytimes.com/2025/11/19/business/pif-saudi-arabia-fund-problems.html",
-    "summary": "After nearly a decade of expensive, hit-and-miss investments, Mohammed bin Salman is overseeing a behind-the-scenes restructuring of the kingdom’s all-important wealth fund."
-  },
-  {
-    "title": "Cheney Service to Underscore How Politics Has Changed Since He Was in Office",
-    "link": "https://www.nytimes.com/2025/11/20/us/politics/dick-cheney-funeral-memorial.html",
-    "summary": "As the former vice president is honored at Washington National Cathedral on Thursday, many eyes will focus on who comes — and who does not."
+    "summary": "Mohammed bin Salman was briefly a global pariah after the killing of a Saudi dissident. But he has rebuilt his image as a deal-maker and influential investor."
   },
   {
     "title": "After a Mysterious Death, a Family’s Quest for Answers Leads to a Tick",
@@ -105,24 +90,9 @@
     "summary": "Jonathan J. Pollard, who was convicted of espionage, said in an interview that the meeting, which was highly unusual for a U.S. diplomat to attend, had been friendly."
   },
   {
-    "title": "Franco Died 50 Years Ago, but He’s Still Winning New Fans in Spain",
-    "link": "https://www.nytimes.com/2025/11/20/world/europe/spain-franco-dictator-memory-video-game.html",
-    "summary": "Young Spaniards are increasingly drawn to the dictator Francisco Franco. So the government is designing apps, games and T-shirts to promote democracy."
-  },
-  {
-    "title": "As the World Pursues Clean Power, Millions Still Have No Power at All",
-    "link": "https://www.nytimes.com/2025/11/20/climate/cop30-electricity-access.html",
-    "summary": "Just outside Belém, the Amazonian city where the world is meeting to discuss climate change, electricity is a very recent arrival."
-  },
-  {
-    "title": "Marjorie Taylor Greene Was Not on Our Bingo Card",
-    "link": "https://www.nytimes.com/2025/11/20/opinion/trump-marjorie-taylor-greene-republicans-maga.html",
-    "summary": "Have we been selling her short? Is she paving the way to the after-Trump?"
-  },
-  {
-    "title": "Jimmy Kimmel Prepares for Hurricane Epstein",
-    "link": "https://www.nytimes.com/2025/11/20/arts/television/jimmy-kimmel-prepares-for-hurricane-epstein.html",
-    "summary": "Kimmel wondered if President Trump might “pull a Taylor Swift and give us ‘The Epstein Files: Donnie’s Version.’”"
+    "title": "Justice Democrats Re-Emerge in New York to Try to Unseat Espaillat",
+    "link": "https://www.nytimes.com/2025/11/20/nyregion/justice-democrats-espaillat-avila-chevalier.html",
+    "summary": "The group, which powered Alexandria Ocasio-Cortez’s rise in 2018, is backing Darializa Avila Chevalier’s bid to unseat Representative Adriano Espaillat."
   },
   {
     "title": "Mamdani and Tisch Agreed to Work Together. Here’s Where They Differ.",
@@ -130,18 +100,48 @@
     "summary": "The New York City mayor-to-be, Zohran Mamdani, and the head of the Police Department, Jessica Tisch, have gaps to bridge on crime and policing."
   },
   {
-    "title": "Top National Book Awards Go to Writing About the Middle East",
-    "link": "https://www.nytimes.com/2025/11/19/books/review/omar-el-akkad-rabih-alameddine-national-book-awards.html",
-    "summary": "Rabih Alameddine’s “The True True Story of Raja the Gullible (and His Mother)” won in fiction, while Omar El Akkad’s reckoning with Gaza took the nonfiction prize."
+    "title": "After 167 Years in New York, a Priceless Coin Collection Heads to Toledo",
+    "link": "https://www.nytimes.com/2025/11/20/arts/design/american-numismatic-society-coins-toledo.html",
+    "summary": "The doubloons, dollars and denarii of the American Numismatic Society will leave their overlooked home in Manhattan for a more welcoming headquarters on the campus of the Toledo Museum of Art."
   },
   {
-    "title": "Robert L. Stirm, Returning P.O.W. in Pulitzer-Winning Photo, Dies at 92",
-    "link": "https://www.nytimes.com/2025/11/19/obituaries/robert-stirm-dead.html",
-    "summary": "The image immortalized a Vietnam veteran’s joyous homecoming to his beaming family, but it hid the truth about an unraveling marriage."
+    "title": "Marjorie Taylor Greene Was Not on Our Bingo Card",
+    "link": "https://www.nytimes.com/2025/11/20/opinion/trump-marjorie-taylor-greene-republicans-maga.html",
+    "summary": "Have we been selling her short? Is she paving the way to the after-Trump?"
   },
   {
-    "title": "Florida Lawmaker Stole FEMA Funds for House Campaign, Prosecutors Say",
-    "link": "https://www.nytimes.com/2025/11/19/us/cherfilus-mccormick-fema-florida-indictment.html",
-    "summary": "Representative Sheila Cherfilus-McCormick misused $5 million in Covid-related funds during the pandemic in part to finance her campaign, according to the Justice Department."
+    "title": "Understanding the Right’s Antisemitic Turn",
+    "link": "https://www.nytimes.com/2025/11/20/opinion/right-antisemitism-yoram-hazony.html",
+    "summary": "It’s deeper than Nick Fuentes."
+  },
+  {
+    "title": "Power and Wealth in New York",
+    "link": "https://www.nytimes.com/2025/11/20/briefing/power-and-wealth-in-new-york.html",
+    "summary": "We’re looking at two local stories that have national implications."
+  },
+  {
+    "title": "What Questions Do You Have About U.S. Immigration Policies?",
+    "link": "https://www.nytimes.com/2025/11/17/world/ask-a-correspondent-questions-immigration.html",
+    "summary": "“Ask a Correspondent” will take your questions to Hamed Aleaziz, our immigration reporter."
+  },
+  {
+    "title": "Iran Withdraws From Deal for International Nuclear Inspections",
+    "link": "https://www.nytimes.com/2025/11/20/world/middleeast/iran-deal-nuclear-inspection.html",
+    "summary": "Iran’s foreign minister said his country would halt plans for a reinstatement of nuclear inspections at a time of heightened concern over Iran’s enriched uranium."
+  },
+  {
+    "title": "These Books Were Judged by Their A.I. Covers, and Disqualified",
+    "link": "https://www.nytimes.com/2025/11/19/books/new-zealand-ocham-book-awards-ai.html",
+    "summary": "A New Zealand book competition dropped two of a publisher’s books because they had A.I.-generated covers. The publisher and the designer pushed back."
+  },
+  {
+    "title": "Tennessee House Race Rivets Democrats and Worries Republicans",
+    "link": "https://www.nytimes.com/2025/11/20/us/politics/tennessee-house-race-behn-van-epps-trump-harris.html",
+    "summary": "Still the favorites, Republicans have grown nervous about a House special election that could show whether the political environment continues to shift leftward."
+  },
+  {
+    "title": "As the World Pursues Clean Power, Millions Still Have No Power at All",
+    "link": "https://www.nytimes.com/2025/11/20/climate/cop30-electricity-access.html",
+    "summary": "Just outside Belém, the Amazonian city where the world is meeting to discuss climate change, electricity is a very recent arrival."
   }
 ]

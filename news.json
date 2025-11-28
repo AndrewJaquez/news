@@ -1,13 +1,18 @@
 [
   {
-    "title": "D.C. Shooting Suspect Worked With C.I.A.-Backed Unit in Afghanistan",
-    "link": "https://www.nytimes.com/2025/11/27/us/national-guard-dc-shooting-suspect-cia-afghanistan.html",
-    "summary": "The C.I.A. and an Afghan intelligence official said that the shooter had been part of an Afghan “partner force,” known as a Zero Unit, trained and supported by the agency in the southern province of Kandahar."
+    "title": "For Shooting Suspect, a Long Path of Conflict From Afghanistan to America",
+    "link": "https://www.nytimes.com/2025/11/27/us/guard-shooting-suspect-profile.html",
+    "summary": "Rahmanullah Lakanwal was among the Afghans who came to the United States after the Taliban takeover of Afghanistan. Earlier, he served in a paramilitary unit that worked with U.S. forces."
+  },
+  {
+    "title": "Trump Uses National Guard Shooting to Cast Suspicion on Refugees",
+    "link": "https://www.nytimes.com/2025/11/27/us/politics/trump-national-guard-shooting.html",
+    "summary": "President Trump claimed there were “a lot of problems with Afghans,” without providing evidence, as his administration announced that it was implementing new immigration guidelines."
   },
   {
     "title": "Hong Kong’s Worst Fire in Decades Fuels Scrutiny of Safety Lapses",
     "link": "https://www.nytimes.com/2025/11/27/world/asia/hong-kong-fire-tai-po-apartment-buildings.html",
-    "summary": "The authorities said flammable netting and foam boards may have fueled the city’s deadliest blaze in nearly 70 years, killing more than 90 and prompting arrests."
+    "summary": "The authorities said flammable netting and foam boards may have fueled the city’s deadliest blaze in nearly 80 years, killing more than 90 and prompting arrests."
   },
   {
     "title": "‘No Alarm Went Off’: Hong Kong Fire Survivor Recounts Harrowing Escape",
@@ -100,29 +105,24 @@
     "summary": "Prime Minister Mark Carney reached a tentative deal with the province as part of his program to curb the country’s economic dependence on the United States."
   },
   {
+    "title": "In Turkey, Pope Seeks to Soothe an Ancient Christian Divide",
+    "link": "https://www.nytimes.com/2025/11/28/world/middleeast/pope-leo-turkey-church.html",
+    "summary": "In Istanbul, Pope Leo XIV will meet the patriarch of the Eastern Orthodox Church to show amity between two of the world’s largest Christian groups."
+  },
+  {
+    "title": "Pope Leo Visits Turkey on His First Trip as Pontiff",
+    "link": "https://www.nytimes.com/2025/11/27/world/europe/pope-leo-trip-pictures.html",
+    "summary": "The pope started his six-day trip, which will also include a visit to Lebanon."
+  },
+  {
+    "title": "SNAP Helping Families Put Thanksgiving Dinner on the Table",
+    "link": "https://www.nytimes.com/2025/11/27/us/politics/snap-benefits-trump-thanksgiving.html",
+    "summary": "SNAP benefits helped Leanna Nieves of Haverhill, Mass., buy Thanksgiving dinner for her family, but she used the day to set aside what have been chronic worries about the federal program."
+  },
+  {
     "title": "Gene Therapy Offer a Cure for Babies With the Deadly ‘Bubble Boy Disease’",
     "link": "https://www.nytimes.com/2025/11/27/well/bubble-boy-disease-gene-therapy.html",
     "summary": "“Bubble boy disease” was once a death sentence. A scientific breakthrough changed that."
-  },
-  {
-    "title": "‘Stranger Things’ Cast Looks Back on the Show and How It Shaped Them",
-    "link": "https://www.nytimes.com/2025/11/27/arts/television/stranger-things-cast-changes.html",
-    "summary": "The first episodes of the final season just premiered on Netflix. In interviews, the young stars looked back on the show and how it shaped them."
-  },
-  {
-    "title": "Labubu and KPop Demon Hunters Join Macy’s Thanksgiving Day Parade",
-    "link": "https://www.nytimes.com/2025/11/27/nyregion/macys-thanksgiving-day-parade.html",
-    "summary": "Crowds in New York City bundled up to take in the latest version of a tradition that has run for nearly a century."
-  },
-  {
-    "title": "Eating What You Kill This Thanksgiving, With Hunter Steven Rinella",
-    "link": "https://www.nytimes.com/2025/11/27/podcasts/the-daily/eating-what-you-kill-this-thanksgiving.html",
-    "summary": "Michael Barbaro goes on a duck hunt with one of America’s most famous hunters: Steven Rinella."
-  },
-  {
-    "title": "Winter Storm in Northern U.S. Expected to Snarl Post-Thanksgiving Travel",
-    "link": "https://www.nytimes.com/2025/11/27/weather/winter-storm-thanksgiving-travel.html",
-    "summary": "Forecasters say a winter storm could disrupt travel, dumping up to a foot of snow across parts of the Midwest through the holiday weekend."
   },
   {
     "title": "Robert A.M. Stern, Architect Who Reinvented Prewar Splendor, Dies at 86",
@@ -140,9 +140,9 @@
     "summary": "The National Guard members shot in Washington are the latest victims of a political violence permeating our society."
   },
   {
-    "title": "Time to Let My Brother Kevin Do the Carving",
-    "link": "https://www.nytimes.com/2025/11/27/opinion/maureen-dowd-brother-thanksgiving-trump.html",
-    "summary": "My brother takes a slice out of Trump and Mamdani."
+    "title": "Trump’s Greedy Thanksgiving",
+    "link": "https://www.nytimes.com/2025/11/27/opinion/culture/trump-billionaires-thanksgiving.html",
+    "summary": "This year, it’s not about giving back; it’s about getting yours."
   },
   {
     "title": "Louvre Raising Ticket Prices for Non-European Visitors",
@@ -155,9 +155,9 @@
     "summary": "Net migration to Britain has fallen by almost 80 percent from its 2023 peak, according to data released on Thursday."
   },
   {
-    "title": "Pope Leo Lands in Turkey, Planning to Meet Erdogan With a Message of Outreach",
-    "link": "https://www.nytimes.com/2025/11/27/world/middleeast/pope-first-foreign-trip-turkey-erdogan.html",
-    "summary": "President Recep Tayyip Erdogan received Leo XIV on the opening leg of a trip that will also include Lebanon."
+    "title": "Labubu and KPop Demon Hunters Join Macy’s Thanksgiving Day Parade",
+    "link": "https://www.nytimes.com/2025/11/27/nyregion/macys-thanksgiving-day-parade.html",
+    "summary": "Crowds in New York City bundled up to take in the latest version of a tradition that has run for nearly a century."
   },
   {
     "title": "What to Know About the Coup in Guinea-Bissau",

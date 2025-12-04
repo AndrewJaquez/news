@@ -1,20 +1,5 @@
 [
   {
-    "title": "Trump Returns to Gasoline as Fuel of Choice for Cars, Gutting Biden’s Climate Policy",
-    "link": "https://www.nytimes.com/2025/12/03/climate/trump-fuel-economy-car-rules.html",
-    "summary": "The president said he would weaken Biden-era mileage standards, which were designed to increase electric-vehicle sales, calling them a “scam.”"
-  },
-  {
-    "title": "U.S. Military’s Boat Strikes Planning Takes On New Significance",
-    "link": "https://www.nytimes.com/2025/12/03/us/politics/trump-boat-strikes-survivors.html",
-    "summary": "The details could raise questions about who was responsible for a follow-up strike on Sept. 2 — the commander who ordered it or the defense secretary."
-  },
-  {
-    "title": "Trump Pardons Henry Cuellar, Texas Democrat Indicted on Bribery Charges",
-    "link": "https://www.nytimes.com/2025/12/03/us/politics/trump-pardons-henry-cuellar-texas-democrat.html",
-    "summary": "The president used the latest pardon announcement to attack his predecessor, Joseph R. Biden Jr."
-  },
-  {
     "title": "Republican Anger Erupts at Johnson as Party Frets About Future",
     "link": "https://www.nytimes.com/2025/12/03/us/politics/republican-women-speaker-johnson.html",
     "summary": "A small group of G.O.P. women have been among the most vocal in raising what their colleagues say is a broader frustration with the speaker."
@@ -25,9 +10,39 @@
     "summary": "Republican candidates face the problem that President Trump alone gets out the vote that they need. And he alone gets out the vote that Democrats need, too."
   },
   {
-    "title": "Bitcoin’s Predicted Sky-High Prices Have Not Panned Out",
-    "link": "https://www.nytimes.com/2025/12/03/technology/cryptocurrencies-tumble-trump-rally.html",
-    "summary": "Bitcoin has plunged more than 30 percent and Ether is down around 40 percent in recent months, as gains from President Trump’s pro-crypto policies evaporated."
+    "title": "U.S. Military’s Boat Strikes Planning Takes On New Significance",
+    "link": "https://www.nytimes.com/2025/12/03/us/politics/trump-boat-strikes-survivors.html",
+    "summary": "The details could raise questions about who was responsible for a follow-up strike on Sept. 2 — the commander who ordered it or the defense secretary."
+  },
+  {
+    "title": "Trump Returns to Gasoline as Fuel of Choice for Cars, Gutting Biden’s Climate Policy",
+    "link": "https://www.nytimes.com/2025/12/03/climate/trump-fuel-economy-car-rules.html",
+    "summary": "The president said he would weaken Biden-era mileage standards, which were designed to increase electric-vehicle sales, calling them a “scam.”"
+  },
+  {
+    "title": "Pentagon Watchdog Finds Hegseth’s Signal Chat Risked Endangering U.S. Troops",
+    "link": "https://www.nytimes.com/2025/12/03/us/politics/hegseth-signal-leak-report.html",
+    "summary": "An inspector general report to be released on Thursday examined the defense secretary’s use of a private messaging app to discuss airstrikes in Yemen."
+  },
+  {
+    "title": "Trump Renames Institute of Peace for Himself",
+    "link": "https://www.nytimes.com/2025/12/03/us/politics/trump-us-institute-peace-name.html",
+    "summary": "Workers installed the president’s name on the Washington institute, thrusting it back into the spotlight as it is set to host the signing of a peace deal between Rwanda and Congo."
+  },
+  {
+    "title": "Trump Faces Choices on Russia-Ukraine Talks as Peace Deal Deadline Passes",
+    "link": "https://www.nytimes.com/2025/12/03/us/politics/trump-russia-ukraine-deadline.html",
+    "summary": "The president wanted Moscow and Kyiv to come to terms by Thanksgiving. Negotiations are now stalled, leaving the White House to decide if an agreement is possible anytime soon."
+  },
+  {
+    "title": "What to Know About Putin’s Visit to India as Oil Trade Dries Up",
+    "link": "https://www.nytimes.com/2025/12/03/world/asia/india-russia-putin-visit-arms.html",
+    "summary": "The Trump administration, which crippled Russia’s oil sales to India with sanctions, will be watching Mr. Putin’s talks with Prime Minister Narendra Modi."
+  },
+  {
+    "title": "Stakes High, Europe Races to Save Its Financing Plan for Ukraine",
+    "link": "https://www.nytimes.com/2025/12/03/world/europe/ukraine-russia-european-union-frozen-assets.html",
+    "summary": "The European Union has a proposal for how to turn Russian frozen assets into a giant loan for Ukraine. If it fails, it could further weaken Europe’s global image."
   },
   {
     "title": "Photos of Jeffrey Epstein’s Private Island Released by Democrats",
@@ -35,7 +50,7 @@
     "summary": "In publicizing the photos and videos, Democrats in Congress appeared to be intensifying pressure on the Justice Department to release its files on the Epstein case."
   },
   {
-    "title": "Who is Andrew Farkas, Who Owned a Marina With Jeffrey Epstein?",
+    "title": "Who Is Andrew Farkas, Who Owned a Marina With Jeffrey Epstein?",
     "link": "https://www.nytimes.com/2025/12/03/nyregion/andrew-farkas-jeffrey-epstein-marina.html",
     "summary": "The billionaire real estate developer’s relationship with Mr. Epstein is in the spotlight, with the release of emails and images of Mr. Epstein’s private home in the Caribbean."
   },
@@ -55,14 +70,19 @@
     "summary": "“One Battle After Another,” “Sinners,” “Hamnet,” “Marty Supreme” and “Sentimental Value” are almost certain to be nominated. After that, it’s anyone’s guess."
   },
   {
+    "title": "Taiwan’s Opposition Leader, Once for Independence, Turns Toward China",
+    "link": "https://www.nytimes.com/2025/12/04/world/asia/taiwan-opposition-cheng-china.html",
+    "summary": "She says Taiwan must embrace its Chinese heritage to avoid war. Her critics say she wants to steer the island into Beijing’s orbit."
+  },
+  {
+    "title": "Former F.D.A. Commissioners Sound Alarm on Plan to Change Vaccine Policy",
+    "link": "https://www.nytimes.com/2025/12/03/health/fda-commissioners-vaccine-policy-concerns.html",
+    "summary": "Twelve former commissioners, in a New England Journal of Medicine article, said they were “deeply concerned” by a leaked memo from the agency’s vaccine regulator."
+  },
+  {
     "title": "The Evidence For the Childhood Vaccine Schedule, Explained",
     "link": "https://www.nytimes.com/2025/01/25/well/childhood-vaccine-schedule.html",
     "summary": "Members of a vaccine advisory committee handpicked by Health Secretary Robert F. Kennedy Jr. will discuss revising the childhood immunization schedule this week. Here’s what to know."
-  },
-  {
-    "title": "How William Hendrix Became Part of a Racist, Antisemitic Group Chat for Young Republicans",
-    "link": "https://www.nytimes.com/2025/12/03/us/politics/william-hendrix-kansas-republicans.html",
-    "summary": "William Hendrix wanted a life in politics. He found it, with the Young Republicans."
   },
   {
     "title": "Afghan Refugees Face Uncertain Future As Trump Tightens Immigration Policy",
@@ -75,9 +95,9 @@
     "summary": "It is unclear how long the effort will last in Louisiana, where the Republican governor has welcomed the agents with open arms even as immigrant communities fear what might come."
   },
   {
-    "title": "‘Targeted and Unsafe’: Minnesota Somalis Reel After Trump’s Tirade",
+    "title": "Obstacles to Trump’s Push to Deport Minnesota Somalis: Reality and the Cold",
     "link": "https://www.nytimes.com/2025/12/03/us/minnesota-somalis-trump-immigration.html",
-    "summary": "Most Somalis in the Twin Cities are U.S. citizens or legal permanent residents. The Trump administration has started a crackdown on Somalis who are subject to deportation."
+    "summary": "Most Somalis in the state are U.S. citizens or legal permanent residents, making the pool of people who would be subject to removal small. And the frigid weather may limit agents’ search."
   },
   {
     "title": "Repatriation Flights With Hundreds of Migrants Arrive in Venezuela",
@@ -85,14 +105,9 @@
     "summary": "The flights with Venezuelans who had been living in the United States arrived at a time of airspace safety concerns as the U.S. military pressures Venezuela’s leader."
   },
   {
-    "title": "Trump Faces Choices on Russia-Ukraine Talks as Peace Deal Deadline Passes",
-    "link": "https://www.nytimes.com/2025/12/03/us/politics/trump-russia-ukraine-deadline.html",
-    "summary": "The president wanted Moscow and Kyiv to come to terms by Thanksgiving. Negotiations are now stalled, leaving the White House to decide if an agreement is possible anytime soon."
-  },
-  {
-    "title": "Stakes High, Europe Races to Save Its Financing Plan for Ukraine",
-    "link": "https://www.nytimes.com/2025/12/03/world/europe/ukraine-russia-european-union-frozen-assets.html",
-    "summary": "The European Union has a proposal for how to turn Russian frozen assets into a giant loan for Ukraine. If it fails, it could further weaken Europe’s global image."
+    "title": "5 Takeaways From the 2025 DealBook Summit",
+    "link": "https://www.nytimes.com/2025/12/03/business/dealbook-summit-kirk-netanyahu-mrbeast.html",
+    "summary": "President Trump’s economic policies and artificial intelligence were among the central topics at the gathering of business and political leaders."
   },
   {
     "title": "Hong Kong’s Response to Deadly Fire Shows China’s Play Book in Action",
@@ -105,11 +120,6 @@
     "summary": "Israel had agreed to open the Rafah crossing as part of the October cease-fire deal with Hamas but kept it closed. Egypt denied that the border would reopen soon."
   },
   {
-    "title": "With Tensions Rising, Israel and Lebanon Expand Cease-Fire Talks",
-    "link": "https://www.nytimes.com/2025/12/03/world/middleeast/israel-lebanon-talks-ceasefire.html",
-    "summary": "Diplomats from both countries joined a military-led committee overseeing a year-old truce as fears mounted of a renewed Israeli offensive against Hezbollah."
-  },
-  {
     "title": "Doctor Who Gave Matthew Perry Ketamine Is Sentenced to 30 Months",
     "link": "https://www.nytimes.com/2025/12/03/arts/television/matthew-perry-salvador-plasencia-sentencing.html",
     "summary": "The doctor, Salvador Plasencia, had asked “I wonder how much this moron will pay” before supplying the drug to Mr. Perry, who became increasingly reliant on it before his death."
@@ -120,34 +130,14 @@
     "summary": "Dean Whetzel, 82, had known Dana Escoffier, 79, for decades. When Mr. Whetzel bumped into him near their Village apartments, Mr. Escoffier shoved him, the police said, and he fell to the ground."
   },
   {
-    "title": "Inside the Museum-Style Home of Michael Ovitz, an A-List Collector",
-    "link": "https://www.nytimes.com/2025/12/02/arts/design/michael-ovitz-home-art-collection.html",
-    "summary": "He is best known as a former Hollywood power broker, but Ovitz has filled his Beverly Hills home with a collection that shows how serious he is about art."
+    "title": "Centrists Were Supposed to Save Europe. Instead, They’re Condemning It to Horrors.",
+    "link": "https://www.nytimes.com/2025/12/03/opinion/europe-britain-france-germany-centrist.html",
+    "summary": "Centrist governments are failing badly in Europe’s leading economies, setting the stage for a far-right sweep."
   },
   {
-    "title": "Private Employers Cut Jobs in November, in Latest Sign of a Slowdown",
-    "link": "https://www.nytimes.com/2025/12/03/business/jobs-adp-economy.html",
-    "summary": "Data from ADP, a payroll processor, is getting added attention because of delays in official statistics caused by the government shutdown."
-  },
-  {
-    "title": "Shoppers Turn to Discounts and Debt, but Not Just for Holidays",
-    "link": "https://www.nytimes.com/2025/12/03/business/holiday-shop-deals.html",
-    "summary": "Consumers are focusing on value and financing purchases to complete their shopping lists."
-  },
-  {
-    "title": "Don’t Trust the Epstein Files",
-    "link": "https://www.nytimes.com/2025/12/03/opinion/epstein-trump-files-release.html",
-    "summary": "Even if the wisdom of releasing the files is a nuanced issue, the president’s behavior has been indefensible."
-  },
-  {
-    "title": "Lily Allen’s West End Girl Midlife Crisis Is Inspiring",
-    "link": "https://www.nytimes.com/2025/12/03/opinion/lily-allen-david-harbour-west-end-girl.html",
-    "summary": "A singer’s almost totally relatable look at the woes of aging."
-  },
-  {
-    "title": "Trump Plans to Lower Fuel Efficiency Requirements",
-    "link": "https://www.nytimes.com/2025/12/03/briefing/trump-fuel-efficiency-requirements.html",
-    "summary": "Also, Dick Van Dyke shares his secrets to aging well. Here’s the latest at the end of Wednesday."
+    "title": "Trump Is Wreaking Havoc With His Favorite Power",
+    "link": "https://www.nytimes.com/2025/12/03/opinion/trump-pardon-power.html",
+    "summary": "In the right hands, the pardon power is too strong. In the wrong hands, it is disastrous."
   },
   {
     "title": "In Yemen, Separatist Forces Backed by UAE March Into Oil-Rich Region",
@@ -160,7 +150,7 @@
     "summary": "The plaintiffs, white and Asian students, said they would qualify for scholarships given out by the Hispanic Scholarship Fund, but for their race."
   },
   {
-    "title": "Steve Cropper, Guitarist, Songwriter and a Shaper of Memphis Soul Music",
+    "title": "Steve Cropper, Guitarist, Songwriter and Shaper of Memphis Soul Music, Dies at 84",
     "link": "https://www.nytimes.com/2025/12/03/arts/music/steve-cropper-dead.html",
     "summary": "As a member of Booker T. & the MG’s and as a producer, he played a pivotal role in the rise of Stax Records, a storied force in R&amp;B in the 1960s and ’70s."
   }

@@ -1,5 +1,25 @@
 [
   {
+    "title": "Democrats Call for Releasing Video of Deadly Boat Strike in the Caribbean",
+    "link": "https://www.nytimes.com/2025/12/07/us/politics/democrats-boat-strike-video-release.html",
+    "summary": "Top Democratic lawmakers who have seen the footage said Sunday that making the video public would provide transparency around the strikes that killed two survivors on Sept. 2."
+  },
+  {
+    "title": "The Impact of Trump’s Slipping Approval Rating",
+    "link": "https://www.nytimes.com/video/us/politics/100000010563180/the-impact-of-trumps-slipping-approval-rating.html",
+    "summary": "After months of holding steady, President Trump‘s approval rating has dipped over the past several weeks, according to a New York Times analysis of public polling."
+  },
+  {
+    "title": "Immigration Agents Target Family of Deported College Student",
+    "link": "https://www.nytimes.com/2025/12/07/us/immigration-agents-family-deported-student.html",
+    "summary": "The father of Any Lucía Belloza López said agents appeared at his home in Austin, Texas, on Sunday. His daughter, 19, was deported to Honduras during a surprise trip home for Thanksgiving."
+  },
+  {
+    "title": "Bessent Says He Divested From Soybean Farms After Ethics Office Warning",
+    "link": "https://www.nytimes.com/2025/12/07/business/bessent-divest-soybean-farms-ethics.html",
+    "summary": "The Treasury Secretary said on Sunday he recently shed his holdings to comply with his federal ethics agreement."
+  },
+  {
     "title": "Presidential Power Gets Tested Before Supreme Court After Long Conservative Project to Shrink Agencies",
     "link": "https://www.nytimes.com/2025/12/07/us/politics/supreme-court-trump-independent-agencies.html",
     "summary": "President Trump has repeatedly ousted leaders of independent agencies despite federal laws meant to shield those regulators from politics."
@@ -10,27 +30,7 @@
     "summary": "Franklin D. Roosevelt’s efforts to oust a Federal Trade Commission leader offer parallels to the current fight over President Trump’s actions."
   },
   {
-    "title": "Superpower Competition: The Missing Chapter in Trump’s Security Strategy",
-    "link": "https://www.nytimes.com/2025/12/07/us/politics/trump-security-strategy-superpowers.html",
-    "summary": "President Trump is shifting from discussion of the long-lasting competition among the world’s biggest economies and nuclear powers."
-  },
-  {
-    "title": "Judge Stalls Justice Dept. Effort to Seek New Comey Indictment",
-    "link": "https://www.nytimes.com/2025/12/06/us/politics/judge-comey-indictment-richman.html",
-    "summary": "The judge’s decision prevented the government until at least next Friday from having access to much of the evidence it used to secure its original indictment against Mr. Comey."
-  },
-  {
-    "title": "This Nebraska Prison Rehabilitated Inmates. Until ICE Paid to Fill It With Immigrants.",
-    "link": "https://www.nytimes.com/2025/12/07/us/nebraska-prison-mccook-ice-immigrants-detention-trump.html",
-    "summary": "Over two decades, a minimum-security prison aimed at helping inmates prepare to leave prison was a point of civic pride. Now, state officials have converted it to ICE detention."
-  },
-  {
-    "title": "How Stablecoins Can Help Criminals Launder Money and Evade Sanctions",
-    "link": "https://www.nytimes.com/2025/12/07/technology/how-a-cryptocurrency-helps-criminals-launder-money-and-evade-sanctions.html",
-    "summary": "Through layers of intermediaries, stablecoins can be moved, swapped and mixed into pools of other funds in ways that are difficult to trace, experts say."
-  },
-  {
-    "title": "How Biden Ignored Warnings and Lost Americans’ Faith in Immigration",
+    "title": "How Biden Lost Americans’ Faith in Immigration",
     "link": "https://www.nytimes.com/2025/12/07/us/politics/biden-immigration-trump.html",
     "summary": "The Democratic president and his top advisers rejected recommendations that could have eased the border crisis that helped return Donald Trump to the White House."
   },
@@ -45,14 +45,29 @@
     "summary": "Carbondale, Ill., a liberal enclave within driving distance of 10 states with abortion bans, has become a hub for the procedure. Last year there were nearly 11,000 abortions in this city of 21,000."
   },
   {
-    "title": "The Married Scientists Torn Apart by a Covid Bioweapon Theory",
-    "link": "https://www.nytimes.com/2025/12/07/us/china-virologist-li-meng-yan-coronavirus.html",
-    "summary": "In 2020, a Chinese virologist fled to the United States, aided by allies of President Trump who sought to promote her unproven theories about the origins of Covid-19. Her husband still can’t find her."
+    "title": "Social Security at 70? Why the Gold Standard Advice Works for Only a Few",
+    "link": "https://www.nytimes.com/2025/12/07/business/social-security-70-retirement.html",
+    "summary": "The standard advice is to hold off, but most retirees claim the benefit as soon as they can, at age 62. Here’s what to know when you’re planning the unplannable."
   },
   {
-    "title": "What Do Republicans Have to Fear? Ask Tennessee.",
-    "link": "https://www.nytimes.com/2025/12/07/opinion/tennessee-trump-special-election.html",
-    "summary": "What a special House election just told us."
+    "title": "Cold Case Inquiries Stall After Ancestry.com Revisits Policy for Users",
+    "link": "https://www.nytimes.com/2025/12/07/nyregion/ancestry-dna-police.html",
+    "summary": "The genealogy site’s clarification of its terms and conditions has barred those working on unsolved crimes from access to the company’s vast trove of records."
+  },
+  {
+    "title": "Australia’s Social Media Ban for Under-16s Is Coming. The Teenagers Are Skeptical.",
+    "link": "https://www.nytimes.com/2025/12/07/world/asia/australia-social-media-ban-under-16.html",
+    "summary": "The country is trying to wean children under 16 off the likes of TikTok, Snapchat, YouTube and Instagram with a new law. The teenagers are skeptical."
+  },
+  {
+    "title": "How Australia’s Social Media Ban for Children Will Work",
+    "link": "https://www.nytimes.com/2025/12/07/world/asia/australia-social-media-ban-how-what.html",
+    "summary": "The country is barring children under 16 from social media, with a sweeping federal law that is one of the first attempts at a nationwide regulation."
+  },
+  {
+    "title": "Everyone Wants High-Quality Clothes. That’s Become Its Own Trend.",
+    "link": "https://www.nytimes.com/2025/12/07/opinion/fashion-quality-ethical-consumption.html",
+    "summary": "Being a smart consumer has never been easier. Influencers and the fashion industry are all taking advantage of that."
   },
   {
     "title": "The Crucial Lesson of a Forgotten Nixon-Era Episode",
@@ -60,23 +75,23 @@
     "summary": "After my father-in-law died, we found something interesting in his files."
   },
   {
-    "title": "Your Gift Dilemmas, Solved",
-    "link": "https://www.nytimes.com/2025/12/07/briefing/your-gift-dilemmas-solved.html",
-    "summary": "An expert from Wirecutter helps Morning readers with their trickiest holiday gift searches."
-  },
-  {
-    "title": "Hong Kong Holds Vote as Officials Move Against ‘Anti-China’ Elements",
-    "link": "https://www.nytimes.com/2025/12/07/world/asia/hong-kong-fire-election-campaign.html",
-    "summary": "The government is pushing hard to raise turnout in an election overshadowed by a deadly fire and public anger over safety lapses and official accountability."
-  },
-  {
     "title": "Benin Coup Attempt to Oust Talon Has Been Foiled, Interior Minister Says",
     "link": "https://www.nytimes.com/2025/12/07/world/africa/benin-coup-shots-military-africa.html",
-    "summary": "The country’s interior minister said the situation was under control after a “small group of soldiers launched a mutiny,” but the president had yet to make a public statement."
+    "summary": "A spokesman said 14 members of the military had been arrested. The West African country’s president, who was not seen for hours, appeared on television Sunday night and said the coup plot would “not go unpunished.”"
   },
   {
-    "title": "In Brazil’s Answer to Hollywood, Dreams and Drought Share the Stage",
-    "link": "https://www.nytimes.com/2025/12/07/world/americas/brazil-cabaceiras-film-tv-hollywood.html",
-    "summary": "A dusty town in the parched northeast has become the nation’s show business destination. But climate change and technology are posing new challenges there."
+    "title": "Hundreds Rally for Boy, 6, Who Was Separated From His Father by ICE",
+    "link": "https://www.nytimes.com/2025/12/07/nyregion/queens-migrant-boy-detained-rally.html",
+    "summary": "“Taking children from their families is not normal,” a speaker told the crowd in Queens, where Yuanxin Zheng attended school until being detained."
+  },
+  {
+    "title": "Fern Michaels, Prolific Author of Romance Novels, Dies at 92",
+    "link": "https://www.nytimes.com/2025/12/07/obituaries/fern-michaels-dead.html",
+    "summary": "In her 40s, the self-described New Jersey housewife started building a women’s fiction empire, churning out dozens of popular books."
+  },
+  {
+    "title": "Katy Perry Posts Photos With Justin Trudeau Amid Romance Rumors",
+    "link": "https://www.nytimes.com/2025/12/07/world/canada/katy-perry-justin-trudeau-relationship-japan.html",
+    "summary": "Ms. Perry and Mr. Trudeau, the former prime minister of Canada, posed together in photos and videos on Instagram, making them “Instagram official.”"
   }
 ]

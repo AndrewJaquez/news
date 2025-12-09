@@ -1,33 +1,23 @@
 [
   {
-    "title": "Who Is Andrew Ferguson, the FTC Chairman Who Tilted the Agency to Trump?",
-    "link": "https://www.nytimes.com/2025/12/08/technology/ftc-andrew-ferguson-regulator.html",
-    "summary": "Andrew Ferguson has used the Federal Trade Commission’s consumer protection mandate to investigate issues important to President Trump and his base."
+    "title": "A Frustrated Congress Pushes the Pentagon to Produce Its Boat Strike Orders",
+    "link": "https://www.nytimes.com/2025/12/08/us/politics/defense-bill-congress-boat-strikes.html",
+    "summary": "In a sign of bipartisan frustration with the Defense Department, the final defense policy bill aims to compel the Pentagon to share execute orders and video documentation."
   },
   {
-    "title": "Planes, Trade and Nuclear Energy: Supreme Court Weighs Fate of Independent Regulators",
-    "link": "https://www.nytimes.com/2025/12/08/business/supreme-court-independent-regulators.html",
-    "summary": "The court heard arguments Monday on a case that could determine the independence of agencies like the National Transportation Safety Board and the Nuclear Regulatory Commission."
+    "title": "Trump Plans $12 Billion Bailout to Aid Farmers Hit by Tariffs",
+    "link": "https://www.nytimes.com/2025/12/08/us/politics/trump-farmers-aid-bailout.html",
+    "summary": "The federal aid comes after China boycotted American farm products in retaliation for U.S. tariffs."
   },
   {
-    "title": "Obamacare Users Will Be Asked to Pay More for Plans That Cover Less",
-    "link": "https://www.nytimes.com/2025/12/08/health/obamacare-deductibles-premiums-health-insurance.html",
-    "summary": "People who have health insurance under the Affordable Care Act will face higher deductibles and higher premiums."
+    "title": "Trump Clears Sale of More Powerful Nvidia A.I. Chips to China",
+    "link": "https://www.nytimes.com/2025/12/08/business/trump-nvidia-chips-china.html",
+    "summary": "Approval for the H200 chip followed months of haggling between tech industry backers and defense hawks."
   },
   {
-    "title": "App That Tracks ICE Raids Sues U.S., Saying Officials Pressured Apple to Remove It",
-    "link": "https://www.nytimes.com/2025/12/08/business/apple-iceblock-lawsuit.html",
-    "summary": "The developer of ICEBlock, which notifies users of ICE agent sightings, said Attorney General Pam Bondi censored his free speech."
-  },
-  {
-    "title": "Paramount Makes Hostile Bid for Warner Bros. Discovery",
-    "link": "https://www.nytimes.com/2025/12/08/business/paramount-warner-bros-discovery-netflix.html",
-    "summary": "The offer to shareholders comes days after Warner Bros. agreed to sell its streaming and studio business to Netflix."
-  },
-  {
-    "title": "Trump Looms Over Netflix’s Deal for Warner Bros. Discovery",
-    "link": "https://www.nytimes.com/2025/12/08/business/dealbook/trump-effect-netflix-warner-bros.html",
-    "summary": "President Trump said the acquisition “could be a problem,” suggesting he will insert himself into the regulatory review of the transaction."
+    "title": "Trump Criticizes Zelensky as Ukraine Peace Talks Drag On With European Leaders",
+    "link": "https://www.nytimes.com/2025/12/08/world/europe/zelensky-ukraine-war-peace-talks-europe-london.html",
+    "summary": "Despite pressure from the Trump administration, Mr. Zelensky, after meeting with European leaders who vowed continued support in the war, said Ukraine’s position on territory had not changed."
   },
   {
     "title": "The U.S. Gave Mexico a List of Russian Spies. Mexico Let Them Stay.",
@@ -35,19 +25,54 @@
     "summary": "Moscow has ramped up covert operations in Mexico, with spies meeting handlers in its bustling capital and seaside resorts, U.S. officials say."
   },
   {
-    "title": "Trump Criticizes Zelensky as Ukraine Peace Talks Drag On With European Leaders",
-    "link": "https://www.nytimes.com/2025/12/08/world/europe/zelensky-ukraine-war-peace-talks-europe-london.html",
-    "summary": "The destiny of Ukraine “is the destiny of Europe,” the German chancellor said on Monday, as he and other leaders met with President Volodymyr Zelensky in London."
+    "title": "Russian Court Sentences 4 Soldiers to Prison for Killing Texan",
+    "link": "https://www.nytimes.com/2025/12/08/world/europe/russia-soldiers-sentence-murder-texas.html",
+    "summary": "Russell Bonner Bentley III, 64, who was living in the occupied Donbas region of Ukraine, was beaten and tortured to death after he was suspected of being an American saboteur, investigators said."
+  },
+  {
+    "title": "N.Y. Archdiocese Will Negotiate Sex-Abuse Settlement for 1,300 Accusers",
+    "link": "https://www.nytimes.com/2025/12/08/nyregion/ny-archdiocese-sex-abuse-settlement.html",
+    "summary": "The archdiocese will raise at least $300 million to fund the settlement. It has agreed with its accusers on a mediator to conduct negotiations."
+  },
+  {
+    "title": "Supreme Court Seems Poised to Give Trump More Power to Fire Independent Officials",
+    "link": "https://www.nytimes.com/2025/12/08/us/politics/supreme-court-trump-presidential-power.html",
+    "summary": "A ruling in the president’s favor in the case, which deals with his attempt to remove a member of the Federal Trade Commission, would be a major expansion of presidential authority."
+  },
+  {
+    "title": "Supreme Court Questions N.Y. Ban on Religious Exemptions for Vaccines",
+    "link": "https://www.nytimes.com/2025/12/08/nyregion/ny-school-vaccinations.html",
+    "summary": "The U.S. Supreme Court directed a lower court to review the ban, which applies to strict vaccine requirements in New York schools."
+  },
+  {
+    "title": "Who Is Andrew Ferguson, the FTC Chairman Who Tilted the Agency to Trump?",
+    "link": "https://www.nytimes.com/2025/12/08/technology/ftc-andrew-ferguson-regulator.html",
+    "summary": "Andrew Ferguson has used the Federal Trade Commission’s consumer protection mandate to investigate issues important to President Trump and his base."
+  },
+  {
+    "title": "Trump Stands in the Middle as Netflix and Paramount Vie for a Megadeal",
+    "link": "https://www.nytimes.com/2025/12/08/business/media/trump-netflix-paramount-deal.html",
+    "summary": "The president has shattered norms by pledging to “be involved” in the regulatory fate of a transaction that could reshape the news and entertainment industries."
+  },
+  {
+    "title": "Jared Kushner Is Part of Paramount’s Bid for Warner Bros. Discovery",
+    "link": "https://www.nytimes.com/2025/12/08/business/media/jared-kushner-paramount-bid-warner-bros-discovery.html",
+    "summary": "Mr. Kushner’s private equity fund is one of the many groups helping Paramount mount a hostile bid to buy the group, whose holdings include CNN."
+  },
+  {
+    "title": "G.O.P. Senators Push Health Care Options as Vote Looms",
+    "link": "https://www.nytimes.com/2025/12/08/us/politics/obamacare-subsidy-vote-aca.html",
+    "summary": "The Senate is set to vote later this week on a three-year extension of Affordable Care Act subsidies that Republicans oppose. The G.O.P. has yet to coalesce around an alternative."
+  },
+  {
+    "title": "Obamacare Users Will Be Asked to Pay More for Plans That Cover Less",
+    "link": "https://www.nytimes.com/2025/12/08/health/obamacare-deductibles-premiums-health-insurance.html",
+    "summary": "People who have health insurance under the Affordable Care Act will face higher deductibles and higher premiums."
   },
   {
     "title": "How Japan Built a Rare-Earth Supply Chain Without China",
     "link": "https://www.nytimes.com/2025/12/08/business/japan-rare-earths-lynas.html",
     "summary": "The 15-year effort by Japan is a model for countries now scrambling to reduce their dependence on Beijing’s critical metals."
-  },
-  {
-    "title": "Despite Trump’s Tariffs, China’s Trade Surplus Climbs Past $1 Trillion for First Time",
-    "link": "https://www.nytimes.com/2025/12/07/business/china-trade-surplus.html",
-    "summary": "President Trump’s tariffs weren’t enough to hold back the global export flood by China, which pushed past last year’s record in just 11 months."
   },
   {
     "title": "6 Memorable Moments From the ‘Trump Kennedy Center’ Honors",
@@ -60,49 +85,19 @@
     "summary": "Melania Trump went minimal, Gloria Gaynor dressed to shine, but the star of the night was the president."
   },
   {
+    "title": "Youth Mental Health Improved When Schools Reopened, Study Finds",
+    "link": "https://www.nytimes.com/2025/12/08/health/school-closures-mental-health.html",
+    "summary": "With the end of school shutdowns, children’s mental health appointments fell sharply, though other factors may have contributed."
+  },
+  {
     "title": "A Data Center Wrapped in a Mystery Comes to the New Mexican Desert",
     "link": "https://www.nytimes.com/2025/12/07/business/boarderplex-new-mexico-data-center-mystery.html",
     "summary": "As wealthier areas are pushing back against huge A.I. data centers, speculators are pitching places like Doña Ana County, N.M., on their vision. Local officials are eager for a deal — even if they don’t quite know the terms."
   },
   {
-    "title": "Syrians Celebrate Anniversary of Bashar al-Assad’s Fall",
-    "link": "https://www.nytimes.com/2025/12/08/world/middleeast/syria-anniversary-assad-fall.html",
-    "summary": "A year ago, rebels overthrew President Bashar al-Assad, ending decades of dictatorship and civil war. But challenges remain for the new leadership."
-  },
-  {
-    "title": "A Weakened Hamas Still Dominates Gaza, Building Day by Day",
-    "link": "https://www.nytimes.com/2025/12/08/world/middleeast/hamas-gaza.html",
-    "summary": "A cease-fire after two years of war with Israel has allowed Hamas to tighten its grip on power again. “It’s still standing,” one Israeli official said."
-  },
-  {
-    "title": "At a Democratic Governors Event, Hope, Nerves and Buzz for the Midterms and 2028 Election",
-    "link": "https://www.nytimes.com/2025/12/08/us/politics/democratic-governors-midterms-2028-election.html",
-    "summary": "At an annual event for Democratic governors, optimism about next year overshadowed the search for a long-term vision. As Gretchen Whitmer put it, adding an expletive: “Let’s go!”"
-  },
-  {
-    "title": "Colin Allred Drops Out of Democratic Primary for U.S. Senate in Texas",
-    "link": "https://www.nytimes.com/2025/12/08/us/colin-allred-senate-texas-primary.html",
-    "summary": "His departure came as Representative Jasmine Crockett, a rising star in the party, appeared likely to announce her own Senate run soon."
-  },
-  {
-    "title": "4 Takeaways From The Times’s Examination of N.Y.C. Subway Collisions",
-    "link": "https://www.nytimes.com/2025/12/08/nyregion/nyc-subway-strikes-takeaways.html",
-    "summary": "New York City train operators witness more people being struck by trains than drivers in any other American system. Afterward, many struggle to get the help they need."
-  },
-  {
-    "title": "Golden Globe Nominations Confirm the Allure of Warner Bros.",
-    "link": "https://www.nytimes.com/2025/12/08/business/media/golden-globes-nominations-2026.html",
-    "summary": "The studio’s film “One Battle After Another,” and an HBO show it owns, “The White Lotus,” scored the most nominations for movies and television shows."
-  },
-  {
-    "title": "Golden Globe 2026 Nominees: Full List Including ‘One Battle After Another’",
-    "link": "https://www.nytimes.com/2025/12/08/movies/golden-globes-nominees-2026-list.html",
-    "summary": "The movies and TV series competing for the 83rd Golden Globes. The ceremony will air on Jan. 11."
-  },
-  {
-    "title": "Golden Globes 2026 Snubs and Surprises: ‘Wicked: For Good’ Misses a Major Nomination",
-    "link": "https://www.nytimes.com/2025/12/08/movies/golden-globe-nominations-snubs-surprises-2026.html",
-    "summary": "Though its stars are up for acting prizes, the film is not in the running for best musical or comedy, only for box office achievement."
+    "title": "A.I. Videos Have Flooded Social Media. No One Was Ready.",
+    "link": "https://www.nytimes.com/2025/12/08/technology/ai-slop-sora-social-media.html",
+    "summary": "Apps like OpenAI’s Sora are fooling millions of users into thinking A.I. videos are real, even when they include warning labels."
   },
   {
     "title": "Why Some Doctors Say There Are Cancers That Shouldn’t Be Treated",
@@ -110,9 +105,14 @@
     "summary": "Statistics show a clear spike in eight cancers in younger people, but that has brought a debate over whether many cases ever needed to be found."
   },
   {
-    "title": "Cancer-Detecting Blood Tests Are on the Rise. Do They Work?",
-    "link": "https://www.nytimes.com/2025/12/02/well/cancer-detecting-blood-tests-are-on-the-rise-do-they-work.html",
-    "summary": "The tests have not been approved by federal regulators, but that hasn’t stopped patients from wanting them — and doctors from worrying."
+    "title": "John Noble Wilford, Times Reporter Who Covered the Moon Landing, Dies at 92",
+    "link": "https://www.nytimes.com/2025/12/08/science/john-noble-wilford-dead.html",
+    "summary": "He gave readers a comprehensive and lyrical account of the historic mission in 1969. His science coverage as a Pulitzer-winning journalist and an author took him around the world."
+  },
+  {
+    "title": "The Story of 8 Unforgettable Words About Apollo 11",
+    "link": "https://www.nytimes.com/2019/07/18/science/apollo-11-john-noble-wilford.html",
+    "summary": "John Noble Wilford recounts some of what went into writing the story of humanity’s giant leap for the July 21, 1969, edition of The New York Times."
   },
   {
     "title": "The Best New Restaurants in New York in 2025",
@@ -120,38 +120,28 @@
     "summary": "Here are the new kids on the block our critics loved most this year."
   },
   {
-    "title": "Best New York City Dishes",
-    "link": "https://www.nytimes.com/2025/12/08/dining/best-nyc-dishes.html",
-    "summary": "Bánh cuốn, chicken bastilla and 10 other unforgettable plates from 2025."
+    "title": "Nancy Mace: Why The Republican House Isn’t Working",
+    "link": "https://www.nytimes.com/2025/12/08/opinion/nancy-mace-congress-republicans.html",
+    "summary": "The system in the House promotes control by party leaders over accountability and achievement."
   },
   {
-    "title": "These State Laws Won’t Get Junk Food Out of Kids’ School Lunches",
-    "link": "https://www.nytimes.com/2025/12/08/opinion/kids-ultraprocessed-foods-school.html",
-    "summary": "Many states have proposed bans on the sale of ultraprocessed foods in schools. The problem is the way they define ultraprocessing."
+    "title": "Justices Seem Poised to Expand Trump’s Powers",
+    "link": "https://www.nytimes.com/2025/12/08/briefing/justices-seem-poised-to-expand-trumps-powers.html",
+    "summary": "Also, Paramount made a hostile bid for Warner Bros. Here’s the latest at the end of Monday."
   },
   {
-    "title": "A Corruption Scandal in Ukraine",
-    "link": "https://www.nytimes.com/2025/12/08/briefing/a-corruption-scandal-in-ukraine.html",
-    "summary": "We examine an investigation that is testing Volodymyr Zelensky’s government."
+    "title": "Democrats’ Proposal Would Halt D.H.S. Courthouse Arrests of Migrants",
+    "link": "https://www.nytimes.com/2025/12/08/nyregion/immigration-legislation-dan-goldman.html",
+    "summary": "About 80 percent of immigrants have skipped appointments to avoid detention, risking their path to legal status, a New York congressman said."
   },
   {
-    "title": "7.6-Magnitude Earthquake Near Japan Triggers Tsunami Warning",
-    "link": "https://www.nytimes.com/2025/12/08/world/asia/japan-earthquake-tsunami.html",
-    "summary": "The earthquake struck off the coast of Aomori Prefecture, on Japan’s main island, Honshu."
+    "title": "Jimmy Kimmel’s ABC Deal Is Extended Through May 2027",
+    "link": "https://www.nytimes.com/2025/12/08/business/media/jimmy-kimmel-extension-abc.html",
+    "summary": "“Jimmy Kimmel Live!” became a flashpoint about free speech in the country after it was temporarily suspended this year."
   },
   {
-    "title": "Mamdani Confirms He Will Leave Queens One-Bedroom for Gracie Mansion",
-    "link": "https://www.nytimes.com/2025/12/08/nyregion/zohran-mamdani-gracie-mansion-rama-duwaji.html",
-    "summary": "Mayor-elect Zohran Mamdani and his wife, Rama Duwaji, will move into the official residence in Manhattan sometime after his inauguration."
-  },
-  {
-    "title": "Why Thailand and Cambodia Are Fighting",
-    "link": "https://www.nytimes.com/2025/12/08/world/asia/thailand-cambodia-border-fighting-strikes.html",
-    "summary": "The latest violence comes months after President Trump helped mediate a cease-fire between the two nations."
-  },
-  {
-    "title": "Todd Combs Leaves Berkshire Hathaway for JPMorgan Chase as Buffett Nears Retirement",
-    "link": "https://www.nytimes.com/2025/12/08/business/dealbook/berkshire-todd-combs-jpmorgan.html",
-    "summary": "The departure of the senior stock picker was one of several leadership changes ahead of Mr. Buffett’s planned departure as chief executive of Berkshire Hathaway."
+    "title": "University of Oklahoma Removes a Teacher It Says Urged Students to Protest",
+    "link": "https://www.nytimes.com/2025/12/08/us/oklahoma-university-removes-instructor-protest-bible-gender.html",
+    "summary": "The protest was over the removal of another instructor, who gave a failing grade on a paper about gender that relied on the Bible as its main source."
   }
 ]

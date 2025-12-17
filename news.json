@@ -1,13 +1,33 @@
 [
   {
+    "title": "Trump Dangles Cash Payments to Assuage Affordability Concerns",
+    "link": "https://www.nytimes.com/2025/12/17/us/politics/trump-cash-payments.html",
+    "summary": "With tariffs unpopular and prices still high, the White House has teased the promise of tariff rebates and large tax refunds next year."
+  },
+  {
+    "title": "What Trump’s Embrace of Crypto Has Unleashed",
+    "link": "https://www.nytimes.com/2025/12/17/technology/trump-crypto-unleashed.html",
+    "summary": "A boundary-pushing array of new crypto ventures have reached the stock market, enticing investors and leading to more risk taking."
+  },
+  {
+    "title": "Heating Costs Expected to Rise 9.2% This Winter",
+    "link": "https://www.nytimes.com/2025/12/17/business/energy-environment/winter-heating-costs-increase.html",
+    "summary": "Colder weather and rising electricity and fuel costs will lead to a big jump in costs for individuals, according to estimates from a group representing state energy officials."
+  },
+  {
+    "title": "Mike Johnson Shuts Door on Key Health Care Vote, and a Dangerous New Drug Hits U.S. Cities",
+    "link": "https://www.nytimes.com/2025/12/17/podcasts/the-headlines/health-care-vote-medetomidine.html",
+    "summary": "Plus, the subway stop that’s also a museum."
+  },
+  {
+    "title": "New Details Emerge About How Rob and Michele Reiner Were Found",
+    "link": "https://www.nytimes.com/2025/12/16/us/reiner-family-rob-nick-michele.html",
+    "summary": "A person close to the family provided a detailed account of what occurred in the Reiner house after a massage therapist received no response at the gate."
+  },
+  {
     "title": "Nick Reiner Formally Charged With Murdering His Parents",
     "link": "https://www.nytimes.com/2025/12/16/us/nick-reiner-charges-murder-rob-michele.html",
     "summary": "Prosecutors said that Mr. Reiner killed his parents, Rob and Michelle Reiner, using a knife. He has not yet entered a plea."
-  },
-  {
-    "title": "Why Nick Reiner Could Face the Death Penalty",
-    "link": "https://www.nytimes.com/2025/12/16/us/nick-reiner-death-penalty-murder.html",
-    "summary": "The two first-degree murder counts include a special circumstance, which increases the maximum punishment if he is convicted."
   },
   {
     "title": "Rob and Nick Reiner: A Father-Son Relationship in Several Acts",
@@ -15,24 +35,9 @@
     "summary": "Some who worked on the semi-autobiographical “Being Charlie” saw challenges play out on the set."
   },
   {
-    "title": "Trump Orders Blockade of Some Oil Tankers to and From Venezuela",
-    "link": "https://www.nytimes.com/2025/12/16/us/politics/trump-blockade-venezuela-oil-tankers.html",
-    "summary": "The move is an escalation of military operations and a pressure campaign against Nicolás Maduro, Venezuela’s leader. But its scope and economic impact are not clear."
-  },
-  {
-    "title": "Trump Expands Travel Ban and Restrictions to 20 More Countries",
-    "link": "https://www.nytimes.com/2025/12/16/us/politics/trump-expanded-travel-ban.html",
-    "summary": "People from Syria, South Sudan and those with documents issued by the Palestinian Authority are included in the latest restrictions. More than 35 countries are now under U.S. travel restrictions."
-  },
-  {
-    "title": "Johnson Rules Out House Vote to Extend Health Insurance Subsidies",
-    "link": "https://www.nytimes.com/2025/12/16/us/politics/obamacare-subsidies-house.html",
-    "summary": "The speaker had planned to give moderate Republicans seeking an extension of the tax credits a vote on their proposal, but said on Tuesday it was simply “not to be.”"
-  },
-  {
-    "title": "Trump and Top Aides Publicly Defend Susie Wiles After Explosive Interviews",
-    "link": "https://www.nytimes.com/2025/12/16/us/politics/susie-wiles-vanity-fair.html",
-    "summary": "President Trump praised his chief of staff as doing “a fantastic job,” and more than a dozen members of his cabinet have posted defenses of her on social media."
+    "title": "Alan Jackson, Nick Reiner’s Lawyer, Represented Harvey Weinstein, Karen Read and More",
+    "link": "https://www.nytimes.com/2025/12/16/us/alan-jackson-nick-reiner-lawyer.html",
+    "summary": "The lawyer, Alan Jackson, has represented the Hollywood mogul Harvey Weinstein and the actor Kevin Spacey."
   },
   {
     "title": "Suspect in Bondi Beach Killings Is Charged With Murder and Terrorism",
@@ -40,34 +45,44 @@
     "summary": "The Australian authorities said the 24-year-old man, who had been shot by the police, woke from a coma on Tuesday afternoon."
   },
   {
+    "title": "Grief Mixes With Anger at Funeral of Rabbi Killed in Bondi Beach Attack",
+    "link": "https://www.nytimes.com/2025/12/17/world/asia/rabbi-eli-schlanger-funeral-bondi-shooting.html",
+    "summary": "The funeral for Rabbi Eli Schlanger on Wednesday was the first held for one of the 15 people killed in a mass shooting at a Jewish celebration in Sydney, Australia."
+  },
+  {
     "title": "Australia, After a Mass Shooting During Hanukkah, Looks for a Path Forward",
     "link": "https://www.nytimes.com/2025/12/16/world/australia/sydney-shooting-antisemitism-path-forward.html",
     "summary": "The Bondi Beach massacre has people fearing more anti-Jewish violence — and an Islamophobic backlash. But there are reasons to think stability will prevail."
   },
   {
-    "title": "Australia Doubles Down on Gun Control in Wake of Bondi Beach Shooting",
-    "link": "https://www.nytimes.com/2025/12/16/world/australia/australia-gun-control-bondi-shooting.html",
-    "summary": "The country has long looked warily at the cycle of gun violence in the United States, where meaningful changes in policy have been rare."
+    "title": "Trump Orders Blockade of Some Oil Tankers to and From Venezuela",
+    "link": "https://www.nytimes.com/2025/12/16/us/politics/trump-blockade-venezuela-oil-tankers.html",
+    "summary": "The move is an escalation of military operations and a pressure campaign against Nicolás Maduro, Venezuela’s leader. But its scope and economic impact are not clear."
   },
   {
-    "title": "3 Days After Deadly Brown Shooting, Killer and Motive Remain a Mystery",
-    "link": "https://www.nytimes.com/2025/12/16/us/brown-university-shooter-search-investigation.html",
-    "summary": "The authorities released more video footage in an attempt to identify a suspect, and said they had no idea why the killer attacked a study session."
+    "title": "Trump Revised Chevron’s Venezuela Deal. Maduro’s Oil Trader Profited.",
+    "link": "https://www.nytimes.com/2025/12/17/world/americas/trump-chevron-venezuela-oil.html",
+    "summary": "A firm controlled by a businessman sanctioned by the U.S. Treasury for ties to President Nicolás Maduro of Venezuela has sold millions of barrels from a Chevron-operated oil field."
   },
   {
-    "title": "What Would Be Lost if We Didn’t Have the HBO Comedy Special",
-    "link": "https://www.nytimes.com/2025/12/15/arts/television/hbo-comedy-special-sarah-sherman-adam-pally.html",
-    "summary": "The potential Warner Bros. Discovery sale might jeopardize a lively outlet for artier stand-up shows like those of Sarah Sherman and Adam Pally."
+    "title": "The 25 Most Notable Movies of 2025: ‘KPop Demon Hunters,’ ‘Roofman’ and More",
+    "link": "https://www.nytimes.com/2025/12/17/movies/best-movies-2025-kpop-demon-hunters-roofman.html",
+    "summary": "We polled film fans in the newsroom. These are the titles that stuck with us this year."
   },
   {
-    "title": "Jared Kushner’s Affinity Partners Pulls Out of Bid for Warner Bros. Discovery",
-    "link": "https://www.nytimes.com/2025/12/16/business/kushner-paramount-warner-bros-discovery.html",
-    "summary": "Affinity Partners, Mr. Kushner’s private equity firm, played a small financial role in Paramount’s $108 billion offer, but it had attracted political attention to the deal."
+    "title": "A Last Chance to Prep for the Exam. Then, a Gunman at the Classroom Door.",
+    "link": "https://www.nytimes.com/2025/12/17/us/exam-review-brown-shooting.html",
+    "summary": "For the students in the Brown University review session, concerns about grades and questions about economic concepts would be forgotten in an instant."
   },
   {
-    "title": "Ukraine Plan Calls For Enhanced Military, With U.S. and European Backup",
-    "link": "https://www.nytimes.com/2025/12/16/world/europe/ukraine-security-guarantees-talks.html",
-    "summary": "The latest proposal is designed to deter future Russian aggression. But Russia is not part of the talks and has shown little willingness to negotiate."
+    "title": "One Way the Brown Attack Was Unusual: The Gunman Escaped",
+    "link": "https://www.nytimes.com/2025/12/17/us/brown-attack-manhunt-gunman-escaped.html",
+    "summary": "It is rare for a gunman in a high-profile shooting to get away, and many are apprehended within days. The authorities shared grainy video and begged for tips as the search stretched into its fourth day."
+  },
+  {
+    "title": "Next Fed Chair in ‘No-Win Scenario’ as Selection Process Draws to a Close",
+    "link": "https://www.nytimes.com/2025/12/17/us/politics/trump-federal-reserve-chair-independence.html",
+    "summary": "The person picked to replace Jerome H. Powell will be thrust into a credibility problem that will be difficult to escape."
   },
   {
     "title": "On British Roads, Chinese Cars Are Racing Ahead",
@@ -80,14 +95,9 @@
     "summary": "The Chinese government is betting that robots will drive economic growth. But the bots can’t really do much yet."
   },
   {
-    "title": "The Untold Story of How Jeffrey Epstein Got Rich",
-    "link": "https://www.nytimes.com/2025/12/16/magazine/jeffrey-epstein-money-scams-investigation.html",
-    "summary": "For years, rumors swirled about where his wealth came from. A Times investigation reveals the truth of how a college dropout clawed his way to the pinnacle of American finance and society."
-  },
-  {
-    "title": "How Jeffrey Epstein Made His Money: Six Takeaways From The Times’ Investigation",
-    "link": "https://www.nytimes.com/2025/12/16/magazine/jeffrey-epstein-wealth-origins-investigation-takeaways.html",
-    "summary": "The sources of Epstein’s fortune have long been a source of speculation. Here are six takeaways from a Times investigation that found that he built it through scams, theft and lies."
+    "title": "Harvard Secretly Investigates Students Over Larry Summers Video on Epstein",
+    "link": "https://www.nytimes.com/2025/12/17/us/harvard-investigates-students-larry-summers-video-epstein.html",
+    "summary": "The students face discipline for recording Mr. Summers, the former Harvard president, discussing his ties to Jeffrey Epstein in a Harvard class."
   },
   {
     "title": "Norman Podhoretz, Influential Editor and Neoconservative Force, Dies at 95",
@@ -95,34 +105,34 @@
     "summary": "A New York intellectual and onetime liberal stalwart, his Commentary magazine became his platform as his political and social view turned sharply rightward."
   },
   {
-    "title": "At Many Top Law Schools, Black Student Enrollment Continues to Drop",
-    "link": "https://www.nytimes.com/2025/12/16/us/law-school-black-student-enrollment.html",
-    "summary": "The New York Times examined data from 18 of the nation’s top law schools and found that first-year Black enrollment had increased at only four, including at Harvard."
+    "title": "With Rights and Resources Uncertain, They’re Seeking Sterilization",
+    "link": "https://www.nytimes.com/2025/12/17/well/family/sterilization-tubal-ligation-younger-women.html",
+    "summary": "More young, child-free women are pursuing the permanent form of contraception."
   },
   {
-    "title": "Penguins Become Prey for the Pumas of Patagonia",
-    "link": "https://www.nytimes.com/2025/12/16/science/penguins-pumas-patagonia.html",
-    "summary": "In Argentina, the return of pumas brought top predators back to the landscape — much to penguins’ dismay."
+    "title": "The Secret Trial of the General Who Refused to Attack Tiananmen Square",
+    "link": "https://www.nytimes.com/2025/12/17/world/asia/china-general-tiananmen-square.html",
+    "summary": "In 1989, Gen. Xu Qinxian defied orders to crush the pro-democracy protests in Beijing. Now, leaked video from his court-martial is on YouTube."
   },
   {
-    "title": "Heart Association Revives Theory That Light Drinking May Be Good for You",
-    "link": "https://www.nytimes.com/2025/12/16/health/alcohol-heart-disease-cancer.html",
-    "summary": "The American Heart Association report runs contrary to recent studies — and the group’s own guidelines — that found any amount of alcohol to be harmful."
+    "title": "Beloved Objects Cherished By Those We Lost in 2025",
+    "link": "https://www.nytimes.com/2025/12/17/magazine/objects-they-loved-2025.html",
+    "summary": "Metal crosses, a recliner, a blue wedding suit: the most cherished belongings of Ozzy Osbourne, Brian Wilson, Kitty Dukakis and others."
   },
   {
-    "title": "On Bali, the Holiday Vibe Masks Memories of a Massacre",
-    "link": "https://www.nytimes.com/2025/12/17/world/asia/bali-indonesia-communist-massacres.html",
-    "summary": "Sixty years ago, half a million Indonesians were killed in anti-Communist purges. On Bali, resorts and clubs were built atop mass graves."
+    "title": "What Is an American?",
+    "link": "https://www.nytimes.com/2025/12/17/opinion/republican-identity-divide.html",
+    "summary": "If the post-Trump G.O.P. makes the same mistake the Democrats did with their identitarian fringe, Republicans will meet a similar fate."
   },
   {
-    "title": "Our Petty, Hollow, Squalid Ogre in Chief",
-    "link": "https://www.nytimes.com/2025/12/16/opinion/trump-reiner-death-post-truth-social.html",
-    "summary": "The White House has never had a more loathsome occupant."
+    "title": "The Movie I Was Afraid to See",
+    "link": "https://www.nytimes.com/2025/12/17/opinion/voice-of-hind-rajab-movie-gaza.html",
+    "summary": "It all comes down to coordination."
   },
   {
-    "title": "Stephen King on Rob Reiner’s ‘Stand by Me’",
-    "link": "https://www.nytimes.com/2025/12/16/opinion/culture/stephen-king-rob-reiner-stand-by-me.html",
-    "summary": "In Rob’s hands, my most autobiographical novel rang true."
+    "title": "Late Night Thanks the White House for a ‘Doozy of an Interview’",
+    "link": "https://www.nytimes.com/2025/12/17/arts/television/late-night-susie-wiles-interview.html",
+    "summary": "Jimmy Kimmel was grateful that Susie Wiles, the president’s “future former chief of staff,” spilled the beans on her boss in a Vanity Fair article."
   },
   {
     "title": "Mayor Adams’s Farewell To-Do List: Praise Himself, Undermine Mamdani",

@@ -1,8 +1,23 @@
 [
   {
-    "title": "Supreme Court Refuses to Let Trump Deploy National Guard in Chicago",
-    "link": "https://www.nytimes.com/live/2025/12/23/us/trump-epstein-files-news",
-    "summary": "The move signals that the justices are likely to immediately block similar deployments in other U.S. cities."
+    "title": "Trump’s Tanker Crackdown Paralyzes Venezuelan Oil Exports",
+    "link": "https://www.nytimes.com/2025/12/23/world/americas/trump-tankers-venezuela-oil-industry.html",
+    "summary": "Oil exports, the country’s financial lifeblood, have plummeted after the United States took action against three ships that have been used to carry its crude."
+  },
+  {
+    "title": "U.S. Is Adding to Its Military Buildup in the Caribbean",
+    "link": "https://www.nytimes.com/2025/12/23/us/politics/military-cargo-planes-caribbean-venezuela.html",
+    "summary": "Over the past week, C-17 heavy-lift cargo planes, which usually transport troops and equipment, flew to Puerto Rico at least 16 times, according to flight tracking data reviewed by The New York Times."
+  },
+  {
+    "title": "Supreme Court Refuses to Allow Trump to Deploy National Guard in Chicago",
+    "link": "https://www.nytimes.com/2025/12/23/us/politics/supreme-court-national-guard-chicago.html",
+    "summary": "President Trump ordered state-based troops to Portland, Ore.; Los Angeles; Washington; and Chicago over the objections of state and local officials."
+  },
+  {
+    "title": "19 States Sue to Block White House Plan to End Gender-Related Care for Minors",
+    "link": "https://www.nytimes.com/2025/12/23/us/states-lawsuit-kennedy-gender-care-hospitals.html",
+    "summary": "The coalition of states seeks to stop a Trump administration effort to cut off federal funding to hospitals that provide such care."
   },
   {
     "title": "Student Loan Borrowers in Default Could See Wages Garnished in Early 2026",
@@ -20,14 +35,14 @@
     "summary": "A 2020 email noted that Donald Trump was listed as a passenger on Jeffrey Epstein’s jet at least eight times from 1993 to 1996."
   },
   {
+    "title": "Redacted Material in Some Epstein Files Is Easily Recovered",
+    "link": "https://www.nytimes.com/2025/12/23/us/politics/epstein-files-redactions-doj.html",
+    "summary": "The ease of recovering information that was not properly redacted digitally suggests that at least some of the documents released by the Justice Department were hastily censored."
+  },
+  {
     "title": "Pulled ’60 Minutes’ Report, Briefly Streamed in Canada, Is All Over the Internet Now",
     "link": "https://www.nytimes.com/2025/12/23/business/media/60-minutes-cbs-news.html",
     "summary": "At the last minute, CBS News held a segment about Venezuelan men who were deported by the Trump administration to a prison in El Salvador. It surfaced online anyway."
-  },
-  {
-    "title": "Stephen Miller Cites Children of Immigrants as a Problem",
-    "link": "https://www.nytimes.com/2025/12/23/us/politics/stephen-miller-trump-immigrants.html",
-    "summary": "As it seeks to end birthright citizenship, the Trump administration is arguing that immigrants bring problems that extend for generations. The data shows otherwise."
   },
   {
     "title": "Kate Winslet’s Unhappy Family Christmas",
@@ -35,24 +50,19 @@
     "summary": "The British actress’s directorial debut, “Goodbye June,” is based on a script written by her son and follows a fractured family reuniting in the hospital over the holidays."
   },
   {
-    "title": "Trump’s Tanker Crackdown Paralyzes Venezuelan Oil Exports",
-    "link": "https://www.nytimes.com/2025/12/23/world/americas/trump-tankers-venezuela-oil-industry.html",
-    "summary": "Oil exports, the country’s financial lifeblood, have plummeted after the United States took action against three ships that have been used to carry its crude."
+    "title": "Stephen Miller Cites Children of Immigrants as a Problem",
+    "link": "https://www.nytimes.com/2025/12/23/us/politics/stephen-miller-trump-immigrants.html",
+    "summary": "As it seeks to end birthright citizenship, the Trump administration is arguing that immigrants bring problems that extend for generations. The data shows otherwise."
   },
   {
-    "title": "U.S. Is Adding to Its Military Buildup in the Caribbean",
-    "link": "https://www.nytimes.com/2025/12/23/us/politics/military-cargo-planes-caribbean-venezuela.html",
-    "summary": "Over the past week, C-17 heavy-lift cargo planes, which usually transport troops and equipment, flew to Puerto Rico at least 16 times, according to flight tracking data reviewed by The New York Times."
+    "title": "Palm Beach Rallies Behind a Restaurant Manager Held at ‘Alligator Alcatraz’",
+    "link": "https://www.nytimes.com/2025/12/23/style/jose-gonzalez-alligator-alcatraz-palm-beach.html",
+    "summary": "After nearly two weeks in detention, José Gonzalez, the popular host of an upscale restaurant, returns home."
   },
   {
-    "title": "This Texas Family Was Part of the Biggest U.S. Measles Outbreak in a Generation",
-    "link": "https://www.nytimes.com/2025/12/23/us/measles-outbreak-texas-timmons.html",
-    "summary": "The measles outbreak in the United States is now in its 11th month, with almost 2,000 cases. The Timmons family were some of the first people to get sick."
-  },
-  {
-    "title": "‘I Feel Like I’ve Been Lied To’: When a Measles Outbreak Hits Home",
-    "link": "https://www.nytimes.com/2025/06/22/us/i-feel-like-ive-been-lied-to-when-a-measles-outbreak-hits-home.html",
-    "summary": "From a lone clinic in Texas to an entire school district in North Dakota, the virus is upending daily life and revealing a deeper crisis of belief."
+    "title": "How Did DOGE Disrupt So Much While Saving So Little?",
+    "link": "https://www.nytimes.com/2025/12/23/us/politics/doge-musk-trump-analysis.html",
+    "summary": "The group’s biggest claims were largely incorrect, a New York Times analysis found. And its many smaller cuts added up to few savings."
   },
   {
     "title": "The Confederacy Goes on Trial, Along With Schools Named Jackson and Lee",
@@ -65,9 +75,9 @@
     "summary": "The instructor, a graduate student at the University of Oklahoma, gave a zero to a student who wrote an essay arguing in favor of traditional gender definitions based on biblical teachings."
   },
   {
-    "title": "Nursing Home Explosion in Bristol, Pennsylvania, Leaves Multiple Injured",
+    "title": "Pennsylvania Nursing Home Explosion Kills 2",
     "link": "https://www.nytimes.com/2025/12/23/us/explosion-bristol-nursing-home.html",
-    "summary": "Officials believe the explosion at the Bristol Health and Rehab Center in Bristol Township was caused by a gas leak. It resulted in a big fire and partial collapse of the building, they said."
+    "summary": "A resident and an employee were killed after two explosions at the Bristol Health and Rehab Center resulted in a large fire and partial collapse of the building, officials said."
   },
   {
     "title": "Suspect in Brown University Shooting Worked in Portugal After Leaving University",
@@ -80,9 +90,9 @@
     "summary": "And research shows the less favored children suffer for it."
   },
   {
-    "title": "‘The Queen of Versailles’ Bombed on Broadway. What Went Wrong?",
-    "link": "https://www.nytimes.com/2025/12/23/theater/queen-versailles-broadway-closing.html",
-    "summary": "The show reunited Kristin Chenoweth and Stephen Schwartz for the first time since “Wicked.” It wasn’t enough to counter poor word of mouth and other challenges."
+    "title": "Thailand, Attacking Cambodia, Says Its Target Is the Scam Industry",
+    "link": "https://www.nytimes.com/2025/12/24/world/asia/cambodia-scam-centers-refugees-thailand.html",
+    "summary": "Thai warplanes have bombed compounds where people are forced to defraud others online. Rights activists say trafficking victims’ lives are at risk."
   },
   {
     "title": "Youth Hostels, Blood Banks, Yoga: How One Far-Right Network Spread Across the World",
@@ -95,24 +105,19 @@
     "summary": "When I first moved to New York City, Marty Reisman befriended me."
   },
   {
-    "title": "Justices Block National Guard Deployment in Chicago",
-    "link": "https://www.nytimes.com/2025/12/23/briefing/justices-block-national-guard-deployment-in-chicago.html",
-    "summary": "Also, economic growth surged through the summer. Here’s the latest at the end of Tuesday."
-  },
-  {
     "title": "Libyan Military’s Chief of Staff and 4 Others Are Killed in Plane Crash in Turkey",
     "link": "https://www.nytimes.com/2025/12/23/world/middleeast/libya-general-plane-crash-turkey.html",
     "summary": "The internationally recognized government of Libya confirmed the deaths of Lt. Gen. Mohamed Ali Ahmed al-Haddad, the army chief of general staff, and other officers flying home after a meeting in Turkey."
   },
   {
+    "title": "A Democrat, a Republican and a Supermarket Baron Go to ‘Marty Supreme’",
+    "link": "https://www.nytimes.com/2025/12/23/nyregion/hochul-blakeman-red-carpet.html",
+    "summary": "A “Marty Supreme” showing took a political turn when John Catsimatidis, who has a small role in the movie, invited both Gov. Kathy Hochul and her Republican rival, Bruce Blakeman."
+  },
+  {
     "title": "Mamdani Named His Fire Commissioner. Then Adams Did Too.",
     "link": "https://www.nytimes.com/2025/12/23/nyregion/nyc-fire-commissioner-bonsignore-mamdani.html",
     "summary": "Mayor-elect Zohran Mamdani chose Lillian Bonsignore, the former chief of New York’s E.M.S., as the first openly gay person to lead the Fire Department."
-  },
-  {
-    "title": "U.S. GDP Grew 4.3%, Surging in Third Quarter of 2025",
-    "link": "https://www.nytimes.com/2025/12/23/business/us-economy-consumer-spending.html",
-    "summary": "Gross domestic product grew at a 4.3 percent annual rate, faster than the previous three months."
   },
   {
     "title": "Robert Nakamura, ‘Godfather’ of Asian American Film, Dies at 88",

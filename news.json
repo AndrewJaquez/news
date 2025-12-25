@@ -1,8 +1,13 @@
 [
   {
-    "title": "With Trump in Power, Democrats Try to Redefine Themselves as Disrupters",
-    "link": "https://www.nytimes.com/2025/12/25/us/politics/trump-democrats-washington-midterm-elections.html",
-    "summary": "Since President Trump’s rise, Democrats have served as defenders of a political system many Americans believe is broken. Now the party is trying a new approach."
+    "title": "No Power, No Heat, No Water: Odesa’s Days of Hell Under Russian Fire",
+    "link": "https://www.nytimes.com/2025/12/25/world/europe/ukraine-odesa.html",
+    "summary": "The toll on older people and those with disabilities is especially severe as Moscow’s forces repeatedly attack the port city’s infrastructure."
+  },
+  {
+    "title": "Why Russia Is Likely to Reject the New US-Ukrainian Peace Plan",
+    "link": "https://www.nytimes.com/2025/12/25/world/europe/russia-ukraine-peace-plan.html",
+    "summary": "The first draft essentially called for Ukraine’s surrender. The revised version includes the security guarantees Kyiv wants to prevent future Russian aggression."
   },
   {
     "title": "Trump Says ‘Housing First’ Failed the Homeless. Here’s What the Evidence Says.",
@@ -25,29 +30,9 @@
     "summary": "Federal and local officials said the man, an immigrant from Portugal, tried to flee and harm agents. He and another man were hospitalized after a vehicle they were in crashed."
   },
   {
-    "title": "Why Russia Is Likely to Reject the New US-Ukrainian Peace Plan",
-    "link": "https://www.nytimes.com/2025/12/25/world/europe/russia-ukraine-peace-plan.html",
-    "summary": "The first draft essentially called for Ukraine’s surrender. The revised version includes the security guarantees Kyiv wants to prevent future Russian aggression."
-  },
-  {
-    "title": "‘Carol of the Bells’ Once Filled the Air Here. Now It’s Only Bombs.",
-    "link": "https://www.nytimes.com/2025/12/25/world/europe/ukraine-carol-of-the-bells-pokrovsk.html",
-    "summary": "Mykola Leontovych, the Ukrainian composer of the famed festive song, lived in the eastern city of Pokrovsk. Months of Russian assaults have erased most tributes to his life there."
-  },
-  {
-    "title": "A Million More Epstein Documents Have Been Found, Justice Dept. Says",
-    "link": "https://www.nytimes.com/2025/12/24/us/politics/epstein-files-documents-doj.html",
-    "summary": "Democratic lawmakers, who had criticized the Justice Department’s release of the material, accused the Trump administration of violating the law mandating the release of the files."
-  },
-  {
-    "title": "K-Pop in 2025: What ‘KPop Demon Hunters’ and NewJeans Tell Us About the Genre",
-    "link": "https://www.nytimes.com/2025/12/25/arts/music/k-pop-newjeans-katseye-kpop-demon-hunters.html",
-    "summary": "The genre peaked in terms of global awareness with “KPop Demon Hunters,” while the industry’s most promising new act was mired in a legal morass."
-  },
-  {
-    "title": "Heavy Rains and Floods Threaten California on Christmas Day",
-    "link": "https://www.nytimes.com/2025/12/25/weather/rain-flooding-los-angeles-storm.html",
-    "summary": "Much of Southern California remained at risk of potentially deadly floods on Thursday, as heavy rains showed little sign of easing through the week."
+    "title": "Prominent Leaders Amplify Disinformation About Brown University Shooting",
+    "link": "https://www.nytimes.com/2025/12/25/technology/brown-university-shooting-disinformation-politicians.html",
+    "summary": "Prominent business and government figures spread rumors about the attack on Brown University’s campus this month, reigniting questions about accountability in online discourse."
   },
   {
     "title": "They Were Supposed to Protect Young Workers. Instead, They Cashed In.",
@@ -55,9 +40,44 @@
     "summary": "Profit-seekers co-opted America’s premier cultural exchange program, the J-1 visa, which brought young people to work in the United States. Some sponsors charged thousands in fees."
   },
   {
+    "title": "K-Pop in 2025: What ‘KPop Demon Hunters’ and NewJeans Tell Us About the Genre",
+    "link": "https://www.nytimes.com/2025/12/25/arts/music/k-pop-newjeans-katseye-kpop-demon-hunters.html",
+    "summary": "The genre peaked in terms of global awareness with “KPop Demon Hunters,” while the industry’s most promising new act was mired in a legal morass."
+  },
+  {
+    "title": "California Storm Floods Roadways and Knocks Out Power on Christmas Day",
+    "link": "https://www.nytimes.com/2025/12/25/weather/rain-flooding-los-angeles-storm.html",
+    "summary": "Officials warned that travel for holiday celebrations would be hazardous across much of the state, with more than half an inch of rain still to fall in some places where mud and debris already covered roads."
+  },
+  {
+    "title": "With Trump in Power, Democrats Try to Redefine Themselves as Disrupters",
+    "link": "https://www.nytimes.com/2025/12/25/us/politics/trump-democrats-washington-midterm-elections.html",
+    "summary": "Since President Trump’s rise, Democrats have served as defenders of a political system many Americans believe is broken. Now the party is trying a new approach."
+  },
+  {
     "title": "After Suffering in Israeli Prison, a Gaza Detainee Comes Home to More Pain",
     "link": "https://www.nytimes.com/2025/12/25/world/middleeast/gaza-detainee-family-killed.html",
     "summary": "Haitham Salem spent 11 months held by Israel without charge and said he endured beatings and abuse. He was released as part of the cease-fire deal, longing to return to his family."
+  },
+  {
+    "title": "He Was Locked Up in a Psych Ward. It Helped Him Get His Life Together.",
+    "link": "https://www.nytimes.com/2025/12/24/nyregion/nyc-homeless-mentally-ill-treatment.html",
+    "summary": "Lamar Brown went through a rigorous program at a New York State psychiatric hospital aimed at stopping the “revolving door” for homeless people with mental illness."
+  },
+  {
+    "title": "Pope Leo Makes Christmas Call for Dialogue to Address World’s Conflicts",
+    "link": "https://www.nytimes.com/2025/12/25/world/asia/leo-christmas-first-speech-pope.html",
+    "summary": "Leo XIV’s Christmas address was his first since being elected pontiff and was scrutinized for comparisons with those of his predecessor, Francis."
+  },
+  {
+    "title": "King Charles Urges ‘Compassion’ and Finding Strength in Diversity in Annual Christmas Message",
+    "link": "https://www.nytimes.com/2025/12/25/world/europe/king-charles-christmas.html",
+    "summary": "His annual Christmas message was more outward-looking than last year’s, when he focused on the medical workers who had helped him and his daughter-in-law after their cancer diagnoses."
+  },
+  {
+    "title": "Christmas Around the World in Photos",
+    "link": "https://www.nytimes.com/2025/12/25/world/middleeast/christmas-2025-photos.html",
+    "summary": "The holiday spirit is bringing people together, with celebrations of lights, dance and Santa."
   },
   {
     "title": "Tesla Robotaxis Are Big on Wall St. but Lagging on Roads",
@@ -65,29 +85,14 @@
     "summary": "Shares of Tesla have hit new highs on optimism about the company’s self-driving taxis. But experts say Tesla is far behind Waymo, which has a big head start."
   },
   {
-    "title": "With Airspace Closed, a Lonely Christmas for Many Venezuelans",
-    "link": "https://www.nytimes.com/2025/12/25/world/americas/venezuela-christmas-closed-airspace.html",
-    "summary": "The holidays usually bring home huge numbers from the Venezuelan diaspora. But this year, after international airlines halted almost all service, many people are spending Christmas alone and on edge."
-  },
-  {
-    "title": "Coquito Was Once a Puerto Rican Secret. Now Everybody Knows.",
-    "link": "https://www.nytimes.com/2025/12/24/nyregion/coquito-puerto-rico-nyc.html",
-    "summary": "The Puerto Rican rum and coconut drink used to be passed down within families, but now it has become a holiday party staple beyond the community."
-  },
-  {
-    "title": "After a Plane Crashed in the Texas Fog, 2 Stories of Rescue",
-    "link": "https://www.nytimes.com/2025/12/24/us/galveston-plane-crash-rescue-mexico-navy.html",
-    "summary": "A plane from Mexico was on a medical mission on Monday when it crashed into Galveston Bay, and two men on the water that day helped save two lives."
+    "title": "That Old Classic Film in the Theater? It Might Be From This Man’s House.",
+    "link": "https://www.nytimes.com/2025/12/25/nyregion/old-film-collector.html",
+    "summary": "The artifacts of 20th-century cinema are being preserved in museums, and in the care of private film collectors like Brian Darwas, who has hundreds of movie prints at his home."
   },
   {
     "title": "Will Zohran Mamdani Be the 111th or the 112th Mayor of New York? It Depends.",
     "link": "https://www.nytimes.com/2025/12/25/nyregion/will-mamdani-be-the-111th-or-the-112th-mayor-of-new-york-it-depends.html",
     "summary": "An arcane numbering system and the misplacement of an official record have caused confusion on where Zohran Mamdani falls in history."
-  },
-  {
-    "title": "He Was Locked Up in a Psych Ward. It Helped Him Get His Life Together.",
-    "link": "https://www.nytimes.com/2025/12/24/nyregion/nyc-homeless-mentally-ill-treatment.html",
-    "summary": "Lamar Brown went through a rigorous program at a New York State psychiatric hospital aimed at stopping the “revolving door” for homeless people with mental illness."
   },
   {
     "title": "‘Marty Supreme’ Review: Timothée Chalamet Sprints to the Top",
@@ -100,38 +105,38 @@
     "summary": "Volleying questions with the table tennis champ Marty Reisman, an inspiration for Timothée Chalamet’s new film, showed that he was a character in his own right."
   },
   {
+    "title": "What Hollywood Has That TikTok, Video Games and YouTube Don’t",
+    "link": "https://www.nytimes.com/2025/12/25/opinion/hollywood-myth-making.html",
+    "summary": "Hollywood is Hollywood because of its gift for mythmaking."
+  },
+  {
     "title": "Christmas Dinner Can Feel Endless. Embrace It.",
     "link": "https://www.nytimes.com/2025/12/25/opinion/holiday-dinner-endless.html",
     "summary": "A long-neglected one-act from a theatrical master offers the key to enjoying your family gatherings."
   },
   {
-    "title": "Martin Scorsese: Rob Reiner Had Me in the Palm of His Hand",
-    "link": "https://www.nytimes.com/2025/12/25/opinion/culture/martin-scorsese-rob-reiner.html",
-    "summary": "“We had a natural affinity for each other,” Martin Scorsese writes of Rob Reiner."
-  },
-  {
-    "title": "Your Picks",
+    "title": "The Year in News",
     "link": "https://www.nytimes.com/2025/12/25/briefing/your-picks.html",
-    "summary": "We revisit the most-read stories of 2025."
+    "summary": "We look back at 2025."
   },
   {
-    "title": "Winner in Arkansas Takes $1.817 Billion Powerball Jackpot",
+    "title": "$1.817 Billion Powerball Jackpot Won by Single Ticket in Arkansas",
     "link": "https://www.nytimes.com/2025/12/25/us/powerball-jackpot-win-ticket-arkansas.html",
     "summary": "A single ticket drawn Wednesday night won the second-largest U.S. lottery jackpot ever."
   },
   {
-    "title": "Pope Leo Surprises St. Peter’s Crowd Before Christmas Eve Mass",
-    "link": "https://www.nytimes.com/2025/12/25/world/europe/pope-leo-surprises-st-peters-crowd-before-christmas-eve-mass.html",
-    "summary": "Pope Leo XIV greeted the soggy faithful in St. Peter’s Square in both English and Italian and apologized that there wasn’t enough room in the basilica for them all."
+    "title": "Estonia’s Man on Capitol Hill Is on a Charm Offensive",
+    "link": "https://www.nytimes.com/2025/12/25/us/politics/estonia-capitol-hill-liaison.html",
+    "summary": "The Baltic nation’s congressional liaison is using candy, an American flag outfit and “Die Hard” jokes to make friends in Congress as the Trump administration turns against Europe."
   },
   {
-    "title": "​North Korea Unveils the Completed Hull of What It Calls a Nuclear Submarine",
-    "link": "https://www.nytimes.com/2025/12/25/world/asia/north-korea-nuclear-submarine.html",
-    "summary": "The debut followed the North’s first test of a new surface-to-air missile and the arrival of a U.S. nuclear-powered attack sub for a port call in South Korea."
+    "title": "With Airspace Closed, a Lonely Christmas for Many Venezuelans",
+    "link": "https://www.nytimes.com/2025/12/25/world/americas/venezuela-christmas-closed-airspace.html",
+    "summary": "The holidays usually bring home huge numbers from the Venezuelan diaspora. But this year, after international airlines halted almost all service, many people are spending Christmas alone and on edge."
   },
   {
-    "title": "Why China, a One-Party State, Is Backing Elections in This Country",
-    "link": "https://www.nytimes.com/2025/12/25/world/asia/china-myanmar-election.html",
-    "summary": "The vote in Myanmar, widely seen as a sham, is a bid for legitimacy by the military government. It is also a way for Beijing to exert its influence there."
+    "title": "Why the Right Is Boycotting Havaianas Flip-Flops",
+    "link": "https://www.nytimes.com/2025/12/25/world/americas/havaianas-brazil-flip-flops-boycott.html",
+    "summary": "For decades, Havaianas flip-flops have been a beloved global symbol of Brazilian culture, worn by millions of people each day. They are now ensnared in a political fight."
   }
 ]

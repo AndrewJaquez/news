@@ -1,5 +1,45 @@
 [
   {
+    "title": "What Went Wrong Before Hong Kong’s Inferno",
+    "link": "https://www.nytimes.com/2025/12/26/world/asia/hong-kong-apartment-fire-corruption.html",
+    "summary": "Records show how government departments played down residents’ warnings about corrupt practices and substandard materials that fueled the deadly blaze."
+  },
+  {
+    "title": "Snow Begins Falling in New York City, Threatening Havoc",
+    "link": "https://www.nytimes.com/2025/12/26/nyregion/new-york-winter-storm-what-to-know.html",
+    "summary": "Flights were canceled and streets grew slippery as the metropolitan region braced for heavy snow."
+  },
+  {
+    "title": "Kennedy Center Chief Threatens Legal Action Over Canceled Christmas Concert",
+    "link": "https://www.nytimes.com/2025/12/27/us/kennedy-center-concert-lawsuit.html",
+    "summary": "The musician Chuck Redd called off the annual Christmas Eve performances after the Kennedy Center board added President Trump’s name to the performing arts center."
+  },
+  {
+    "title": "Zelensky Will Meet With Trump Over the Weekend to Discuss Ukraine Peace Plan",
+    "link": "https://www.nytimes.com/2025/12/26/world/europe/zelensky-trump-ukraine-russia.html",
+    "summary": "President Volodymyr Zelensky of Ukraine has sought the meeting since the latest U.S.-led push for peace got underway."
+  },
+  {
+    "title": "Some G.O.P. Senators Join Democrats in Urging Trump to Adopt Hard Line With Putin",
+    "link": "https://www.nytimes.com/2025/12/26/us/politics/trump-putin-russia-senate-republicans.html",
+    "summary": "The president is planning to meet with the leader of Ukraine in Florida just as the lawmakers are applying some pressure."
+  },
+  {
+    "title": "Karoline Leavitt Says She’s Expecting Her Second Child",
+    "link": "https://www.nytimes.com/2025/12/26/us/karoline-leavitt-says-shes-expecting-her-second-child.html",
+    "summary": "The White House press secretary announced on Instagram that she was pregnant with a daughter who is due in May. She and her husband have a 1-year-old son."
+  },
+  {
+    "title": "Why Sears’s Last Great Hope Was a Promise That Never Materialized",
+    "link": "https://www.nytimes.com/2025/12/26/business/sears-seritage-edward-lampert.html",
+    "summary": "Only five Sears stores remain in the country, with the end likely near for what was once the mightiest American retailer."
+  },
+  {
+    "title": "Before This Physicist Studied the Stars, He Was One",
+    "link": "https://www.nytimes.com/2025/12/27/world/europe/brian-cox-astronomy-profile.html",
+    "summary": "Brian Cox once toured as a keyboardist in major rock and pop bands. Now he’s a particle physicist on a new world tour with a dazzling show he designed in an era of science disinformation and denial."
+  },
+  {
     "title": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
     "link": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
     "summary": "President Trump said the targets of airstrikes in Nigeria were Islamic State terrorists responsible for killing Christians, but experts question his framing."
@@ -10,49 +50,9 @@
     "summary": "Before the strikes on Thursday, President Trump said he would halt all aid and go in “guns-a-blazing” to target affiliates of a resurgent Islamic State."
   },
   {
-    "title": "Snow Begins Falling in New York City, Threatening Havoc",
-    "link": "https://www.nytimes.com/2025/12/26/nyregion/new-york-winter-storm-what-to-know.html",
-    "summary": "Streets were brined, plows were ready and flights were canceled as the metropolitan region braced for up to 11 inches of snow."
-  },
-  {
-    "title": "Downpours Ease in Southern California, but Flood Risks Remain",
-    "link": "https://www.nytimes.com/2025/12/26/weather/rain-flooding-southern-california-storm.html",
-    "summary": "Another wave of rain was hitting the Los Angeles area on Friday, adding to the record-setting precipitation over Christmas."
-  },
-  {
-    "title": "Trump Invited White South Africans to America. One Ended Up in Detention.",
-    "link": "https://www.nytimes.com/2025/12/26/us/trump-afrikaner-ice.html",
-    "summary": "An Afrikaner flew to the United States expecting protection. Instead, he has spent months locked up in Georgia alongside hundreds of other immigrants."
-  },
-  {
-    "title": "Some G.O.P. Senators Join Democrats in Urging Trump to Adopt Hard Line With Putin",
-    "link": "https://www.nytimes.com/2025/12/26/us/politics/trump-putin-russia-senate-republicans.html",
-    "summary": "The president is planning to meet with the leader of Ukraine in Florida just as the lawmakers are applying some pressure."
-  },
-  {
-    "title": "Why Sears’s Last Great Hope Was a Promise That Never Materialized",
-    "link": "https://www.nytimes.com/2025/12/26/business/sears-seritage-edward-lampert.html",
-    "summary": "Only five Sears stores remain in the country, with the end likely near for what was once the mightiest American retailer."
-  },
-  {
-    "title": "What It’s Like When Your Wife Goes on Testosterone",
-    "link": "https://www.nytimes.com/2025/12/26/magazine/what-its-like-when-your-wife-goes-on-testosterone.html",
-    "summary": "She went on testosterone to help with her menopausal symptoms. The effects had unexpected consequences for their marriage."
-  },
-  {
-    "title": "Testosterone Is Giving Women Back Their Sex Drive — With Side Effects",
-    "link": "https://www.nytimes.com/2025/10/22/magazine/testosterone-women-health-sex-libido-menopause.html",
-    "summary": "There is no F.D.A.-approved testosterone product for women. Insurance won’t cover it. Many doctors won’t prescribe it. It’s become a cultural phenomenon."
-  },
-  {
-    "title": "A Wealth Tax Floated in California Has Billionaires Thinking of Leaving",
-    "link": "https://www.nytimes.com/2025/12/26/technology/california-wealth-tax-page-thiel.html",
-    "summary": "It’s uncertain whether the proposal will reach the statewide ballot in November, but some billionaires like Peter Thiel and Larry Page may be unwilling to take the risk."
-  },
-  {
-    "title": "How Ryan Wedding, a Canadian Olympic Snowboarder, Turned into a Drug Lord",
-    "link": "https://www.nytimes.com/2025/12/26/world/canada/ryan-wedding-olympic-snowboarder-drug-lord.html",
-    "summary": "Ryan Wedding rose to fame as a Canadian Olympic athlete, but the authorities say he became one of the world’s biggest drug lords, who ordered an informant executed."
+    "title": "Thailand and Cambodia Reach Cease-Fire in Brutal Border War",
+    "link": "https://www.nytimes.com/2025/12/26/world/asia/thailand-cambodia-cease-fire-border-war.html",
+    "summary": "The 72-hour cease-fire could pave the way for an end to the fighting, which has killed dozens and displaced thousands over nearly three weeks."
   },
   {
     "title": "Annette Dionne, Last of the Celebrated Quintuplets, Dies at 91",
@@ -60,19 +60,19 @@
     "summary": "She was the first to crawl, the first to cut a tooth, the first to recognize her name, and the last to die. And, like her sisters, she resented being exploited as part of a global sensation."
   },
   {
-    "title": "Northern California Conservatives Are Frustrated They Could Get a Democratic Representative",
-    "link": "https://www.nytimes.com/2025/12/26/us/politics/california-redistricting-lamalfa-republicans.html",
-    "summary": "The passage of Proposition 50, which redrew California’s congressional map, means that all of the state’s conservative north is likely to be represented by Democrats."
+    "title": "How Ryan Wedding, a Canadian Olympic Snowboarder, Turned into a Drug Lord",
+    "link": "https://www.nytimes.com/2025/12/26/world/canada/ryan-wedding-olympic-snowboarder-drug-lord.html",
+    "summary": "Ryan Wedding rose to fame as a Canadian Olympic athlete, but the authorities say he became one of the world’s biggest drug lords, who ordered an informant executed."
+  },
+  {
+    "title": "A Wealth Tax Floated in California Has Billionaires Thinking of Leaving",
+    "link": "https://www.nytimes.com/2025/12/26/technology/california-wealth-tax-page-thiel.html",
+    "summary": "It’s uncertain whether the proposal will reach the statewide ballot in November, but some billionaires like Peter Thiel and Larry Page may be unwilling to take the risk."
   },
   {
     "title": "The Race to Save the Sacramento Mountains Checkerspot Butterfly",
     "link": "https://www.nytimes.com/2025/12/26/climate/sacramento-mountains-checkerspot-butterfly.html",
     "summary": "The Sacramento Mountains checkerspot butterfly is critically endangered, with the last known larva living in a lab in New Mexico."
-  },
-  {
-    "title": "Perry Bamonte, Guitarist and Keyboardist in the Cure, Dies at 65",
-    "link": "https://www.nytimes.com/2025/12/26/arts/music/perry-bamonte-dead.html",
-    "summary": "A former roadie, Mr. Bamonte joined the band in 1990. He played on five albums and in hundreds of shows and was “a vital part of the Cure story,” the band said."
   },
   {
     "title": "Sick of Trump News? I’m Here for You.",
@@ -85,18 +85,18 @@
     "summary": "It’s become easier to imagine the moment when Trump’s mystique finally evaporates."
   },
   {
-    "title": "Israel Recognizes Somaliland, Drawing International Rebukes",
-    "link": "https://www.nytimes.com/2025/12/26/world/middleeast/israel-recognize-somaliland.html",
-    "summary": "The development carries potential benefits for both sides but still faces stiff international opposition, 34 years after the region broke away from Somalia."
+    "title": "Perry Bamonte, Guitarist and Keyboardist in the Cure, Dies at 65",
+    "link": "https://www.nytimes.com/2025/12/26/arts/music/perry-bamonte-dead.html",
+    "summary": "A former roadie, Mr. Bamonte joined the band in 1990. He played on five albums and in hundreds of shows and was “a vital part of the Cure story,” the band said."
+  },
+  {
+    "title": "Man Arrested in Fatal Stabbing of CVS Worker on Long Island",
+    "link": "https://www.nytimes.com/2025/12/26/nyregion/stabbing-cvs-christmas-lindenhurst.html",
+    "summary": "A resident of Lindenhurst was charged with the murder of a 23-year-old  employee inside a CVS on Christmas Day, the authorities said."
   },
   {
     "title": "What Can Hundreds of Pieces of Litter Tell Us About Manhattan?",
     "link": "https://www.nytimes.com/2025/12/26/nyregion/nyc-litter.html",
     "summary": "Shoes. A phone. Receipts. A comb. Traces of wild nights and hurried days are all around us."
-  },
-  {
-    "title": "CVS Worker Fatally Stabbed on Christmas Day on Long Island",
-    "link": "https://www.nytimes.com/2025/12/26/nyregion/stabbing-cvs-christmas-lindenhurst.html",
-    "summary": "A 23-year-old CVS employee was killed on Thursday in Lindenhurst, the authorities said. A person of interest has been identified."
   }
 ]

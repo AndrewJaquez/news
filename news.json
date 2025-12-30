@@ -1,13 +1,13 @@
 [
   {
-    "title": "Iran’s Currency Collapse Pushes Protesters to the Streets",
-    "link": "https://www.nytimes.com/2025/12/29/world/middleeast/iran-currency-collapse-rial-inflation-protests.html",
-    "summary": "High inflation and a currency collapse have squeezed Iranians’ budgets, challenging the country’s leaders."
-  },
-  {
     "title": "Grim Evidence of Trump’s Boat Strikes Washes Ashore on a Colombian Peninsula",
     "link": "https://www.nytimes.com/2025/12/29/world/americas/trump-boat-strikes-gulf-of-venezuela-wreckage.html",
     "summary": "First came the scorched boat. Then the mangled bodies. Then the packets with traces of marijuana. Now, fishermen fear the ocean that feeds them."
+  },
+  {
+    "title": "More Kennedy Center Performances Are Canceled After Trump’s Renaming",
+    "link": "https://www.nytimes.com/2025/12/29/arts/kennedy-center-new-years-eve-concerts-canceled.html",
+    "summary": "A dance company withdrew from two performances next year, and the arts center’s website says two New Year’s Eve jazz concerts have been canceled."
   },
   {
     "title": "Trump Says the U.S. Struck a ‘Big Facility’ in Campaign Against Venezuela",
@@ -15,14 +15,24 @@
     "summary": "The administration provided no details of what the president said was an attack last week linked to U.S. efforts to disrupt drug trafficking from Latin America."
   },
   {
+    "title": "Israel Strips U.N. Agency for Palestinian Refugees of Diplomatic Immunity",
+    "link": "https://www.nytimes.com/2025/12/29/world/middleeast/israel-unrwa-diplomatic-immunity.html",
+    "summary": "The legislation was the latest blow to the agency, known as UNRWA. Israel has accused it of being extensively infiltrated by Hamas."
+  },
+  {
+    "title": "Iran’s Currency Collapse Pushes Protesters to the Streets",
+    "link": "https://www.nytimes.com/2025/12/29/world/middleeast/iran-currency-collapse-rial-inflation-protests.html",
+    "summary": "High inflation and a currency collapse have squeezed Iranians’ budgets, challenging the country’s leaders."
+  },
+  {
+    "title": "Russia Threatens to Toughen Its Stance on Ending the War in Ukraine",
+    "link": "https://www.nytimes.com/2025/12/29/world/europe/russia-claims-ukraine-attack-putin.html",
+    "summary": "Moscow said a Ukrainian drone attack targeted a residence of President Vladimir V. Putin, which Ukraine denied, accusing the Kremlin of fabricating an excuse not to make peace."
+  },
+  {
     "title": "For Zelensky, Just Keeping Trump Talking About Ukraine Peace Deal Counts as a Win",
     "link": "https://www.nytimes.com/2025/12/29/world/europe/zelensky-trump-ukraine-peace-talks.html",
     "summary": "Though discussions produced little tangible progress, President Volodymyr Zelensky of Ukraine at least avoided the type of setbacks that have blighted earlier meetings."
-  },
-  {
-    "title": "The Status of the 20-Point Peace Plan for Ukraine",
-    "link": "https://www.nytimes.com/2025/12/24/world/europe/what-is-in-the-20-point-ukraine-peace-plan.html",
-    "summary": "The blueprint covers a broad range of issues, including territory, security guarantees and postwar reconstruction. But Russia has indicated little willingness to end the war."
   },
   {
     "title": "Inside Marjorie Taylor Greene’s Break With Trump and MAGA",
@@ -35,24 +45,14 @@
     "summary": "The congresswoman discussed her break with President Trump and her journey from MAGA zealot to political isolation."
   },
   {
-    "title": "How We’ll Eat in 2026: Food Forecasters Predict More Caution and More Crunch",
-    "link": "https://www.nytimes.com/2025/12/29/dining/food-trends-2026-predictions.html",
-    "summary": "Food forecasters see a year of quieter tastes: little bursts of pleasure, less-jangling restaurants and healthy foods worthy of the ideal Grandma."
-  },
-  {
     "title": "Claire Brosseau Wants to Die. Will Canada Let Her?",
     "link": "https://www.nytimes.com/2025/12/29/health/assisted-death-mental-illness-canada.html",
     "summary": "Ms. Brosseau says mental illness has made her life unbearable. She wants a medically assisted death. Even her psychiatrists are split over whether she should have one."
   },
   {
-    "title": "Uber Flags Sexual Misconduct but Many Drivers Stay on the Road",
-    "link": "https://www.nytimes.com/2025/12/29/business/uber-sexual-assault-drivers-complaints.html",
-    "summary": "The company monitors passenger feedback for risky driver behavior. Some accused of serious sexual assault had prior records of complaints."
-  },
-  {
-    "title": "Experts Question Denmark’s Vaccine Program as a Model for the U.S.",
-    "link": "https://www.nytimes.com/2025/12/29/world/europe/denmark-vaccine-schedule-rfk.html",
-    "summary": "The United States is expected to adopt the vaccine schedule used by Denmark, a much smaller country with universal health care."
+    "title": "Mamdani Will Be Sworn In at Abandoned Subway Station Beneath City Hall",
+    "link": "https://www.nytimes.com/2025/12/29/nyregion/mamdani-subway-sworn-in-mayor.html",
+    "summary": "Hours before Mayor-elect Zohran Mamdani holds an inauguration block party outside City Hall, he will officially become mayor in a small private ceremony."
   },
   {
     "title": "As Mamdani Leaves Queens for the Upper East Side, a Cool Welcome Awaits",
@@ -60,9 +60,19 @@
     "summary": "Mayor-elect Zohran Mamdani loves his Astoria, Queens, neighborhood, and the feeling is mutual. But voters who live near Gracie Mansion, his new home, really wanted his opponent to win."
   },
   {
-    "title": "Meet a U.S. Start-Up Trying to Break China’s Rare-Earth Monopoly",
-    "link": "https://www.nytimes.com/2025/12/29/business/energy-environment/rare-earth-processing-phoenix-tailings.html",
-    "summary": "Companies like Phoenix Tailings, which recently began producing metal in New Hampshire, are using new processing methods to compete with Chinese suppliers."
+    "title": "The New Billionaires of the A.I. Boom",
+    "link": "https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html",
+    "summary": "Just like past tech booms, the latest frenzy has produced a group of billionaires — at least on paper — from smaller start-ups."
+  },
+  {
+    "title": "As Youth Sports Professionalize, Kids Are Burning Out Fast",
+    "link": "https://www.nytimes.com/2025/12/29/business/youth-sports-stress.html",
+    "summary": "A growing body of research shows how pressure from overbearing coaches and parents is stunting children’s emotional well-being and leading to injuries."
+  },
+  {
+    "title": "10 Fitness Tips to Help You Get Moving in 2026",
+    "link": "https://www.nytimes.com/2025/12/29/well/move/fitness-workout-tips-2026.html",
+    "summary": "Turn your walk into a better workout, build strength without weights and more exercise advice for the year ahead."
   },
   {
     "title": "Who Says Rock Is Dead?",
@@ -80,28 +90,28 @@
     "summary": "Amid an astonishing wave of anti-Indian animus, Indian Americans are questioning their place in the country."
   },
   {
-    "title": "Why We Keep Falling for Narcissistic Leaders",
-    "link": "https://www.nytimes.com/2025/12/29/opinion/why-we-fall-for-narcissistic-leaders-starting-in-grade-school.html",
-    "summary": "We should know better."
+    "title": "A Love Letter to My Dutch Oven",
+    "link": "https://www.nytimes.com/2025/12/29/opinion/dutch-oven-cooking-kitchen.html",
+    "summary": "How a piece of kitchen equipment watched me grow up."
   },
   {
-    "title": "Our Visual Journalism",
-    "link": "https://www.nytimes.com/2025/12/29/briefing/our-visual-journalism.html",
-    "summary": "We look at the best graphics from The Times in 2025."
+    "title": "Russia Threatens to Harden Its Stance on Ukraine",
+    "link": "https://www.nytimes.com/2025/12/29/briefing/russia-venezuela-rfk.html",
+    "summary": "Plus, food trends for 2026. Here’s the latest at the end of Monday."
   },
   {
-    "title": "China Will Hold Live-Fire Military Exercises Around Taiwan",
-    "link": "https://www.nytimes.com/2025/12/29/world/asia/china-taiwan-military-exercises.html",
-    "summary": "The exercises ended months of relative calm across the Taiwan Strait, and came after the Trump administration announced plans for arms sales to the island."
+    "title": "Idris Elba and Cynthia Erivo Make King Charles’s New Year Honors List",
+    "link": "https://www.nytimes.com/2025/12/29/world/europe/idris-elba-cynthia-erivo-king-charles-honors.html",
+    "summary": "Mr. Elba received a knighthood and Ms. Erivo was also honored in an annual British tradition celebrating professional excellence and community service."
   },
   {
-    "title": "Melanie Watson Bernhardt, ‘Diff’rent Strokes’ Actress, Dies at 57",
-    "link": "https://www.nytimes.com/2025/12/29/arts/melanie-watson-dead-different-strokes.html",
-    "summary": "Her four episodes on the sitcom marked a rarity: a disabled actress onscreen."
+    "title": "Uber Flags Sexual Misconduct but Many Drivers Stay on the Road",
+    "link": "https://www.nytimes.com/2025/12/29/business/uber-sexual-assault-drivers-complaints.html",
+    "summary": "The company monitors passenger feedback for risky driver behavior. Some accused of serious sexual assault had prior records of complaints."
   },
   {
-    "title": "Parts of New York and New England Brace for Ice Storm",
+    "title": "Ice Storm Makes Travel Dangerous in Parts of New York and New England",
     "link": "https://www.nytimes.com/2025/12/29/us/new-york-new-england-ice-storm.html",
-    "summary": "Several states were under weather warnings or advisories after the same winter storm battered the Midwest over the weekend. Tens of thousands of power customers faced outages."
+    "summary": "Officials in Vermont and Buffalo, N.Y., warned residents to stay off the roads as a winter weather system brought thick sheets of ice and snow. Tens of thousands of power customers faced outages."
   }
 ]

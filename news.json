@@ -1,23 +1,48 @@
 [
   {
+    "title": "They, Too, Died After Beatings by Guards. No One Raised an Alarm.",
+    "link": "https://www.nytimes.com/2025/12/31/nyregion/ny-prison-deaths-beatings-brooks-nantwi.html",
+    "summary": "Two brutal killings, less than three months apart, in New York State’s prison system raised troubling questions: Had other inmates met similar fates?"
+  },
+  {
+    "title": "How Russia Is Brutalizing Its Own Soldiers, and More Than 5 Million Pages of Epstein Files",
+    "link": "https://www.nytimes.com/2025/12/31/podcasts/the-headlines/russia-soldiers-5-million-pages-epstein-files.html",
+    "summary": "Plus, the viral video that got the White House’s attention."
+  },
+  {
     "title": "6 Takeaways on the Unwinding U.S.-Ukraine Alliance",
     "link": "https://www.nytimes.com/2025/12/30/world/europe/ukraine-us-russia-takeaways.html",
     "summary": "A Times investigation reveals the inside story of the Trump administration’s chaotic push for a peace deal and its erratic role in the war."
   },
   {
-    "title": "Justice Dept. Now Said to Be Reviewing 5.2 Million Pages of Epstein Files",
+    "title": "Justice Dept. Is Now Said to Be Reviewing 5.2 Million Pages of Epstein Files",
     "link": "https://www.nytimes.com/2025/12/30/us/politics/esptein-files-5-million-pages.html",
     "summary": "The number represents a more precise, and potentially much larger, figure than earlier estimates. The department is seeking to enlist about 400 lawyers to help in the review."
   },
   {
-    "title": "Health Dept. Pauses Child Care Funding to Minnesota, Citing State’s Fraud Scandal",
-    "link": "https://www.nytimes.com/2025/12/30/us/politics/hhs-minnesota-funds-day-care-fraud.html",
-    "summary": "The pause affects a funding stream that provides $185 million in annual aid to the state’s day care centers, as federal investigations into fraud in Minnesota’s social services programs continue."
+    "title": "Even as Trump Targets Boats in Strikes, Coast Guard Continues Anti-Drug Operations",
+    "link": "https://www.nytimes.com/2025/12/31/us/politics/trump-boat-strikes-coast-guard-drug-operations.html",
+    "summary": "Cutters are still stopping smugglers and seizing drugs, but the prosecutions of go-fast boat crews are dwindling in a realignment of federal resources."
   },
   {
     "title": "Justice Dept. Leaders Pushed to Charge Abrego Garcia, Emails Show",
     "link": "https://www.nytimes.com/2025/12/30/nyregion/abrego-garcia-charges-doj.html",
     "summary": "The release of the emails raised serious questions about whether the Justice Department had misled a judge in telling him that local prosecutors had acted alone in charging Mr. Abrego Garcia."
+  },
+  {
+    "title": "Will the A.I. Boom Continue to Drive Up Stocks in 2026?",
+    "link": "https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html",
+    "summary": "The boom in artificial intelligence was the biggest driver of gains in the stock market. That could pose a risk in 2026."
+  },
+  {
+    "title": "The Top Movies of 2025, According to Times Readers: ‘Marty Supreme’ and More",
+    "link": "https://www.nytimes.com/2025/12/31/movies/2025-best-movies-marty-supreme.html",
+    "summary": "We asked you to vote on the best films of the year. The results ranged from big box office hits to small art-house indies."
+  },
+  {
+    "title": "For Zohran Mamdani, a Crowning Moment, With Challenges Looming",
+    "link": "https://www.nytimes.com/2025/12/31/nyregion/mamdani-mayor-nyc.html",
+    "summary": "Mr. Mamdani will become mayor of New York City on Thursday, carrying the hopes of the left, Muslims and younger voters as he looks to improve affordability."
   },
   {
     "title": "Mamdani Chooses a Veteran N.Y.C. Education Leader as Schools Chancellor",
@@ -30,6 +55,31 @@
     "summary": "The mayor-elect said the selections indicate his administration’s commitment to help New York City’s vulnerable residents."
   },
   {
+    "title": "When the Best New Year’s Plans Are No New Year’s Plans",
+    "link": "https://www.nytimes.com/2025/12/29/style/new-years-eve-no-plans.html",
+    "summary": "Many opt out of the revelry, either as their own time-honored tradition or because of a different outlook this year."
+  },
+  {
+    "title": "Tonight’s Ball Drop Is a Celebration of Both the New Year and Times History",
+    "link": "https://www.nytimes.com/2025/12/31/nyregion/new-year-ball-drop-new-york-times-square.html",
+    "summary": "The New York Times started the tradition in 1907, and this year’s ball drop will be a reminder that The Times played a role in making New Year’s Eve what it is."
+  },
+  {
+    "title": "New Year’s Eve Forecast Is Very Cold Across the U.S.",
+    "link": "https://www.nytimes.com/2025/12/31/weather/cold-forecast-new-years-eve.html",
+    "summary": "Some of the season’s most frigid temperatures are expected this week."
+  },
+  {
+    "title": "An Intense White House Response From a Single Viral Video",
+    "link": "https://www.nytimes.com/2025/12/31/business/media/trump-conservatives-videos-viral-loop.html",
+    "summary": "A video purporting to expose extensive fraud at child care centers in Minnesota shows the relationship between the Trump administration and self-described citizen journalists."
+  },
+  {
+    "title": "Health Dept. Pauses Child Care Funding to Minnesota, Citing State’s Fraud Scandal",
+    "link": "https://www.nytimes.com/2025/12/30/us/politics/hhs-minnesota-funds-day-care-fraud.html",
+    "summary": "The pause affects a funding stream that provides $185 million in annual aid to the state’s day care centers, as federal investigations into fraud in Minnesota’s social services programs continue."
+  },
+  {
     "title": "Tatiana Schlossberg, Kennedy Daughter Who Wrote of Her Cancer, Dies at 35",
     "link": "https://www.nytimes.com/2025/12/30/us/politics/tatiana-schlossberg-dead.html",
     "summary": "An environmental journalist and child of Caroline Kennedy, she wrote of her struggle with leukemia in The New Yorker in November, drawing worldwide sympathy."
@@ -40,19 +90,9 @@
     "summary": "Tatiana Schlossberg, who died on Tuesday, was the granddaughter of John F. Kennedy. But as a journalist, her first editor remembers, she insisted on putting in the work."
   },
   {
-    "title": "When the Best New Year’s Plans Are No New Year’s Plans",
-    "link": "https://www.nytimes.com/2025/12/29/style/new-years-eve-no-plans.html",
-    "summary": "Many opt out of the revelry, either as their own time-honored tradition or because of a different outlook this year."
-  },
-  {
     "title": "Iowa Democrat Wins State Senate Seat, Fending Off G.O.P. Supermajority",
     "link": "https://www.nytimes.com/2025/12/30/us/iowa-senate-special-election.html",
     "summary": "By holding a left-leaning seat in suburban Des Moines, Democrats ensured that Republicans would not have a supermajority in the State Senate."
-  },
-  {
-    "title": "Crew Paints Russian Flag on Oil Tanker Pursued by the U.S. Coast Guard",
-    "link": "https://www.nytimes.com/2025/12/30/us/politics/oil-tanker-venezuela-us-russia-bella-1.html",
-    "summary": "The U.S. military tried to intercept the Bella 1 last week in the Caribbean Sea as it headed to Venezuela to pick up oil."
   },
   {
     "title": "Ben Nighthorse Campbell, Former Colorado Senator, Dies at 92",
@@ -60,14 +100,24 @@
     "summary": "A Democrat turned Republican, he was the only Native American during three terms in the House of Representatives and in 12 years in the Senate. He was also a judo expert and an Olympian."
   },
   {
-    "title": "Slow Flood Recovery Stirs Anger in Far-Flung Corner of Indonesia",
-    "link": "https://www.nytimes.com/2025/12/31/world/asia/indonesia-flood-recovery-aceh.html",
-    "summary": "Protests have erupted in Aceh Province on the northern tip of Sumatra island, where anger and frustration are mounting over what many see as inadequate relief efforts by a distracted government."
+    "title": "The 2025 Politics Yearbook: Most Likely to Be Extreme and Chaotic",
+    "link": "https://www.nytimes.com/2025/12/31/opinion/congress-most-likely.html",
+    "summary": "How much more chaotic could a second Trump term be? 2025 did not disappoint."
   },
   {
-    "title": "Katherine Maher of NPR Has Come Out on Top Despite Battles With Trump and the CPB",
-    "link": "https://www.nytimes.com/2025/12/30/business/npr-katherine-maher.html",
-    "summary": "Katherine Maher has taken an unyielding approach to NPR’s biggest battles — which has sometimes put her at odds with her colleagues in public media."
+    "title": "Trump Spent the Past Year Trying to Crush Dissent",
+    "link": "https://www.nytimes.com/2025/12/31/opinion/trump-first-amendment-dissent.html",
+    "summary": "The next three years will require a vigilant defense of free speech and open debate."
+  },
+  {
+    "title": "From A.I. to Immigration, These New State Laws Will Take Effect in 2026",
+    "link": "https://www.nytimes.com/2025/12/29/us/new-state-laws-2026.html",
+    "summary": "States across the country have also passed new rules around cellphone usage for minors, medically assisted death and gender-related care."
+  },
+  {
+    "title": "Jon Kyl, Former Arizona Senator, Says He Has Dementia",
+    "link": "https://www.nytimes.com/2025/12/31/us/politics/jon-kyl-dementia-arizona-senator.html",
+    "summary": "The Republican served for almost three decades in Congress. He said he was withdrawing from public life after the diagnosis."
   },
   {
     "title": "3 Hikers Are Found Dead on Mt. Baldy in Southern California, Sheriff Says",
@@ -75,33 +125,8 @@
     "summary": "The authorities closed access to part of Mount Baldy, the tallest peak in the San Gabriel Mountains in Southern California. They cited dangerous and unpredictable terrain and weather."
   },
   {
-    "title": "How America Loses Vaccine Access",
-    "link": "https://www.nytimes.com/2025/12/30/opinion/kennedy-vaccines-hhs-cdc.html",
-    "summary": "America could all but lose vaccine access. Here’s how."
-  },
-  {
-    "title": "Last Orders, London?",
-    "link": "https://www.nytimes.com/2025/12/31/opinion/london-pubs.html",
-    "summary": "A tale of two cities, told through its pubs."
-  },
-  {
-    "title": "Gaza Aid Groups Face Suspensions Under New Israeli Rules",
-    "link": "https://www.nytimes.com/2025/12/30/world/middleeast/gaza-aid-group-suspensions-israel.html",
-    "summary": "The organizations, including Doctors Without Borders, have resisted providing Israel with detailed information about their workers."
-  },
-  {
     "title": "Isiah Whitlock Jr., Scene-Stealing Character Actor in ‘The Wire,’ Dies at 71",
     "link": "https://www.nytimes.com/2025/12/30/arts/television/isiah-whitlock-jr-dead.html",
     "summary": "In one of his most enduring roles, he played a corrupt state senator known for his ability to fashion an expletive into an outstretched catchphrase."
-  },
-  {
-    "title": "More Rain Forecast for Los Angeles Starting on New Year’s Eve",
-    "link": "https://www.nytimes.com/2025/12/30/weather/rain-los-angeles-new-years.html",
-    "summary": "After Christmas-week storms, two rounds of rainfall starting on New Year’s Eve could cause more flooding and mudslides."
-  },
-  {
-    "title": "Carmen de Lavallade, Dancer Whose Career Spanned the Arts, Dies at 94",
-    "link": "https://www.nytimes.com/2025/12/30/arts/dance/carmen-de-lavallade-dead.html",
-    "summary": "Over six decades she worked in theater, opera, film and television alongside luminaries like Alvin Ailey, Lena Horne, Agnes de Mille and Harry Belafonte."
   }
 ]

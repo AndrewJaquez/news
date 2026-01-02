@@ -1,33 +1,13 @@
 [
   {
-    "title": "Witnesses Recount Fire That Killed 40 in Switzerland",
-    "link": "https://www.nytimes.com/2026/01/01/world/europe/switzerland-fire-scene.html",
-    "summary": "It was a haven for the young, where they could find hot chocolate when they wanted quiet and affordable drinks when they did not. Then it turned into a place of death."
-  },
-  {
     "title": "There Was Probably a Flashover in the Swiss Bar Fire. Here’s What That Means.",
     "link": "https://www.nytimes.com/2026/01/02/world/europe/switzerland-resort-bar-fire-flashover.html",
     "summary": "A flashover is an event where an entire room is rapidly engulfed in flames."
   },
   {
-    "title": "Swiss Alps Ski Resort Fire: What We Know",
-    "link": "https://www.nytimes.com/2026/01/01/world/europe/what-happened-fire-switzerland-ski-resort.html",
-    "summary": "A fast-moving fire at a bar in a popular ski resort killed more than 40 people and injured more than 100, officials said. The cause was still unknown."
-  },
-  {
-    "title": "Dozens Killed in New Year’s Fire, and Trump Abandons National Guard Push in 3 Major Cities",
-    "link": "https://www.nytimes.com/2026/01/02/podcasts/the-headlines/switzerland-new-years-fire-trump-national-guard.html",
-    "summary": "Plus, your Friday news quiz."
-  },
-  {
-    "title": "Mamdani Lays Out Agenda of ‘Affordability and Abundance’ on First Day in Office",
-    "link": "https://www.nytimes.com/2026/01/01/nyregion/mamdani-inauguration-takeaways.html",
-    "summary": "Mayor Zohran Mamdani acknowledged skeptics of his plans while reiterating that he would focus on working-class New Yorkers."
-  },
-  {
-    "title": "Images From the Dawn of the Mamdani Era",
-    "link": "https://www.nytimes.com/2026/01/01/nyregion/images-from-the-dawn-of-the-mamdani-era.html",
-    "summary": "Thousands of New Yorkers packed the plaza ouside City Hall and the streets of Lower Manhattan to see Mayor Zohran Mamdani take office."
+    "title": "Survivor Recounts Moment He Caught Fire in Swiss Bar",
+    "link": "https://www.nytimes.com/2026/01/02/world/europe/switzerland-ski-bar-fire-survivor-account.html",
+    "summary": "Noa Bersier went to Le Constellation with friends on a whim. An hour later, he was caught in one of Switzerland’s worst tragedies."
   },
   {
     "title": "Mamdani Revokes Executive Orders That Adams Signed to Support Israel",
@@ -35,12 +15,52 @@
     "summary": "Former Mayor Eric Adams and some conservative-leaning Jewish leaders criticized the revocation of his executive orders, one of which he signed just last month."
   },
   {
-    "title": "New York Magazine Put Mamdani’s Team on Its Cover. One Aide Was Erased.",
-    "link": "https://www.nytimes.com/2026/01/01/nyregion/new-york-magazine-cover-mamdani-aide-da-costa.html",
-    "summary": "Catherine Almonte Da Costa was part of a photo shoot on the mayor-elect’s inner circle. The next day she resigned amid an uproar over antisemitic statements she had posted on social media years earlier."
+    "title": "Images From the Dawn of the Mamdani Era",
+    "link": "https://www.nytimes.com/2026/01/01/nyregion/images-from-the-dawn-of-the-mamdani-era.html",
+    "summary": "Thousands of New Yorkers packed the plaza ouside City Hall and the streets of Lower Manhattan to see Mayor Zohran Mamdani take office."
   },
   {
-    "title": "Tech Giants Are Racing to Embed A.I. in Schools Around the Globe",
+    "title": "Following Mamdani’s Win, Souvenir Shops Look to Cash In",
+    "link": "https://www.nytimes.com/2026/01/02/nyregion/mamdani-souvenirs-tshirts.html",
+    "summary": "Seemingly overnight, T-shirts with the likeness of the new mayor have become common in New York City."
+  },
+  {
+    "title": "Trump Says U.S. Will Intervene if Iran Kills Protesters",
+    "link": "https://www.nytimes.com/2026/01/02/world/middleeast/trump-iran-protests.html",
+    "summary": "Mr. Trump’s remarks that he was ready to come to the protesters’ “rescue” are a sharp escalation as protests over economic hardship turned deadly."
+  },
+  {
+    "title": "A Study Is Retracted, Renewing Concerns About the Weedkiller Roundup",
+    "link": "https://www.nytimes.com/2026/01/02/climate/glyphosate-roundup-retracted-study.html",
+    "summary": "Problems with a 25-year-old landmark paper on the safety of Roundup’s active ingredient, glyphosate, have led to calls for the E.P.A. to reassess the widely used chemical."
+  },
+  {
+    "title": "Welcome to the Office. Now Take Off Your Shoes.",
+    "link": "https://www.nytimes.com/2026/01/02/business/welcome-to-the-office-now-take-off-your-shoes.html",
+    "summary": "Some start-ups, blurring the lines between home and office, are embracing a “no shoes” policy."
+  },
+  {
+    "title": "50 Years Ago, He Was an Olympian. At 80, He’s Just as Happy to Finish Last.",
+    "link": "https://www.nytimes.com/2026/01/02/well/move/jeff-galloway-marathon.html",
+    "summary": "Jeff Galloway, who popularized the run-walk-run method, is determined to complete one more marathon."
+  },
+  {
+    "title": "After Watergate, the Presidency Was Tamed. Trump Is Unleashing It.",
+    "link": "https://www.nytimes.com/2026/01/02/us/politics/president-trump-powers-watergate.html",
+    "summary": "In the 1970s, Congress passed a raft of laws to hold the White House accountable. President Trump has decided they don’t apply to him."
+  },
+  {
+    "title": "With Obamacare’s Higher Premiums Come Difficult Decisions",
+    "link": "https://www.nytimes.com/2026/01/02/health/obamacare-subsidies-higher-premiums.html",
+    "summary": "As enhanced subsidies expire, many Americans covered under the Affordable Care Act are having trouble paying for insurance."
+  },
+  {
+    "title": "Tesla Car Sales Dropped 9% in 2025, Falling Behind China’s BYD",
+    "link": "https://www.nytimes.com/2026/01/02/business/tesla-electric-vehicles-fourth-quarter-sales.html",
+    "summary": "As the largest maker of electric vehicles in the United States, Tesla suffered more than other carmakers from the elimination of federal incentives."
+  },
+  {
+    "title": "As Schools Embrace A.I. Tools, Skeptics Raise Concerns",
     "link": "https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html",
     "summary": "More governments are rolling out chatbots in schools. Some experts warn the tools could erode teaching and learning."
   },
@@ -50,34 +70,14 @@
     "summary": "A tool for spotting pancreatic cancer in routine CT scans has had promising results, one example of how China is racing to apply A.I. to medicine’s tough problems."
   },
   {
-    "title": "After Watergate, the Presidency Was Tamed. Trump Is Unleashing It.",
-    "link": "https://www.nytimes.com/2026/01/02/us/politics/president-trump-powers-watergate.html",
-    "summary": "In the 1970s, Congress passed a raft of laws to hold the White House accountable. President Trump has decided they don’t apply to him."
-  },
-  {
-    "title": "Welcome to the Office. Now Take Off Your Shoes.",
-    "link": "https://www.nytimes.com/2026/01/02/business/welcome-to-the-office-now-take-off-your-shoes.html",
-    "summary": "Some start-ups, blurring the lines between home and office, are embracing a “no shoes” policy."
-  },
-  {
-    "title": "With Obamacare’s Higher Premiums Come Difficult Decisions",
-    "link": "https://www.nytimes.com/2026/01/02/health/obamacare-subsidies-higher-premiums.html",
-    "summary": "As enhanced subsidies expire, many Americans covered under the Affordable Care Act are having trouble paying for insurance."
-  },
-  {
-    "title": "Trump Says U.S. Is ‘Locked and Loaded’ if Iran Kills Protesters",
-    "link": "https://www.nytimes.com/2026/01/02/world/middleeast/trump-iran-protests.html",
-    "summary": "Mr. Trump’s remarks that he was ready to come to the protesters’ “rescue” are a sharp escalation as protests over economic hardship turned deadly."
-  },
-  {
     "title": "Why a Nuclear Plant Is a Big Sticking Point in the Ukraine Peace Plan",
     "link": "https://www.nytimes.com/2026/01/02/world/europe/ukraine-peace-plan-zaporizhzhia-nuclear-plant.html",
     "summary": "The Zaporizhzhia plant, occupied by Russia, would be crucial to powering Ukraine’s postwar recovery."
   },
   {
-    "title": "Can the Most Indebted Team in Global Soccer Fix Its Finances?",
-    "link": "https://www.nytimes.com/2026/01/02/world/europe/barcelona-debt-soccer.html",
-    "summary": "F.C. Barcelona’s liabilities have reached 2.5 billion euros, the result of financial mismanagement and vaulting ambition."
+    "title": "Ukraine’s Zelensky Names Kyrylo Budanov as New Chief of Staff",
+    "link": "https://www.nytimes.com/2026/01/02/world/europe/zelensky-budanov-ukraine-chief-of-staff-yermak.html",
+    "summary": "Kyrylo Budanov, who has served as Ukraine’s military intelligence chief, is seen as a potential rival to Mr. Zelensky if elections are held."
   },
   {
     "title": "Bacterial Vaginosis Is No Longer Thought to Affect Only Women",
@@ -90,9 +90,9 @@
     "summary": "Now that the condition is known to spread sexually, there are steps you and your partner can take to prevent it."
   },
   {
-    "title": "In the Arctic, Drones Help Identify Deadly Virus in Whales",
-    "link": "https://www.nytimes.com/2026/01/02/science/arctic-drones-whales-virus.html",
-    "summary": "Scientists took samples from whale blow, identifying possible disease risks for marine mammals in northern seas."
+    "title": "Carrying for a Cause: Meet the Man Lugging Shelter Dogs Around New York",
+    "link": "https://www.nytimes.com/2026/01/02/nyregion/dog-backpack-adopt.html",
+    "summary": "Bryan Reisberg built a social media following in the millions by carrying his corgi, Maxine, in a backpack. Now, he carries shelter dogs."
   },
   {
     "title": "Trump Is the Jan. 6 President",
@@ -100,23 +100,33 @@
     "summary": "Tragically, America is still living in a political era that began on Jan. 6, 2021."
   },
   {
-    "title": "The Unseen Human Workers Behind Self-Driving Cars",
-    "link": "https://www.nytimes.com/2026/01/02/opinion/ai-self-driving-cars-workers.html",
-    "summary": "The unseen workers who help train self-driving cars to see."
+    "title": "The American Dream Is Alive in Zohran Mamdani",
+    "link": "https://www.nytimes.com/2026/01/02/opinion/politics/zohran-mamdani-america.html",
+    "summary": "The mayor’s résumé looks like the broad coalition he built when he swept to victory in November."
   },
   {
-    "title": "Five Laws Going Into Effect for New York in 2026",
+    "title": "Why Do Americans Hate A.I.?",
+    "link": "https://www.nytimes.com/2026/01/02/briefing/why-do-americans-hate-ai.html",
+    "summary": "We look at the uniquely American animosity toward artificial intelligence."
+  },
+  {
+    "title": "North Carolina Man Accused of Planning Potential Terrorist Attack",
+    "link": "https://www.nytimes.com/2026/01/02/us/north-carolina-man-terrorist-attack-fbi.html",
+    "summary": "The 18-year-old, radicalized online, was planning a New Year’s Eve attack in a Charlotte suburb, officials said."
+  },
+  {
+    "title": "Wall Street Sees Another Banner Year for Markets. Could Anything Stop It?",
+    "link": "https://www.nytimes.com/2026/01/02/business/dealbook/wall-street-market-prediction.html",
+    "summary": "Analysts have forecast more stellar gains for the S&amp;P 500. But concerns about inflation, the dollar and sky-high valuations could make for a choppy run."
+  },
+  {
+    "title": "New Laws Going Into Effect for New York in 2026",
     "link": "https://www.nytimes.com/2026/01/02/nyregion/2026-new-laws-new-york-state.html",
     "summary": "Among them, benefits for minimum wage workers, cancer patients and parents of young children. Also, a change to child abuse reporting."
   },
   {
-    "title": "Search Is Suspended for Passenger Who Went Overboard From Cruise Ship",
-    "link": "https://www.nytimes.com/2026/01/01/world/americas/passenger-overboard-holland-america-cruise.html",
-    "summary": "The U.S. Coast Guard said on Thursday that it halted its hourslong search for a 77-year-old woman who went overboard from a Holland America Line cruise ship near Cuba."
-  },
-  {
-    "title": "Janet Fish, Painter of Luminous Still Lifes, Dies at 87",
-    "link": "https://www.nytimes.com/2026/01/01/arts/design/janet-fish-dead.html",
-    "summary": "From her student days, she stubbornly refused to follow popular artistic trends. Instead, she spent decades exploring the effects of light on glass."
+    "title": "Yemen Sends Its Military to Push Out Separatist Faction",
+    "link": "https://www.nytimes.com/2026/01/02/world/middleeast/yemen-separatists-government.html",
+    "summary": "The Saudi-backed government in Yemen said it would send forces to reclaim territory from a group that the United Arab Emirates supports."
   }
 ]

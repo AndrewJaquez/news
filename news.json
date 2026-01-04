@@ -1,8 +1,13 @@
 [
   {
-    "title": "Trump Shared an Image of Maduro Blindfolded and Handcuffed",
-    "link": "https://www.nytimes.com/live/2026/01/03/world/trump-united-states-strikes-venezuela/41cd4f56-6377-59db-b873-9db35bd4d3f1?smid=url-share",
-    "summary": ""
+    "title": "Trump Shares Photo of Captured Nicolás Maduro, Blindfolded and Handcuffed",
+    "link": "https://www.nytimes.com/2026/01/03/world/americas/maduro-photo-trump.html",
+    "summary": "The Venezuelan president and his wife were flown out of Caracas by helicopter to the U.S.S. Iwo Jima, a warship taking them to New York."
+  },
+  {
+    "title": "Inside ‘Operation Absolute Resolve,’ the U.S. Effort to Capture Maduro",
+    "link": "https://www.nytimes.com/2026/01/03/us/politics/trump-capture-maduro-venezuela.html",
+    "summary": "The tactically precise operation successfully extracted Mr. Maduro with no loss of American life, a result heralded by President Trump amid larger questions about the legality and rationale for the U.S. actions in Venezuela."
   },
   {
     "title": "The Trump Administration Approved a Big Lithium Mine. A Top Official’s Husband Profited.",
@@ -20,6 +25,11 @@
     "summary": "Mayor Zohran Mamdani said New York City would intervene in the Pinnacle Group’s bankruptcy case. Tenants have long complained about living conditions in the company’s properties."
   },
   {
+    "title": "On a Brooklyn Boulevard, Mamdani Revives a Project Hampered by Scandal",
+    "link": "https://www.nytimes.com/2026/01/03/nyregion/mamdani-mcguinness-boulevard-bike-lanes.html",
+    "summary": "The bike-lane project, a source of corruption charges during the Adams administration, will be finished as planned in Greenpoint, Mayor Zohran Mamdani said."
+  },
+  {
     "title": "An ‘Avoidable Tragedy’: The Hazards That Led to the Swiss Fire Disaster",
     "link": "https://www.nytimes.com/2026/01/03/world/europe/switzerland-fire-avoidable-hazards.html",
     "summary": "The fire that killed at least 40 people in a Swiss bar on New Year’s Day was made more likely by apparent flaws in the site’s design and management, experts say."
@@ -27,7 +37,7 @@
   {
     "title": "Managers of Swiss Bar Are Suspected of Negligence in Deadly Fire, Police Say",
     "link": "https://www.nytimes.com/2026/01/03/world/europe/swiss-fire-bar-managers-charged.html",
-    "summary": "Swiss authorities say the fire was probably sparked by small fireworks on champagne bottles that ignited foam insulation on the bar’s basement ceiling."
+    "summary": "The Swiss authorities say small fireworks on beverage bottles probably ignited foam insulation on the bar’s basement ceiling, setting off the broader blaze."
   },
   {
     "title": "Bryan Kohberger’s Family Stayed Silent for Years. Until Now.",
@@ -40,16 +50,6 @@
     "summary": "Angie Katsanevas has carved her own path through life, and her deadly quips on “The Real Housewives of Salt Lake City” have made her a breakout star."
   },
   {
-    "title": "5 Workouts for Complete Beginners",
-    "link": "https://www.nytimes.com/2026/01/03/well/move/beginner-workout-ideas.html",
-    "summary": "Looking for a new fitness routine this January? Start here."
-  },
-  {
-    "title": "5 Fitness Resolutions That Have Nothing to Do With Weight Loss",
-    "link": "https://www.nytimes.com/2025/01/01/well/move/fitness-new-years-resolutions.html",
-    "summary": "This year, set a goal that can actually help you sustain an exercise habit."
-  },
-  {
     "title": "Trump’s Attack on Venezuela Is Illegal and Unwise",
     "link": "https://www.nytimes.com/2026/01/03/opinion/venezuela-attack-trump-us.html",
     "summary": "We know that Mr. Trump’s warmongering violates the law."
@@ -58,11 +58,6 @@
     "title": "To Trump, on Venezuela: You Break It, You Own It",
     "link": "https://www.nytimes.com/2026/01/03/opinion/venezuela-trump.html",
     "summary": "His administration just decapitated the country’s leadership; he’s now responsible for what comes next there."
-  },
-  {
-    "title": "An Operation in Venezuela",
-    "link": "https://www.nytimes.com/2026/01/03/briefing/an-operation-in-venezuela.html",
-    "summary": "President Trump announced that U.S. forces had captured Venezuela’s president, Nicolás Maduro, following a “large-scale attack.”"
   },
   {
     "title": "Why Security Guarantees Are So Crucial, and Thorny, for Ukraine",
@@ -75,8 +70,13 @@
     "summary": "Hannah C. Dugan, a state court judge, was convicted by a jury in federal court. Wisconsin lawmakers called on her to resign from the bench."
   },
   {
-    "title": "Federal Appeals Court Says California Open-Carry Ban Is Unconstitutional",
-    "link": "https://www.nytimes.com/2026/01/02/us/ninth-circuit-california-gun-law.html",
-    "summary": "A Ninth Circuit panel said the ban ran afoul of a 2022 Supreme Court ruling that required courts to evaluate gun laws based on the country’s “historical tradition of firearm regulation.”"
+    "title": "Richard Pollak, 91, Dies; Edited Magazine That Criticized the Media",
+    "link": "https://www.nytimes.com/2026/01/02/business/media/richard-pollak-dead.html",
+    "summary": "He was a founder of More, which skewered the foibles of the press in the 1970s, and later wrote a critical biography of the psychoanalyst Bruno Bettelheim."
+  },
+  {
+    "title": "Whales Are in Danger in N.Y. Waterways: ‘Like Deer Crossing the Road’",
+    "link": "https://www.nytimes.com/2026/01/03/nyregion/new-york-whales-threat-waterways.html",
+    "summary": "As conservation efforts make the waters in the New York region more inviting for whales, increasing traffic from ships and boats has contributed to a climbing number of strandings."
   }
 ]

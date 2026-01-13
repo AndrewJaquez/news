@@ -1,48 +1,8 @@
 [
   {
-    "title": "‘Shoot to Kill’: Accounts of Brutal Crackdown Emerge From Iran",
-    "link": "https://www.nytimes.com/2026/01/13/world/middleeast/iran-protester-deaths.html",
-    "summary": "The Iranian authorities have imposed an information blackout as they try to quell protests, but eyewitness testimony and videos conveying the deadly toll have made their way out."
-  },
-  {
-    "title": "Son of Deposed Shah of Iran Seeks Center Stage Amid Protests",
-    "link": "https://www.nytimes.com/2026/01/13/world/middleeast/iran-protests-shah-son-pahlavi.html",
-    "summary": "Reza Pahlavi, living in exile in the United States, has long marketed himself as a future leader of Iran. His father’s repressive legacy casts a long shadow."
-  },
-  {
-    "title": "Trump Explores Diplomacy With Iran While Weighing Strikes, Officials Say",
-    "link": "https://www.nytimes.com/2026/01/12/us/politics/trump-iran-options-diplomacy-strikes.html",
-    "summary": "The Pentagon is presenting a wider range of strike options to the president than previously reported. Targets could include Iran’s nuclear program and ballistic missile sites."
-  },
-  {
-    "title": "A Crisis in Iran",
-    "link": "https://www.nytimes.com/2026/01/13/briefing/a-crisis-in-iran.html",
-    "summary": "We take a look at the protests that have engulfed the streets of Iran."
-  },
-  {
-    "title": "Minnesota Sues to Stop Federal ‘Invasion,’ and Iranians Describe a ‘Blood Bath’",
-    "link": "https://www.nytimes.com/2026/01/13/podcasts/the-headlines/minnesota-trump-lawsuit-iran-protests.html",
-    "summary": "Plus, the rise of at-home medical tests."
-  },
-  {
-    "title": "The Quest to ‘Make America Fertile Again’ Stalls Under Trump",
-    "link": "https://www.nytimes.com/2026/01/13/us/politics/trump-birthrates-infertility.html",
-    "summary": "Administration officials have been urging Americans to get married and procreate, but some conservatives are frustrated by a lack of action."
-  },
-  {
-    "title": "Facing Political Pressure, Trump Seeks Answer to Rising Housing Costs",
-    "link": "https://www.nytimes.com/2026/01/13/us/politics/trump-housing-costs.html",
-    "summary": "White House officials have explored a vast array of ideas as the president looks to unfurl a housing affordability plan at an economic conference this month."
-  },
-  {
-    "title": "All the Things Named for Trump, and How Long Other Presidents Had to Wait",
-    "link": "https://www.nytimes.com/2026/01/13/upshot/trump-renaming-presidents-comparisons.html",
-    "summary": "In one highly self-referential year, he has broken with presidential norms on naming."
-  },
-  {
-    "title": "Labor Secretary’s Aides Placed on Leave in Misconduct Investigation",
-    "link": "https://www.nytimes.com/2026/01/12/business/lori-chavez-deremer-misconduct-investigation.html",
-    "summary": "The Labor Department is investigating a complaint alleging misconduct by Secretary Lori Chavez-DeRemer."
+    "title": "3 Prosecutors Quit After Push to Investigate ICE Shooting Victim’s Widow",
+    "link": "https://www.nytimes.com/2026/01/13/us/prosecutors-ice-shooting-renee-good.html",
+    "summary": "Joseph H. Thompson, a career federal prosecutor who was the acting U.S. attorney for Minnesota last year, quit after the Justice Department sought to examine the woman’s supposed ties to activist groups."
   },
   {
     "title": "FBI’s ICE Shooting Inquiry Examines Renee Good’s Possible Ties to Activist Groups",
@@ -55,24 +15,69 @@
     "summary": "President Trump suggested that Renee Good’s “highly disrespectful” attitude toward law enforcement played a role in her fatal shooting by an ICE agent."
   },
   {
-    "title": "Minnesota and Illinois Sue Trump Administration Over ICE Deployments",
-    "link": "https://www.nytimes.com/2026/01/12/us/minnesota-llinois-lawsuit-ice-trump-administration.html",
-    "summary": "The two Democratic-led states claimed in separate lawsuits that the immigration enforcement campaigns violated the Constitution."
+    "title": "Facing Contempt Threat, Clintons Refuse to Testify in Epstein Inquiry",
+    "link": "https://www.nytimes.com/2026/01/13/us/politics/bill-hillary-clinton-testimony-epstein-inquiry-contempt.html",
+    "summary": "The couple escalated their battle with Representative James R. Comer, the chairman of the Oversight Committee, who said he would move to hold them in contempt of Congress."
   },
   {
-    "title": "’Shrooms Lead the Pack in Psychedelic Medicine, but Rollout Is Bumpy",
-    "link": "https://www.nytimes.com/2026/01/13/health/shrooms-lead-the-pack-in-psychedelic-medicine-but-rollout-is-bumpy.html",
-    "summary": "Psilocybin-assisted therapy is legal in three states, but access has so far been limited and expensive."
+    "title": "As Iran’s Government Tries to Quell Protests, Accounts of Brutal Crackdown Emerge",
+    "link": "https://www.nytimes.com/2026/01/13/world/middleeast/iran-protester-deaths.html",
+    "summary": "As many as 3,000 feared dead as witnesses describe government forces firing on unarmed protesters."
+  },
+  {
+    "title": "Trump Urges Antigovernment Protesters in Iran to ‘Take Over’",
+    "link": "https://www.nytimes.com/2026/01/13/world/middleeast/trump-iran-antigovernment-protests.html",
+    "summary": "“HELP IS ON ITS WAY,” President Trump said on social media. He has threatened to intervene militarily on behalf of the protesters if Iran uses lethal force."
+  },
+  {
+    "title": "Son of Deposed Shah of Iran Seeks Center Stage Amid Protests",
+    "link": "https://www.nytimes.com/2026/01/13/world/middleeast/iran-protests-shah-son-pahlavi.html",
+    "summary": "Reza Pahlavi, living in exile in the United States, has long marketed himself as a future leader of Iran. His father’s repressive legacy casts a long shadow."
+  },
+  {
+    "title": "That Restaurant You Love Will Close One Day. What to Do?",
+    "link": "https://www.nytimes.com/2026/01/13/dining/favorite-restaurants-closing-visits.html",
+    "summary": "Beloved places to dine out are portals to past versions of ourselves. But they keep disappearing."
+  },
+  {
+    "title": "CPI Report Shows Inflation Remained Steady at 2.7% in December",
+    "link": "https://www.nytimes.com/2026/01/13/business/economy/inflation.html",
+    "summary": "Surging grocery prices were offset by lower increases for appliances and vehicles in the last such report before the Federal Reserve meets to debate interest rates."
+  },
+  {
+    "title": "CPI Report Shows Food Prices Rose Sharply in December",
+    "link": "https://www.nytimes.com/2026/01/13/business/economy/inflation-cpi-report-food-prices.html",
+    "summary": "Beef, coffee and produce were among the items that surged in price, inflation data showed."
+  },
+  {
+    "title": "Initial Obamacare Enrollment Drops by 1.4 Million as Expiring ACA Subsidies Drive Up Premiums",
+    "link": "https://www.nytimes.com/2026/01/13/health/obamacare-enrollment-decrease-subsidies.html",
+    "summary": "That number could increase significantly as more consumers are faced with higher bills brought on by expiring premium subsidies."
+  },
+  {
+    "title": "The House Republican Majority Is Down to Almost Nothing",
+    "link": "https://www.nytimes.com/2026/01/13/us/politics/congress-house-republicans-majority.html",
+    "summary": "Unexpected vacancies have whittled the G.O.P.’s edge to just a couple of votes, leaving Speaker Mike Johnson with almost no margin for leading the chamber."
+  },
+  {
+    "title": "Facing Political Pressure, Trump Seeks Answer to Rising Housing Costs",
+    "link": "https://www.nytimes.com/2026/01/13/us/politics/trump-housing-costs.html",
+    "summary": "White House officials have explored a vast array of ideas as the president looks to unfurl a housing affordability plan at an economic conference this month."
+  },
+  {
+    "title": "The Quest to ‘Make America Fertile Again’ Stalls Under Trump",
+    "link": "https://www.nytimes.com/2026/01/13/us/politics/trump-birthrates-infertility.html",
+    "summary": "Administration officials have been urging Americans to get married and procreate, but some conservatives are frustrated by a lack of action."
+  },
+  {
+    "title": "C. Thi Nguyen Explains Our Gamified World in His New Book, ‘The Score’",
+    "link": "https://www.nytimes.com/2026/01/13/books/review/why-keeping-score-isnt-fun-anymore.html",
+    "summary": "In a new book, C. Thi Nguyen looks to his personal passions — from video games to yo-yoing — to illuminate the downside of our increasingly gamified world."
   },
   {
     "title": "U.S. Attacked Boat With Aircraft That Looked Like a Civilian Plane",
     "link": "https://www.nytimes.com/2026/01/12/us/politics/us-boat-attacks-law.html",
     "summary": "Even accepting the Trump administration’s claim that there is an armed conflict with suspected drug runners, the laws of war bar “perfidy.”"
-  },
-  {
-    "title": "Trump’s Plans for Venezuelan Oil Run Headlong Into Reality",
-    "link": "https://www.nytimes.com/2026/01/12/us/politics/trump-venezuela-oil-dominance-influence.html",
-    "summary": "President Trump’s fixation on Venezuela’s oil raises the question of how much “energy dominance” is really worth nowadays."
   },
   {
     "title": "Venezuela’s Oil Riches Are Years Off, but Winners and Losers Will Emerge",
@@ -85,14 +90,24 @@
     "summary": "Her reimagining of “CBS Evening News” is under heavy scrutiny, and even became a punchline on her own network on Sunday at the Golden Globes."
   },
   {
-    "title": "U.S. Emissions Jumped in 2025 as Coal Power Rebounded",
-    "link": "https://www.nytimes.com/2026/01/13/climate/us-emissions-2025-coal-power.html",
-    "summary": "The increase in planet-warming emissions came after two years of decline as demand for electricity has been surging."
+    "title": "Scott Adams, Creator of the Satirical ‘Dilbert’ Comic Strip, Dies at 68",
+    "link": "https://www.nytimes.com/2026/01/13/arts/scott-adams-dead.html",
+    "summary": "His chronicles of a corporate cubicle dweller was widely distributed until racist comments on his podcast led newspapers to cut their ties with him."
   },
   {
-    "title": "Why China Is Suddenly Obsessed With American Poverty",
-    "link": "https://www.nytimes.com/2026/01/13/business/china-american-poverty.html",
-    "summary": "State media, embracing the gaming phrase “kill line,” is asserting China’s political superiority over the United States, deflecting focus on China’s own economic challenges."
+    "title": "China’s ‘Dr. Frankenstein’ Thinks Time Is on His Side",
+    "link": "https://www.nytimes.com/2026/01/13/world/asia/china-gene-edited-scientist-he-jiankui.html",
+    "summary": "He Jiankui spent three years in prison after creating gene-edited babies. Now back at work, he sees a greater opening for researchers who push boundaries."
+  },
+  {
+    "title": "Hochul’s State of the State Quandary: How Far to the Left Will She Lean?",
+    "link": "https://www.nytimes.com/2026/01/13/nyregion/hochul-state-address-speech.html",
+    "summary": "Gov. Kathy Hochul of New York is expected to adopt some of the affordability message of Mayor Zohran Mamdani of New York City as she faces a contested re-election bid."
+  },
+  {
+    "title": "A Governor’s Legacy: Fewer Shootings, Free College and Covid Deaths",
+    "link": "https://www.nytimes.com/2026/01/13/nyregion/phil-murphy-legacy-new-jersey-governor.html",
+    "summary": "After eight years as governor of New Jersey, Philip D. Murphy, a former ambassador to Germany and Goldman-Sachs executive, is leaving office. Mikie Sherrill will be sworn in on Jan. 20."
   },
   {
     "title": "What High School Seniors Wrote in Their College Admissions Essays",
@@ -110,43 +125,48 @@
     "summary": "The scammers at a vast office park in Myanmar wielded deepfake technology, doctored videos and pinpoint conversational ploys that differed by the ages and nationalities of their victims."
   },
   {
+    "title": "How Readers Voted on 17 Ways to Improve New York City",
+    "link": "https://www.nytimes.com/2026/01/13/arts/design/mamdani-improve-new-york-vote-results.html",
+    "summary": "The top suggestions include spending more of the city’s budget on parks and libraries and fixing the Brooklyn-Queens Expressway."
+  },
+  {
+    "title": "If Power Corrupts, What Do We Have Here?",
+    "link": "https://www.nytimes.com/2026/01/13/opinion/trump-presidential-power-addiction.html",
+    "summary": "Trump claims that the only limits on what he can do are his mind and his morality. What could go wrong?"
+  },
+  {
+    "title": "A.I. Is Real. But OpenAI Might Still Fail.",
+    "link": "https://www.nytimes.com/2026/01/13/opinion/openai-ai-bubble-financing.html",
+    "summary": "Artificial intelligence’s promise is real. But some of the most prominent A.I. companies might not make it."
+  },
+  {
+    "title": "Jon Stewart Skewers Trump as ‘Acting President of Venezuela’",
+    "link": "https://www.nytimes.com/2026/01/13/arts/television/late-night-trump-venezuela.html",
+    "summary": "“Doesn’t your oath of office to America have a noncompete?” the “Daily Show” host asked President Trump."
+  },
+  {
+    "title": "Ask The Morning: ICE and Deportations",
+    "link": "https://www.nytimes.com/2026/01/13/us/ask-the-morning-ice-and-deportations.html",
+    "summary": "Have questions about the Trump administration’s deportation efforts? We will try to find answers."
+  },
+  {
     "title": "Gavin Newsom Vows to Stop Proposed Billionaire Tax in California",
     "link": "https://www.nytimes.com/2026/01/13/us/newsom-billionaire-tax-california.html",
     "summary": "Gov. Gavin Newsom said he was working behind the scenes to block a proposed tax on billionaires’ wealth and was committed to defeating the measure if it reached the ballot."
   },
   {
-    "title": "Richard Marx Is No Softy",
-    "link": "https://www.nytimes.com/2026/01/12/arts/music/richard-marx-after-hours.html",
-    "summary": "The singer and songwriter who struck it big in the MTV era has a new take on the Great American Songbook — and a lot of wickedly funny revelations about his life."
+    "title": "Trump Says London is Unsafe. Its Murder Rate Just Hit a Historic Low.",
+    "link": "https://www.nytimes.com/2026/01/13/world/europe/trump-london-crime-homicide.html",
+    "summary": "The city’s homicide rate is lower than that of New York, Paris or Toronto, contradicting a narrative promoted by President Trump and others on the populist right."
   },
   {
-    "title": "Trump Has Declared Premature Victory in Venezuela",
-    "link": "https://www.nytimes.com/2026/01/13/opinion/trump-premature-victory-venezuela.html",
-    "summary": "Allowing the remnants of Maduro’s regime to retain authority, even temporarily, is a potentially catastrophic mistake."
+    "title": "Prosecutors Seek Death Penalty for Former South Korea President",
+    "link": "https://www.nytimes.com/2026/01/13/world/asia/south-korea-yoon-death-penalty.html",
+    "summary": "Former President Yoon Suk Yeol faces an insurrection​ charge after his failed attempt to put his country under martial law in 2024."
   },
   {
-    "title": "Can James Talarico Reclaim Christianity for the Left?",
-    "link": "https://www.nytimes.com/2026/01/13/opinion/ezra-klein-podcast-james-talarico.html",
-    "summary": "Ezra Klein and State Representative James Talarico of Texas discuss his faith, his politics and his Senate race."
-  },
-  {
-    "title": "Meta Plans to Cut 10% to 15% of Employees in Reality Labs Business",
-    "link": "https://www.nytimes.com/2026/01/12/technology/meta-layoffs-reality-labs.html",
-    "summary": "The layoffs are set to be announced this week and would affect Meta’s work on the metaverse, as the company spends heavily on building artificial intelligence."
-  },
-  {
-    "title": "The Sea Lions of the Galápagos Are Not Ready to Stop Nursing",
-    "link": "https://www.nytimes.com/2026/01/13/science/sea-lions-galapagos-nursing.html",
-    "summary": "Animals that researchers call “supersucklers” come back for their mother’s milk even after they can hunt, mate and fend for themselves."
-  },
-  {
-    "title": "Elle Simone Scott, Chef and Cooking Show Stalwart, Dies at 49",
-    "link": "https://www.nytimes.com/2026/01/12/dining/elle-simone-scott-dead.html",
-    "summary": "She was the first Black cast member on the PBS show “America’s Test Kitchen,” and used her influence to help other female chefs of color."
-  },
-  {
-    "title": "Synagogue Is Vandalized Days After Anniversary of L.A. Wildfire That Leveled It",
-    "link": "https://www.nytimes.com/2026/01/12/us/pasadena-synagogue-vandalized.html",
-    "summary": "Graffiti denouncing Zionism was discovered Sunday on a wall of the campus, which has not yet been rebuilt after the Eaton fire."
+    "title": "Gourmet Magazine Is Back. It’s Not Exactly Sanctioned.",
+    "link": "https://www.nytimes.com/2026/01/13/business/media/gourmet-magazine-newsletter.html",
+    "summary": "The defunct food publication is re-emerging as a newsletter, with new leadership and zero approval from its original owner."
   }
 ]

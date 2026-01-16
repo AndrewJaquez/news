@@ -1,8 +1,18 @@
 [
   {
+    "title": "Emergency Call Transcripts Record a Crisis Unfolding in Real Time",
+    "link": "https://www.nytimes.com/2026/01/16/us/911-calls-minneapolis-ice-shooting.html",
+    "summary": "The killing of Renee Good by an ICE agent was instantly reported to the Minneapolis Police. The calls reflect shock, fury and confusion."
+  },
+  {
     "title": "Video Analysis of ICE Shooting Sheds Light on Contested Moments",
     "link": "https://www.nytimes.com/2026/01/15/video/ice-shooting-renee-good-minneapolis-videos.html",
-    "summary": "Newly available videos and existing footage synchronized and assessed by The Times provides a millisecond by millisecond look at how an ICE officer ended up shooting and killing a motorist in Minneapolis."
+    "summary": "Newly available videos and existing footage synchronized and assessed by The Times provide a millisecond-by-millisecond look at how an ICE officer ended up shooting and killing a motorist in Minneapolis."
+  },
+  {
+    "title": "Renee Good Was Concerned About ICE, a Lawyer Says, but Wasn’t Following Agents",
+    "link": "https://www.nytimes.com/2026/01/16/us/renee-good-minneapolis-ice-lawyer-interview.html",
+    "summary": "A lawyer for Ms. Good’s family said she and her partner had encountered agents after school drop-off. Minutes later, she was dead."
   },
   {
     "title": "Was Renee Good Obligated to Comply With an ICE Agent’s Orders?",
@@ -10,14 +20,34 @@
     "summary": "The agent told Ms. Good to get out of her car before she was fatally shot. Legal experts said immigration agents may sometimes, but not always, have the authority to make such commands."
   },
   {
-    "title": "Did a Supreme Court Loss Embolden Trump on the Insurrection Act?",
-    "link": "https://www.nytimes.com/2026/01/15/us/politics/supreme-court-trump-insurrection-act.html",
-    "summary": "In refusing to let the president deploy National Guard troops in Illinois under an obscure law, the justices may have made him more apt to invoke greater powers."
-  },
-  {
     "title": "U.S. Says It Erred in Deporting Student Traveling for Thanksgiving",
     "link": "https://www.nytimes.com/2026/01/15/us/politics/trump-deportation-student-traveling-thanksgiving.html",
     "summary": "The Trump administration acknowledged it mistakenly deported a college student to Honduras despite a court order barring the removal. But the government has not moved to drop the case."
+  },
+  {
+    "title": "Trump Threatens to Invoke Insurrection Act, and Grocery Prices Keep Going Up",
+    "link": "https://www.nytimes.com/2026/01/16/podcasts/the-headlines/trump-insurrection-act-grocery-prices.html",
+    "summary": "Plus, your Friday news quiz."
+  },
+  {
+    "title": "Trump Wants to Halt Almost All Coal Plant Shutdowns. It Could Get Messy.",
+    "link": "https://www.nytimes.com/2026/01/16/climate/trump-coal-plants.html",
+    "summary": "Even as administration officials vowed this week to head off scheduled retirements, some aging plants are now breaking, and costs could run to the billions."
+  },
+  {
+    "title": "Stock Investors’ Strategy for 2026:‘Don’t Fight the White House’",
+    "link": "https://www.nytimes.com/2026/01/16/business/stock-market-trump-policy.html",
+    "summary": "From oil drillers to credit card companies, President Trump has been a market mover this year."
+  },
+  {
+    "title": "Taiwan Reaches Trade Deal With Trump and Pledges More U.S. Chip Factories",
+    "link": "https://www.nytimes.com/2026/01/15/business/taiwan-trade-deal.html",
+    "summary": "The Trump administration agreed to lower tariffs on Taiwanese goods, while Taiwan said it would invest more in U.S. manufacturing."
+  },
+  {
+    "title": "Canada Breaks With U.S. to Slash Tariffs on Some Chinese Electric Vehicles",
+    "link": "https://www.nytimes.com/2026/01/16/world/canada/canada-slash-tariffs-chinese-evs.html",
+    "summary": "China will in turn cut its own tariffs on Canadian canola products, Prime Minister Mark Carney of Canada said in Beijing on Friday."
   },
   {
     "title": "Machado Presents Trump With Nobel Peace Prize",
@@ -25,19 +55,29 @@
     "summary": "The Venezuelan opposition leader’s efforts to share her award with the U.S. president have shaken some Norwegians’ faith in their signature soft-power tool."
   },
   {
-    "title": "Venezuela’s Interim Leader Delivers State of the Union Address",
-    "link": "https://www.nytimes.com/2026/01/15/world/americas/venezuela-rodriguez-maduro-trump.html",
-    "summary": "In her State of the Union address, Delcy Rodríguez echoed her predecessors’ fiery rhetoric but tried to hew to President Trump’s agenda."
+    "title": "C.I.A. Director Meets With Venezuela’s Interim President in Caracas",
+    "link": "https://www.nytimes.com/2026/01/16/us/politics/cia-director-ratcliffe-venezuela.html",
+    "summary": "The high-profile visit, which could be seen as snubbing the opposition, comes nearly two weeks after the U.S. military seized President Nicolás Maduro in a raid."
   },
   {
-    "title": "U.S. Forces Seize Sixth Oil Tanker Linked to Venezuela",
-    "link": "https://www.nytimes.com/2026/01/15/us/politics/oil-tanker-seized-venezuela.html",
-    "summary": "The Coast Guard boarded and seized the Russian-flagged tanker, originally named Veronica, in a pre-dawn operation in the Caribbean Sea."
+    "title": "Trump Chooses Venezuela’s Oil Over Democracy",
+    "link": "https://www.nytimes.com/2026/01/16/world/americas/venezuela-trump-machado-rodriguez.html",
+    "summary": "Two conversations this week confirmed that President Trump backs the remnants of Nicolás Maduro’s regime over the Venezuelan opposition seeking to hold elections."
+  },
+  {
+    "title": "After Trump Call, Colombia’s Petro Turns Up Heat on Far-Left Armed Group",
+    "link": "https://www.nytimes.com/2026/01/16/world/americas/trump-petro-colombia-eln-cocaine.html",
+    "summary": "President Gustavo Petro is taking a harder line against the National Liberation Army, or ELN, a leftist revolutionary group that experts call a powerful drug trafficker in Colombia and Venezuela."
   },
   {
     "title": "Battles Over Truth Rage Online Amid Iran’s Internet Blackout",
-    "link": "https://www.nytimes.com/2026/01/16/business/battles-over-truth-rage-online-amid-irans-internet-blackout.html",
+    "link": "https://www.nytimes.com/2026/01/16/business/iran-internet-blackout-protests-disinformation.html",
     "summary": "The shutdown of online discourse within Iran has allowed both the government and its critics to flood social media outside the country with disinformation campaigns and fake images."
+  },
+  {
+    "title": "Iran Has Had Protests Before. Will This Time Be Different?",
+    "link": "https://www.nytimes.com/2026/01/16/world/middleeast/iran-protests-regime-change.html",
+    "summary": "Understanding the factors that can topple regimes."
   },
   {
     "title": "How Activists in Iran Are Using Starlink to Stay Online",
@@ -45,34 +85,34 @@
     "summary": "Activists spent years preparing for a communications blackout in Iran, smuggling in Starlink satellite internet systems and making digital shutdowns harder for the authorities to enforce."
   },
   {
-    "title": "Israel and Arab Nations Ask Trump to Refrain From Attacking Iran",
-    "link": "https://www.nytimes.com/2026/01/15/us/politics/trump-iran-israel-us.html",
-    "summary": "Prime Minister Benjamin Netanyahu of Israel asked the president to postpone any planned attack. Israeli and Arab officials fear Iran could retaliate by striking their countries."
-  },
-  {
     "title": "Many Fiery Remarks, Little Clarity on What’s Next at Security Council Meeting on Iran",
     "link": "https://www.nytimes.com/2026/01/15/world/middleeast/iran-protests-security-council.html",
     "summary": "Iran’s representative denied the country had killed protesters, as the U.S. ambassador said President Trump had made clear “all options are on the table” to stop the killing."
   },
   {
-    "title": "Taiwan Strikes Trade Deal with Trump, Vows More U.S. Chip Factories",
-    "link": "https://www.nytimes.com/2026/01/15/business/taiwan-trade-deal.html",
-    "summary": "The United States agreed to lower tariffs on Taiwanese goods from 20 to 15 percent, while Taiwan says it will invest in more chip manufacturing in the U.S."
+    "title": "‘A Knight of the Seven Kingdoms': ‘Game of Thrones’ Goes Small-Scale",
+    "link": "https://www.nytimes.com/2026/01/16/arts/television/knight-of-the-seven-kingdoms.html",
+    "summary": "With no dragons and no warring dynasties, HBO’s “A Knight of the Seven Kingdoms” is the first test of whether the “Thrones” formula works on a human scale."
   },
   {
-    "title": "Trump Administration Lawsuit Seeking California Voter Data Is Dismissed",
-    "link": "https://www.nytimes.com/2026/01/15/us/california-voter-roll-lawsuit-trump.html",
-    "summary": "The Justice Department has sued about two dozen states over access to voter rolls, as the federal government pushes to create a national database."
+    "title": "Ted Sarandos Says Critics Just Misunderstand Netflix",
+    "link": "https://www.nytimes.com/2026/01/16/business/media/ted-sarandos-netflix.html",
+    "summary": "The company’s co-chief executive sat down for an extensive interview for the first time since announcing plans to buy Warner Bros. Discovery’s film and TV business."
   },
   {
-    "title": "What Did the White House and Denmark Agree to on Greenland? Depends Whom You Ask.",
-    "link": "https://www.nytimes.com/2026/01/15/us/politics/white-house-greenland-meeting.html",
-    "summary": "The White House and Denmark contradicted each other in public about what they had agreed to this week as President Trump continued to demand U.S. ownership of Greenland."
+    "title": "Antiwar Russians in Europe Learn That They Must Watch Their Words",
+    "link": "https://www.nytimes.com/2026/01/16/world/europe/leonid-volkov-lithuania.html",
+    "summary": "A backlash over a rant against Ukrainian officials has raised questions about Eastern Europe’s welcome of Russian dissidents."
   },
   {
-    "title": "Pentagon Will ‘Refocus’ Military Publication Stars and Stripes",
-    "link": "https://www.nytimes.com/2026/01/15/us/politics/stars-and-stripes-pentagon.html",
-    "summary": "The agency’s chief spokesman outlined plans to intervene in the previously independent newspaper’s coverage."
+    "title": "What Happened to London Breed, the Former San Francisco Mayor?",
+    "link": "https://www.nytimes.com/2026/01/16/us/london-breed-san-francisco-mayor-job.html",
+    "summary": "London Breed has said little in the year since she left office. She has thoughts on the praise that the current mayor, Daniel Lurie, has received."
+  },
+  {
+    "title": "Virginia Poised to Redraw House Maps That Could Set Democrats Up for a Win",
+    "link": "https://www.nytimes.com/2026/01/16/us/virginia-house-democrats-congressional-maps.html",
+    "summary": "A vote by the state senate on Friday could send an amendment to voters that, if approved, would allow the legislature to gerrymander the state."
   },
   {
     "title": "Former Senator Kyrsten Sinema Accused of Affair With Member of Security Team",
@@ -80,73 +120,68 @@
     "summary": "In a lawsuit, the ex-wife of Ms. Sinema’s onetime staff member accused her of showering him with gifts and breaking up their marriage."
   },
   {
-    "title": "None of Mamdani’s Deputy Mayors Are Black. It Has Become a Problem.",
-    "link": "https://www.nytimes.com/2026/01/15/nyregion/mamdani-black-latino-diversity.html",
-    "summary": "Some Black and Latino leaders worry they are being denied access to power under Mayor Zohran Mamdani and that they may lose the ground they had gained under former Mayor Eric Adams."
+    "title": "Trump’s Fight With Minnesota Is About More Than Immigration",
+    "link": "https://www.nytimes.com/2026/01/16/magazine/minnesota-liberalism-trump-ice.html",
+    "summary": "The state embodies a civic ideal that the administration in Washington wants to discredit."
   },
   {
-    "title": "Number of Businesses in New York City Plunged Last Spring, Report Says",
-    "link": "https://www.nytimes.com/2026/01/15/nyregion/business-closures-nyc-economy.html",
-    "summary": "Roughly 8,400 businesses closed in the second quarter of 2025, according to the most recent city data, creating the largest net decline in business activity since before the pandemic."
+    "title": "Nurses Describe Fear on the Job as Bitter Strike Enters Fifth Day",
+    "link": "https://www.nytimes.com/2026/01/16/nyregion/nyc-nurses-strike-negotiations-safety.html",
+    "summary": "Both sides in the labor dispute appear poised for a protracted battle, and only one of three hospitals was negotiating with the strikers."
   },
   {
-    "title": "Nydia Velázquez Gives Mamdani a Warning as She Endorses a Successor",
-    "link": "https://www.nytimes.com/2026/01/15/nyregion/nydia-velazquez-antonio-reynoso-mamdani.html",
-    "summary": "The veteran congresswoman said she would like Antonio Reynoso, the Brooklyn borough president, to replace her after she retires. She also said the mayor should stay out of political races."
+    "title": "Ex-South Korean Leader Gets Prison Term in First Ruling Over Martial Law",
+    "link": "https://www.nytimes.com/2026/01/16/world/asia/south-korea-yoon-prison-martial-law.html",
+    "summary": "A court handed down five years in prison to former President Yoon Suk Yeol, who is facing multiple trials stemming from his short-lived imposition of martial law."
   },
   {
-    "title": "Why Trump Always Thanks You ‘For Your Attention to This Matter’",
-    "link": "https://www.nytimes.com/2026/01/15/books/review/trump-thank-you-for-your-attention-to-this-matter.html",
-    "summary": "How a simple catchphrase sums up the president’s theory of executive power."
+    "title": "N.Y.C. Council Leader Takes on Antisemitism, and Possibly Mamdani",
+    "link": "https://www.nytimes.com/2026/01/16/nyregion/julie-menin-antisemitism-mamdani.html",
+    "summary": "The Council speaker, Julie Menin, will introduce bills that would establish a buffer zone at houses of worship to keep protesters at some distance from congregants."
   },
   {
-    "title": "Uber’s Quest to Crack Japan Leads Through a Rural Hot-Springs Town",
-    "link": "https://www.nytimes.com/2026/01/16/business/uber-japan-dara-khosrowshahi.html",
-    "summary": "The ride-hailing giant’s chief executive has made a bet on how it can finally grab a bigger piece of one of the world’s largest taxi markets."
+    "title": "ASAP Rocky Grew Up, Settled Down (with Rihanna) and Returned to Rap",
+    "link": "https://www.nytimes.com/2026/01/16/arts/music/asap-rocky-interview-popcast.html",
+    "summary": "The artist reflects on how the chaotic eight years since his last release — including three kids and two trials — led to his latest album, “Don’t Be Dumb.”"
   },
   {
-    "title": "Nick Reiner Was in a Mental Health Conservatorship in 2020",
-    "link": "https://www.nytimes.com/2026/01/15/us/nick-reiner-conservatorship-schizophrenia.html",
-    "summary": "Mr. Reiner, who is accused of killing his parents, was under a yearlong legal arrangement that allows for involuntary psychiatric treatment."
+    "title": "Dear Trump, Buying Greenland Is a Bad Idea",
+    "link": "https://www.nytimes.com/2026/01/16/opinion/greenland-denmark-trump-history.html",
+    "summary": "Trump wants Greenland? Its previous colonizer has some thoughts."
   },
   {
-    "title": "The Truth About Weight-Loss Drugs Like Ozempic: You Probably Need Them Forever",
-    "link": "https://www.nytimes.com/2026/01/15/well/weight-loss-drugs-ozempic-wegovy.html",
-    "summary": "Many people who use these medications don’t want to stay on them long term. But research has repeatedly shown that quitting the drugs means gaining back weight."
+    "title": "The Right Is Furious With Liberal White Women",
+    "link": "https://www.nytimes.com/2026/01/16/opinion/republicans-ice-white-women.html",
+    "summary": "In the MAGA imagination, white women are supposed to be helpmeets, not harpies."
   },
   {
-    "title": "Iran’s Regime Is Losing Its Greatest Weapon: Fear",
-    "link": "https://www.nytimes.com/2026/01/16/opinion/iran-fear-demonstrations-islamic-republic.html",
-    "summary": "The bulwark of Iranian oppression is fear. The latest round of demonstrations shows it has been breached."
+    "title": "Where Scams Come From",
+    "link": "https://www.nytimes.com/2026/01/16/briefing/where-scams-come-from.html",
+    "summary": "We take a look at some remarkable reporting from Myanmar."
   },
   {
-    "title": "2 Polling Experts on How the ICE Shooting Is More Trouble for Trump",
-    "link": "https://www.nytimes.com/2026/01/15/opinion/ice-shooting-trump-republicans-polling.html",
-    "summary": "The general sense of the world being chaotic does not necessarily help Trump."
+    "title": "Seth Meyers Never Guessed Trump Was Such a Milk Fan",
+    "link": "https://www.nytimes.com/2026/01/16/arts/television/late-night-trump-milk.html",
+    "summary": "The “Late Night” host said there was no way President Trump drank milk, “unless someone tricked you into thinking your Diet Coke came from a cow.”"
   },
   {
-    "title": "Trump Threatened to Send the Military to Minneapolis",
-    "link": "https://www.nytimes.com/2026/01/15/briefing/trump-insurrection-act-longevity-sports.html",
-    "summary": "Also, Israel and Arab countries asked the U.S. not to attack Iran. Here’s the latest at the end of Thursday."
+    "title": "What Did the White House and Denmark Agree to on Greenland? It Depends Whom You Ask.",
+    "link": "https://www.nytimes.com/2026/01/15/us/politics/white-house-greenland-meeting.html",
+    "summary": "The White House and Denmark contradicted each other in public about what they had agreed to this week as President Trump continued to demand U.S. ownership of Greenland."
   },
   {
-    "title": "Hesitant to Visit the U.S. for the World Cup? We Want to Hear From You.",
-    "link": "https://www.nytimes.com/2026/01/15/travel/world-cup-2026-fans.html",
-    "summary": "International soccer fans face hurdles like travel bans, long visa delays and high ticket prices for U.S. matches. Will they be enough to keep you away?"
+    "title": "Cold and Snow Forecast Across the East Coast This Weekend",
+    "link": "https://www.nytimes.com/2026/01/16/weather/snow-cold-forecast-us-south.html",
+    "summary": "Abnormally blustery temperatures this weekend could usher in snowy weather across the East. Exactly where remains uncertain, but even the Deep South is on alert."
   },
   {
-    "title": "Alexander Brothers Accuser Was Found Dead Last Year, Authorities Say",
-    "link": "https://www.nytimes.com/2026/01/15/nyregion/kate-whiteman-alexander-brothers.html",
-    "summary": "The death of Kate Whiteman, whose accusation of sexual assault against Oren and Alon Alexander opened a floodgate of similar allegations, is under investigation."
+    "title": "Florida Corporal Handcuffs a Runaway Emu After a 45-Minute Chase",
+    "link": "https://www.nytimes.com/2026/01/15/us/runaway-emu-florida-video.html",
+    "summary": "A corporal in St. Johns County had responded to what he thought would be a straightforward call about an animal on the loose. Nearly an hour later, he was putting handcuffs on an emu named Tina."
   },
   {
-    "title": "Leonard D. Jacoby, 83, Dies; Brought Legal Services to the Masses",
-    "link": "https://www.nytimes.com/2026/01/15/business/leonard-d-jacoby-dead.html",
-    "summary": "He and Steven Z. Meyers opened their first low-cost legal clinic in 1972. Within a decade, they had revolutionized the legal industry, and Jacoby & Meyers had become a widely known brand."
-  },
-  {
-    "title": "California’s Pacific Coast Highway Fully Reopens After Three Years",
-    "link": "https://www.nytimes.com/2026/01/15/us/pacific-coast-highway-reopened.html",
-    "summary": "The famed highway reopened this week after consecutive landslides shuttered two sections of the road in Big Sur and forced major repairs."
+    "title": "If the Volcanic Eruption Doesn’t Scare You, the Mudflow Should",
+    "link": "https://www.nytimes.com/2026/01/16/science/mount-rainier-lahar-mudflow.html",
+    "summary": "Studying tree rings helped scientists pinpoint when Mount Rainier last sent a lahar down its steep slopes, which could help planners anticipate future mudflows."
   }
 ]

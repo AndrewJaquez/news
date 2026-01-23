@@ -1,8 +1,68 @@
 [
   {
+    "title": "‘Enough Is Enough’: Hundreds of Minnesota Businesses Take Stand Against ICE",
+    "link": "https://www.nytimes.com/2026/01/23/us/minnesota-businesses-protest-ice.html",
+    "summary": "After protesters called for a pause on economic activity and work to strike against the federal immigration crackdown, many business owners won’t open their doors on Friday."
+  },
+  {
+    "title": "Voters Are Split on Deportations but Disapprove of ICE, Poll Finds",
+    "link": "https://www.nytimes.com/2026/01/23/us/politics/poll-ice-immigration.html",
+    "summary": "While roughly half of voters support President Trump’s handling of the border between the United States and Mexico, a sizable majority says that ICE’s tactics have “gone too far.”"
+  },
+  {
+    "title": "D.H.S. Cited Foreign Students’ Writings and Protests Before Their Arrests",
+    "link": "https://www.nytimes.com/2026/01/22/us/politics/trump-rubio-student-speech.html",
+    "summary": "Documents unsealed by a federal judge on Thursday include dossiers that investigators prepared on pro-Palestinian student activists before they were targeted for deportation."
+  },
+  {
+    "title": "White House Posts Altered Photo Showing Arrested Minnesota Protester Crying",
+    "link": "https://www.nytimes.com/2026/01/22/us/politics/nekima-armstrong-photo-white-house.html",
+    "summary": "The New York Times ran the image posted by Kristi Noem, the homeland security secretary, as well as the one posted by the White House through an A.I. detection system. It concluded that the White House’s version showed signs of manipulation."
+  },
+  {
+    "title": "3 Things to Know About the TikTok Deal, and a New Protest Tactic in Minnesota",
+    "link": "https://www.nytimes.com/2026/01/23/podcasts/the-headlines/tiktok-deal-new-protest-tactic-in-minnesota.html",
+    "summary": "Plus, your Friday news quiz."
+  },
+  {
+    "title": "Trump Rescinds Canada’s Invitation to Join His ‘Board of Peace’",
+    "link": "https://www.nytimes.com/2026/01/23/us/politics/trump-carney-canada-board-peace.html",
+    "summary": "The president appeared to be lashing out in response to stark, high-profile remarks by Prime Minister Mark Carney of Canada that rejected Mr. Trump’s efforts to dismantle the international order."
+  },
+  {
+    "title": "Europe’s Leaders Scramble to Find a Path Forward With Trump",
+    "link": "https://www.nytimes.com/2026/01/22/us/politics/europe-trump-greenland-tariffs-eu-meeting.html",
+    "summary": "Leaders from across the European Union held an emergency summit in Brussels to discuss Greenland and, more broadly, their fragile relationship with America."
+  },
+  {
+    "title": "Winter Storm Forecast: 5 Key Things to Know Across the US",
+    "link": "https://www.nytimes.com/2026/01/23/weather/winter-storm-ice-snow-forecast.html",
+    "summary": "Here are five key things to know about the forecast."
+  },
+  {
+    "title": "Storm Poses Big Threats to Power Grids Across U.S.",
+    "link": "https://www.nytimes.com/2026/01/23/business/energy-environment/storm-power-outage.html",
+    "summary": "Managers of electric grids say freezing temperatures and ice and snow could lead to power outages in many places, potentially leaving millions in the dark."
+  },
+  {
+    "title": "New York City Could Get a Foot of Snow. Mamdani Knows It’s a Test.",
+    "link": "https://www.nytimes.com/2026/01/23/nyregion/mamdani-snow-nyc.html",
+    "summary": "Plenty of New York City mayors have faced blowback over their handling of blizzards. In several appearances this week, Mayor Zohran Mamdani has sought to show he is prepared."
+  },
+  {
+    "title": "Driving in Winter? Follow These Expert Tips to Arrive Safely.",
+    "link": "https://www.nytimes.com/2026/01/22/us/safe-winter-driving-tips.html",
+    "summary": "A storm is expected to bring hazardous driving conditions to much of the United States this weekend. Stay home if you can, but those who must travel should take it slow."
+  },
+  {
     "title": "TikTok Strikes Deal to Create New U.S. Entity and Loosen App’s Ties to China",
     "link": "https://www.nytimes.com/2026/01/22/technology/tiktok-deal-oracle-bytedance-china-us.html",
     "summary": "The Chinese parent company of the popular video app said a group of non-Chinese investors would create an American TikTok to avoid a federal ban."
+  },
+  {
+    "title": "After TikTok Deal, Chinese Firms Search for a New Global Path",
+    "link": "https://www.nytimes.com/2026/01/23/business/tiktok-china-technology.html",
+    "summary": "Chinese firms must contend with geopolitical tensions and mistrust to do business in the United States. Some are choosing to avoid the U.S. altogether."
   },
   {
     "title": "Here’s Who Just Bought TikTok",
@@ -15,6 +75,11 @@
     "summary": "The popular short form video app has a new corporate structure in the United States, which could result in some changes for the 200 million Americans who use TikTok."
   },
   {
+    "title": "As Iran Grieves, Accounts Emerge of Disrespectful Treatment of Protest Victims",
+    "link": "https://www.nytimes.com/2026/01/23/world/middleeast/iran-protests-victims-bodies.html",
+    "summary": "Witness testimony and videos from Tehran’s largest cemetery show disrespectful treatment of the dead after a brutal government crackdown."
+  },
+  {
     "title": "Jack Smith Testifies in House Hearing About Trump Investigations",
     "link": "https://www.nytimes.com/2026/01/22/us/politics/jack-smith-trump-testimony-congress.html",
     "summary": "The former special prosecutor argued a case he was never allowed to in court: that President Trump “engaged in criminal activity” that undermined democracy."
@@ -25,109 +90,49 @@
     "summary": "In his remarks, the former special counsel repeatedly denied that he had acted out of partisan animus and bemoaned the Trump administration’s efforts to go after the president’s perceived enemies."
   },
   {
-    "title": "D.H.S. Cited Foreign Students’ Writings and Protests Before Their Arrests",
-    "link": "https://www.nytimes.com/2026/01/22/us/politics/trump-rubio-student-speech.html",
-    "summary": "Documents unsealed by a federal judge on Thursday include dossiers that investigators prepared on pro-Palestinian student activists before they were targeted for deportation."
+    "title": "Ukrainian, Russian and U.S. Officials to Meet in Abu Dhabi for Peace Talks",
+    "link": "https://www.nytimes.com/2026/01/23/world/europe/ukraine-russia-war-us-peace-talks-abu-dhabi.html",
+    "summary": "Ukrainian and Russian negotiators have rarely met directly in the past, instead relying on Americans to mediate, and it was unclear how the talks would play out."
   },
   {
-    "title": "Immigration Agents Detain 5-Year-Old Boy in Minnesota, Prompting Outrage",
-    "link": "https://www.nytimes.com/2026/01/22/us/liam-detention-ice-minneapolis.html",
-    "summary": "A photo showed a boy with an oversized hat and Spider-Man backpack being held next to a vehicle as his father was detained. A Homeland Security spokeswoman said the man had fled and left the child."
+    "title": "Increased Scrutiny Leads to an Improved Organ Transplant System",
+    "link": "https://www.nytimes.com/2026/01/23/us/organ-donation.html",
+    "summary": "A crackdown on problems with fairness and safety is achieving results, including a big drop in the number of sick patients being passed over for transplants."
   },
   {
-    "title": "Chicago Jury Acquits Immigrant Accused in Bovino Murder-for-Hire Trial",
-    "link": "https://www.nytimes.com/2026/01/22/us/gregory-bovino-murder-chicago-trial.html",
-    "summary": "Prosecutors said a Chicago carpenter had offered a bounty for killing Gregory Bovino, a Border Patrol official. Defense lawyers said he was just sharing a social media post."
+    "title": "Peru’s President May Be Ousted Over Secret Meetings with Chinese Businessmen",
+    "link": "https://www.nytimes.com/2026/01/23/world/americas/peru-president-chinese-businessmen-meetings.html",
+    "summary": "Leaked videos have prompted a scandal involving President José Jerí and two Chinese men under investigation."
   },
   {
-    "title": "White House Posts Altered Photo Showing Arrested Minnesota Protester Crying",
-    "link": "https://www.nytimes.com/2026/01/22/us/politics/nekima-armstrong-photo-white-house.html",
-    "summary": "The New York Times ran the image posted by Kristi Noem, the homeland security secretary, as well as the one posted by the White House through an A.I. detection system. It concluded that the White House’s version showed signs of manipulation."
+    "title": "After Pleas From Mamdani and Hochul, Talks Resume in Nurses’ Strike",
+    "link": "https://www.nytimes.com/2026/01/23/nyregion/nyc-nurses-strike-mamdani-hochul.html",
+    "summary": "Nearly 15,000 health care workers in New York have been off the job since last week in a labor action affecting some of the city’s major hospitals."
   },
   {
-    "title": "Trump Rescinds Canada’s Invitation to Join His ‘Board of Peace’",
-    "link": "https://www.nytimes.com/2026/01/23/us/politics/trump-carney-canada-board-peace.html",
-    "summary": "The president appeared to be lashing out in response to stark, high-profile remarks by Prime Minister Mark Carney of Canada that rejected Mr. Trump’s efforts to dismantle the international order."
+    "title": "Days Before His Suicide, Hemingway’s Hopeful Note to Sister Immaculata",
+    "link": "https://www.nytimes.com/2026/01/23/arts/hemingway-book-nobel-sister-immaculata.html",
+    "summary": "In 1961, the author inscribed a book for the sister, a nurse who cared for him at the Mayo Clinic. Her copy of “The Old Man and the Sea” is being donated to the Nobel Museum."
   },
   {
-    "title": "Nazis, Soviets and Trump: America’s Fixation With Greenland",
-    "link": "https://www.nytimes.com/2026/01/22/us/politics/greenland-trump-cold-war.html",
-    "summary": "The idea that Greenland is essential to the United States has returned with a vengeance in the Trump era."
+    "title": "The Trump Crackup",
+    "link": "https://www.nytimes.com/2026/01/23/opinion/trump-authoritarian-power.html",
+    "summary": "Events are being propelled by one man’s damaged psyche."
   },
   {
-    "title": "Why Trump’s Reversal on Greenland Still Leaves Europe on Edge",
-    "link": "https://www.nytimes.com/video/business/economy/100000010656157/why-trumps-reversal-on-greenland-still-leaves-europe-on-edge.html",
-    "summary": "Andrew Ross Sorkin, editor at large of DealBook, describes how leaders at the World Economic Forum in Davos remain on edge after President Trump, for now, backed down from threats of using tariffs or military force to gain Greenland."
+    "title": "No One Should Be Afraid to Say That Jasmine Crockett Can’t Win",
+    "link": "https://www.nytimes.com/2026/01/23/opinion/jasmine-crockett-texas-win-las-culturistas.html",
+    "summary": "Progressives shouldn’t let a retrograde style of internet discourse inhibit them from pointing out the obvious."
   },
   {
-    "title": "Mark Carney Says Firmly That ‘Canada Doesn’t Live Because of the United States’",
-    "link": "https://www.nytimes.com/2026/01/22/world/canada/carney-trump-canada-speech.html",
-    "summary": "The Canadian prime minister spoke after returning from the World Economic Forum where he urged middle powers to team up in resisting President Trump."
+    "title": "A Big Storm",
+    "link": "https://www.nytimes.com/2026/01/23/briefing/a-big-storm.html",
+    "summary": "We explain what you can expect in the winter weather this week."
   },
   {
-    "title": "Zelensky Laces Into Europe, Saying It Must Step Up or Be Left Behind",
-    "link": "https://www.nytimes.com/2026/01/22/world/europe/davos-zelensky.html",
-    "summary": "The Ukrainian leader’s speech in Davos, Switzerland, was one of his most scathing critiques of his closest allies."
-  },
-  {
-    "title": "Are You Aging Well? 4 Simple Tests to Find Out.",
-    "link": "https://www.nytimes.com/2026/01/22/well/aging-tests-longevity.html",
-    "summary": "They can’t guarantee future health, but they can tell you the trajectory you’re on."
-  },
-  {
-    "title": "House Passes Spending Package Over Democratic Revolt on ICE",
-    "link": "https://www.nytimes.com/2026/01/22/us/politics/house-spending-package-ice.html",
-    "summary": "Approval of the package, which would fund a wide swath of government agencies, brings Congress closer to meeting a Jan. 30 funding deadline."
-  },
-  {
-    "title": "National Park Service Dismantles Slavery Exhibit in Philadelphia",
-    "link": "https://www.nytimes.com/2026/01/22/us/politics/park-service-philadelphia-slavery-exhibit.html",
-    "summary": "The exhibit memorialized nine people enslaved by George Washington. The Park Service said it was being removed in accordance with a directive from President Trump."
-  },
-  {
-    "title": "Trump to Expand ‘Mexico City’ Abortion Rule to Include D.E.I. and Gender",
-    "link": "https://www.nytimes.com/2026/01/22/us/politics/trump-mexico-city-policy-abortion-dei-gender.html",
-    "summary": "The policy has traditionally been aimed at keeping organizations that receive U.S. tax dollars from performing or promoting abortion as a method of family planning."
-  },
-  {
-    "title": "E.P.A. Revives Plan to End Testing on Animals by 2035",
-    "link": "https://www.nytimes.com/2026/01/22/climate/epa-animal-testing-ban.html",
-    "summary": "Lee Zeldin, the E.P.A. administrator, revived a plan created during the first Trump administration to end the testing of chemicals on mammals."
-  },
-  {
-    "title": "U.S. Winter Storm Forecast to Bring Menacing Mix of Snow, Ice and Cold",
-    "link": "https://www.nytimes.com/2026/01/22/weather/winter-storm-forecast-snow-ice.html",
-    "summary": "Half the U.S. population will likely see some effect from the sprawling storm that will move across the country this weekend, meteorologists said."
-  },
-  {
-    "title": "New York Could See Its Biggest Snowfall in Years",
-    "link": "https://www.nytimes.com/2026/01/22/weather/new-york-city-snow-forecast.html",
-    "summary": "The National Weather Service warned of “considerable disruption to transportation and daily life” from Sunday into Monday."
-  },
-  {
-    "title": "How a Major Winter Storm This Weekend Could Affect Your Travel Plans",
-    "link": "https://www.nytimes.com/2026/01/22/travel/winter-storm-travel-airlines.html",
-    "summary": "Ice, sleet and possibly significant snowfall are threatening to snarl travel in much of the eastern U.S. starting on Friday. Here’s what to know."
-  },
-  {
-    "title": "Why iPhone and Android Weather Apps Are Freaking Out About Winter Storm Forecasts",
-    "link": "https://www.nytimes.com/2026/01/22/weather/weather-apps-forecast-apple-android.html",
-    "summary": "A foot of snow in New York? Two feet? Well, it’s complicated."
-  },
-  {
-    "title": "Five Fronts in Trump’s Culture War",
-    "link": "https://www.nytimes.com/2026/01/22/arts/trump-culture-war-smithsonian-kennedy-center.html",
-    "summary": "In the first year of his second term, President Trump has made sweeping efforts to influence the arts and media in America."
-  },
-  {
-    "title": "Nurses in New York City Say They Deserve $200,000 a Year. Here’s Why.",
-    "link": "https://www.nytimes.com/2026/01/22/nyregion/nyc-nurses-strike-pay-raises.html",
-    "summary": "As a strike by health workers stretches into its second week, pay is a major issue in negotiations, even if it’s not discussed much on the picket line."
-  },
-  {
-    "title": "Big Insurers Try to Shift Blame for High Health Costs to Hospitals and Drug Makers",
-    "link": "https://www.nytimes.com/2026/01/22/health/health-insurers-obamacare-congress.html",
-    "summary": "At two congressional hearings, lawmakers slammed executives of major companies, saying they were failing to rein in the cost of medical care for consumers."
+    "title": "Seth Meyers Says Trump’s Deals Are as Strong as a Pinkie Swear",
+    "link": "https://www.nytimes.com/2026/01/23/arts/television/seth-meyers-trump-greenland-deal.html",
+    "summary": "“At this point, it’s pretty clear world leaders make deals with Trump the way kids do on the playground,” Meyers said of the president on Wednesday."
   },
   {
     "title": "No Beer for You: How British Pubs Fought a Tax Increase",
@@ -135,48 +140,13 @@
     "summary": "More than 1,400 pubs declared a ban on Labour lawmakers in response to a plan to raise business rates significantly. The move got attention, and results."
   },
   {
-    "title": "Questions for Alex Honnold Before He Tries to Climb a Skyscraper in Taipei",
-    "link": "https://www.nytimes.com/2026/01/22/us/alex-honnold-netflix-taipei.html",
-    "summary": "Alex Honnold again will be ascending without ropes. In an interview he considers the impact on his family if something were to go wrong."
+    "title": "A Senate Primary in Texas Tests the Future of Democratic Politics",
+    "link": "https://www.nytimes.com/2026/01/23/us/politics/texas-democrats.html",
+    "summary": "Two of the Democrats’ rising stars, Jasmine Crockett and James Talarico, are seeing if a red state should be won courting disaffected Republicans or focusing on the party’s base."
   },
   {
-    "title": "Oscar Snubs and Surprises: ‘Sinners’ Makes History, ‘Wicked’ Withers",
-    "link": "https://www.nytimes.com/2026/01/22/movies/oscar-snubs-wicked-sinners-bugonia.html",
-    "summary": "Ariana Grande, Chase Infiniti and Paul Mescal were shut out, but voters made room for Delroy Lindo, Kate Hudson and “F1.”"
-  },
-  {
-    "title": "2026 Oscar Nominations: See the Full List",
-    "link": "https://www.nytimes.com/2026/01/22/movies/2026-oscar-nominees-list.html",
-    "summary": "The movies competing for the 98th Academy Awards. The ceremony will air on March 15."
-  },
-  {
-    "title": "NATO as We Know It Is Coming to an End, and That’s OK",
-    "link": "https://www.nytimes.com/2026/01/23/opinion/trump-greenland-nato-europe.html",
-    "summary": "Europe has a chance to step out of America’s shadow."
-  },
-  {
-    "title": "Latin Americans Love the Right. Can You Blame Them?",
-    "link": "https://www.nytimes.com/2026/01/23/opinion/latin-america-right-strongmen-trump-venezuela.html",
-    "summary": "The right is ascendant in Latin America. How long will it last?"
-  },
-  {
-    "title": "F.A.A. Says Helicopter Restrictions Imposed After D.C. Crash Will Stay",
-    "link": "https://www.nytimes.com/2026/01/22/us/politics/helicopter-restrictions-washington-crash.html",
-    "summary": "The agency said that expanding the restrictions and making them permanent were urgent steps for avoiding another crash."
-  },
-  {
-    "title": "Dallas County Exonerates Black Man Who Was Executed in 1956",
-    "link": "https://www.nytimes.com/2026/01/22/us/tommy-lee-walker-dallas-execution-innocent.html",
-    "summary": "An all-white jury convicted Tommy Lee Walker of rape and murder, relying on inadmissible evidence and a coerced confession that he immediately recanted, county officials said."
-  },
-  {
-    "title": "Barron Trump Called U.K. Police After Witnessing Woman ‘Getting Beat Up’ on Video Call",
-    "link": "https://www.nytimes.com/2026/01/22/world/europe/barron-trump-london-call-woman-assault.html",
-    "summary": "The details of an emergency call made by President Trump’s youngest son to the London police last year emerged during a trial this week."
-  },
-  {
-    "title": "James Bernard, a Founding Editor of a Hip-Hop ‘Bible,’ Dies at 58",
-    "link": "https://www.nytimes.com/2026/01/22/arts/music/james-bernard-dead.html",
-    "summary": "One of the most influential voices of the seminal magazine The Source, he chronicled rap’s rise and its explosion into the cultural mainstream."
+    "title": "Big Insurers Try to Shift Blame for High Health Costs to Hospitals and Drug Makers",
+    "link": "https://www.nytimes.com/2026/01/22/health/health-insurers-obamacare-congress.html",
+    "summary": "At two congressional hearings, lawmakers slammed executives of major companies, saying they were failing to rein in the cost of medical care for consumers."
   }
 ]

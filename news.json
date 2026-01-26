@@ -1,13 +1,28 @@
 [
   {
+    "title": "A Crisis of Confidence for ICE and Border Patrol as Clashes Escalate",
+    "link": "https://www.nytimes.com/2026/01/26/us/politics/ice-border-patrol-trust.html",
+    "summary": "Current and former officials describe growing frustration and disillusionment with the Trump administration’s approach, even as they support the goal of immigration enforcement."
+  },
+  {
+    "title": "Alex Pretti’s Friends and Family Denounce ‘Sickening Lies’ About His Life",
+    "link": "https://www.nytimes.com/2026/01/25/us/alex-pretti-minneapolis-shooting.html",
+    "summary": "People who knew a man fatally shot by federal agents pushed back against what they called a smear campaign by federal officials. “He was a good man,” his family said."
+  },
+  {
     "title": "How the Trump Administration Rushed to Judgment in Minneapolis Shooting",
-    "link": "https://www.nytimes.com/2026/01/25/us/trump-administration-minneapolis-shooting-response.html",
+    "link": "https://www.nytimes.com/2026/01/25/us/politics/trump-administration-minneapolis-shooting-response.html",
     "summary": "The administration was in a race to control the narrative around the killing of Alex Pretti, even as videos emerged that contradicted the government’s account."
   },
   {
-    "title": "Killing Prompts Only a Defiant Response From Trump",
-    "link": "https://www.nytimes.com/2026/01/25/us/politics/minneapolis-killing-trump-defiant-response.html",
-    "summary": "Even as the second death of a protester in Minnesota brought demands for accountability, the president, insulated from dissenting voices, stuck to his pattern of reflexively blaming opponents."
+    "title": "Trump Administration Tries to Control Minneapolis Shooting Narrative, and Winter Storm Shatters Records",
+    "link": "https://www.nytimes.com/2026/01/26/podcasts/the-headlines/minneapolis-shooting-winter-storm.html",
+    "summary": "Plus, High January is the new Dry January."
+  },
+  {
+    "title": "Storm Dumps a Foot of Snow in at Least 17 U.S. States",
+    "link": "https://www.nytimes.com/2026/01/25/us/snow-totals.html",
+    "summary": "Bonito Lake, N.M., received 31 inches, the most in the country, the National Weather Service said"
   },
   {
     "title": "Mamdani Clears Early Hurdles as Storm Bears Down on New York",
@@ -15,9 +30,19 @@
     "summary": "Mayor Zohran Mamdani made use of his strong communication skills, and the Sanitation Department said every road was plowed at least twice by Sunday evening."
   },
   {
-    "title": "Xi’s Purge of China’s Military Brings Its Top General Down",
-    "link": "https://www.nytimes.com/2026/01/24/world/asia/china-top-general-xi-military-purge.html",
-    "summary": "The ouster of Gen. Zhang Youxia, who was second only to Xi Jinping in the military hierarchy, marks “the total annihilation of the high command,” one analyst said."
+    "title": "Scenes From the Winter Storm",
+    "link": "https://www.nytimes.com/2026/01/24/us/winter-storm-snow-photos-videos.html",
+    "summary": "Images from across much of the country illuminate snow-covered streets and preparations for worse still to come."
+  },
+  {
+    "title": "In Xi’s China, Top General’s Fall Shows Precariousness of Power",
+    "link": "https://www.nytimes.com/2026/01/26/world/asia/china-xi-zhang-youxia-military.html",
+    "summary": "A combat veteran, Zhang Youxia was once seen as the most trusted man in Xi Jinping’s military. Now he is the most public example of disloyalty to Mr. Xi."
+  },
+  {
+    "title": "Trump Hobbled the I.R.S. This C.E.O. Now Has to Make It Work.",
+    "link": "https://www.nytimes.com/2026/01/26/us/politics/trump-irs-taxes-bisignano.html",
+    "summary": "Frank Bisignano is the first chief executive of the I.R.S., where there’s hope he will end a chaotic stretch at the agency. The tax filing season, which started Monday, is his first test."
   },
   {
     "title": "As Europe’s Reliance on U.S. Natural Gas Grows, So Does Trump’s Leverage",
@@ -25,9 +50,49 @@
     "summary": "Tension over Greenland has prompted worries that the Trump administration could turn the U.S. oil and gas industry into a way to pressure Europe."
   },
   {
-    "title": "For Greenland Tourism, Trump’s Interest Creates Uncertainty",
-    "link": "https://www.nytimes.com/2026/01/23/travel/greenland-tourism-trump.html",
-    "summary": "Bookings to the island increased last year, and there are plans for two new airports. Threats from President Trump may change that."
+    "title": "In ‘Memory of a Killer,’ Patrick Dempsey Takes the Wheel",
+    "link": "https://www.nytimes.com/2026/01/26/arts/television/patrick-dempsey-memory-of-a-killer.html",
+    "summary": "The actor has spent a decade dismantling his McDreamy persona from “Grey’s Anatomy.” He stars as an assassin in a new Fox thriller."
+  },
+  {
+    "title": "Voters See a Middle-Class Lifestyle as Drifting Out of Reach, Poll Finds",
+    "link": "https://www.nytimes.com/2026/01/26/us/politics/affordability-poll.html",
+    "summary": "Concerns about the affordability of education, housing, health care, having a family and retirement are driving economic anxieties, a New York Times/Siena poll found."
+  },
+  {
+    "title": "Brisk Sales at Goodwill Suggest Wary Shoppers in an Uncertain Economy",
+    "link": "https://www.nytimes.com/2026/01/26/business/goodwill-sales-economy.html",
+    "summary": "Consumers are still spending, but they’re looking for ways to stretch their dollars as far as possible."
+  },
+  {
+    "title": "Elon Musk’s X Faces EU Inquiry Over Sexualized AI Images Generated by Grok",
+    "link": "https://www.nytimes.com/2026/01/26/business/european-union-x-grok-ai-images-musk.html",
+    "summary": "Regulators said the company’s lack of controls had led to the widespread use of deepfakes created with the chatbot Grok."
+  },
+  {
+    "title": "Yann LeCun, an A.I. Pioneer, Warns the Tech ‘Herd’ Could Hit a Dead End",
+    "link": "https://www.nytimes.com/2026/01/26/technology/an-ai-pioneer-warns-the-tech-herd-is-marching-into-a-dead-end.html",
+    "summary": "Yann LeCun helped create the technology behind today’s chatbots. Now he says many tech companies are on the wrong path to creating intelligent machines."
+  },
+  {
+    "title": "Silicon Valley Wants to Build A.I. That Can Improve A.I. on Its Own",
+    "link": "https://www.nytimes.com/2026/01/26/technology/recursive-ai-ricursive.html",
+    "summary": "Ricursive Intelligence, founded by two former Google researchers and valued at $4 billion, is among several efforts to automate the creation of artificial intelligence."
+  },
+  {
+    "title": "A Winter Lull in the Fighting? Not in the Age of Drone Warfare.",
+    "link": "https://www.nytimes.com/2026/01/26/world/europe/ukraine-russia-winter-snow-donetsk-dnipro.html",
+    "summary": "Shifts in tactics and technology in Ukraine mean that the pace of fighting is no longer decided by whether tanks can navigate frozen fields."
+  },
+  {
+    "title": "Gunmen Kill 11 After Soccer Match in Mexico",
+    "link": "https://www.nytimes.com/2026/01/26/world/americas/mexico-shooting-salamanca-cartels.html",
+    "summary": "The mass shooting occurred in an area fought over by drug cartels, just as the Mexican government has sought to show Washington that it is combating criminal groups."
+  },
+  {
+    "title": "In Venezuela, Freeing the Economy, but Nothing Else",
+    "link": "https://www.nytimes.com/2026/01/26/world/americas/venezuela-economy-rodriguez.html",
+    "summary": "Interim leader Delcy Rodríguez is liberalizing the economy without dismantling her predecessor’s repressive apparatus, raising questions about her aims."
   },
   {
     "title": "The Taliban Say They’re Ready to Release U.S. Prisoners. But Which Ones?",
@@ -35,48 +100,33 @@
     "summary": "Top Afghan officials say they want two American detainees released “as soon as possible,” but the Trump administration says a third one should be included."
   },
   {
+    "title": "How One Food Critic Overcame His Negative Relationship With Alcohol and Sugary Drinks",
+    "link": "https://cooking.nytimes.com/article/alcohol-free-low-sugar-drinks-diet-substitutions",
+    "summary": "In the last part of a monthlong series, Pete Wells and experts suggest how to sidestep the perils of alcoholic or sugary beverages."
+  },
+  {
+    "title": "‘We Are Creating the Conditions for a Catastrophe.’ Three Columnists on the Shooting of Alex Pretti in Minneapolis.",
+    "link": "https://www.nytimes.com/2026/01/26/opinion/minneapolis-alex-pretti-ice-shooting.html",
+    "summary": "On immigration raids, the shooting death of Alex Pretti and where we go from here."
+  },
+  {
+    "title": "Local Prosecution Is the Answer to Federal Lawlessness",
+    "link": "https://www.nytimes.com/2026/01/26/opinion/minneapolis-shooting-ice-accountability.html",
+    "summary": "State and local prosecutions could produce deterrent effects that are so desperately needed now."
+  },
+  {
     "title": "Columbia Selects University of Wisconsin Chancellor as Its President",
     "link": "https://www.nytimes.com/2026/01/25/nyregion/columbia-president-wisconsin-mnookin.html",
     "summary": "Jennifer Mnookin has led the flagship campus of the state university system since 2022. She takes the helm at Columbia after a tumultuous period."
   },
   {
-    "title": "In Venezuela, Families Search for Relatives Who Are Detained and Missing",
-    "link": "https://www.nytimes.com/2026/01/25/world/americas/in-venezuela-families-search-for-relatives-who-are-detained-and-missing.html",
-    "summary": "Even as dozens of political prisoners have been freed, at least 66 people taken by state authorities and never heard from again remain missing, relatives and rights groups say."
+    "title": "Private Jet With 8 People Aboard Crashes at Maine Airport, F.A.A. Says",
+    "link": "https://www.nytimes.com/2026/01/25/us/bangor-maine-airport-crash.html",
+    "summary": "A Bombardier Challenger 600 crashed during takeoff at the Bangor airport, according to officials, as a paralyzing winter storm lashed the East Coast."
   },
   {
-    "title": "Travel Math: When Flying Costs as Much as the Train, Who Wins?",
-    "link": "https://www.nytimes.com/2026/01/24/us/politics/amtrak-dynamic-pricing-flying.html",
-    "summary": "Amtrak says dynamic pricing has helped strengthen its finances, but travelers often grumble at the cost, especially for last-minute travel. Still, the train has a secret weapon: avoiding the airport."
-  },
-  {
-    "title": "Fashion Is Exaggerating the Female Form Like Never Before. What Is Going On?",
-    "link": "https://www.nytimes.com/2026/01/25/style/the-year-of-manufacturing-the-body-and-booty-and-boobs.html",
-    "summary": "Fashion has begun exaggerating, or distorting, the female form like never before. What exactly is going on?"
-  },
-  {
-    "title": "The Trump Administration Is Lying to Our Faces. Congress Must Act.",
-    "link": "https://www.nytimes.com/2026/01/25/opinion/alex-pretti-minneapolis-shooting-border-patrol.html",
-    "summary": "The Trump administration is once again engaged in a perversion of justice."
-  },
-  {
-    "title": "Trump’s Foreign Policy Is Stuck in the 16th Century",
-    "link": "https://www.nytimes.com/2026/01/26/opinion/trump-foreign-policy-neo-royalist.html",
-    "summary": "The president’s approach is not just chaos or an updated version of 19th-century great-power competition."
-  },
-  {
-    "title": "At Least 15 Dead After Ferry Carrying 350 Sinks in the Philippines",
-    "link": "https://www.nytimes.com/2026/01/25/world/asia/philippines-ferry-sinks-basilan.html",
-    "summary": "It was not immediately clear how many people were missing after the ferry sank early Monday morning in Basilan Province."
-  },
-  {
-    "title": "Eleanor Holmes Norton Files to End Re-election Campaign",
-    "link": "https://www.nytimes.com/2026/01/25/us/politics/eleanor-holmes-norton-re-election-campaign.html",
-    "summary": "It was not clear whether Washington’s 88-year-old veteran delegate, who has been in declining health but has insisted she would seek re-election, was aware of the filing."
-  },
-  {
-    "title": "In Visits to Dealerships, Pair Schemed to Steal High-End Vehicles, Police Say",
-    "link": "https://www.nytimes.com/2026/01/25/nyregion/car-theft-ring.html",
-    "summary": "An organized theft ring in Connecticut, New Jersey and New York swapped or quickly cloned key fobs to steal millions of dollars’ worth of vehicles, officials said."
+    "title": "Pedro Lives in a Hospital. His Nurses Are on Strike. He Misses Them.",
+    "link": "https://www.nytimes.com/2026/01/26/nyregion/nyc-nurses-strike-patients-children.html",
+    "summary": "Pedro, a 2-year-old, needs a new heart and has spent months in a New York hospital. With his nurses on the picket line, replacement workers care for him."
   }
 ]

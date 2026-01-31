@@ -1,5 +1,55 @@
 [
   {
+    "title": "Kevin Warsh Has a Tough Job Ahead. It’s Not the First Time.",
+    "link": "https://www.nytimes.com/2026/01/31/business/kevin-warsh-fed-chair.html",
+    "summary": "Mr. Warsh is known as a consensus builder, skills he will need if he is to head the Federal Reserve when President Trump is demanding rock-bottom rates."
+  },
+  {
+    "title": "A Hawkish Kevin Warsh at the Fed Could Haunt Bessent",
+    "link": "https://www.nytimes.com/2026/01/31/business/scott-bessent-kevin-warsh-trump.html",
+    "summary": "The Treasury Secretary Scott Bessent tried to avoid providing President Trump with a clear recommendation to lead the central bank."
+  },
+  {
+    "title": "For Hassett, Loyalty to Trump Became a Liability in Fed Race",
+    "link": "https://www.nytimes.com/2026/01/31/business/kevin-hassett-trump-loyalty-fed.html",
+    "summary": "Kevin A. Hassett had been seen as the front-runner in the Fed race, but his deep ties to the president raised questions about his independence."
+  },
+  {
+    "title": "Sell America Is the New Trade on Wall Street",
+    "link": "https://www.nytimes.com/2026/01/31/business/sell-america-dollar-financial-markets.html",
+    "summary": "Investors are increasingly souring on the United States, as illustrated by the declining dollar, the stalled stock market and rising government borrowing costs."
+  },
+  {
+    "title": "ICE Expands Power of Agents to Arrest People Without Warrants",
+    "link": "https://www.nytimes.com/2026/01/30/us/politics/ice-expands-power-agents-warrants.html",
+    "summary": "An internal memo changed the standard from whether people are unlikely to show up for hearings to whether they could leave the scene."
+  },
+  {
+    "title": "Politicians Are Calling the Protests in Minnesota an Insurgency",
+    "link": "https://www.nytimes.com/2026/01/31/us/politics/minnesota-protests-insurgency.html",
+    "summary": "The term, used to describe war, poses dangers when applied to American political unrest."
+  },
+  {
+    "title": "How Fear of ICE Upended Life in One Minnesota School District",
+    "link": "https://www.nytimes.com/2026/01/31/us/minneapolis-school-district-ice-agents.html",
+    "summary": "In Fridley, a Minneapolis suburb, school officials are driving nervous teachers and buying families groceries. At dismissal, the superintendent patrols for federal agents."
+  },
+  {
+    "title": "Senate Passes Deal to Fund Government and Negotiate ICE Limits",
+    "link": "https://www.nytimes.com/2026/01/30/us/politics/senate-vote-shutdown-ice.html",
+    "summary": "Democrats agreed to fund the Department of Homeland Security for two weeks while they negotiate with President Trump on restricting his immigration crackdown."
+  },
+  {
+    "title": "Release of Three Million Epstein Pages Falls Short, Survivors Say",
+    "link": "https://www.nytimes.com/2026/01/30/us/politics/epstein-files-release.html",
+    "summary": "Todd Blanche, the deputy attorney general, told reporters on Friday that “there’s a hunger or a thirst for information that I do not think will be satisfied by the review of these documents.”"
+  },
+  {
+    "title": "Here’s What to Know About the Millions of Pages of Epstein Documents",
+    "link": "https://www.nytimes.com/2026/01/30/us/what-to-know-epstein-files.html",
+    "summary": "Deputy Attorney General Todd Blanche signaled that this would be the last major release of files related to Jeffrey Epstein."
+  },
+  {
     "title": "How Europe Is Moving to Reduce Dependence on Trump",
     "link": "https://www.nytimes.com/2026/01/31/world/europe/eu-trump-greenland-europe.html",
     "summary": "Since President Trump made threats about Greenland, the continent’s leaders have debated the rapid deterioration of U.S. ties in policy papers and at dinner."
@@ -10,39 +60,9 @@
     "summary": "As Washington unsettles its partners, Beijing is reaping diplomatic gains, without backing down on human rights, trade or security."
   },
   {
-    "title": "ICE Expands Power of Agents to Arrest People Without Warrants",
-    "link": "https://www.nytimes.com/2026/01/30/us/politics/ice-expands-power-agents-warrants.html",
-    "summary": "An internal memo changed the standard from whether people are unlikely to show up for hearings to whether they could leave the scene."
-  },
-  {
-    "title": "Trump Called for ‘De-Escalation’ in Minneapolis. It Didn’t Last Long.",
-    "link": "https://www.nytimes.com/2026/01/30/us/politics/trump-minneapolis-dueling-messages.html",
-    "summary": "President Trump has offered dueling messages on the crisis in Minneapolis, part of a pattern of dialing back his rhetoric only to change again if the political winds are shifting."
-  },
-  {
-    "title": "Release of Three Million Epstein Pages Falls Short, Survivors Say",
-    "link": "https://www.nytimes.com/2026/01/30/us/politics/epstein-files-release.html",
-    "summary": "Todd Blanche, the deputy attorney general, told reporters on Friday that “there’s a hunger or a thirst for information that I do not think will be satisfied by the review of these documents.”"
-  },
-  {
-    "title": "Draft Epstein Indictment Accused Him of Crimes Against More Than a Dozen Girls",
-    "link": "https://www.nytimes.com/2026/01/30/us/politics/epstein-2007-draft-indictment.html",
-    "summary": "Jeffrey Epstein, who ended up pleading to a much lesser state charge, told one victim that bad things could happen to her if she talked, the 2007 document said."
-  },
-  {
-    "title": "Here’s What to Know About the Millions of Pages of Epstein Documents",
-    "link": "https://www.nytimes.com/2026/01/30/us/what-to-know-epstein-files.html",
-    "summary": "Deputy Attorney General Todd Blanche signaled that this would be the last major release of files related to Jeffrey Epstein."
-  },
-  {
     "title": "Trump’s Lawsuit Against I.R.S. Creates ‘Enormous Conflict of Interest’",
     "link": "https://www.nytimes.com/2026/01/30/us/politics/trump-lawsuit-irs-taxes.html",
     "summary": "The president is demanding that the federal government pay him at least $10 billion over the unauthorized disclosure of his tax returns during his first term."
-  },
-  {
-    "title": "Trump Picks Kevin Warsh as Next Fed Chair",
-    "link": "https://www.nytimes.com/2026/01/30/us/politics/trump-fed-chair-kevin-warsh.html",
-    "summary": "If confirmed by the Senate, Kevin M. Warsh, a former governor at the central bank, will replace Jerome H. Powell, whose term as chair ends in May."
   },
   {
     "title": "Trump Officials Bypass Congress to Push Billions in Weapons Aid to Israel",
@@ -50,19 +70,9 @@
     "summary": "The move was the third time the Trump administration has tried to expedite arms shipments to Israel by going around the review process for weapons sales."
   },
   {
-    "title": "Kevin Warsh, Trump’s Choice for Fed Chair Could Find It Difficult to Deliver",
-    "link": "https://www.nytimes.com/2026/01/30/business/trump-kevin-warsh-fed-rates.html",
-    "summary": "Kevin M. Warsh, whom Mr. Trump tapped to become the next chair of the Federal Reserve, could face fierce resistance if he tries to pursue substantially lower borrowing costs."
-  },
-  {
-    "title": "Catherine O’Hara, ‘Home Alone’ and ‘Schitt’s Creek’ Actress, Dies at 71",
-    "link": "https://www.nytimes.com/2026/01/30/arts/television/catherine-ohara-dead.html",
-    "summary": "An Emmy-winning comedian with oddball charm, she got her start with the influential Canadian sketch comedy series “SCTV.”"
-  },
-  {
-    "title": "Macaulay Culkin And Others Pay Tribute to Catherine O’Hara After Her Death",
-    "link": "https://www.nytimes.com/2026/01/30/arts/catherine-ohara-death-reactions.html",
-    "summary": "Videos and photos filled social media as fans shared their favorite scenes from O’Hara’s acting career and co-stars memorialized her."
+    "title": "Catherine O’Hara Was Always a Delight",
+    "link": "https://www.nytimes.com/2026/01/30/movies/catherine-ohara-characters.html",
+    "summary": "The Emmy-winning actress was especially adept at playing women who had been cast off but maintained an inflated sense of self, always with a great comedic payoff."
   },
   {
     "title": "Where to Watch Catherine O’Hara’s Best Performances, From ‘Beetlejuice’ to ‘Best in Show’",
@@ -70,9 +80,29 @@
     "summary": "Her characters were as varied as they were eccentric and lovable. These are some of the best."
   },
   {
-    "title": "Death Toll During New York City Cold Snap Rises to 13",
-    "link": "https://www.nytimes.com/2026/01/30/nyregion/nyc-snow-death-toll.html",
-    "summary": "The growing number of deaths comes amid heightened concern about Mayor Zohran Mamdani’s handling of last weekend’s winter storm and the aftermath."
+    "title": "They’re Stepping Up on ‘The Pitt’",
+    "link": "https://www.nytimes.com/2026/01/29/arts/television/the-pitt.html",
+    "summary": "Four actors discuss the evolution of their young clinician characters on “The Pitt.” In Season 2 they are a little older, a little wiser and still soaked in fake blood."
+  },
+  {
+    "title": "Trump Could Interfere With the Midterm Elections. Here’s How to Help.",
+    "link": "https://www.nytimes.com/2026/01/31/opinion/trump-midterms-election-security.html",
+    "summary": "The sanctity of the 2026 vote is indeed under threat."
+  },
+  {
+    "title": "ICE Took Their Classmate. They Started Writing Letters.",
+    "link": "https://www.nytimes.com/2026/01/31/opinion/ice-kids-liam-ramos.html",
+    "summary": "Letters from students living in fear."
+  },
+  {
+    "title": "Good Company",
+    "link": "https://www.nytimes.com/2026/01/31/briefing/good-company.html",
+    "summary": "Let’s talk about the new and old shows we’ll be watching this winter."
+  },
+  {
+    "title": "Drilling Through the Thwaites Glacier for Clues to Its Melting",
+    "link": "https://www.nytimes.com/2026/01/30/climate/antarctica-thwaites-glacier-drilling.html",
+    "summary": "A team hopes to place instruments in the waters beneath the colossal Thwaites Glacier, with the help of a drill that uses hot water to punch through ice."
   },
   {
     "title": "Winter Storm to Hit Carolinas With Snow, Winds and Freezing Cold",
@@ -80,88 +110,18 @@
     "summary": "Southern towns more used to hurricane preparation than snowstorms may experience some of their highest snow totals in years."
   },
   {
-    "title": "Could the Hudson River Freeze Over?",
-    "link": "https://www.nytimes.com/2026/01/30/weather/hudson-river-new-york-frozen.html",
-    "summary": "New York City is icy and cold right now, but you’re probably not going to be able to walk to New Jersey any time soon."
+    "title": "Russia’s Oil Revenue Is Plummeting",
+    "link": "https://www.nytimes.com/2026/01/31/world/europe/russia-economy-oil.html",
+    "summary": "The new reality has forced the Kremlin to raise taxes and increase debt, and hovers over peace talks with Ukraine."
   },
   {
-    "title": "Iran Rules Out Talks With U.S. Until Trump’s Threats Stop",
-    "link": "https://www.nytimes.com/2026/01/30/world/europe/iran-trump-us-threats-turkey.html",
-    "summary": "Iran’s foreign minister ruled out direct talks unless President Trump stops threatening to attack it. He also said Iran would not discuss its ballistic missiles."
+    "title": "What to Know About the Alexander Brothers Sex Trafficking Trial",
+    "link": "https://www.nytimes.com/article/alexander-brothers-what-we-know-trial.html",
+    "summary": "The men used their wealth and fame to lure women and then assault them, prosecutors say. The brothers have denied all allegations."
   },
   {
-    "title": "Why Trump Is Going After Iran Now",
-    "link": "https://www.nytimes.com/video/world/middleeast/100000010675129/why-trump-is-going-after-iran-now.html",
-    "summary": "As President Trump warns that “we have a lot of very big, very powerful ships sailing to Iran right now,” our national security correspondent David E. Sanger breaks down what to know."
-  },
-  {
-    "title": "Children Were Arrested in Iran’s Brutal Crackdown on Protests",
-    "link": "https://www.nytimes.com/2026/01/30/world/middleeast/iran-protests-children-arrested.html",
-    "summary": "An Iranian government official said some children had been detained, the first such acknowledgment in weeks of anti-government protests."
-  },
-  {
-    "title": "‘Melania’ Review: 20 Stage-Managed Days in the Life of the First Lady",
-    "link": "https://www.nytimes.com/2026/01/30/movies/melania-trump-movie-review.html",
-    "summary": "Directed by Brett Ratner, the documentary shows a woman deeply concerned with her appearance who rarely lets us behind her facade."
-  },
-  {
-    "title": "6 Takeaways from ‘Melania,’ the Melania Trump Documentary",
-    "link": "https://www.nytimes.com/2026/01/30/movies/melania-documentary-movie-takeaways-trump.html",
-    "summary": "The film, which counts Melania Trump as a producer, touches on her immigrant roots, her love for her mother and her style, but there are few revelations."
-  },
-  {
-    "title": "‘Heated Rivalry’ Fans Want the Fleece. They’ll Be Able to Get It.",
-    "link": "https://www.nytimes.com/2026/01/30/style/heated-rivalry-canada-fleece-jacket.html",
-    "summary": "American and Canadian “Heated Rivalry” fans are hot for the jacket worn by the character Shane Hollander."
-  },
-  {
-    "title": "The Secret Sauce in ‘Heated Rivalry’? Canada.",
-    "link": "https://www.nytimes.com/2026/01/30/world/canada/heated-rivalry-carney-canada.html",
-    "summary": "The global television phenomenon is full of Canadian iconography and subsidized by Canadian taxpayers. On Thursday, it came home to celebrate."
-  },
-  {
-    "title": "U.N. Says It’s in Danger of Financial Collapse Because of Members’ Unpaid Dues",
-    "link": "https://www.nytimes.com/2026/01/30/world/americas/un-finances-collapse-debts.html",
-    "summary": "The world body warned it would run out of money by July and have to close its New York headquarters if countries, namely the United States, did not pay annual dues that amount to billions of dollars."
-  },
-  {
-    "title": "Grand Jury Hears Evidence on Brooklyn Power Broker",
-    "link": "https://www.nytimes.com/2026/01/30/nyregion/nyc-carone-corruption-investigation.html",
-    "summary": "Brooklyn federal prosecutors have been conducting a corruption investigation into Frank Carone, who served as Mayor Eric Adams’s chief of staff."
-  },
-  {
-    "title": "Loss, Grief and a World Record Attempt at 81",
-    "link": "https://www.nytimes.com/2026/01/30/well/move/dead-hang-world-record-longevity.html",
-    "summary": "Facing life on her own for the first time in 60 years, Bonnie Sumner discovered she had a special skill for hanging from a pull-up bar."
-  },
-  {
-    "title": "A Farewell Column From David Brooks",
-    "link": "https://www.nytimes.com/2026/01/30/opinion/david-brooks-leaving-columnist.html",
-    "summary": "After 22 wonderful years, I’ve decided to take the exciting and terrifying step of leaving in order to try to build something new."
-  },
-  {
-    "title": "Young People Are Using A.I. to Skip the Hardest Part of Growing Up",
-    "link": "https://www.nytimes.com/2026/01/30/opinion/ai-social-skills-relationships.html",
-    "summary": "Artificial intelligence is replacing young people's social intuitions."
-  },
-  {
-    "title": "Texas A&M Ends Women’s Studies and Overhauls Hundreds of Classes on Race and Gender",
-    "link": "https://www.nytimes.com/2026/01/30/us/texas-am-gender-ethnic-womens-studies-academic-freedom.html",
-    "summary": "New policies limiting the teaching of race and gender issues led administrators and professors to change hundreds of courses. School leaders say the rules could hurt A&amp;M’s reputation."
-  },
-  {
-    "title": "Federal Judge Drops Death Penalty Charge Against Luigi Mangione",
-    "link": "https://www.nytimes.com/2026/01/30/nyregion/death-penalty-luigi-mangione.html",
-    "summary": "Judge Margaret Garnett of Federal District Court dismissed two charges against Luigi Mangione, including one that carried the death penalty."
-  },
-  {
-    "title": "Decades Later, a Man’s Conviction Is Overturned With Ex-Inmate’s Help",
-    "link": "https://www.nytimes.com/2026/01/30/nyregion/queens-exoneration-allen-porter.html",
-    "summary": "On Friday, a Queens judge vacated the double-murder conviction of Allen Porter. Jabbar Collins, who was exonerated 16 years ago, never stopped fighting for the friend he met in custody."
-  },
-  {
-    "title": "Escape to Alcatraz: Coyote Swims a Mile in Search of New Turf",
-    "link": "https://www.nytimes.com/2026/01/30/us/coyote-swims-alcatraz-san-francisco.html",
-    "summary": "The coyote struggled onto the rocky shore this month. It is the first documented coyote on Alcatraz since the island was transferred to the National Park Service in 1972."
+    "title": "Energy Bills Have Soared Recently. How Can States Bring Costs Down?",
+    "link": "https://www.nytimes.com/2026/01/31/business/energy-environment/energy-bills-costs-states-trump-power-plants.html",
+    "summary": "Energy experts said that governors and legislatures have tools to keep electricity prices from rising further, and might even be able to lower them."
   }
 ]

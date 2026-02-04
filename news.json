@@ -1,55 +1,5 @@
 [
   {
-    "title": "Walmart Joins Tech Giants With $1 Trillion Market Valuation",
-    "link": "https://www.nytimes.com/2026/02/03/business/walmart-trillion-market-value.html",
-    "summary": "The company’s rapid e-commerce growth and push into automation and artificial intelligence propelled its stock into the trillion-dollar club."
-  },
-  {
-    "title": "Netflix Leader Pushes Warner Deal Before Skeptical Lawmakers",
-    "link": "https://www.nytimes.com/2026/02/03/business/media/netflix-sarandos-warner-senate-hearing.html",
-    "summary": "Senators asked Ted Sarandos about whether the acquisition would raise prices, squeeze talent and degrade the moviegoing experience."
-  },
-  {
-    "title": "‘Don Colossus,’ a Golden Statue of President Trump, Waits for Its Home",
-    "link": "https://www.nytimes.com/2026/02/03/technology/trump-statue-don-colossus.html",
-    "summary": "A group of cryptocurrency investors backing a memecoin hopes the statue will soon be installed at one of Mr. Trump’s golf courses in Florida."
-  },
-  {
-    "title": "Trump Releases Latest Rendering of White House Ballroom Project",
-    "link": "https://www.nytimes.com/2026/02/03/us/trump-white-house-ballroom-rendering.html",
-    "summary": "President Trump emphasized that the ballroom would not be taller than the Executive Mansion of the White House, as he faces criticism over the size of the project."
-  },
-  {
-    "title": "Trump Scolds CNN’s Kaitlan Collins for ‘Not Smiling’",
-    "link": "https://www.nytimes.com/2026/02/03/us/politics/kaitlan-collins-smile-trump.html",
-    "summary": "Testy remarks from a president who has frequently singled out female journalists for criticism and personal attacks."
-  },
-  {
-    "title": "‘They Couldn’t Break Me’: A Protester, the White House and a Doctored Photo",
-    "link": "https://www.nytimes.com/2026/02/03/us/politics/nekima-levy-armstrong-minnesota-protest.html",
-    "summary": "President Trump and the White House regularly circulate imagery that has been manipulated by A.I. But the photo of Nekima Levy Armstrong was different."
-  },
-  {
-    "title": "Westminster Presbyterian Church in Minneapolis Is a Place for Protest",
-    "link": "https://www.nytimes.com/2026/02/03/us/westminster-presbyterian-minneapolis-ice-protest.html",
-    "summary": "In the weeks since ICE agents began conducting operations across the city, Westminster Presbyterian has given its members a place to protest on their own terms."
-  },
-  {
-    "title": "Ruptures in China’s Leadership Could Be Due to Paranoia and Power Plays",
-    "link": "https://www.nytimes.com/2026/02/03/us/politics/china-xi-military-purge.html",
-    "summary": "U.S. intelligence analysts say that Xi Jinping, China’s leader, has a remarkable level of fear. He has carried out mass purges, and surprised many by removing his top general."
-  },
-  {
-    "title": "Westminster Dog Show 2026: Behind-the-Scenes Photos",
-    "link": "https://www.nytimes.com/2026/02/03/style/westminster-dog-show-photos.html",
-    "summary": "Brushing, panting, licking and leaping: Here’s what we saw backstage, where show dogs could let their fur down before taking to the ring."
-  },
-  {
-    "title": "A Role Model for How to Die",
-    "link": "https://www.nytimes.com/2026/02/03/nyregion/cancer-friend-death-role-model.html",
-    "summary": "What if you really did live every day as if it were your last? That was Brian’s plan."
-  },
-  {
     "title": "House Cancels Contempt Vote As Clintons Agree to Testify on Epstein",
     "link": "https://www.nytimes.com/2026/02/03/us/politics/clintons-epstein-testify.html",
     "summary": "Bill and Hillary Clinton agreed to be deposed this month by an investigative panel but requested that it be in public, a request that the Republican chairman ignored."
@@ -60,9 +10,49 @@
     "summary": "Jeffrey Epstein wanted most of his money to go to his girlfriend. Mr. Epstein’s brother and a Harvard math professor were also named beneficiaries."
   },
   {
-    "title": "U.K. Investigates Peter Mandelson Over Jeffrey Epstein Ties",
-    "link": "https://www.nytimes.com/2026/02/03/world/europe/peter-mandelson-uk-epstein.html",
-    "summary": "Peter Mandelson, a prominent British political figure, faces allegations of “misconduct in public office offenses” over his dealings with Jeffrey Epstein."
+    "title": "Catherine O’Hara, Star of ‘Best in Show,’ Honored in Westminster Tribute",
+    "link": "https://www.nytimes.com/2026/02/03/style/catherine-ohara-westminster-dog-show.html",
+    "summary": "Fans remembered the actress, who died last week at 71, for her role as the doting owner of a Norwich terrier destined for glory in the movie, a sendup of dog show culture."
+  },
+  {
+    "title": "Trump, Changing Course, Throws Harvard Deal Talks Into Chaos",
+    "link": "https://www.nytimes.com/2026/02/03/us/politics/trump-changing-course-throws-harvard-deal-talks-into-chaos.html",
+    "summary": "In the latest example of his mercurial negotiating style, President Trump went from dropping his ask for a $200 million fine to demanding $1 billion from the university."
+  },
+  {
+    "title": "Trump Repeats Call to ‘Nationalize’ Elections, as White House Walks It Back",
+    "link": "https://www.nytimes.com/2026/02/03/us/politics/trump-save-act-elections.html",
+    "summary": "President Trump’s extraordinary comments were the latest iteration of his unsubstantiated claims that U.S. elections are rigged as Republicans face potentially big losses next year."
+  },
+  {
+    "title": "Trump Scolds CNN’s Kaitlan Collins for ‘Not Smiling’",
+    "link": "https://www.nytimes.com/2026/02/03/us/politics/kaitlan-collins-smile-trump.html",
+    "summary": "Testy remarks from a president who has frequently singled out female journalists for criticism and personal attacks."
+  },
+  {
+    "title": "Renee Good’s Brothers Call on Congress to Rein In Immigration Crackdown",
+    "link": "https://www.nytimes.com/2026/02/03/us/renee-good-brothers-ice-congress.html",
+    "summary": "At a forum on Capitol Hill held by congressional Democrats, the brothers of the 37-year-old American citizen fatally shot by an ICE agent said immigration enforcement tactics must be dialed back."
+  },
+  {
+    "title": "Don Lemon Takes Stage at NYC Event After Arrest Over Minnesota Protest",
+    "link": "https://www.nytimes.com/2026/02/03/nyregion/don-lemon-city-winery.html",
+    "summary": "The anchorman, who was arrested over a protest in Minnesota, told an audience in Manhattan, “I’m not going to let them turn me around,” and sang lines from a civil rights era freedom song."
+  },
+  {
+    "title": "South Korea Questions Cram School Culture and Childhood Stress",
+    "link": "https://www.nytimes.com/2026/02/04/world/asia/south-korea-cram-schools-childhood-stress.html",
+    "summary": "Academic pressure has become so intense that even preschoolers are taking private extracurricular classes, raising worries about children’s rights."
+  },
+  {
+    "title": "How 2026 Winter Olympics Security Is Preparing For The Opening Ceremony",
+    "link": "https://www.nytimes.com/2026/02/04/world/europe/winter-olympics-security-milan-cortina.html",
+    "summary": "Thousands of police and security officers will work during the Milan-Cortina Games’ opening ceremony. The involvement of some U.S. ICE personnel has stirred opposition."
+  },
+  {
+    "title": "‘Neoroyalism’ and What It Says About Trump",
+    "link": "https://www.nytimes.com/2026/02/04/business/economy/trump-history-newroyalism.html",
+    "summary": "Experts are reaching to divine the president’s approach to global policy and economics, with one theory seeing antecedents in centuries-old dynastic rule."
   },
   {
     "title": "Plastic Surgeons’ Group Advises Delaying Gender-Affirming Procedures Until Age 19",
@@ -73,6 +63,11 @@
     "title": "Woman Wins Malpractice Suit Over Gender Surgery as a Minor",
     "link": "https://www.nytimes.com/2026/02/03/health/gender-surgery-malpractice-varian.html",
     "summary": "In a legal first, a jury in New York awarded $2 million to a patient who said that doctors had deviated from accepted medical standards."
+  },
+  {
+    "title": "Ruptures in China’s Leadership Could Be Due to Paranoia and Power Plays",
+    "link": "https://www.nytimes.com/2026/02/03/us/politics/china-xi-military-purge.html",
+    "summary": "U.S. intelligence analysts say that Xi Jinping, China’s leader, has a remarkable level of fear. He has carried out mass purges, and surprised many by removing his top general."
   },
   {
     "title": "Savannah Guthrie to Skip Olympics as Search for Mother, Nancy Guthrie, Yields Few Clues",
@@ -90,19 +85,14 @@
     "summary": "An analysis finds that flagship state universities, as well as less selective colleges, had major increases in Black and Hispanic students following a ban on race-conscious admissions."
   },
   {
-    "title": "Nick Shirley, the Influencer Who Spurred the Federal Crackdown in Minneapolis",
-    "link": "https://www.nytimes.com/2026/02/03/us/nick-shirley-san-diego.html",
-    "summary": "Nick Shirley had struggled to expand his reach. With a new approach after a missionary trip, he caused a sensation with a video about possible fraud."
+    "title": "Racial Debate Rattles Texas Democratic Primary for Senate",
+    "link": "https://www.nytimes.com/2026/02/03/us/politics/texas-democratic-primary-senate.html",
+    "summary": "State Representative James Talarico used the word “mediocre” in connection with a former House member who is Black. The controversy has repercussions for a key contest."
   },
   {
-    "title": "A Community Space for Team USA at the Winter Olympics Will No Longer Be Called ‘Ice House’",
-    "link": "https://www.nytimes.com/2026/02/03/sports/olympics-ice-house-name.html",
-    "summary": "U.S. Olympic officials are changing the name to Winter House, as Italians protest the similarly named federal agency’s presence at the Games in Italy."
-  },
-  {
-    "title": "San Francisco Mayor Daniel Lurie Focuses on Small City Changes Instead of Trump",
-    "link": "https://www.nytimes.com/2026/02/03/us/san-francisco-mayor-daniel-lurie.html",
-    "summary": "Daniel Lurie has made small changes instead of addressing national tensions, and his approval ratings have been strong. It remains to be seen how long he can avoid the political fray."
+    "title": "Walmart Joins Tech Giants With $1 Trillion Market Valuation",
+    "link": "https://www.nytimes.com/2026/02/03/business/walmart-trillion-market-value.html",
+    "summary": "The company’s rapid e-commerce growth and push into automation and artificial intelligence propelled its stock into the trillion-dollar club."
   },
   {
     "title": "Everyone Is Missing the Point About the ‘Melania’ Movie",
@@ -115,22 +105,22 @@
     "summary": "William Stevenson was arrested after being indicted on charges of first-degree murder in the death of his wife in December. He was married to Dr. Biden in the 1970s."
   },
   {
-    "title": "In Ohio, I Caught a Glimpse of the New Resistance",
-    "link": "https://www.nytimes.com/2026/02/03/opinion/ohio-resistance-trump-ice.html",
-    "summary": "It’s not just blue America where people are readying themselves for disaster."
-  },
-  {
     "title": "Will Newsom Be the Democrats’ Next Mistake?",
     "link": "https://www.nytimes.com/2026/02/03/opinion/gavin-newsom-memoir-president-2028.html",
     "summary": "The California governor’s record is exactly what Republicans want to run against."
   },
   {
-    "title": "The Shutdown Is Over, but Not the Clash Over ICE Funding",
-    "link": "https://www.nytimes.com/2026/02/03/briefing/shutdown-ice-funding-iran-drone.html",
-    "summary": "Also, colleges saw notable racial shifts in student enrollment. Here’s the latest at the end of Tuesday."
+    "title": "In Counting the Dead in Iran, a Picture of Ferocity",
+    "link": "https://www.nytimes.com/2026/02/04/opinion/iran-protests-death-toll.html",
+    "summary": "The high number of dead and wounded demonstrates the depths of the regime’s fears."
   },
   {
-    "title": "New Mission for a Pro-Business Agency in New York: Fighting for Workers",
+    "title": "Tyler Robinson’s Lawyers Press to Remove Prosecutors From Kirk Murder Case",
+    "link": "https://www.nytimes.com/2026/02/03/us/tyler-robinson-prosecutors-kirk-murder.html",
+    "summary": "Mr. Robinson’s lawyers argue that the entire prosecution team has a conflict of interest because one prosecutor’s daughter was present when Charlie Kirk was killed."
+  },
+  {
+    "title": "Mamdani Seeks New Mission for Pro-Business Agency: Fighting for Workers",
     "link": "https://www.nytimes.com/2026/02/03/nyregion/mamdani-economic-development-corporation-nyc.html",
     "summary": "According to a Jan. 2 memo obtained by The New York Times, Mayor Zohran Mamdani wants to remake the Economic Development Corporation to address affordability and workers’ rights."
   },
@@ -140,13 +130,8 @@
     "summary": "She fished off the New England coast for more than 80 years, and intended to continue until she died. “It’s not hard work for me,” she said at 101."
   },
   {
-    "title": "‘Biblical Diseases’ Could Resurge in Africa, Health Officials Fear",
-    "link": "https://www.nytimes.com/2026/02/03/health/neglected-tropical-diseases-usaid-ntds-river-blindness.html",
-    "summary": "Parasites and infections that cause blindness and other disabilities were nearly eliminated in some countries, but drug distribution to prevent and treat them was derailed in many places in 2025 after the U.S. cut aid."
-  },
-  {
-    "title": "U.S. Fighter Jet Shoots Down Iranian Drone Amid Heightened Tensions",
-    "link": "https://www.nytimes.com/2026/02/03/us/politics/us-iran-drone-downing.html",
-    "summary": "A U.S. fighter jet shot down the Iranian drone after it “unnecessarily maneuvered” toward the Abraham Lincoln aircraft carrier."
+    "title": "Backed by Mamdani, D.S.A. Candidate Wins Election for Mayor’s Old Seat",
+    "link": "https://www.nytimes.com/2026/02/03/nyregion/moreno-assembly-mamdani-election.html",
+    "summary": "Diana Moreno will serve the remainder of Mayor Zohran Mamdani’s term in the New York State Assembly in one of four special legislative elections decided on Tuesday."
   }
 ]

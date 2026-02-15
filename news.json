@@ -6,8 +6,13 @@
   },
   {
     "title": "More Than Ever, Videos Expose the Truth. And Cloud It, Too.",
-    "link": "https://www.nytimes.com/2026/02/15/us/politics/minneapolis-videos-killings-artificial-intellingence.html",
+    "link": "https://www.nytimes.com/2026/02/15/us/politics/minneapolis-videos-killings-artificial-intelligence.html",
     "summary": "In Minneapolis, videos of the Alex Pretti killing undermined the federal government’s account. But an A.I. video of Brad Pitt shows the dangers ahead."
+  },
+  {
+    "title": "In First Public Comments Since Trump’s Racist Video, Obama Laments Lost Decorum",
+    "link": "https://www.nytimes.com/2026/02/15/us/politics/obama-trump-video.html",
+    "summary": "In a podcast interview, former President Barack Obama did not directly address the video posted by Mr. Trump but denounced a “clown show” on social media."
   },
   {
     "title": "Texas Students Protest ICE Despite Gov. Greg Abbott’s Threats",
@@ -15,14 +20,14 @@
     "summary": "In dozens of states, students have staged walkouts over immigration enforcement. In Texas, they’re doing so despite threats from Gov. Greg Abbott."
   },
   {
-    "title": "U.S. Deports Nine Migrants in Secret, Ignoring Legal Protections",
-    "link": "https://www.nytimes.com/2026/02/14/world/africa/us-secret-deportation-cameroon.html",
-    "summary": "Most had court orders protecting them from removal to their home countries, so they were sent to detention in Cameroon."
+    "title": "Europe Today Looks Different From the One Trump’s Team Describes",
+    "link": "https://www.nytimes.com/2026/02/15/world/europe/europe-rubio-munich.html",
+    "summary": "Secretary of State Marco Rubio appealed to European leaders in Munich by stressing Christian and cultural bonds that are no longer universal."
   },
   {
-    "title": "Republican State Legislators Rush to Limit Their Own Regulators",
-    "link": "https://www.nytimes.com/2026/02/15/us/politics/states-deregulation.html",
-    "summary": "South Carolina’s state legislature is one of 17, mainly in heavily Republican states, that is moving to handcuff state agencies at a moment of tectonic changes in energy, technology and finance."
+    "title": "Trump’s Stinging Attack on Israel’s President Touches a Nerve",
+    "link": "https://www.nytimes.com/2026/02/15/world/middleeast/trump-israel-herzog-attacks.html",
+    "summary": "President Trump called President Isaac Herzog of Israel “disgraceful” because he has not yet pardoned Prime Minister Benjamin Netanyahu in his corruption trial."
   },
   {
     "title": "Shivering Americans Snap Up Firewood as Winter Grinds On",
@@ -30,24 +35,29 @@
     "summary": "Weeks of freezing temperatures and winter storms across parts of the United States have increased the demand for firewood and manufactured fire logs."
   },
   {
-    "title": "You’d Be Surprised to See Where Many Olympians Keep Their Medals",
-    "link": "https://www.nytimes.com/2026/02/15/world/europe/olympic-medals-sock-drawers.html",
-    "summary": "Athletes train and sweat for years in pursuit of the glittering prizes. Many store them in the least glamorous places."
-  },
-  {
-    "title": "Making the Dancing Lions for Lunar New York Celebrations",
-    "link": "https://www.nytimes.com/2026/02/15/arts/design/lion-dancing-chinese-lunar-new-years-san-francisco.html",
-    "summary": "In a San Francisco garage, Corey Chan and his team create giant, spectacular lions that will lead the festivities."
+    "title": "On the Las Vegas Strip, Local Acts at Delilah and Elsewhere Set the Vibe",
+    "link": "https://www.nytimes.com/2026/02/15/travel/las-vegas-strip-singers-lounges.html",
+    "summary": "On the Strip and beyond, clubs, bars and restaurants spotlight local performers who deliver some of the city’s best entertainment."
   },
   {
     "title": "What They Wanted From Jeffrey Epstein",
     "link": "https://www.nytimes.com/2026/02/15/opinion/jeffrey-epstein-ro-khanna.html",
-    "summary": "His network may not have known everything, but it is hard to deny that many of them knew enough to know better."
+    "summary": "Epstein’s network may not have known everything, but it is hard to deny that many of them knew enough to know better."
   },
   {
     "title": "The Olympics Take Themselves Too Seriously. Bring Back Ski Ballet.",
     "link": "https://www.nytimes.com/2026/02/15/opinion/ski-ballet-olympics.html",
     "summary": "You want at least one weird entree on the Olympics menu, even if only for the pleasure of not ordering it."
+  },
+  {
+    "title": "Everybody’s Mom",
+    "link": "https://www.nytimes.com/2026/02/15/briefing/nancy-guthrie-disappearance.html",
+    "summary": "We explore why we care so much about the disappearance of Nancy Guthrie."
+  },
+  {
+    "title": "Republican State Legislators Rush to Limit Their Own Regulators",
+    "link": "https://www.nytimes.com/2026/02/15/us/politics/states-deregulation.html",
+    "summary": "South Carolina’s state legislature is one of 17, mainly in heavily Republican states, that is moving to handcuff state agencies at a moment of tectonic changes in energy, technology and finance."
   },
   {
     "title": "Iran Protester Dies in Custody, Raising Fears of Execution",
@@ -58,15 +68,5 @@
     "title": "Islamist Party’s Rise Overshadows Student Revolution in Bangladesh",
     "link": "https://www.nytimes.com/2026/02/15/world/asia/bangladesh-election-students-islam.html",
     "summary": "The party is dedicated to running the country under Islamic law, but ran on a more moderate platform. It gained far more seats in last week’s election than it ever had before."
-  },
-  {
-    "title": "Software? No Way. We’re an A.I. Company Now!",
-    "link": "https://www.nytimes.com/2026/02/14/business/dealbook/software-companies-ai.html",
-    "summary": "As their stocks tank, software makers are rebranding themselves as A.I. innovators. Sparkle emojis are everywhere, but some efforts have been more successful than others."
-  },
-  {
-    "title": "What We Know About the Kidnapping of Nancy Guthrie, Savannah Guthrie’s Mother",
-    "link": "https://www.nytimes.com/article/savannah-guthrie-mom-missing.html",
-    "summary": "Nancy Guthrie, 84, the “Today” show anchor’s mother, vanished from her Arizona home on Feb. 1. In the time since, very little new information has come to light."
   }
 ]

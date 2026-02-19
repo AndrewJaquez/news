@@ -1,8 +1,18 @@
 [
   {
-    "title": "U.S. Military Moves Into Place for Possible Strikes in Iran",
+    "title": "As Trump Weighs Possible Iran Strikes, U.S. Military Moves Into Place",
     "link": "https://www.nytimes.com/2026/02/18/us/politics/us-military-iran.html",
     "summary": "President Trump has given no indication that he has made a decision about how to proceed, as diplomatic talks continue."
+  },
+  {
+    "title": "Maps: Where the U.S. Is Building Up Military Force Near Iran",
+    "link": "https://www.nytimes.com/2026/01/29/us/politics/trump-iran-us-military-maps.html",
+    "summary": "President Trump has not authorized military action in Iran, but the United States has built up its presence in the region in recent weeks. Now it’s sending even more firepower."
+  },
+  {
+    "title": "Sugar Bowl Academy Says Multiple Victims Were Tied to Its Ski Resort School",
+    "link": "https://www.nytimes.com/2026/02/18/us/tahoe-avalanche-skiers-sugar-bowl-school.html",
+    "summary": "Sugar Bowl Academy, a ski-focused private school in the Sierra Nevada, said that multiple people on the fatal trek were connected to its program."
   },
   {
     "title": "Satellite Feature on iPhone Allowed Skiers to Seek Help After Avalanche",
@@ -15,9 +25,14 @@
     "summary": "The agency is ramping up arrests, but local pushback is complicating efforts to expand detention capacity and prevent overcrowding."
   },
   {
-    "title": "A Case Against 6 Democrats Lacked Urgency. Then Came a Swift Bid for an Indictment.",
-    "link": "https://www.nytimes.com/2026/02/18/us/politics/pirro-inquiry-video-democratic-lawmakers.html",
-    "summary": "Prosecutors have been repeatedly caught between the president’s insistence that they undertake weak or baseless cases and the necessity of having to go to court."
+    "title": "Donald J. Trump International Airport? The President’s Company Trademarked It.",
+    "link": "https://www.nytimes.com/2026/02/18/us/politics/trump-trademark-airport-name.html",
+    "summary": "The Trump organization said the move was necessary to protect the brand as Florida prepares to rename an airport after the president."
+  },
+  {
+    "title": "Officials Violated Court Orders on Immigration in New Jersey, Justice Dept. Tells Judge",
+    "link": "https://www.nytimes.com/2026/02/18/us/politics/court-orders-new-jersey-immigrants.html",
+    "summary": "The violations stemmed from immigration cases. Judges across the country have expressed alarm about illegal transfers and missed deadlines."
   },
   {
     "title": "Administration Targets Noncitizen Voting, Despite Finding It Rare",
@@ -25,14 +40,34 @@
     "summary": "The intensified push is part of an extraordinary all-fronts effort to insert federal law enforcement into the machinery of American elections ahead of the midterms."
   },
   {
-    "title": "Colorado Democrats Push to Rip Up 2028 House Map for an Extra Edge",
-    "link": "https://www.nytimes.com/2026/02/18/us/politics/colorado-redistricting-house-map-2028.html",
-    "summary": "A proposed ballot measure to give Democrats more seats for the 2028 and 2030 elections signals that the nation’s gerrymandering fight is likely to persist for years."
-  },
-  {
     "title": "Texas Election Season Heats Up as Early Voting in Senate Primaries Begins",
     "link": "https://www.nytimes.com/2026/02/18/us/politics/texas-elections-senate-primary.html",
     "summary": "Both parties’ Senate primary races are kicking into high gear."
+  },
+  {
+    "title": "These Olympians Excel on Two Types of Tracks",
+    "link": "https://www.nytimes.com/2026/02/19/world/olympics/these-olympians-excel-on-two-types-of-tracks.html",
+    "summary": "Among elite athletes exists an even more exclusive club: people who compete at both the Summer and Winter Games. Many are sprinters who turn to bobsled."
+  },
+  {
+    "title": "Russia Celebrated Him. Now He’s Accused of Having Troops Shoot Themselves.",
+    "link": "https://www.nytimes.com/2026/02/19/world/europe/russia-military-corruption.html",
+    "summary": "A lieutenant colonel is on trial after being accused of skimming payments for battlefield injuries. He denies the specifics of Russia’s accusation but acknowledges engaging in a payouts scheme."
+  },
+  {
+    "title": "The Behind the Scenes Search for Compromise on Territory in Ukraine Talks",
+    "link": "https://www.nytimes.com/2026/02/18/world/europe/ukraine-russia-peace-talks-demilitarized-zone.html",
+    "summary": "The latest round of talks ended with no indication of progress, but negotiators are bargaining over who will control land in eastern Ukraine if they reach a settlement."
+  },
+  {
+    "title": "Money Talks as India Searches for Its Place in Global A.I.",
+    "link": "https://www.nytimes.com/2026/02/19/business/india-ai-impact-summit.html",
+    "summary": "Narendra Modi, the prime minister, convened foreign leaders, the richest Silicon Valley companies and thousands of Indian entrepreneurs for a week of deal making."
+  },
+  {
+    "title": "Defense Department and Anthropic Square Off in Dispute Over A.I. Safety",
+    "link": "https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html",
+    "summary": "How artificial intelligence will be used in future battlefields is an issue that has turned increasingly political and may put Anthropic in a bind."
   },
   {
     "title": "Kansas, Idaho, Utah, Oklahoma in New Push to Restrict Transgender Rights",
@@ -45,39 +80,14 @@
     "summary": "The beating death of Quentin Deranque has quickly become a flashpoint between the far right and far left as France prepares for local elections next month and presidential elections next year."
   },
   {
-    "title": "Donald J. Trump International Airport? The President’s Company Trademarked It.",
-    "link": "https://www.nytimes.com/2026/02/18/us/politics/trump-trademark-airport-name.html",
-    "summary": "The Trump organization said the move was necessary to protect the brand as Florida prepares to rename an airport after the president."
-  },
-  {
-    "title": "Mark Zuckerberg Takes the Stand in Social Media Addiction Trial",
-    "link": "https://www.nytimes.com/2026/02/18/technology/mark-zuckerberg-tech-addiction-trial.html",
-    "summary": "Meta’s chief executive said users spent a lot of time on Instagram because of its value, as he was grilled about child safety issues in front of a jury."
+    "title": "What To Know About the Trial of Yoon Suk Yeol, South Korea’s Ousted Leader",
+    "link": "https://www.nytimes.com/2026/02/19/world/asia/yoon-sentencing-south-korea.html",
+    "summary": "Judges will rule on Thursday in the insurrection trial of former President Yoon Suk Yeol. He could get the death penalty for his short-lived imposition of martial law in 2024."
   },
   {
     "title": "In Guthrie Mystery, Rampant Speculation Is Like ‘Salt on the Open Wound’",
     "link": "https://www.nytimes.com/2026/02/18/us/nancy-guthrie-kidnapping-theories-true-crime.html",
     "summary": "True crime obsessives, internet theorizers and livestreamers are complicating the investigation of the kidnapping of Nancy Guthrie, the mother of the “Today” show host Savannah Guthrie."
-  },
-  {
-    "title": "Defense Department and Anthropic Square Off in Dispute Over A.I. Safety",
-    "link": "https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html",
-    "summary": "How artificial intelligence will be used in future battlefields is an issue that has turned increasingly political and may put Anthropic in a bind."
-  },
-  {
-    "title": "Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei",
-    "link": "https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html",
-    "summary": "The company is at odds with the Pentagon over how its A.I. will be used. The conflict has its roots in the foundational plan for Anthropic."
-  },
-  {
-    "title": "What Do A.I. Chatbots Discuss Among Themselves? We Sent One to Find Out.",
-    "link": "https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html",
-    "summary": "We interviewed our bot about what it learned on Moltbook, the A.I.-only social network."
-  },
-  {
-    "title": "Can Love Be Addictive? Many Say Yes — and It’s Changing Our Idea of Romance.",
-    "link": "https://www.nytimes.com/2026/02/18/magazine/love-addiction-disorder-explained.html",
-    "summary": "Poems and songs say love should be world-shattering. The logic of love addiction suggests that it shouldn’t."
   },
   {
     "title": "Ethan Hawke on ‘Blue Moon,’ ‘Reality Bites’ and the Lessons He’s Learned",
@@ -100,19 +110,14 @@
     "summary": "Ordinary citizens have a range of legal tools to hold the rich and politically connected accountable."
   },
   {
-    "title": "An Avalanche Near Lake Tahoe Kills at Least 8",
-    "link": "https://www.nytimes.com/2026/02/18/briefing/an-avalanche-near-lake-tahoe-kills-at-least-8.html",
-    "summary": "Also, Mark Zuckerberg takes the stand. Here's the latest at the end of Wednesday."
+    "title": "Bernie Sanders Urges Support of California Billionaire Tax at Los Angeles Rally",
+    "link": "https://www.nytimes.com/2026/02/19/us/bernie-sanders-california-billionaire-tax.html",
+    "summary": "The senator from Vermont was the only elected leader at the event, which formally kicked off a health care union’s campaign to put the tax proposal on the ballot."
   },
   {
-    "title": "How Intense Should Love Really Be? We Want to Hear Your Thoughts.",
-    "link": "https://www.nytimes.com/2026/02/18/magazine/love-addiction-thoughts.html",
-    "summary": "Have you ever been called a “love addict?” Ever suspected somebody else was?"
-  },
-  {
-    "title": "Leslie Wexner Says Epstein ‘Conned’ Him, but Democrats Are Skeptical",
-    "link": "https://www.nytimes.com/2026/02/18/us/politics/wexner-epstein-deposition.html",
-    "summary": "House Republicans skipped a deposition with Leslie Wexner, the retail billionaire, and Democrats said his answers were not credible."
+    "title": "Texas Congressman’s Aide Told Co-Worker of Affair Before Killing Herself",
+    "link": "https://www.nytimes.com/2026/02/18/us/politics/texas-gonzales-suicide-affair.html",
+    "summary": "The co-worker, who no longer works for Representative Tony Gonzales, shared screenshots of the text exchange with The New York Times. Mr. Gonzales accused his Republican primary challenger of being behind the revelation."
   },
   {
     "title": "Shipwreck Found at the Bottom of Lake Michigan After Nearly 150 Years",
@@ -120,13 +125,8 @@
     "summary": "The steamer Lac La Belle, which was carrying passengers and cargo, sank in a storm in 1872. Eight people died when one of its lifeboats capsized."
   },
   {
-    "title": "Mamdani to Reinstitute Homeless Encampment Sweeps",
-    "link": "https://www.nytimes.com/2026/02/18/nyregion/homeless-encampment-mamdani-nyc.html",
-    "summary": "Mayor Zohran Mamdani will place the Department of Homeless Services in charge of the sweeps, replacing the Police Department as leader of the interagency efforts."
-  },
-  {
-    "title": "Journalists Arrested in Cameroon While Covering Secretive U.S. Deportations",
-    "link": "https://www.nytimes.com/2026/02/18/world/africa/cameroon-journalists-arrested-deportees.html",
-    "summary": "An Associated Press reporter was hit and held with three other journalists and a lawyer, two detainees said, while at a center for migrants secretively deported from the United States."
+    "title": "Police Chief Hired to Help Lead N.Y.C. Hospital Patrols Abruptly Quits",
+    "link": "https://www.nytimes.com/2026/02/18/nyregion/jamiel-altaheri-hamtramck-nyc-hospitals.html",
+    "summary": "The assistant chief, Jamiel Altaheri, resigned almost immediately after starting the job, after The New York Times asked about misconduct allegations while he was a police chief in Michigan."
   }
 ]

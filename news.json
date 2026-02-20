@@ -1,8 +1,38 @@
 [
   {
-    "title": "With ‘Tremendous’ Deals at Stake, Trump Is Bringing Russia in From the Cold",
-    "link": "https://www.nytimes.com/2026/02/19/us/politics/trump-russia-deals-novatek.html",
-    "summary": "Since President Trump took office more than a year ago, the Kremlin has dangled possible investments in front of the famously transactional leader. The message is starting to resonate with investors."
+    "title": "A New U.S. Blockade Is Strangling Cuba",
+    "link": "https://www.nytimes.com/2026/02/20/world/americas/cuba-oil-blockade-trump.html",
+    "summary": "An analysis of ship movements shows that the Trump administration is isolating the island at one of its most vulnerable moments."
+  },
+  {
+    "title": "Venezuela Passes Amnesty Bill Denounced by Some as ‘Unjust’",
+    "link": "https://www.nytimes.com/2026/02/19/world/americas/venezuela-amnesty-bill-prisoners.html",
+    "summary": "The bill may bring the release of hundreds of political prisoners. But many critics say the legislation, passed after major pressure from the Trump administration, raises concerns."
+  },
+  {
+    "title": "MAHA Moms Turn Against Trump, and More States Rush to Limit Transgender Rights",
+    "link": "https://www.nytimes.com/2026/02/20/podcasts/the-headlines/maha-moms-turn-against-trump-and-more-states-rush-to-limit-transgender-rights.html",
+    "summary": "Plus, your Friday news quiz."
+  },
+  {
+    "title": "Former Prince Andrew’s Arrest Upends Royal Family’s Effort to Move Past His Scandal",
+    "link": "https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-arrest-epstein-royal-family-uk.html",
+    "summary": "King Charles III’s family, long rocked by infighting and grievous losses, is facing what could be the gravest threat to its moral authority in more than a generation."
+  },
+  {
+    "title": "British Police Search Mansion Used by Former Prince Andrew",
+    "link": "https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-search-epstein.html",
+    "summary": "Andrew Mountbatten-Windsor, who is being investigated on suspicion of misconduct in public office, was released after an arrest that plunged the British royal family into crisis."
+  },
+  {
+    "title": "How The Times Made Judgment Calls on Covering the Arrest",
+    "link": "https://www.nytimes.com/2026/02/19/insider/prince-andrew-arrest-new-york-times.html",
+    "summary": "Andrew Mountbatten-Windsor was arrested on suspicion of misconduct in public office, then released hours later. Two Times reporters explain how they are covering the unprecedented moment."
+  },
+  {
+    "title": "A Royal Arrest",
+    "link": "https://www.nytimes.com/2026/02/20/briefing/a-royal-arrest.html",
+    "summary": "We look at the case of Andrew Mountbatten-Windsor."
   },
   {
     "title": "As Trump Weighs Iran Strikes, He Declines to Make Clear Case for Why",
@@ -10,34 +40,39 @@
     "summary": "Rarely in modern times has the United States prepared to conduct a major act of war with so little explanation or public debate."
   },
   {
-    "title": "Refugees Without Green Cards Could Be Arrested Under New Trump Policy",
-    "link": "https://www.nytimes.com/2026/02/19/us/politics/refugees-green-cards.html",
-    "summary": "The change is part of the administration’s broad effort to target refugees and tighten pathways for immigrants to legally enter or remain in the United States."
+    "title": "Trump Has a Head-Spinning Day, but Republicans Want Him to Focus",
+    "link": "https://www.nytimes.com/2026/02/19/us/politics/trump-republicans-focus-economy.html",
+    "summary": "President Trump’s advisers want him to lock down a message on the economy that will resonate ahead of the midterms. But Mr. Trump is never one to stay on message."
   },
   {
-    "title": "MAHA Moms Turn Against Trump: ‘Women Feel Like They Were Lied To’",
-    "link": "https://www.nytimes.com/2026/02/19/us/politics/maha-moms-glyphosate-roundup-robert-kennedy.html",
-    "summary": "President Trump’s executive order aimed at spurring production of a pesticide has infuriated leaders of Health Secretary Robert F. Kennedy Jr.’s MAHA movement."
+    "title": "Trump Says He Will Release Files on Aliens and U.F.O.s",
+    "link": "https://www.nytimes.com/2026/02/19/us/politics/trump-ufos-aliens-files.html",
+    "summary": "President Trump had lashed out at former President Barack Obama earlier Thursday for telling a podcaster that aliens were real."
   },
   {
-    "title": "British Police Arrest Former Prince Andrew Amid Scrutiny Over Epstein Ties",
-    "link": "https://www.nytimes.com/2026/02/19/world/europe/prince-andrew-arrest-epstein.html",
-    "summary": "Andrew Mountbatten-Windsor, a longtime associate of Jeffrey Epstein, is being investigated on suspicion of misconduct in public office."
+    "title": "With ‘Tremendous’ Deals at Stake, Trump Is Bringing Russia in From the Cold",
+    "link": "https://www.nytimes.com/2026/02/19/us/politics/trump-russia-deals-novatek.html",
+    "summary": "Since President Trump took office more than a year ago, the Kremlin has dangled possible investments in front of the famously transactional leader. The message is starting to resonate with investors."
   },
   {
-    "title": "Former Prince Andrew’s Arrest Casts Shadow Over UK Monarchy",
-    "link": "https://www.nytimes.com/2026/02/19/world/europe/prince-andrew-epstein-royal-family.html",
-    "summary": "The arrest of the former prince could shake public confidence in the monarchy."
+    "title": "Can an A.I. Productivity Boom Clear a Path for More Rate Cuts? Trump’s Fed Pick Thinks So.",
+    "link": "https://www.nytimes.com/2026/02/20/business/can-an-ai-productivity-boom-clear-a-path-for-more-rate-cuts-trumps-fed-pick-thinks-so.html",
+    "summary": "As Federal Reserve chair, Kevin M. Warsh may face a tough task persuading his colleagues to lower borrowing costs because of potential productivity gains."
   },
   {
-    "title": "A British police force that serves as royal protectors arrested a former prince.",
-    "link": "https://www.nytimes.com/live/2026/02/19/world/uk-prince-andrew-arrest-epstein/a-british-police-force-that-serves-as-royal-protectors-arrested-a-former-prince",
-    "summary": ""
+    "title": "Mixed Signals Churn Stock Market Despite Recent Highs",
+    "link": "https://www.nytimes.com/2026/02/20/business/stocks-markets-mixed-signals.html",
+    "summary": "Major indexes have mostly been treading water for months, as investors’ exuberance for artificial intelligence wears off."
   },
   {
-    "title": "Labor Secretary’s Husband Barred From Department Premises After Reports of Sexual Assaults",
-    "link": "https://www.nytimes.com/2026/02/19/business/labor-secretary-husband-sexual-assault-allegations.html",
-    "summary": "At least two female staff members said Dr. Shawn DeRemer had touched them inappropriately at the agency in Washington."
+    "title": "What Curling Tells Us About the Mystery of Ice",
+    "link": "https://www.nytimes.com/video/weather/100000010680055/curling-ice-olympics.html",
+    "summary": "Scientists are still discovering new theories on why ice is slippery. Our meteorologist Judson Jones and multimedia editor Joel Eastwood go curling to see how these theories could help Olympians achieve gold medals."
+  },
+  {
+    "title": "Head of Russia’s Antidoping Agency Was Involved in 2014 Doping Scheme, Whistle-Blower Claims",
+    "link": "https://www.nytimes.com/2026/02/20/world/europe/olympics-doping-russia.html",
+    "summary": "The accusation surfaced as Russia tries to re-establish its Olympics eligibility."
   },
   {
     "title": "Two Sisters Died in Tahoe Area Avalanche During Trek With Friends",
@@ -45,9 +80,14 @@
     "summary": "Families and friends of the women, many from the Bay Area, confirmed their identities. The women went on regular trips to the Tahoe region and were experienced skiers, the families said."
   },
   {
-    "title": "What We Know About the Victims of the Tahoe Area Avalanche",
-    "link": "https://www.nytimes.com/2026/02/18/us/tahoe-avalanche-skiers-sugar-bowl-school.html",
-    "summary": "Many of the people on the fatal trek were women — mothers, sisters and wives — with ties to Marin County, Calif."
+    "title": "Was Anyone at Fault in Sierra Nevada Avalanche Deaths?",
+    "link": "https://www.nytimes.com/2026/02/20/us/tahoe-area-avalanche-deaths-investigation.html",
+    "summary": "Few laws govern backcountry skiing in California. Experts say that people engage in the sport at their own risk, but guides have responsibilities to keep clients safe."
+  },
+  {
+    "title": "Why the United States Is Seeing an Ongoing Tourism Slump",
+    "link": "https://www.nytimes.com/2026/02/20/travel/us-tourism-declines-eu-canada.html",
+    "summary": "Last year, the U.S. was the only major destination to see a decline in international travelers. With increased scrutiny at the border, ICE violence and unpredictable policies, the new year isn’t looking better."
   },
   {
     "title": "Ukrainian Women Tell Their Stories of Sexual Violence by Russian Soldiers",
@@ -60,68 +100,53 @@
     "summary": "His breakout role came in 2006 as the handsome Dr. Mark Sloan, nicknamed McSteamy, the head of plastic surgery at a Seattle hospital. He died 10 months after announcing his A.L.S. diagnosis."
   },
   {
-    "title": "Trump Says He Will Release Files on Aliens and U.F.O.s",
-    "link": "https://www.nytimes.com/2026/02/19/us/politics/trump-ufos-aliens-files.html",
-    "summary": "President Trump had lashed out at former President Barack Obama earlier Thursday for telling a podcaster that aliens were real."
+    "title": "South Texas Democrats Will Steer Party’s Direction, Left or Center",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/hispanics-democrats-midterms.html",
+    "summary": "Like many Democratic primaries, the fight for the right to challenge a Republican House member in the Rio Grande Valley comes down to a choice, shift left or choose the party’s favorite for November."
   },
   {
-    "title": "Venezuela Passes Amnesty Bill Denounced by Some as ‘Unjust’",
-    "link": "https://www.nytimes.com/2026/02/19/world/americas/venezuela-amnesty-bill-prisoners.html",
-    "summary": "The bill may bring the release of hundreds of political prisoners. But many critics say the legislation, passed after major pressure from the Trump administration, raises concerns."
+    "title": "Long Before ‘The Pitt,’ There Was the Freedom House",
+    "link": "https://www.nytimes.com/2026/02/20/us/freedom-house-ambulance-service-congress.html",
+    "summary": "Freedom House Ambulance Service in Pittsburgh, a pioneer in emergency care, was largely forgotten. Now, members of Congress want to honor it."
   },
   {
-    "title": "A Press Freedom Case in Peril, From a Lawyer Who Helped Write It",
-    "link": "https://www.nytimes.com/2026/02/19/us/politics/thedocket-dershowitz-sullivan.html",
-    "summary": "Alan Dershowitz was present at the creation of New York Times v. Sullivan. Now he is asking the Supreme Court to revise or destroy it."
+    "title": "He Was a Climate Activist. One Day, the F.B.I. Came Knocking.",
+    "link": "https://www.nytimes.com/2026/02/20/nyregion/environmental-activists-trump-crackdown.html",
+    "summary": "As the Trump administration cracks down on climate change activism, members of environmental groups like Extinction Rebellion fear they are being targeted."
   },
   {
-    "title": "How Did Draco Malfoy Get Mixed Up With Lunar New Year?",
-    "link": "https://www.nytimes.com/2026/02/19/world/asia/lunar-new-year-china-felton-malfoy-harry-potter.html",
-    "summary": "It all comes down to a love of wordplay."
-  },
-  {
-    "title": "Their Transgender Child’s Health Care Had Ended. What Now?",
-    "link": "https://www.nytimes.com/2026/02/19/nyregion/transgender-adolescents-nyu-langone-program-eliminated.html",
-    "summary": "In many ways, the parents whose adolescents had been receiving treatment at NYU Langone Health had been expecting this call. Still, they were stunned."
-  },
-  {
-    "title": "Some Reese’s Treats Drop the Milk Chocolate. Mr. Reese Disapproves.",
-    "link": "https://www.nytimes.com/2026/02/19/climate/reeses-chocolate-eggs-hersheys.html",
-    "summary": "With cocoa prices high, Hershey’s has changed some of its candy recipes. The grandson of the man who invented of the original Peanut Butter Cup said he was “embarrassed.”"
-  },
-  {
-    "title": "A Lonely Baby Monkey Wins Hearts, and Even a Few Friends",
-    "link": "https://www.nytimes.com/2026/02/19/world/asia/punch-macaque-monkey-japan.html",
-    "summary": "Legions of fans from around the world have been cheering on Punch, a 7-month-old macaque who had been struggling to socialize at a zoo outside Tokyo."
-  },
-  {
-    "title": "Americans Don’t Want War With Iran. Trump Doesn’t Care.",
+    "title": "This Is How an Autocrat Goes to War",
     "link": "https://www.nytimes.com/2026/02/20/opinion/trump-iran-public-opinion.html",
-    "summary": "All that matters to him is whether he thinks an attack is in his interests."
+    "summary": "All that matters to Trump is whether he thinks attacking Iran is in his interests."
   },
   {
-    "title": "Welcome to the Indian Century",
-    "link": "https://www.nytimes.com/2026/02/19/opinion/interesting-times-amitav-acharya.html",
-    "summary": "India is winning the standoff between America and China."
+    "title": "Inside Trump’s ‘Royal Court’",
+    "link": "https://www.nytimes.com/2026/02/20/opinion/ezra-klein-podcast-ashley-parker-michael-scherer.html",
+    "summary": "The Atlantic staff writers Ashley Parker and Michael Scherer explain how Trump’s White House works."
   },
   {
-    "title": "Police Investigate ICE Arrest of a Man Who Suffered Severe Head Injuries",
-    "link": "https://www.nytimes.com/2026/02/19/us/police-investigation-ice.html",
-    "summary": "The police in St. Paul, Minn., are investigating an arrest last month during the immigration crackdown. The man has said he was beaten by agents. ICE asserted that he ran into a wall."
+    "title": "Stephen Colbert Balks at Trump’s Board of Peace",
+    "link": "https://www.nytimes.com/2026/02/20/arts/television/stephen-colbert-trump-board-of-peace.html",
+    "summary": "“The Late Show” host called the group “kind of like the U.N., except instead of passing binding resolutions, you pass a greasy bag of money to Donald Trump.”"
   },
   {
-    "title": "Investigators Blame NASA and Boeing for Starliner Failures",
-    "link": "https://www.nytimes.com/2026/02/19/science/starliner-boeing-nasa-iss.html",
-    "summary": "Technical and oversight problems left two astronauts aboard the International Space Station for months longer than had been expected."
+    "title": "6 Weeks Later, These Nurses Are Still on Strike. But They’re Frustrated.",
+    "link": "https://www.nytimes.com/2026/02/20/nyregion/nyc-nurses-still-on-strike.html",
+    "summary": "While workers at four other New York hospitals voted to end their walkout, nurses at NewYork-Presbyterian/Columbia remain on the picket line."
   },
   {
-    "title": "Blue Owl Capital Sets Off New Fears About the Private Credit Industry",
-    "link": "https://www.nytimes.com/2026/02/19/business/blue-owl-stock-private-credit.html",
-    "summary": "The lender’s announcement that investors will no longer be able to ask for a set amount of money back from its funds prompted worries about the private credit industry."
+    "title": "Another Winter Storm Could Hit the Northeast This Weekend",
+    "link": "https://www.nytimes.com/2026/02/20/weather/new-york-snow-forecast.html",
+    "summary": "There’s a lot of hype, but not a lot of certainty among forecasters yet. Here are three scenarios to watch."
   },
   {
-    "title": "Powerful Winds and Wildfires Have the Southern Plains on Edge",
-    "link": "https://www.nytimes.com/2026/02/19/us/oklahoma-fire-texas.html",
-    "summary": "A combustible mix of weather ingredients has sparked worries about new fires in Oklahoma and Texas."
+    "title": "How China Is Stoking Fear About Travel to Japan",
+    "link": "https://www.nytimes.com/2026/02/20/world/asia/china-travel-japan-fear.html",
+    "summary": "From earthquake warnings to bear attack alerts, Beijing is deploying a campaign of exaggeration and disinformation to punish Tokyo’s support for Taiwan."
+  },
+  {
+    "title": "An Enemy’s Fall Frees Up South Korea’s Leader. Now Comes the Tough Part.",
+    "link": "https://www.nytimes.com/2026/02/20/world/asia/south-korea-lee-yoon.html",
+    "summary": "President Lee Jae Myung gained legitimacy from his predecessor’s conviction​. But South Korea’s political polarization is caustic, and could get worse."
   }
 ]

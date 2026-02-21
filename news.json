@@ -1,18 +1,18 @@
 [
   {
-    "title": "‘Murky Waters’ for Global Businesses After Trump’s Tariff Loss",
-    "link": "https://www.nytimes.com/2026/02/21/business/economy/tariffs-supreme-court-global-busines-reaction.html",
-    "summary": "Even after the Supreme Court invalidated many of the president’s levies, foreign leaders and executives assume that U.S. tariffs are here to stay, in one form or another."
+    "title": "Trump Says He Will Raise Global Tariff to 15 Percent",
+    "link": "https://www.nytimes.com/2026/02/21/business/trump-tariffs.html",
+    "summary": "The move signaled that the president would press ahead with steep global tariffs despite the legal setback from the Supreme Court."
+  },
+  {
+    "title": "Divide Among Supreme Court’s Conservatives Could Test Trump’s Agenda",
+    "link": "https://www.nytimes.com/2026/02/21/us/politics/supreme-court-tariffs-conservatives.html",
+    "summary": "In rejecting President Trump’s tariffs, the court’s six conservative justices displayed subtle differences in their views of executive power."
   },
   {
     "title": "Trump Doubles Down on Closing Tax Loophole on Cheap Imports",
     "link": "https://www.nytimes.com/2026/02/21/business/trump-deminimis-loophole-closed.html",
     "summary": "The exemption was shut down last year by President Trump based, in part, on the same legal grounds as the tariffs that were invalidated by the Supreme Court."
-  },
-  {
-    "title": "With Tariff Changes, Consumers May Be Stuck in a Waiting Game",
-    "link": "https://www.nytimes.com/2026/02/20/business/economy/tariff-ruling-consumer-prices.html",
-    "summary": "Some companies could decide to temper price increases, but the effect would take time to materialize."
   },
   {
     "title": "In Gorsuch’s Homage to Legislative Power, a Subtle Reproach of a Neutered Congress",
@@ -40,16 +40,6 @@
     "summary": "A prosecutor apologized for failing to alert the magistrate to a 1980 law that restricts searches for reporting materials."
   },
   {
-    "title": "Alysa Liu Trusted Her Artistry in Her Olympic Free Skate",
-    "link": "https://www.nytimes.com/2026/02/20/arts/dance/alysa-liu-figure-skating-winter-olympics.html",
-    "summary": "Competition can wreck a figure skater, but Liu and other Olympians shed the pressure and delivered transcendent performances focused on artistry."
-  },
-  {
-    "title": "Los Angeles Olympics Have a Cloud of Concerns as Winter Games Close",
-    "link": "https://www.nytimes.com/2026/02/21/us/la-olympics-casey-wasserman-epstein.html",
-    "summary": "New details about the LA28 chairman’s ties to Jeffrey Epstein, as well as anxiety over key infrastructure projects, have thrown the planning into disarray."
-  },
-  {
     "title": "Why Attacking Iran Could Be Riskier Than Capturing Maduro",
     "link": "https://www.nytimes.com/2026/02/21/world/middleeast/iran-military-operation-venezuela.html",
     "summary": "Iran’s extensive military abilities and network of regional proxies could draw the United States into a prolonged conflict."
@@ -58,6 +48,16 @@
     "title": "U.S. Planes Land at Jordan Base, a Key Hub for Planning Possible Iran Strikes",
     "link": "https://www.nytimes.com/2026/02/20/us/politics/us-military-jordan-iran.html",
     "summary": "At least 60 attack aircraft are parked at the base, which has become a key hub for U.S. military planning for possible strikes on Iran."
+  },
+  {
+    "title": "How Johannes Klaebo’s 6 Gold Medals Ranks Among the All-Time Olympic Performances",
+    "link": "https://www.nytimes.com/2026/02/21/world/olympics/best-olympic-performances.html",
+    "summary": "The Norwegian cross-country skier completed the biggest medal haul ever by an athlete at a Winter Games, and one of the biggest at any single Olympics."
+  },
+  {
+    "title": "Los Angeles Olympics Have a Cloud of Concerns as Winter Games Close",
+    "link": "https://www.nytimes.com/2026/02/21/us/la-olympics-casey-wasserman-epstein.html",
+    "summary": "New details about the LA28 chairman’s ties to Jeffrey Epstein, as well as anxiety over key infrastructure projects, have thrown the planning into disarray."
   },
   {
     "title": "He Researched Dishonesty. He Got Friendly With Jeffrey Epstein.",
@@ -70,28 +70,33 @@
     "summary": "The high court asserts itself as tariff sheriff."
   },
   {
-    "title": "‘A Cocked Pistol Aimed at Iran’",
-    "link": "https://www.nytimes.com/2026/02/21/opinion/iran-epstein-power.html",
-    "summary": "Three Opinion writers on Iran, Epstein and what power really looks like."
+    "title": "Epstein Was Only One of Thousands of Traffickers in the U.S.",
+    "link": "https://www.nytimes.com/2026/02/21/opinion/epstein-sex-trafficking.html",
+    "summary": "Every year, more than 100,000 children may be sold for sex in the United States. Are we willing to do something about that?"
   },
   {
-    "title": "At A.I. Summit, India Tries to Find a Way Between the U.S. and China",
-    "link": "https://www.nytimes.com/2026/02/21/world/asia/ai-summit-india-foreign-policy.html",
-    "summary": "India is using technology as a tool of foreign policy, casting itself as a moral voice for smaller, developing countries."
+    "title": "Future Perfect",
+    "link": "https://www.nytimes.com/2026/02/21/briefing/future-perfect.html",
+    "summary": "Does taking care of our future selves have to mean sacrifice in the present?"
   },
   {
-    "title": "Another Winter Storm Could Deliver More Snow to the Northeast This Weekend",
-    "link": "https://www.nytimes.com/2026/02/20/weather/new-york-snow-forecast.html",
-    "summary": "Forecasts on Friday began to make another major snowstorm look far more likely. Snow is expected to begin falling Sunday."
+    "title": "Blizzard Warnings Issued for Swath of East Coast, Including NYC",
+    "link": "https://www.nytimes.com/2026/02/21/us/blizzard-warnings-northeast-new-york.html",
+    "summary": "The blizzard warnings are the first since 2017 for New York City, which is expected to get up to 18 inches of snow, or more."
   },
   {
-    "title": "Ruben Ray Martinez Was Killed in an Undisclosed ICE Shooting in March, His Family Says",
-    "link": "https://www.nytimes.com/2026/02/20/us/ruben-ray-martinez-ice-shooting-texas.html",
-    "summary": "A 23-year-old American was shot last March in South Padre Island. ICE’s involvement in the shooting was not disclosed until this week."
+    "title": "Problem With Artemis Rocket Is Likely to Delay NASA’s Moon Mission",
+    "link": "https://www.nytimes.com/2026/02/21/science/nasa-artemis-helium-flaw.html",
+    "summary": "An interruption in the flow of helium to the upper stage may require that the rocket be removed from the launchpad for repairs."
   },
   {
-    "title": "These Skiers Cleared Out as Group That Would Be Hit by Avalanche Arrived",
-    "link": "https://www.nytimes.com/2026/02/20/us/avalanche-tahoe-huts.html",
-    "summary": "If the party had waited out the storm in their cabins, one of the skiers said, the outcome might have been different."
+    "title": "Bill Mazeroski, 89, Whose 9th-Inning Blast Made Pirates Champs, Is Dead",
+    "link": "https://www.nytimes.com/2026/02/21/sports/baseball/bill-mazeroski-dead.html",
+    "summary": "It was Game 7 of the 1960 World Series, when an infielder known for his glove, not his bat, crushed the powerful Yankees with one swing, bringing joy to Pittsburgh."
+  },
+  {
+    "title": "How $600 Drones Are Outsmarting Colombia’s Billion-Dollar Military",
+    "link": "https://www.nytimes.com/2026/02/21/world/americas/colombia-combat-drones-military.html",
+    "summary": "Security officials say easy access by guerrilla groups to commercial drones, cheaply modified into deadly weapons, has put the nation’s army on its heels."
   }
 ]

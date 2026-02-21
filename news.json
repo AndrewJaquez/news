@@ -1,23 +1,28 @@
 [
   {
-    "title": "The Supreme Court’s Declaration of Independence",
-    "link": "https://www.nytimes.com/2026/02/20/us/politics/supreme-court-trump-roberts-tariffs.html",
-    "summary": "The court’s rejection of President Trump’s tariffs program is the latest in a series of clashes between him and Chief Justice John G. Roberts Jr."
+    "title": "After Supreme Court Loss, Trump Plans to Impose Global Tariffs Using Different Laws",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-tariffs-plans.html",
+    "summary": "The administration has been preparing for months for the possibility that the Supreme Court would rule against the president and developed contingency plans."
   },
   {
-    "title": "After Tariff Decision, What Happens to Trump’s Deals With China, Canada and Europe?",
-    "link": "https://www.nytimes.com/2026/02/20/business/economy/what-happens-to-all-these-trade-deals-now.html",
-    "summary": "The Supreme Court’s decision to invalidate many of President Trump’s tariffs raised questions about what would become of agreements struck with major U.S. trading partners."
-  },
-  {
-    "title": "Trump Calls Justices Who Ruled Against Him ‘Fools and Lap Dogs’",
+    "title": "Even After Supreme Court Ruling, Trump Insists He Can Do as He Wishes",
     "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-justices-gorsuch-barrett-roberts.html",
-    "summary": "“I’m ashamed of certain members of the court, absolutely ashamed for not having the courage to do what’s right for our country,” the president said."
+    "summary": "President Trump showed open contempt for the court, calling the justices who voted against his tariffs “fools and lap dogs.” He quickly imposed new levies using legal powers still available to him."
+  },
+  {
+    "title": "With Tariff Changes, Consumers May Be Stuck in a Waiting Game",
+    "link": "https://www.nytimes.com/2026/02/20/business/economy/tariff-ruling-consumer-prices.html",
+    "summary": "Some companies could decide to temper price increases, but the effect would take time to materialize."
   },
   {
     "title": "Bench Presses, Pull Ups … Kid Rock? The White House Had a Very Manly Week.",
     "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-hegseth-rfk-manliness.html",
     "summary": "President Trump’s top cabinet officials are pumping iron in public."
+  },
+  {
+    "title": "Longtime Virginia Lawyer Chosen by Judges as U.S. Attorney, and Then Fired",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/us-attorney-eastern-district-of-virginia.html",
+    "summary": "It was the second time this month that the administration had gotten rid of a top federal prosecutor appointed to his post by federal judges."
   },
   {
     "title": "C.I.A. Retracts Reports Flagged for Bias",
@@ -45,14 +50,19 @@
     "summary": "If the party had waited out the storm in their cabins, one of the skiers said, the outcome might have been different."
   },
   {
-    "title": "Was Anyone at Fault in Sierra Nevada Avalanche Deaths?",
-    "link": "https://www.nytimes.com/2026/02/20/us/tahoe-area-avalanche-deaths-investigation.html",
-    "summary": "Officials in Nevada County, Calif., are investigating whether there could have been criminal negligence involved in the disaster that killed at least eight people."
-  },
-  {
     "title": "San José State University Graduate Is Found Dead in Tree Well at Lake Tahoe Resort",
     "link": "https://www.nytimes.com/2026/02/20/us/san-jose-state-skier-dead.html",
     "summary": "The recent graduate, 21, was on a trail in the Lake Tahoe region of California on Tuesday and did not return, prompting a search. His death is under investigation, the authorities said."
+  },
+  {
+    "title": "Bridge Owner Donated $1 Million to MAGA Group Before Trump Blasted Competitor",
+    "link": "https://www.nytimes.com/2026/02/20/us/politics/trump-canada-bridge-maga-inc-donation.html",
+    "summary": "The PAC and the White House say the donation had nothing to do with President Trump’s tirade against a new bridge connecting Detroit and Windsor, Ontario."
+  },
+  {
+    "title": "A Once Prominent American Statesman Faces Fallout From the Epstein Files",
+    "link": "https://www.nytimes.com/2026/02/20/us/epstein-george-mitchell-ireland-maine.html",
+    "summary": "George Mitchell, a former Senate majority leader credited with bringing peace to Northern Ireland, is under renewed scrutiny over his association with Jeffrey Epstein."
   },
   {
     "title": "Former Prince Andrew’s Arrest Upends Royal Family’s Effort to Move Past His Scandal",
@@ -60,24 +70,29 @@
     "summary": "King Charles III’s family, long rocked by infighting and grievous losses, is facing what could be the gravest threat to its moral authority in more than a generation."
   },
   {
+    "title": "Epstein Scandal Leaves Some Young Trump Voters Feeling Betrayed",
+    "link": "https://www.nytimes.com/2026/02/20/style/epstein-files-young-conservatives.html",
+    "summary": "Drawn to President Trump for his pledge to take down the political elite, some of his young constituents say he has failed them."
+  },
+  {
     "title": "A.I. Isn’t Coming for Every White-Collar Job. At Least Not Yet.",
     "link": "https://www.nytimes.com/2026/02/20/technology/ai-coding-software-jobs.html",
     "summary": "Tech workers are increasingly worried that the artificial intelligence they are building will replace them. But some are optimistic that it is just one more tool to work with."
   },
   {
-    "title": "In Tibet, a Writer Finds Peace on a Trek to 18,000 Feet",
-    "link": "https://www.nytimes.com/2026/02/20/travel/tibet-trail-mount-kailash-pilgrimage.html",
-    "summary": "A writer grapples with the death of her sister, and the end of a marriage, during a challenging trek in Tibet."
+    "title": "Gisèle Pelicot Survived Mass Rape. Now She’s Looking to the Future.",
+    "link": "https://www.nytimes.com/2026/02/21/gisele-pelicot-interview-hymn-to-life.html",
+    "summary": "Gisèle Pelicot stayed silent after dozens of men were convicted of raping her. Now, Ms. Pelicot is finding peace by publicizing her ordeal and explaining how she survived it."
   },
   {
-    "title": "India’s Hindu Right Seems Unstoppable. This City Shows How.",
-    "link": "https://www.nytimes.com/2026/02/20/world/asia/india-hindu-muslims-mosque.html",
-    "summary": "Muslims make up a majority in Sambhal, but after deadly clashes over a mosque, they say they the arms of the state are now stifling them."
+    "title": "L.G.B.T.Q. Clubs in Some Texas Schools Can’t Be Banned, Judge Says",
+    "link": "https://www.nytimes.com/2026/02/20/us/texas-ban-lgbtq-clubs.html",
+    "summary": "A Texas law passed last year was the first in the nation to explicitly ban clubs based on gender identity in K-12 schools. The judge blocked its enforcement in three school districts."
   },
   {
-    "title": "China’s ‘King of Banned Films’ Wants to Change the Subject",
-    "link": "https://www.nytimes.com/2026/02/20/world/asia/lou-ye-china-film-director.html",
-    "summary": "Acclaimed overseas for defying censors, Lou Ye is more interested in reaching Chinese audiences, as he holds up a cinematic mirror to their lives in modern China."
+    "title": "Court Clears Way for Louisiana Law Requiring Ten Commandments in Classrooms",
+    "link": "https://www.nytimes.com/2026/02/20/us/louisiana-classrooms-ten-commandments.html",
+    "summary": "A federal appeals court vacated a temporary block on the 2024 law, tossing a previous decision that called it “plainly unconstitutional.”"
   },
   {
     "title": "Another Winter Storm Could Deliver More Snow to the Northeast This Weekend",
@@ -90,14 +105,19 @@
     "summary": "What does this mean for the president, the economy — and your bank account?"
   },
   {
-    "title": "The Problem With Hot, White Heathcliff in ‘Wuthering Heights’",
+    "title": "Whitewashing ‘Wuthering Heights’",
     "link": "https://www.nytimes.com/2026/02/20/opinion/wuthering-heights-jacob-elordi-bridgerton.html",
     "summary": "It’s time to end the era of colorblind casting."
   },
   {
-    "title": "Trump Promises New Tariffs After Justices Rule Against Him",
-    "link": "https://www.nytimes.com/2026/02/20/briefing/supreme-court-tariffs-cuba-oil.html",
-    "summary": "Also, Cuba nears collapse. Here’s the latest at the end of Friday."
+    "title": "China’s ‘King of Banned Films’ Wants to Change the Subject",
+    "link": "https://www.nytimes.com/2026/02/20/world/asia/lou-ye-china-film-director.html",
+    "summary": "Acclaimed overseas for defying censors, Lou Ye is more interested in reaching Chinese audiences, as he holds up a cinematic mirror to their lives in modern China."
+  },
+  {
+    "title": "Police Chief Placed Millions in Bets as He Embezzled, Investigators Say",
+    "link": "https://www.nytimes.com/2026/02/20/nyregion/new-haven-police-chief-gambling-embezzle.html",
+    "summary": "Karl R. Jacobson was arrested and accused of stealing from city coffers as he placed $4.5 million in online bets. He resigned in January, when the accusations first surfaced."
   },
   {
     "title": "Christopher S. Wren, Times Bureau Chief in Hostile Lands, Dies at 89",
@@ -105,18 +125,8 @@
     "summary": "Over three decades, he reported from Moscow, Beijing, Tehran and elsewhere and wrote well-received books based on his reporting, including one about his globe-trotting cat."
   },
   {
-    "title": "Russia Takes the Gulag Out of the Gulag History Museum in Moscow",
-    "link": "https://www.nytimes.com/2026/02/20/world/europe/russia-gulag-history-museum-stalin.html",
-    "summary": "The museum had preserved the history of brutality inflicted by the Soviet Union on its people. It will now focus on Nazi war crimes."
-  },
-  {
     "title": "Dog Poop Wars: In New York, the Snow Is Foul, and So Is the Discourse",
     "link": "https://www.nytimes.com/2026/02/20/nyregion/new-york-snow-dog-waste.html",
     "summary": "As melting snow reveals weeks’ worth of uncollected dog waste, frustration at the state of the sidewalks has boiled over."
-  },
-  {
-    "title": "A Cancer Detection Test Fails in Major Study",
-    "link": "https://www.nytimes.com/2026/02/20/health/cancer-detection-test-grail.html",
-    "summary": "A closely watched clinical trial in Britain that screened blood for early detection of cancer did not show a reduction in diagnoses at later stages of the disease."
   }
 ]

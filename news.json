@@ -1,5 +1,10 @@
 [
   {
+    "title": "New York City Faces Its Second Big Storm in Weeks",
+    "link": "https://www.nytimes.com/2026/02/22/weather/storm-nyc-preparations-mamdani.html",
+    "summary": "The storm in late January was bad enough. This one is bringing true blizzard conditions, and the city has stepped up its response."
+  },
+  {
     "title": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
     "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html",
     "summary": "The top negotiators plan to meet in Geneva on Thursday for last-ditch talks, debating a new proposal that could create an off-ramp as two carrier groups massed within striking distance of Iran."
@@ -8,11 +13,6 @@
     "title": "Iran Could Direct Proxies to Attack U.S. Targets Abroad, Officials Warn",
     "link": "https://www.nytimes.com/2026/02/22/us/politics/iran-terrorist-attacks-proxies-trump.html",
     "summary": "Security officials are monitoring increasingly worrisome signs as President Trump considers another military campaign against Iran."
-  },
-  {
-    "title": "Iran Students Protest for Second Day Despite State Crackdown",
-    "link": "https://www.nytimes.com/2026/02/22/world/middleeast/iran-student-protests.html",
-    "summary": "Student groups reported protests at universities in Iran’s two largest cities as the government grapples with domestic discontent and the threat of U.S. strikes."
   },
   {
     "title": "Inside Iran’s Preparations for War and Plans for Survival",
@@ -27,7 +27,7 @@
   {
     "title": "Armed Man Shot Dead at Mar-a-Lago by Trump’s Secret Service Was a 21-Year-Old From N.C.",
     "link": "https://www.nytimes.com/2026/02/22/us/north-carolina-man-shot-html.html",
-    "summary": "The 21-year-old man was killed by law enforcement officers after he entered Mar-a-Lago with a weapon."
+    "summary": "The 21-year-old man, from North Carolina, was killed by law enforcement officers after he entered secure perimeter of Mar-a-Lago."
   },
   {
     "title": "Here Are the Rare Instances of Fatal Shootings by the Secret Service",
@@ -35,9 +35,19 @@
     "summary": "Sunday’s shooting of an armed man at President Trump’s Florida club is one of only a handful of fatal encounters that the agency has had in its 160-year history."
   },
   {
-    "title": "New York City Faces Its Second Big Storm in Weeks",
-    "link": "https://www.nytimes.com/2026/02/22/weather/storm-nyc-preparations-mamdani.html",
-    "summary": "The storm in late January was bad enough. This one is bringing true blizzard conditions, and the city has stepped up its response."
+    "title": "Mexican Forces Kill ‘El Mencho,’ Nation’s Most-Wanted Cartel Boss",
+    "link": "https://www.nytimes.com/2026/02/22/world/americas/jalisco-new-generation-cartel-leader-killed.html",
+    "summary": "“El Mencho” was the longtime head of one of the nation’s most powerful cartels. Armed groups set fire to cars and buildings across Mexico in the wake of his death."
+  },
+  {
+    "title": "What to Know About the Killing of ‘El Mencho’",
+    "link": "https://www.nytimes.com/2026/02/22/world/americas/el-mencho-mexico-what-we-know.html",
+    "summary": "The Mexican government has killed Nemesio Oseguera Cervantes, the longtime leader of one of Mexico’s most powerful gangs, the Jalisco New Generation Cartel."
+  },
+  {
+    "title": "Trump Aides Project Confidence on Tariffs After Court Loss",
+    "link": "https://www.nytimes.com/2026/02/22/business/trump-administration-tariffs-supreme-court-loss.html",
+    "summary": "Administration officials maintain that they can replicate the sky-high duties recently invalidated by the Supreme Court."
   },
   {
     "title": "When Faced With Claims of Racism, Trump Points to His Black Friends",
@@ -45,29 +55,9 @@
     "summary": "President Trump has often invoked his unnamed Black friends, or name-checked celebrities and athletes, when asked to discuss anything related to Black voters."
   },
   {
-    "title": "They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck.",
-    "link": "https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html",
-    "summary": "Countries that under the threat of tariffs made commitments like enormous investment pledges face the reality that they might have been better off waiting."
-  },
-  {
     "title": "F.B.I. Director Celebrates Olympic Hockey Victory on Day of Mar-a-Lago Shooting",
     "link": "https://www.nytimes.com/2026/02/22/us/politics/fbi-director-patel-olympics-mar-a-lago.html",
     "summary": "Kash Patel’s trip to Italy came at a fraught and frenetic time for the bureau and Mr. Patel, who has shown little willingness to curb his jet-setting."
-  },
-  {
-    "title": "Mexican Forces Kill ‘El Mencho,’ Nation’s Most-Wanted Cartel Boss",
-    "link": "https://www.nytimes.com/2026/02/22/world/americas/jalisco-new-generation-cartel-leader-killed.html",
-    "summary": "“El Mencho” was the longtime head of one of the nation’s most powerful cartels. Armed groups set fire to cars and buildings across Mexico in the wake of his death."
-  },
-  {
-    "title": "Who Won the Olympics? All the Ways to Count We Could Think Of.",
-    "link": "https://www.nytimes.com/2026/02/22/upshot/winter-olympics-leaders-nations.html",
-    "summary": "Which country won the most events on snow, ice or sliding track? Here are all the ways we could think of to track the medal count."
-  },
-  {
-    "title": "They Killed Their Abusers. Should They Spend Their Lives in Prison?",
-    "link": "https://www.nytimes.com/2026/02/22/magazine/oklahoma-domestic-violence-survivors-act.html",
-    "summary": "A new law was supposed to help reduce the sentences of survivors of domestic violence. Most are still behind bars."
   },
   {
     "title": "Anti-Trump Republicans Face Divisions and an Uncertain Future",
@@ -85,19 +75,9 @@
     "summary": "Tech giants, including Meta and Alphabet, are spending lavishly on splashy billboard ads, courting on-the-fence politicians and bulking up their ranks of lobbyists."
   },
   {
-    "title": "The A.I. Evangelists on a Mission to Shake Up Japan",
-    "link": "https://www.nytimes.com/2026/02/22/world/asia/japan-ai-politics-election.html",
-    "summary": "Team Mirai, a political party founded by software engineers, won 11 seats in Japan’s legislature by promising chatbots, self-driving buses and high-tech jobs."
-  },
-  {
     "title": "2026 BAFTAs Winners: ‘One Battle After Another’ Wins Best Film, Besting ‘Sinners’",
     "link": "https://www.nytimes.com/2026/02/22/movies/baftas-2026.html",
     "summary": "Paul Thomas Anderson’s comedy drama won six awards at the British equivalent of the Oscars. The best actor choice, however, was a surprise."
-  },
-  {
-    "title": "2026 BAFTA Awards Photos: Looks From the Red Carpet",
-    "link": "https://www.nytimes.com/2026/02/22/style/baftas-red-carpet-photos-2026.html",
-    "summary": "Teyana Taylor, Paul Mescal, Michael B. Jordan and the Prince of Wales turned out in style for Britain’s biggest celebration of film."
   },
   {
     "title": "12 Unforgettable Looks at the BAFTAs: Kate Middleton, Prince William and More",
@@ -105,14 +85,14 @@
     "summary": "Swishy suits, mermaid skirts, skunk feet and more."
   },
   {
-    "title": "Will Threat of Prison Make One of New York’s ‘Worst Landlords’ Change?",
-    "link": "https://www.nytimes.com/2026/02/22/nyregion/nyc-landlords-daniel-ohebshalom.html",
-    "summary": "Tenants said one of the city’s most notorious landlords let rats run free and left them cold during the winter. Now, charged with harassment, he’s facing up to four years in prison."
-  },
-  {
     "title": "Fat Signing Bonuses, and Concierge Service, for Family Doctors",
     "link": "https://www.nytimes.com/2026/02/22/world/canada/fat-signing-bonuses-and-concierge-service-for-family-doctors.html",
     "summary": "In a country where a quarter of the population lacks a family doctor, Canadian communities compete in a zero-sum battle to recruit family doctors."
+  },
+  {
+    "title": "Tour Montparnasse is One of Paris’s Uglier Landmarks. It’s Getting a Makeover.",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/tour-montparnasse-paris-makeover-piano.html",
+    "summary": "The Tour Montparnasse is one of Paris’s least-loved landmarks. After half a century, it’s finally being remodeled."
   },
   {
     "title": "Willie Colón Played Up the Bad Guy With Purpose",
@@ -120,29 +100,24 @@
     "summary": "By styling himself after mobsters and blaxploitation characters early in his career, Mr. Colón, the legend of salsa music who died on Saturday, crafted an everlasting image."
   },
   {
-    "title": "Willie Colón, a Luminary of Salsa Music, Dies at 75",
-    "link": "https://www.nytimes.com/2026/02/21/arts/music/willie-colon-dead.html",
-    "summary": "A trombonist, singer, bandleader, composer and arranger, he collaborated with Rubén Blades on “Siembra,” a 1978 release that became one of the top-selling salsa albums of all time."
+    "title": "No, Trump Isn’t Good for Putin",
+    "link": "https://www.nytimes.com/2026/02/23/opinion/putin-trump-russia-ukraine.html",
+    "summary": "Russian hopes for respect have been dashed."
   },
   {
-    "title": "Is This the Most Important Supreme Court Case of the Century?",
-    "link": "https://www.nytimes.com/2026/02/22/opinion/tariffs-trump-supreme-court.html",
-    "summary": "The tariff ruling may have just helped save the Republic."
+    "title": "Historians Confirm: Tomorrow Won’t Be Better Than Today",
+    "link": "https://www.nytimes.com/2026/02/22/opinion/history-hope-delusion.html",
+    "summary": "The human capacity for hope is an essential quality. But hope can also turn into delusion."
   },
   {
-    "title": "Ukraine Has Passed a Point of No Return",
-    "link": "https://www.nytimes.com/2026/02/22/opinion/ukraine-russia-war-four-years.html",
-    "summary": "Four years that changed everything."
+    "title": "Susan Sheehan, Pulitzer-Winning Chronicler of Lives on the Margins, Dies at 88",
+    "link": "https://www.nytimes.com/2026/02/22/books/susan-sheehan-dead.html",
+    "summary": "As a journalist and author, she wrote meticulous portraits of people for The New Yorker. Her book “Is There No Place on Earth for Me?” won the Pulitzer Prize."
   },
   {
     "title": "At Least 15 Have Died on Tahoe-Area Slopes This Year",
     "link": "https://www.nytimes.com/2026/02/22/us/tahoe-ski-deaths.html",
-    "summary": "Three more skiers have died in the Lake Tahoe area since the deadliest avalanche in California history on Tuesday killed nine."
-  },
-  {
-    "title": "Newsom Heads to Nashville to Promote His Book, and Finds Many Former Californians",
-    "link": "https://www.nytimes.com/2026/02/22/us/newsom-book-tour-nashville-conservatives.html",
-    "summary": "Scores of Californians have moved to Tennessee for its friendlier business environment and conservative politics. On Saturday, the Democratic governor accused of driving them away paid a visit."
+    "summary": "Three more skiers have died in the Lake Tahoe area since the deadliest avalanche in modern California history on Tuesday killed nine."
   },
   {
     "title": "Hunter College to Review Professor’s ‘Abhorrent’ Remarks at Meeting",

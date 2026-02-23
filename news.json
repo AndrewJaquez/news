@@ -1,18 +1,8 @@
 [
   {
-    "title": "New York City Faces Its Second Big Storm in Weeks",
-    "link": "https://www.nytimes.com/2026/02/22/weather/storm-nyc-preparations-mamdani.html",
-    "summary": "The storm in late January was bad enough. This one is bringing true blizzard conditions, and the city has stepped up its response."
-  },
-  {
-    "title": "Killing of Cartel Boss Sets Off Chaos in Mexico, and Trump Has a New Plan for Tariffs",
-    "link": "https://www.nytimes.com/2026/02/23/podcasts/the-headlines/cartel-boss-mexico-trump-tariffs.html",
-    "summary": "Plus, a shooting at Mar-a-Lago."
-  },
-  {
-    "title": "Mexican Forces Kill ‘El Mencho,’ Nation’s Most-Wanted Cartel Boss",
-    "link": "https://www.nytimes.com/2026/02/22/world/americas/jalisco-new-generation-cartel-leader-killed.html",
-    "summary": "“El Mencho” was the longtime head of one of the nation’s most powerful cartels. Armed groups set fire to cars and buildings across Mexico in the wake of his death."
+    "title": "Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities",
+    "link": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
+    "summary": "Binance pledged to crack down on crime. But internal investigators at the world’s largest crypto exchange continued to find evidence of potential legal violations on the platform."
   },
   {
     "title": "Drug Lord ‘El Mencho’ Was Killed in Mexico. What’s Next for the Cartel He Led?",
@@ -25,39 +15,14 @@
     "summary": "The Mexican government has killed Nemesio Oseguera Cervantes, the longtime leader of one of Mexico’s most powerful gangs, the Jalisco New Generation Cartel."
   },
   {
-    "title": "For Iran’s Rulers, Refusing U.S. Demands Is a Risk Worth Taking",
-    "link": "https://www.nytimes.com/2026/02/23/world/middleeast/iran-us-nuclear-talks-war.html",
-    "summary": "The government in Tehran sees capitulating to Washington’s demands on uranium enrichment and ballistic missiles as riskier to its survival than going to war, analysts say."
+    "title": "Witness Who Disputed ICE Account of Ruben Ray Martinez Shooting Dies in Car Accident",
+    "link": "https://www.nytimes.com/2026/02/23/us/ice-shooting-texas-witness-dead.html",
+    "summary": "A passenger in the car with Ruben Ray Martinez wrote that the men were trying to comply with authorities before Mr. Martinez was shot. The passenger, Joshua Orta, died in a car accident on Saturday."
   },
   {
-    "title": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack",
-    "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-iran-strike-attack.html",
-    "summary": "The top negotiators plan to meet in Geneva on Thursday for last-ditch talks, debating a new proposal that could create an off-ramp as two carrier groups massed within striking distance of Iran."
-  },
-  {
-    "title": "The Next Conflict",
-    "link": "https://www.nytimes.com/2026/02/23/briefing/potential-conflict-iran.html",
-    "summary": "We’re looking at the potential for a U.S. attack on Iran."
-  },
-  {
-    "title": "What’s Happened Since the Supreme Court’s Tariff Ruling",
-    "link": "https://www.nytimes.com/2026/02/23/business/supreme-court-trump-tariffs-updates.html",
-    "summary": "After the Trump administration’s punishing tariffs were invalidated, the president said he would impose new tariffs using a different authority. It’s been a whirlwind."
-  },
-  {
-    "title": "Why the Supreme Court Struck Down Trump’s Tariffs",
-    "link": "https://www.nytimes.com/video/us/100000010726142/why-the-supreme-court-struck-down-trumps-tariffs.html",
-    "summary": "Our reporter Ann E. Marimow describes the rationale of the Supreme Court’s 6-to-3 ruling to strike down President Trump’s sweeping tariffs."
-  },
-  {
-    "title": "U.K., Australia and Others Worse Off Under Trump’s New Tariffs",
-    "link": "https://www.nytimes.com/2026/02/23/business/uk-australia-trump-tariffs.html",
-    "summary": "Many important U.S. trading partners are facing higher duties after President Trump, reacting to a Supreme Court setback, set the rate on a new set of global tariffs at 15 percent."
-  },
-  {
-    "title": "Trump’s Challenge to Free Market Capitalism",
-    "link": "https://www.nytimes.com/2026/02/22/business/economy/trump-republicans-economy-capitalism.html",
-    "summary": "Stakes in private companies. Handshake deals with chief executives. The president’s economic policy has drifted far from principles that long defined the Republican Party. Is it capitalism at all?"
+    "title": "Border Patrol Shoots Armed Person Near Canadian Border, Authorities Say",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/border-patrol-shooting-new-hampshire.html",
+    "summary": "The F.B.I. said that the person, who was not killed, “allegedly fired at” a Border Patrol agent in Pittsburg, N.H., around 1 a.m. on Sunday."
   },
   {
     "title": "Pizzoccheri Was Prominent at Winter Olympics in Italy",
@@ -65,19 +30,44 @@
     "summary": "Pizzoccheri, a hearty buckwheat pasta, graced restaurant menus and the athletes’ cafeterias. A chef hopes it can put a spotlight on the valley where it comes from."
   },
   {
-    "title": "Fact-check: Trump’s Latest Claims on Jobs, Inflation and Crime",
+    "title": "The European Union Hits Pause on Its U.S. Trade Deal",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/eu-us-trade-deal-pause-tariffs.html",
+    "summary": "The E.U. isn’t throwing out the deal it agreed with the United States before President Trump’s tariffs were overruled, but European officials want more clarity first."
+  },
+  {
+    "title": "Why the Supreme Court Struck Down Trump’s Tariffs",
+    "link": "https://www.nytimes.com/video/us/100000010726142/why-the-supreme-court-struck-down-trumps-tariffs.html",
+    "summary": "Our reporter Ann E. Marimow describes the rationale of the Supreme Court’s 6-to-3 ruling to strike down President Trump’s sweeping tariffs."
+  },
+  {
+    "title": "Trump’s Challenge to Free Market Capitalism",
+    "link": "https://www.nytimes.com/2026/02/22/business/economy/trump-republicans-economy-capitalism.html",
+    "summary": "Stakes in private companies. Handshake deals with chief executives. The president’s economic policy has drifted far from principles that long defined the Republican Party. Is it capitalism at all?"
+  },
+  {
+    "title": "Trump Administration Scrambles to Pick Up the Pieces of Broken Tariffs",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-tariffs-supreme-court.html",
+    "summary": "President Trump is already working to piece his tariff program back together, after a Supreme Court ruling ruptured a centerpiece of his economic agenda."
+  },
+  {
+    "title": "What’s Happened Since the Supreme Court’s Tariff Ruling",
+    "link": "https://www.nytimes.com/2026/02/23/business/supreme-court-trump-tariffs-updates.html",
+    "summary": "After the Trump administration’s punishing tariffs were invalidated, the president said he would impose new tariffs using a different authority. It’s been a whirlwind."
+  },
+  {
+    "title": "Judge Bars Release of Special Counsel Report on Trump’s Mishandling of Documents",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-jack-smith-classified-documents-aileen-cannon.html",
+    "summary": "Judge Aileen Cannon, a Trump-appointed federal judge in Florida, slammed the former special counsel, Jack Smith, for drafting the report even after she had dismissed the case."
+  },
+  {
+    "title": "Fact-Check: Trump’s Latest Claims on Jobs, Inflation and Crime",
     "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-economy-fact-check.html",
     "summary": "Trends on jobs, inflation and crime that began before Donald Trump retook office continued, largely unabated, in his first year back."
   },
   {
-    "title": "As Trump Touts Economic Gains, Many Workers Still Feel the Pinch",
+    "title": "Trump Says He Brought Down Inflation, Yet Many Still Feel the Pinch",
     "link": "https://www.nytimes.com/2026/02/23/us/trump-affordability-inflation-families.html",
     "summary": "President Trump says that he has brought down inflation, but families are still struggling to pay bills and plan for the future."
-  },
-  {
-    "title": "When Faced With Claims of Racism, Trump Points to His Black Friends",
-    "link": "https://www.nytimes.com/2026/02/22/us/politics/trump-black-people-history.html",
-    "summary": "President Trump has often invoked his unnamed Black friends, or name-checked celebrities and athletes, when asked to discuss anything related to Black voters."
   },
   {
     "title": "Judges Grow Angry Over Trump Administration Violating Their Orders",
@@ -85,24 +75,39 @@
     "summary": "At least 35 times since August, federal judges have ordered the administration to explain why it should not be punished for violating their orders in immigration cases."
   },
   {
-    "title": "The Ukrainian Bureaucrat Working to Squeeze Russia’s War Machine",
-    "link": "https://www.nytimes.com/2026/02/23/world/europe/ukraine-russia-sanctions.html",
-    "summary": "Vladyslav Vlasiuk has spent the past four years pressing Western allies to squeeze the Russian economy through more sanctions. He hopes that 2026 will be the tipping point."
+    "title": "U.K. Police Arrest Ex-Ambassador Peter Mandelson Amid Epstein Accusations",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/peter-mandelson-epstein-uk.html",
+    "summary": "Peter Mandelson is being investigated over accusations of “misconduct in public office” amid his dealings with Jeffrey Epstein, the sex offender."
   },
   {
-    "title": "EU Support for Ukraine Stumbles as Hungary Looks to Delay Aid",
-    "link": "https://www.nytimes.com/2026/02/23/world/europe/ukraine-war-russia-eu-hungary.html",
-    "summary": "Hungary said that it would block both the latest sanctions package on Russia and a financial aid package to Kyiv worth about $106 billion."
+    "title": "Architecture Prize Responds After Tom Pritzker’s Epstein Ties Surface",
+    "link": "https://www.nytimes.com/2026/02/23/arts/design/pritzker-prize-epstein-architecture.html",
+    "summary": "A Pritzker Prize statement cited the award’s independence after Mr. Pritzker, who directs the foundation behind the award, resigned as chairman of the Hyatt Corporation."
   },
   {
-    "title": "‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School",
-    "link": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
-    "summary": "Teachers say they want to equip high school students to drive artificial intelligence, rather than be mere passengers steered by chatbots."
+    "title": "‘Survivor’ Is America",
+    "link": "https://www.nytimes.com/2026/02/23/arts/television/survivor-season-50.html",
+    "summary": "It’s our greatest game and our truest mirror. And in its tiki-torch-festooned way, it’s captured our society as an ever-changing collection of tribes."
   },
   {
-    "title": "‘A.I. Literacy’ Is Trending in Schools. Here’s Why.",
-    "link": "https://www.nytimes.com/2026/02/23/business/ai-literacy-faq.html",
-    "summary": "Artificial intelligence companies are urging teachers to prepare students for an “A.I.-driven future.” What that means varies from school to school."
+    "title": "For Iran’s Rulers, Refusing U.S. Demands Is a Risk Worth Taking",
+    "link": "https://www.nytimes.com/2026/02/23/world/middleeast/iran-us-nuclear-talks-war.html",
+    "summary": "The government in Tehran sees capitulating to Washington’s demands on uranium enrichment and ballistic missiles as riskier to its survival than going to war, analysts say."
+  },
+  {
+    "title": "The Next Conflict",
+    "link": "https://www.nytimes.com/2026/02/23/briefing/potential-conflict-iran.html",
+    "summary": "We’re looking at the potential for a U.S. attack on Iran."
+  },
+  {
+    "title": "Backed by Anthropic, a Super PAC Group Begins an Ad Blitz in Support of A.I. Regulation",
+    "link": "https://www.nytimes.com/2026/02/23/technology/ai-pac-ad-blitz.html",
+    "summary": "The ads by Public First Action, which started airing on Monday, are part of an escalating political war over artificial intelligence before the midterm elections."
+  },
+  {
+    "title": "Supreme Court to Weigh Oil-Industry Effort to End a Major Climate Suit",
+    "link": "https://www.nytimes.com/2026/02/23/climate/supreme-court-boulder-climate-lawsuit.html",
+    "summary": "The case could have significant bearing on a range of other lawsuits brought against the fossil fuel industry by cities and states across the country."
   },
   {
     "title": "Supreme Court Considers Fate of Docks and Other Assets Seized by Cuba in 1960",
@@ -115,19 +120,19 @@
     "summary": "A shooting in Washington, D.C., threw their immigration status into jeopardy — and brought attention to a long-hidden dimension of America’s war."
   },
   {
-    "title": "In Washington State, Democrats Consider Breaking a Taboo: Taxing the Rich",
-    "link": "https://www.nytimes.com/2026/02/23/us/politics/washington-taxing-the-rich.html",
-    "summary": "The state where Jeff Bezos and Bill Gates made fortunes might have progressive social policies, but its resistance to an income tax is similar to conservative states. That might change."
+    "title": "BAFTAs Guest With Tourettes Shouts Racial Slur During Michael B. Jordan and Delroy Lindo’s Appearance",
+    "link": "https://www.nytimes.com/2026/02/23/movies/baftas-tourettes.html",
+    "summary": "A racist slur, shouted involuntarily while Michael B. Jordan and Delroy Lindo were presenting an award, raised questions about how the show’s host and the BBC responded."
   },
   {
     "title": "BAFTAs 2026: The Best and Worst Moments",
     "link": "https://www.nytimes.com/2026/02/23/movies/baftas-best-worst-moments.html",
-    "summary": "Alan Cumming forced fishy British snacks onto movie stars. Paddington Bear presented an award. And there was more swearing, and racial curses, than this awards show has ever heard."
+    "summary": "Alan Cumming forced fishy British snacks onto movie stars. Paddington Bear presented an award. And a racist slur and swearing."
   },
   {
-    "title": "2026 BAFTAs Winners: ‘One Battle After Another’ Wins Best Film, Besting ‘Sinners’",
-    "link": "https://www.nytimes.com/2026/02/22/movies/baftas-2026.html",
-    "summary": "Paul Thomas Anderson’s comedy drama won six awards at the British equivalent of the Oscars. The best actor choice, however, was a surprise."
+    "title": "Prince William and Kate Made a Pointed Appearance at BAFTA",
+    "link": "https://www.nytimes.com/2026/02/23/style/catherine-william-princess-of-wales-bafta-dress.html",
+    "summary": "After Andrew Mountbatten-Windsor’s arrest, the Prince and Princess of Wales made a pointed BAFTA appearance."
   },
   {
     "title": "The Human Cost of the Trump Administration’s War on Science",
@@ -135,28 +140,28 @@
     "summary": "The ripple effects of cutting H.I.V. research funding."
   },
   {
-    "title": "‘The Pitt’ Is the Most Patriotic Show on Television",
-    "link": "https://www.nytimes.com/2026/02/23/opinion/pitt-america-tv.html",
-    "summary": "An emergency room that’s a mirror."
+    "title": "What We Don’t Understand About Nick Reiner",
+    "link": "https://www.nytimes.com/2026/02/23/opinion/nick-reiner-arraignment-psychology.html",
+    "summary": "We feel compassion for his parents — but often not for Nick Reiner himself. His suffering, too, must have been terrible; it must be terrible right now."
   },
   {
-    "title": "Former F.B.I. Official, Ousted Under Trump, Will Run for Congress in Maryland",
-    "link": "https://www.nytimes.com/2026/02/23/us/politics/former-fbi-official-congress-maryland.html",
-    "summary": "David Sundberg, who led the Washington Field Office, is joining a crowded Democratic primary for Steny H. Hoyer’s open House seat."
+    "title": "Nick Reiner Pleads Not Guilty in the Killing of His Parents",
+    "link": "https://www.nytimes.com/2026/02/23/arts/nick-reiner-plea.html",
+    "summary": "Mr. Reiner, 32, was charged with murdering his parents, the Hollywood director Rob Reiner and Michele Singer Reiner, last year."
   },
   {
-    "title": "Susan Sheehan, Pulitzer-Winning Chronicler of Lives on the Margins, Dies at 88",
-    "link": "https://www.nytimes.com/2026/02/22/books/susan-sheehan-dead.html",
-    "summary": "As a journalist and author, she wrote meticulous portraits of people for The New Yorker. Her book “Is There No Place on Earth for Me?” won the Pulitzer Prize."
+    "title": "The Ukrainian Bureaucrat Working to Squeeze Russia’s War Machine",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/ukraine-russia-sanctions.html",
+    "summary": "Vladyslav Vlasiuk has spent the past four years pressing Western allies to squeeze the Russian economy through more sanctions. He hopes that 2026 will be the tipping point."
   },
   {
-    "title": "Hunter College to Review Professor’s ‘Abhorrent’ Remarks at Meeting",
-    "link": "https://www.nytimes.com/2026/02/22/nyregion/hunter-college-professor-remarks-students.html",
-    "summary": "A student objected to the potential closure of her New York City middle school. The professor, speaking on a hot mic, said, “They’re too dumb to know they’re in a bad school.” The comment was assailed as racist."
+    "title": "France Summons U.S. Ambassador Over Comments on Activist’s Killing",
+    "link": "https://www.nytimes.com/2026/02/23/world/europe/france-us-ambassador-kushner-activist-killing.html",
+    "summary": "Charles Kushner, President Trump’s envoy to Paris, was called in after the State Department cited “violent radical leftism” in the beating death of Quentin Deranque, 23."
   },
   {
-    "title": "Duterte’s Fans Rally in The Hague as the I.C.C. Weighs Evidence Against Him",
-    "link": "https://www.nytimes.com/2026/02/23/world/asia/philippines-icc-duterte-supporters.html",
-    "summary": "The protests are a sign of the Philippine ex-leader’s ongoing influence, even as he faces a possible trial for the deaths of thousands during his war on drugs."
+    "title": "Democrats Consider Breaking a Taboo in Washington State: A Millionaires Tax",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/washington-democrats-millionaires-tax.html",
+    "summary": "The state where Jeff Bezos and Bill Gates made fortunes might have progressive social policies, but its resistance to an income tax is similar to conservative states. That might change."
   }
 ]

@@ -1,28 +1,8 @@
 [
   {
-    "title": "Trump Administration Scrambles to Pick Up the Pieces of Broken Tariffs",
-    "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-tariffs-supreme-court.html",
-    "summary": "President Trump is already working to piece his tariff program back together, after a Supreme Court ruling ruptured a centerpiece of his economic agenda."
-  },
-  {
-    "title": "Trump-Appointed Judge Bars Release of Jack Smith’s Report in Documents Case",
-    "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-jack-smith-classified-documents-aileen-cannon.html",
-    "summary": "Judge Aileen Cannon, a Trump-appointed federal judge in Florida, slammed the former special counsel, Jack Smith, for drafting the report even after she had dismissed the case."
-  },
-  {
-    "title": "Judges Grow Angry Over Trump Administration Violating Their Orders",
-    "link": "https://www.nytimes.com/2026/02/23/us/politics/judges-contempt-immigration-trump.html",
-    "summary": "At least 35 times since August, federal judges have ordered the administration to explain why it should not be punished for violating their orders in immigration cases."
-  },
-  {
-    "title": "‘Angel Families’ Return to Washington to Back Up Trump Ahead of State of the Union",
-    "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-angel-families-undocumented-immigrants.html",
-    "summary": "The families of people killed by undocumented immigrants have forged a bond with the president, who has invited some of them to his address on Tuesday."
-  },
-  {
-    "title": "C.I.A. Intelligence Helped Lead Mexican Authorities to ‘El Mencho’",
-    "link": "https://www.nytimes.com/2026/02/23/world/americas/cia-el-hencho-location-mexico.html",
-    "summary": "Mexican officials said they had found the elusive cartel kingpin by tracking a romantic partner. The C.I.A. provided some intelligence critical to the operation."
+    "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored",
+    "link": "https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html",
+    "summary": "If China invades Taiwan and cuts off its chip exports to American companies, the tech industry and the U.S. economy would be crippled."
   },
   {
     "title": "Mexican Forces Say They Tracked El Mencho to Cabin by Following His Lover",
@@ -30,14 +10,69 @@
     "summary": "Top security officials revealed details of the operation that led to the death of Mexico’s most wanted drug cartel leader."
   },
   {
+    "title": "After Six Decades of the War on Drugs, What Works?",
+    "link": "https://www.nytimes.com/2026/02/24/world/americas/mexico-war-on-drugs.html",
+    "summary": "The U.S. and its allies have spilled blood and treasure to kill drug lords and defeat cartels, but the drugs keep coming and the new groups are more violent than ever."
+  },
+  {
+    "title": "After Chaos Rips Across Mexico, the Remnants of Cartel Violence Haunt Residents",
+    "link": "https://www.nytimes.com/2026/02/23/world/americas/mexico-cartel-guadalajara.html",
+    "summary": "Charred vehicles cluttered deserted streets as residents started to emerge from their homes in Guadalajara, which was hit hard by violence after the death of a cartel leader."
+  },
+  {
     "title": "What Travelers Need to Know as Cartel Violence Rattles Mexico",
     "link": "https://www.nytimes.com/2026/02/23/travel/cartel-violence-mexico-el-mencho-travel-flights.html",
     "summary": "The killing of a drug lord and the unrest that followed have prompted flight cancellations, roadblocks, cruise disruptions and “shelter in place” alerts."
   },
   {
-    "title": "Snow Day! What It Looks Like When New York City Comes Out to Play.",
-    "link": "https://www.nytimes.com/2026/02/23/nyregion/snow-day-blizzard-winter-storm.html",
-    "summary": "Across the five boroughs, New Yorkers sledded and frolicked, but the best moments were when the city stood still."
+    "title": "New York City Restaurants Face the Blizzard",
+    "link": "https://www.nytimes.com/2026/02/23/dining/nyc-restaurants-blizzard.html",
+    "summary": "Across New York City, restaurateurs and cafe owners weigh logistics and the safety of staff against the demands of customers and a slow winter."
+  },
+  {
+    "title": "Snowstorm Is ‘as Bad as I’ve Seen It,’ Massachusetts Governor Says",
+    "link": "https://www.nytimes.com/2026/02/23/weather/massachusetts-boston-blizzard-snow-storm.html",
+    "summary": "Gov. Maura Healey said there were nearly 300,000 power outages throughout the state and about 350 cars stuck on roadways, some with drivers still in them."
+  },
+  {
+    "title": "Trump Says General Caine Sees Easy Victory if U.S. Attacks Iran",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/general-caine-iran-strikes-trump.html",
+    "summary": "The remarks differ from what Gen. Dan Caine, the chairman of the Joint Chiefs of Staff, is said to have told the president in high-level White House meetings."
+  },
+  {
+    "title": "What Brontë Country Tells Us About Britain Today",
+    "link": "https://www.nytimes.com/2026/02/24/world/europe/bronte-country-haworth-bradford-uk-today.html",
+    "summary": "Whatever you make of Emerald Fennell’s R-rated “Wuthering Heights” movie, the region where the original novel was written is worth revisiting in its own right."
+  },
+  {
+    "title": "These Ukrainians Don’t Want to Be Traded to Russia for Peace",
+    "link": "https://www.nytimes.com/2026/02/24/world/europe/ukraine-war-donetsk.html",
+    "summary": "Four years into the war, a major sticking point in talks is control of the eastern Donetsk region. Residents could face an agonizing choice if Ukraine gives up the territory."
+  },
+  {
+    "title": "How Russia Put Its Future at Risk by Remaking Its Economy for War",
+    "link": "https://www.nytimes.com/2026/02/24/world/europe/russia-ukraine-war-future.html",
+    "summary": "About half of the country’s federal budget goes toward the fight in Ukraine, money that does little to support its long-term development."
+  },
+  {
+    "title": "Trump Administration Scrambles to Pick Up the Pieces of Broken Tariffs",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-tariffs-supreme-court.html",
+    "summary": "President Trump is already working to piece his tariff program back together, after a Supreme Court ruling ruptured a centerpiece of his economic agenda."
+  },
+  {
+    "title": "FedEx Sues for Refund of Trump Tariffs Rejected by Supreme Court",
+    "link": "https://www.nytimes.com/2026/02/23/business/fedex-lawsuit-tariffs-refund.html",
+    "summary": "The company, which did not specify how much it was seeking, is expected to be one of many demanding compensation for levies ruled unlawful."
+  },
+  {
+    "title": "Judges Grow Angry Over Trump Administration Violating Their Orders",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/judges-contempt-immigration-trump.html",
+    "summary": "At least 35 times since August, federal judges have ordered the administration to explain why it should not be punished for violating their orders in immigration cases."
+  },
+  {
+    "title": "Five Big Political Questions About Trump’s State of the Union Speech",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/trump-speech-state-of-union-questions.html",
+    "summary": "Tariffs, the cost of living, immigration: The president has a careful line to walk on major issues."
   },
   {
     "title": "Peter Attia Leaves CBS News Amid Epstein Files Fallout",
@@ -45,14 +80,14 @@
     "summary": "Emails showed that the longevity influencer had provided medical advice to Jeffrey Epstein and had made crude comments about women."
   },
   {
-    "title": "U.K. Police Arrest Peter Mandelson, Ex-Ambassador to the U.S., Amid Epstein Accusations",
+    "title": "Peter Mandelson, Ex-Ambassador to the U.S., Is Released After U.K. Arrest Amid Epstein Accusations",
     "link": "https://www.nytimes.com/2026/02/23/world/europe/peter-mandelson-epstein-uk.html",
     "summary": "Peter Mandelson was arrested on Monday on suspicion of “misconduct in public office” following revelations about his dealings with Jeffrey Epstein, the sex offender."
   },
   {
-    "title": "The Evolution of Eyes Began With One",
-    "link": "https://www.nytimes.com/2026/02/23/science/evolution-vertebrate-eye.html",
-    "summary": "Even Charles Darwin was puzzled by the evolution of the vertebrate eye. New research suggests that it traces back to a cyclopean invertebrate with a single eye atop the head."
+    "title": "Texas Rep. Tony Gonzales Pressured to Resign Over Sexual Messages to Staff Member",
+    "link": "https://www.nytimes.com/2026/02/23/us/tony-gonzales-texas-texts-staff-resign.html",
+    "summary": "Democrats and Republicans urged Tony Gonzales to step down after allegations that he had sent inappropriate texts to a staff member and had a sexual relationship with her."
   },
   {
     "title": "Witness Who Disputed ICE Account of Ruben Ray Martinez Shooting Dies in Car Accident",
@@ -60,19 +95,9 @@
     "summary": "A passenger in the car with Ruben Ray Martinez wrote that the men were trying to comply with authorities before Mr. Martinez was shot. The passenger, Joshua Orta, died in a car accident on Saturday."
   },
   {
-    "title": "‘Survivor’ Is America",
-    "link": "https://www.nytimes.com/2026/02/23/arts/television/survivor-season-50.html",
-    "summary": "It’s our greatest game and our truest mirror. And in its tiki-torch-festooned way, it’s captured our society as an ever-changing collection of tribes."
-  },
-  {
-    "title": "Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities",
-    "link": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
-    "summary": "Binance pledged to crack down on crime. But internal investigators at the world’s largest crypto exchange continued to find evidence of potential legal violations on the platform."
-  },
-  {
-    "title": "Prince William and Kate Made a Pointed Appearance at BAFTA",
-    "link": "https://www.nytimes.com/2026/02/23/style/catherine-william-princess-of-wales-bafta-dress.html",
-    "summary": "After Andrew Mountbatten-Windsor’s arrest, the Prince and Princess of Wales made a pointed BAFTA appearance."
+    "title": "Training for New ICE Agents Is ‘Deficient’ and ‘Broken,’ Whistle-Blower Says",
+    "link": "https://www.nytimes.com/2026/02/23/us/politics/ice-training-whistle-blower.html",
+    "summary": "The former official appeared with congressional Democrats, who also released documents indicating significant reductions in instructional hours for recruits."
   },
   {
     "title": "After Saks Bankruptcy, Richard Baker Says He Saved Luxury Department Stores",
@@ -80,14 +105,9 @@
     "summary": "Richard Baker wanted to create a retail empire when he combined Saks Fifth Avenue and Neiman Marcus. About a year later, it filed for bankruptcy."
   },
   {
-    "title": "Texas Lt. Governor Says Camp Mystic Shouldn’t Receive License to Reopen",
-    "link": "https://www.nytimes.com/2026/02/23/us/camp-mystic-floods-texas-lawsuit.html",
-    "summary": "Separately, a lawsuit filed Monday asserted that Texas officials shared blame in the flood disaster that killed 27 girls last summer."
-  },
-  {
-    "title": "Settlers in the Israeli-Occupied West Bank Drive a Palestinian Family Off Its Land",
-    "link": "https://www.nytimes.com/2026/02/23/world/palestinian-west-bank-settlers-displacement.html",
-    "summary": "For two years, settlers attacked Rezeq Abu Naim’s land in the Israeli-occupied West Bank at all hours and in all manners. After another violent incursion over the weekend, his family abandoned their home."
+    "title": "Kyiv Is Freezing, but There Is Warmth, Too",
+    "link": "https://www.nytimes.com/2026/02/24/opinion/ukraine-war-cold.html",
+    "summary": "Delegations from Ukraine, Russia and the United States have been meeting in Abu Dhabi for peace talks. I hear it’s warm there."
   },
   {
     "title": "New York Democrats Have a Chance to Vote Against the A.I. Oligarchs",
@@ -95,14 +115,9 @@
     "summary": "There’s a huge political opportunity for the party that can stand up for human beings in the face of A.I."
   },
   {
-    "title": "An Autonomous OpenClaw Chatbot Wanted Revenge",
-    "link": "https://www.nytimes.com/2026/02/23/opinion/chatbots-open-claw.html",
-    "summary": "An autonomous OpenClaw chatbot seeks revenge."
-  },
-  {
-    "title": "Mexico Is on Edge After the Killing of a Cartel Boss",
-    "link": "https://www.nytimes.com/2026/02/23/briefing/mexico-cartel-violence-snow-storm-northeast.html",
-    "summary": "Also, a blizzard sweeps through the Northeast. Here’s the latest at the end of Monday."
+    "title": "In Blow to Mamdani, Left-Leaning Group Breaks With Mayor Over U.S. House Race",
+    "link": "https://www.nytimes.com/2026/02/23/nyregion/antonio-reynoso-wfp-endorsement-congress.html",
+    "summary": "Mayor Zohran Mamdani of New York had lobbied for his preferred candidate, Claire Valdez. But the party backed Antonio Reynoso, the Brooklyn borough president."
   },
   {
     "title": "BAFTAs Guest With Tourettes Shouts Racial Slur During Michael B. Jordan and Delroy Lindo’s Appearance",
@@ -110,18 +125,18 @@
     "summary": "A racist slur, shouted involuntarily while Michael B. Jordan and Delroy Lindo were presenting an award, raised questions about how the show’s host and the BBC responded."
   },
   {
+    "title": "The Japanese Airport That Doesn’t Lose Bags",
+    "link": "https://www.nytimes.com/video/world/asia/100000010704288/osaka-kansai-airport-lost-luggage-japan.html",
+    "summary": "Kansai International Airport, which is located near Osaka, Japan, hasn’t lost a single piece of luggage since it opened in 1994. River Akira Davis, our Tokyo correspondent, visited the airport to understand how Japanese culture has influenced its success."
+  },
+  {
     "title": "Canada to Probe What OpenAI Knew About Tumbler Ridge Shooter",
     "link": "https://www.nytimes.com/2026/02/23/world/canada/canada-shooting-openai.html",
     "summary": "The company suspended the killer’s ChatGPT account over a policy violation in June, eight months before the attacks in Tumbler Ridge, British Columbia."
   },
   {
-    "title": "Nick Reiner Pleads Not Guilty in the Killing of His Parents",
-    "link": "https://www.nytimes.com/2026/02/23/arts/nick-reiner-plea.html",
-    "summary": "Mr. Reiner, 32, was charged with murdering his parents, the Hollywood director Rob Reiner and Michele Singer Reiner, last year."
-  },
-  {
-    "title": "Anthropic Accuses 3 Chinese Companies of Harvesting Its Data",
-    "link": "https://www.nytimes.com/2026/02/23/technology/anthropic-chinese-startups-distillation.html",
-    "summary": "The San Francisco start-up claimed that DeepSeek, Moonshot and MiniMax used approximately 24,000 fraudulent accounts to train their own chatbots."
+    "title": "Texas Lt. Governor Says Camp Mystic Shouldn’t Receive License to Reopen",
+    "link": "https://www.nytimes.com/2026/02/23/us/camp-mystic-floods-texas-lawsuit.html",
+    "summary": "Separately, a lawsuit filed Monday asserted that Texas officials shared blame in the flood disaster that killed 27 girls last summer."
   }
 ]

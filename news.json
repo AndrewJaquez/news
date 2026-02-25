@@ -1,23 +1,18 @@
 [
   {
-    "title": "Guest List for State of the Union Includes Epstein Victims, Erika Kirk and U.S. Olympic Hockey Players",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/state-of-the-union-guest-list.html",
-    "summary": "Democratic lawmakers invited victims of Jeffrey Epstein and of President Trump’s aggressive immigration crackdown."
-  },
-  {
-    "title": "How The New York Times Covers the SOTU Under Intense Deadline Pressure",
-    "link": "https://www.nytimes.com/2026/02/24/insider/trump-state-of-the-union-new-york-times.html",
-    "summary": "The editor who oversees White House coverage for The Times talks about the challenges of tracking a major speech by a president who regularly goes off script."
-  },
-  {
-    "title": "House Narrowly Rejects Air Safety Bill After Pentagon Opposition",
-    "link": "https://www.nytimes.com/2026/02/24/us/house-rotor-act-dc-plane-crash.html",
-    "summary": "A move to swiftly pass the bill failed by a single vote. It would have required aircraft to carry technology that officials said might have prevented a midair collision near Washington last year."
+    "title": "Abigail Spanberger, in Democratic Response, Asks if Trump Is Working for Americans",
+    "link": "https://www.nytimes.com/2026/02/25/us/politics/spanberger-democratic-response-trump-sotu.html",
+    "summary": "“We all know the answer is no,” the Virginia governor argued in her rebuttal to President Trump’s State of the Union address."
   },
   {
     "title": "Pentagon Gives Anthropic an Ultimatum Over the Company’s A.I. Model",
     "link": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html",
     "summary": "Anthropic insists on limits on how its technology is used and could be labeled a supply chain risk if it fails to accept the military’s demands."
+  },
+  {
+    "title": "House Narrowly Rejects Air Safety Bill After Pentagon Opposition",
+    "link": "https://www.nytimes.com/2026/02/24/us/politics/house-rotor-act-dc-plane-crash.html",
+    "summary": "A move to swiftly pass the bill failed by a single vote. It would have required aircraft to carry technology that officials said might have prevented a midair collision near Washington last year."
   },
   {
     "title": "Mexico Is Caught Between Trump and the Cartels",
@@ -35,7 +30,7 @@
     "summary": "A wave of unrest after the killing of a cartel leader has rattled tourists in Mexico, prompting travelers to reconsider their plans. Here’s what to know."
   },
   {
-    "title": "Snowball Fight in New York Turns Chaotic After Police Arrive",
+    "title": "Huge Snowball Fight in New York Escalates After Police Arrive",
     "link": "https://www.nytimes.com/2026/02/24/nyregion/nypd-snowball-fight-washington-square-park.html",
     "summary": "Police Commissioner Jessica Tisch said officers had been attacked at Washington Square Park. Mayor Zohran Mamdani said the episode looked like a snowball fight, not a crime."
   },
@@ -50,19 +45,14 @@
     "summary": "As major hubs in the Northeast dig out from up to three feet of snow, it could be days before some travelers get moving. Here’s where things stand."
   },
   {
-    "title": "The U.S. Men’s Hockey Team Has Arrived in Washington",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/us-hockey-team-trump.html",
-    "summary": "Two gold medal-winning U.S. hockey teams were invited to Washington for the State of the Union address. Only one came to town."
+    "title": "Leader of Columbia Brain Institute Quits Over Friendship With Epstein",
+    "link": "https://www.nytimes.com/2026/02/25/nyregion/columbia-nobel-winner-epstein-resigns.html",
+    "summary": "The Nobel laureate Richard Axel is not accused of wrongdoing but called his association with Jeffrey Epstein a “serious error in judgment.”"
   },
   {
-    "title": "D.O.J. Sues U.C.L.A. After It Refused to Pay $1 Billion Fine",
-    "link": "https://www.nytimes.com/2026/02/24/us/justice-department-ucla-lawsuit.html",
-    "summary": "The Trump administration accused the university’s Los Angeles campus of not doing enough to curb antisemitism, months after the government tried to cut research money and demanded more than $1 billion."
-  },
-  {
-    "title": "Trump’s New Tariffs Could Face Legal Challenges",
-    "link": "https://www.nytimes.com/2026/02/24/us/politics/trump-tariffs-new-legal-challenges.html",
-    "summary": "Critics are questioning the legality of the provision President Trump has used to replace his previous slate of tariffs, raising the prospect of yet another legal battle."
+    "title": "In Windsor, Some See Family Drama in the Andrew Accusations",
+    "link": "https://www.nytimes.com/2026/02/25/world/europe/windsor-reaction-prince-andrew.html",
+    "summary": "“Her children have let her down,” said one woman, referring to Queen Elizabeth II. Andrew Mountbatten-Windsor’s fall from grace drew strong reactions from some. Others said they just did not care."
   },
   {
     "title": "How Jeffrey Epstein Ingratiated Himself With Top Microsoft Executives",
@@ -70,34 +60,49 @@
     "summary": "For more than two decades, the convicted sex offender developed a network at the tech giant, making him privy to succession discussions and other business."
   },
   {
+    "title": "Court Rules Against Justice Dept. Search of Reporter’s Computers",
+    "link": "https://www.nytimes.com/2026/02/24/business/media/washington-post-reporter-search-ruling.html",
+    "summary": "The judge said the court itself would search the devices, which were seized from a Washington Post reporter’s home last month."
+  },
+  {
+    "title": "Kash Patel’s Olympics Trip Left Plenty of Time for Leisure, Schedule Shows",
+    "link": "https://www.nytimes.com/2026/02/24/us/politics/kash-patel-fbi-olympics-milan.html",
+    "summary": "An itinerary for Mr. Patel’s trip provides more granular detail, including long segments of personal time that suggest he was not immensely oversubscribed by official duties."
+  },
+  {
+    "title": "D.O.J. Sues U.C.L.A. After It Refused to Pay $1 Billion Fine",
+    "link": "https://www.nytimes.com/2026/02/24/us/justice-department-ucla-lawsuit.html",
+    "summary": "The Trump administration accused the university’s Los Angeles campus of not doing enough to curb antisemitism, months after the government tried to cut research money and demanded more than $1 billion."
+  },
+  {
+    "title": "Federal Judiciary Asks Congress to Give Over Control of Courthouses",
+    "link": "https://www.nytimes.com/2026/02/24/us/politics/federal-judiciary-gsa-courthouses.html",
+    "summary": "In a letter to lawmakers, the courts’ policymaking body claimed that the General Services Administration, part of the executive branch, had been slow to make crucial repairs."
+  },
+  {
+    "title": "Abu Dhabi’s State Oil Company Looks Beyond Oil",
+    "link": "https://www.nytimes.com/2026/02/25/business/abu-dhabi-oil-energy.html",
+    "summary": "Having reshaped the company, Sultan Ahmed Al Jaber wants to expand internationally, particularly in natural gas, chemicals and renewables."
+  },
+  {
     "title": "After Being Shoved in Front of a Train, He Has Returned to the Subway",
     "link": "https://www.nytimes.com/2026/02/24/nyregion/joseph-lynskey-nyc-subway-shove-lawsuit.html",
     "summary": "Joseph Lynskey was determined to overcome his fear and reclaim his life as a New Yorker who enjoys the city in full. On Tuesday, he filed a lawsuit against the city and the M.T.A."
   },
   {
-    "title": "How the Flood Fractured the Tightknit Camp Mystic Community",
-    "link": "https://www.nytimes.com/2026/02/24/us/camp-mystic.html",
-    "summary": "The camp has been the foundation of an invisible network of status and power in Texas. Now, following the flood, that social web is beginning to fray."
+    "title": "Savannah Guthrie Offers $1 Million for Tip Leading to Mother’s Return",
+    "link": "https://www.nytimes.com/2026/02/24/us/savannah-guthrie-one-million-reward-video-mother.html",
+    "summary": "In a new video, the “Today” host acknowledged that her 84-year-old mother may already be dead, but said the family was holding out hope for a miracle."
   },
   {
-    "title": "Ukraine Battlefield Dead Could Reach 500,000 in Fifth Year, Estimates Suggest",
-    "link": "https://www.nytimes.com/2026/02/24/world/europe/ukraine-war-deaths.html",
-    "summary": "Russia has lost as many as 325,000 troops, according to some estimates, with more than 200,000 deaths verified by researchers."
+    "title": "Futsal Phenom in Afghanistan Is a Hero the Taliban Didn’t Expect",
+    "link": "https://www.nytimes.com/2026/02/25/world/asia/afghanistan-futsal-alizera-ahmadi.html",
+    "summary": "A triumph in indoor soccer has turned Alireza Ahmadi, 17, and other players from the Hazara minority, long marginalized in Afghanistan, into national heroes."
   },
   {
-    "title": "Study Shows Xi’s Purges of China’s Military Run Deep",
-    "link": "https://www.nytimes.com/2026/02/24/world/asia/china-military-purges-xi.html",
-    "summary": "Around 100 senior officers have been sidelined or vanished since 2022, hollowing out the top ranks and raising questions about the army’s capabilities."
-  },
-  {
-    "title": "Germany’s Leader Heads to China and Walks a Tightrope Between Xi and Trump",
-    "link": "https://www.nytimes.com/2026/02/24/world/europe/merz-germany-china-trip-beijing-xi.html",
-    "summary": "Chancellor Friedrich Merz’s trip will test his ability to address tensions between the countries, at a time of strain between Europe and Washington."
-  },
-  {
-    "title": "After a Big Loss, What to Expect From Trump at the State of the Union",
-    "link": "https://www.nytimes.com/2026/02/24/opinion/trump-tariffs-state-of-union.html",
-    "summary": "The Supreme Court’s tariffs ruling could make for a tense night."
+    "title": "BAFTAs 2026 Outburst: What Tourette’s Tics Feel Like",
+    "link": "https://www.nytimes.com/2026/02/24/well/mind/tourettes-bafta-john-davidson.html",
+    "summary": "Verbal or physical tics can be a daily struggle. So can dealing with the hurt they may cause."
   },
   {
     "title": "John Roberts Is Losing Patience With Trump",
@@ -105,9 +110,9 @@
     "summary": "How to read the gratuitous paragraph in the chief justice’s tariff opinion."
   },
   {
-    "title": "Trump Will Deliver His State of the Union Address",
-    "link": "https://www.nytimes.com/2026/02/24/briefing/trump-state-of-the-union-teens-ai-chatbots.html",
-    "summary": "Also, most teens use A.I. chatbots for schoolwork. Here’s the latest at the end of Tuesday."
+    "title": "No, the Dollar Is Not Dying",
+    "link": "https://www.nytimes.com/2026/02/25/opinion/us-dollar-china-currency-eu.html",
+    "summary": "The currency is stumbling, by many accounts. But the narrative is false."
   },
   {
     "title": "Paramount Raises Its Bid for Warner Bros. Discovery",
@@ -125,8 +130,8 @@
     "summary": "Her Tibetan Buddhist spiritual practice and her experiments with synthesizers came together in vast, slow-moving works that drew wide acclaim."
   },
   {
-    "title": "‘Abolish ICE’ Wins Chicago’s Snowplow Naming Contest",
-    "link": "https://www.nytimes.com/2026/02/24/us/chicago-snowplow-contest-ice.html",
-    "summary": "An annual contest usually draws lighthearted quips. This year, Chicagoans chose a political pun."
+    "title": "Mr. Clean, the Bald, Broad-Shouldered Cleaning Mascot, Retires",
+    "link": "https://www.nytimes.com/2026/02/24/us/mr-clean-retires-magic-eraser.html",
+    "summary": "The character became the face of a household cleaner in 1958. It’s not clear what the brand plans for its next mascot."
   }
 ]

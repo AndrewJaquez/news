@@ -1,23 +1,28 @@
 [
   {
-    "title": "Iran’s Regime May Survive, but the Middle East Will Be Changed",
-    "link": "https://www.nytimes.com/2026/03/01/world/europe/iran-regime-middle-east-khamenei.html",
-    "summary": "A badly weakened Iran will no longer intimidate or threaten its neighbors in the same way. The regional impact could be comparable to the collapse of the Soviet Union."
+    "title": "Oil Prices Jump After Iran Attack",
+    "link": "https://www.nytimes.com/2026/03/01/business/energy-environment/iran-war-oil-prices.html",
+    "summary": "How long prices remain high will depend on what the United States, Israel and Iran do next."
   },
   {
-    "title": "The C.I.A. Helped Pinpoint a Gathering of Iranian Leaders. Then Israel Struck.",
-    "link": "https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html",
-    "summary": "The killing of Iran’s supreme leader and other top Iranian officials came after close intelligence sharing between the United States and Israel, according to people familiar with the operation."
+    "title": "How the Assault on Iran Unfolded",
+    "link": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-israel-strikes.html",
+    "summary": "Despite warnings after an earlier wave of killings, top Iranian officials gathered in person, and Israel seized the chance to kill Iran’s supreme leader."
   },
   {
-    "title": "Maps: Where the U.S-Led Strikes Hit Iran and Tehran’s Retaliation",
+    "title": "Maps: Where the U.S.-Led Strikes Hit Iran and Tehran’s Retaliation",
     "link": "https://www.nytimes.com/2026/02/28/world/middleeast/us-israel-iran-attack-maps.html",
     "summary": "Maps show where U.S. and Israel have struck Iran, and where Iran has retaliated."
   },
   {
-    "title": "Trump Stays Out of Public View After U.S. Launches Military Assault on Iran",
-    "link": "https://www.nytimes.com/2026/02/28/us/politics/trump-iran-public-comments.html",
-    "summary": "President Trump did not deliver a formal address to the American public to explain why the country was at war, a departure from his predecessors."
+    "title": "Stakes Quickly Rise for U.S. in Iran War, With 3 Service Members Killed",
+    "link": "https://www.nytimes.com/2026/03/01/us/politics/iran-war-troops-deaths-casualties.html",
+    "summary": "The grim toll signaled that Iran was more prepared for war than the Trump administration anticipated, U.S. military officials said."
+  },
+  {
+    "title": "Epstein’s New Mexico Ranch Gets Scrutiny at Last. It May Be Too Late.",
+    "link": "https://www.nytimes.com/2026/03/01/us/jeffrey-epstein-new-mexico-zorro-ranch.html",
+    "summary": "Heinous allegations have prompted state officials to restart an inquiry, which went cold in 2019, into the convicted sex offender’s lesser-known property."
   },
   {
     "title": "Why the Epstein Investigations Took So Long and Did So Little",
@@ -25,14 +30,9 @@
     "summary": "Decades of tips and investigations yielded charges against only two people. A combination of missed chances, narrow laws and prosecutors’ limited focus helps explain why."
   },
   {
-    "title": "The U.S. Released the Epstein Files. The Arrests Are Overseas.",
-    "link": "https://www.nytimes.com/2026/03/01/world/europe/epstein-files-arrests-europe-uk.html",
-    "summary": "While the latest tranche of documents about the sex offender Jeffrey Epstein has exposed a deeply American scandal, it is Europe where the aggressive enforcement is taking place."
-  },
-  {
-    "title": "How The Times Is Digging Into Millions of Pages of Epstein Files",
-    "link": "https://www.nytimes.com/2026/02/12/insider/jeffrey-epstein-files-documents.html",
-    "summary": "Two dozen journalists. A pile of pages that would reach the top of the Empire State Building. And an effort to find the next revelation in a sprawling case."
+    "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart",
+    "link": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
+    "summary": "The Pentagon and Anthropic were close to agreeing on the use of artificial intelligence. But strong personalities, mutual dislike and a rival company unraveled a deal."
   },
   {
     "title": "The Texas Senate Primary Offers a Test Case for Each Party",
@@ -40,9 +40,9 @@
     "summary": "Should Democrats concentrate on swing voters or their base? Can more traditional Republicans win in the MAGA era? Tuesday’s Senate primary in Texas will show the direction the parties are taking."
   },
   {
-    "title": "In Ukraine, a Community of ‘Simple Believers’ Shuns the Modern World",
-    "link": "https://www.nytimes.com/2026/03/01/world/europe/ukraine-simple-believers.html",
-    "summary": "The Christians known as viruiuchi prostaky see electricity, cars, higher education and much else as distractions from what really matters."
+    "title": "SAG Actor Awards Red Carpet 2026: See Photos of the Stars’ Looks",
+    "link": "https://www.nytimes.com/2026/03/01/style/sag-actor-awards-red-carpet-photos.html",
+    "summary": "Teyana Taylor, Noah Wyle and Chase Infiniti are among the arrivals at the Shrine Auditorium in Los Angeles for the Screen Actor Guild’s Actor Awards."
   },
   {
     "title": "How the Psychedelic Drug Ibogaine Changed Me Forever",
@@ -50,39 +50,64 @@
     "summary": "Veterans and others who have suffered trauma and injuries are flocking to clinics around the world to take ibogaine. My own reason was deeply personal."
   },
   {
+    "title": "Kickstarter’s C.E.O. on Running a Fully Remote Company With a Four-Day Workweek",
+    "link": "https://www.nytimes.com/2026/03/01/business/kickstarter-everette-taylor-interview-remote-four-day-workweek.html",
+    "summary": "Everette Taylor took over Kickstarter at a low moment for the crowdfunding pioneer, which made its name with small projects but now attracts major multinationals and celebrities."
+  },
+  {
+    "title": "Bring On Defunct: The iPod Enthralls Young Music Listeners",
+    "link": "https://www.nytimes.com/2026/03/01/technology/apple-ipod-music-comeback.html",
+    "summary": "It’s not exactly going analog, but people looking to move away from streaming say Apple’s old device is a small step away from constantly being online."
+  },
+  {
+    "title": "Banks Are Becoming Bulwarks for Vulnerable Seniors",
+    "link": "https://www.nytimes.com/2026/02/28/health/scams-elderly-banks.html",
+    "summary": "Older Americans are losing billions of dollars annually to financial exploitation. Banks and investment firms are training employees to spot red flags and stop the transactions."
+  },
+  {
+    "title": "4 Ways to Enjoy Your Savings in Retirement Without Going Broke",
+    "link": "https://www.nytimes.com/2026/02/28/business/retirement-savings-spending-finances.html",
+    "summary": "Once paychecks stop, it can be frightening to shift out of the savings habit. But there are strategies to enjoy your nest egg and make it last."
+  },
+  {
+    "title": "The American Comedian Who Became a Funnyman in China",
+    "link": "https://www.nytimes.com/2026/03/01/arts/jesse-appell-comedian-china.html",
+    "summary": "Jesse Appell left everything behind to pursue a comedy career in China, where Western-style club comedy was just finding its footing."
+  },
+  {
+    "title": "It’s March. Do You Know Where Your Children Are Going to Camp?",
+    "link": "https://www.nytimes.com/2026/03/01/nyregion/nyc-summer-camps.html",
+    "summary": "For many New York City parents, the quest to find an affordable, convenient summer camp amounts to an unpleasant annual hazing ritual."
+  },
+  {
+    "title": "‘Scream 7’s’ Matthew Lillard is a Fan Favorite. If Only Hollywood Understood.",
+    "link": "https://www.nytimes.com/2026/02/28/movies/matthew-lillard-scream-7.html",
+    "summary": "After a period of joblessness when he had to sell his home and cars, the “Scream” actor’s career is booming — whether Quentin Tarantino likes it or not."
+  },
+  {
     "title": "A Tyrant Falls. Dangerous Uncertainty Begins.",
     "link": "https://www.nytimes.com/2026/03/01/opinion/iran-khamenei-killed-what-next.html",
     "summary": "No one should mourn Ayatollah Khamenei, but Trump is creating the opportunity for chaos and violence with his campaign against Iran."
   },
   {
-    "title": "War and Peace Cannot Be Left to One Man — Especially Not This Man",
-    "link": "https://www.nytimes.com/2026/03/01/opinion/trump-iran-congress-approval.html",
-    "summary": "The Constitution isn’t a technicality."
-  },
-  {
-    "title": "Killing Iran’s Leader",
-    "link": "https://www.nytimes.com/2026/03/01/briefing/killing-irans-leader.html",
-    "summary": "We look at the events leading to the death of Ayatollah Ali Khamenei and what comes next."
-  },
-  {
-    "title": "Ask The Morning: Attacks on Iran",
-    "link": "https://www.nytimes.com/2026/03/01/briefing/ask-the-morning-attacks-on-iran.html",
-    "summary": "The U.S. and Israel attacked Iran, and Iran retaliated. What do you want to know?"
+    "title": "With Iran, Trump and Netanyahu are Doing the Free World a Favor",
+    "link": "https://www.nytimes.com/2026/03/01/opinion/trump-netanyahu-iran-free-world.html",
+    "summary": "American hearts should be moved by moments like this, when free nations band together to administer justice and supply hope."
   },
   {
     "title": "F.B.I. Investigating if Shooting at a Bar in Austin Has Terrorism Connection",
     "link": "https://www.nytimes.com/2026/03/01/us/austin-shooting-bufords-6th-street.html",
-    "summary": "The F.B.I. said it was too early to determine a motive in the shooting that killed two at an Austin bar, but added that the Joint Terrorism Task Force is involved in the investigation."
+    "summary": "The shooter killed two and injured at least 14 early Sunday at an Austin bar. The police and the F.B.I. searched the home of a suspect who was shot and killed by authorities at the scene."
+  },
+  {
+    "title": "In Ukraine, a Community of ‘Simple Believers’ Shuns the Modern World",
+    "link": "https://www.nytimes.com/2026/03/01/world/europe/ukraine-simple-believers.html",
+    "summary": "The Christians known as viruiuchi prostaky see electricity, cars, higher education and much else as distractions from what really matters."
   },
   {
     "title": "With a New Nigeria Refinery, Africa’s Richest Man Wants ‘to Rescue the Country’",
     "link": "https://www.nytimes.com/2026/02/27/world/africa/nigeria-dangote-refinery.html",
     "summary": "Aliko Dangote, Africa’s richest man, has an ambitious vision for the continent’s most populous nation, but hurdles stand in his way."
-  },
-  {
-    "title": "Can Nations Agree How to Mine the Sea? This Is the Year, She Says.",
-    "link": "https://www.nytimes.com/2026/02/28/climate/seabed-mining-rulebook-isa-metals-company.html",
-    "summary": "Leticia Carvalho heads a global authority that’s been struggling to set rules for a decade. President Trump’s aggressive push on ocean mining makes her task more urgent."
   },
   {
     "title": "Joe Randall, Chef Who Celebrated Black Cooking Traditions, Dies at 79",

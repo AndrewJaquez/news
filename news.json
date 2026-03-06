@@ -1,8 +1,28 @@
 [
   {
-    "title": "FEMA Delays Under Kristi Noem Angered Republicans",
-    "link": "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-fema-disaster.html",
-    "summary": "Long delays in FEMA assistance brought bipartisan complaints, especially in North Carolina after Hurricane Helene in 2024."
+    "title": "Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base",
+    "link": "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html",
+    "summary": "The Feb. 28 school strike in Minab, which killed dozens, including children, appears to have been part of an attack on an adjacent naval base in southern Iran, where officials said U.S. forces were operating."
+  },
+  {
+    "title": "As Trump Out-Putins Putin, Russia’s Global Influence Erodes",
+    "link": "https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html",
+    "summary": "The conflict in Iran may give Moscow a short-term boost economically and in Ukraine. But it has also shown the limits of Russia’s partnerships."
+  },
+  {
+    "title": "India Is Turning Back to Russian Oil",
+    "link": "https://www.nytimes.com/2026/03/05/business/india-russian-oil.html",
+    "summary": "India’s trade deal with President Trump was supposed to end its imports of oil from Russia. But then the conflict in the Middle East has cut off alternative supplies."
+  },
+  {
+    "title": "Timeline: The Rise and Fall of Kristi Noem as Trump’s DHS Secretary",
+    "link": "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html",
+    "summary": "The homeland security secretary, who was fired by President Trump Thursday, helped fulfill his border pledges, but also drew negative attention to his administration."
+  },
+  {
+    "title": "Trump Announces He Is Replacing Noem With Oklahoma Senator",
+    "link": "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-markwayne-mullin-trump.html",
+    "summary": "The president said he would replace Kristi Noem, the homeland security secretary, with Senator Markwayne Mullin, after Ms. Noem was grilled by Republicans at a congressional hearing."
   },
   {
     "title": "As Noem Speaks in Nashville, Senate Swarms Mullin",
@@ -15,29 +35,34 @@
     "summary": "Senator Richard Blumenthal of Connecticut said Democrats had evidence to suggest Kristi Noem lied under oath during a Senate hearing on Tuesday."
   },
   {
-    "title": "Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base",
-    "link": "https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html",
-    "summary": "The Feb. 28 school strike in Minab, which killed dozens, including children, appears to have been part of an attack on an adjacent naval base in southern Iran, where officials said U.S. forces were operating."
+    "title": "DOJ Releases Missing Interviews With Woman Who Made Claims Against Trump in Epstein Files",
+    "link": "https://www.nytimes.com/2026/03/05/us/politics/trump-epstein-interviews-woman-justice-department.html",
+    "summary": "The pages had been withheld from the trove of documents related to the convicted sex offender Jeffrey Epstein because of what officials called a mistaken determination that they were duplicates."
   },
   {
-    "title": "House Turns Back Bid to Restrict Trump’s War Powers in Iran",
-    "link": "https://www.nytimes.com/2026/03/05/us/politics/trump-war-powers-iran-house-vote.html",
-    "summary": "A handful of Democrats joined Republicans to defeat an effort to force President Trump to go to Congress for approval to continue using force against Iran, while two G.O.P. lawmakers backed it."
+    "title": "Lindsey Halligan Is Under Investigation by the Florida Bar",
+    "link": "https://www.nytimes.com/2026/03/05/us/politics/lindsey-halligan-investigation-florida-bar.html",
+    "summary": "The actions of Ms. Halligan, who as a U.S. attorney brought criminal cases against President Trump’s enemies, are under review by the organization that licensed her to practice law."
   },
   {
-    "title": "Iran delays naming a new leader out of security concerns, officials say.",
-    "link": "https://www.nytimes.com/live/2026/03/05/world/iran-war-israel-trump/iran-delays-naming-a-new-leader-out-of-security-concerns-officials-say",
-    "summary": ""
+    "title": "U.S. Restarts Diplomatic Relations With Venezuela",
+    "link": "https://www.nytimes.com/2026/03/05/world/americas/us-venezuela-diplomatic-relations.html",
+    "summary": "Washington has rapidly warmed up ties with Venezuela — and applied major pressure on it — since capturing the country’s president, Nicolás Maduro, two months ago."
   },
   {
-    "title": "How the Decision to Start a War Became the President’s",
-    "link": "https://www.nytimes.com/2026/03/05/us/politics/trump-iran-war-presidential-power.html",
-    "summary": "Presidents have sidestepped Congress to launch limited military strikes for decades. Trump’s decision to attack Iran is an aggressive escalation."
+    "title": "Pentagon Officially Notifies Anthropic It Is a ‘Supply Chain Risk’",
+    "link": "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
+    "summary": "Anthropic has said it will sue the Defense Department over the designation, which could prevent the start-up from doing business with the U.S. government."
   },
   {
-    "title": "House Republicans Tell Gonzales to Quit Re-Election Campaign",
-    "link": "https://www.nytimes.com/2026/03/05/us/politics/house-republicans-gonzales.html",
-    "summary": "The call came a day after the Texas congressman admitted to an extramarital affair with an aide, and as he faced a runoff to keep his seat."
+    "title": "Representative Tony Gonzales Will Not Seek Re-election",
+    "link": "https://www.nytimes.com/2026/03/05/us/politics/tony-gonzales-resigns.html",
+    "summary": "Several House members had called for Mr. Gonzales, a Texas Republican, to step down after texts emerged showing his pursuit of a staff member who later killed herself."
+  },
+  {
+    "title": "Steve Daines’s Switcheroo Starts New Fight in Montana Senate Race",
+    "link": "https://www.nytimes.com/2026/03/05/us/politics/steve-daines-montana-senate-alme.html",
+    "summary": "Minutes before the Senate filing deadline, Senator Steve Daines withdrew his re-election bid and an ally jumped in. Even some fellow Republicans criticized the 11th-hour switch."
   },
   {
     "title": "Lev Parnas Running for Congress as a Democrat in Florida",
@@ -55,34 +80,19 @@
     "summary": "After repeated but cryptic rebukes from the justices, Judge Brian Murphy last week again ruled against one of the administration’s signature immigration programs."
   },
   {
-    "title": "How Jonathan Groff of ‘Just in Time’ Became Broadway’s Leading Man",
-    "link": "https://www.nytimes.com/2026/03/05/theater/jonathan-groff-just-in-time-broadway.html",
-    "summary": "By transmitting his love of live performance, the “Just in Time” actor has completed his ascendance to full musical stardom."
+    "title": "The Good Times Are Over in China’s Liquor Capital",
+    "link": "https://www.nytimes.com/2026/03/06/world/asia/maotai-china-liquor-capital.html",
+    "summary": "Once celebrated for its fiery spirits, the town of Maotai has reeled from a bad Chinese economy, changing tastes and a crackdown on boozy official banquets."
   },
   {
-    "title": "Lindsey Halligan Is Under Investigation by the Florida Bar",
-    "link": "https://www.nytimes.com/2026/03/05/us/politics/lindsey-halligan-investigation-florida-bar.html",
-    "summary": "The actions of Ms. Halligan, who as a U.S. attorney brought criminal cases against President Trump’s enemies, are under review by the organization that licensed her to practice law."
+    "title": "He Had a Purple Heart, PTSD and a Rap Sheet. He Had to Leave the U.S.",
+    "link": "https://www.nytimes.com/2026/03/06/world/asia/south-korea-deportee-immigration.html",
+    "summary": "After a long battle with drug addiction, Sae Joon Park felt settled in a new life. But he was deported last year and is now fighting to get back to Hawaii."
   },
   {
-    "title": "Not Just Oil: In Venezuela, U.S. Interior Secretary Pushes for Mining Access",
-    "link": "https://www.nytimes.com/2026/03/05/nyregion/not-just-oil-in-venezuela-us-interior-secretary-pushes-for-mining-access.html",
-    "summary": "Venezuela is home to large reserves of rare earths, gold and other valuable minerals that the Trump administration wants to exert more control over."
-  },
-  {
-    "title": "Pentagon Officially Notifies Anthropic It Is a ‘Supply Chain Risk’",
-    "link": "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
-    "summary": "Anthropic has said it will sue the Defense Department over the designation, which could prevent the start-up from doing business with the U.S. government."
-  },
-  {
-    "title": "Pokémon Company Objects to White House’s Political Memes",
-    "link": "https://www.nytimes.com/2026/03/05/arts/pokemon-company-white-house-memes.html",
-    "summary": "“No permission was granted for the use of our intellectual property,” the company said. The Trump administration frequently promotes policies with content from video games."
-  },
-  {
-    "title": "After Apalachee High School Shooting, a Hunger for Accountability",
-    "link": "https://www.nytimes.com/2026/03/05/us/apalachee-shooting-colt-gray-accountability.html",
-    "summary": "The country is casting an ever wider net in its search for accountability after mass shootings. Charging parents is an emerging tactic."
+    "title": "Jamil Jivani, a Friend of JD Vance, Channels Charlie Kirk With Young Men",
+    "link": "https://www.nytimes.com/2026/03/06/world/canada/jamil-jivani-canada-conservative-jd-vance.html",
+    "summary": "Jamil Jivani, a Conservative rookie member of Parliament, follows an American playbook to win over young men on college campuses."
   },
   {
     "title": "Senator Tim Sheehy Helps Officers Forcibly Remove Protesting Veteran From Hearing",
@@ -100,21 +110,6 @@
     "summary": "Cars have become so expensive that many Americans are putting off or not buying new cars, hurting the auto industry."
   },
   {
-    "title": "Nature Report, Killed by Trump, Is Released Independently",
-    "link": "https://www.nytimes.com/2026/03/05/climate/trump-nature-assessment.html",
-    "summary": "A draft assessment of the health of nature in the United States is grim but shot through with bright spots and possibility."
-  },
-  {
-    "title": "Should New York City Burn Its Parks? This Scientist Thinks So.",
-    "link": "https://www.nytimes.com/2026/03/05/climate/new-york-city-park-fires-controlled-burns.html",
-    "summary": "An unusual outbreak of wildfires in city parks gave scientists a chance to study these rare events. Now they’re coming to different conclusions."
-  },
-  {
-    "title": "Feeling the Effects of 260,000 Federal Jobs Lost",
-    "link": "https://www.nytimes.com/2026/03/05/climate/climate-forward-science-federal-cuts.html",
-    "summary": "One year in, assessing budget cuts to federal climate and science jobs."
-  },
-  {
     "title": "Fewer Pregnant Women Received Acetaminophen in E.R.s After White House Warnings",
     "link": "https://www.nytimes.com/2026/03/05/health/tylenol-acetaminophen-autism-trump.html",
     "summary": "A new analysis of prescription data found that emergency room orders for acetaminophen for pregnant women fell for weeks after the federal warning."
@@ -125,24 +120,19 @@
     "summary": "The four teenage brothers mostly play the oldies. (To them, the oldies are Coldplay and Maroon 5.)"
   },
   {
-    "title": "Politicians Are Trying to Control the News",
-    "link": "https://www.nytimes.com/2026/03/05/opinion/free-press-repression-journalists-prison.html",
-    "summary": "The rising global attacks on the free press reveal increasingly desperate regimes attempting to snuff out attempts to find the truth."
+    "title": "What Kristi Noem Should Do After President Trump Fired Her",
+    "link": "https://www.nytimes.com/2026/03/05/opinion/kristi-noem-fired-trump-mullin.html",
+    "summary": "It’s hard out there for a MAGA woman."
   },
   {
-    "title": "Mass Hysteria. Thousands of Jobs Lost. Just How Bad Is It Going to Get?",
-    "link": "https://www.nytimes.com/2026/03/05/opinion/ai-jobs-white-collar-apocalpyse.html",
-    "summary": "Michael Steinberger on how A.I.’s impact on white-collar jobs may transform politics and society."
+    "title": "America Won’t Save Iran",
+    "link": "https://www.nytimes.com/2026/03/06/opinion/iran-bombing-america.html",
+    "summary": "The most likely outcome of the American-Israeli bombing campaign is not the advent of liberal democracy but something worse."
   },
   {
-    "title": "Trump Fires His Homeland Security Secretary",
-    "link": "https://www.nytimes.com/2026/03/05/briefing/trump-kristi-noem-iran-next-leader.html",
-    "summary": "Also, child care costs are rising fast. Here’s the latest at the end of Thursday."
-  },
-  {
-    "title": "Superfood Fuels Mating Frenzy for Critically Endangered Kakapo",
-    "link": "https://www.nytimes.com/2026/03/05/science/kakapo-endangered-parrots-mating-berries.html",
-    "summary": "Kakapos, which are reclusive and flightless and can live as long as humans, are found only in New Zealand. They feed on the fruit of the rimu tree."
+    "title": "Not Just Oil: In Venezuela, U.S. Interior Secretary Pushes for Mining Access",
+    "link": "https://www.nytimes.com/2026/03/05/world/americas/venezuela-mining-access-burgum.html",
+    "summary": "Venezuela is home to large reserves of rare earths, gold and other valuable minerals that the Trump administration wants to exert more control over."
   },
   {
     "title": "Racist, Antisemitic Slurs Surface in Florida GOP Group Chat",
@@ -150,13 +140,13 @@
     "summary": "After the secretary of the Miami-Dade County Republican Party created the chat for college students, it devolved into slurs against Black and Jewish people."
   },
   {
-    "title": "António Lobo Antunes, One of Europe’s Most Revered Writers, Dies at 83",
-    "link": "https://www.nytimes.com/2026/03/05/books/antonio-lobo-antunes-dead.html",
-    "summary": "In a career studded with literary awards, he was the author of dozens of books that grappled with his nation’s legacy of dictatorship and colonialism."
+    "title": "Ronnie Eldridge, NY Politician and Aide to RFK and Lindsay, Dies at 95",
+    "link": "https://www.nytimes.com/2026/03/05/obituaries/ronnie-eldridge-dead.html",
+    "summary": "She was an adviser to Senator Robert F. Kennedy, Mayor John V. Lindsay and Representative Bella S. Abzug before serving on the New York City Council from 1989 to 2001."
   },
   {
-    "title": "Britney Spears Is Arrested on Suspicion of D.U.I. in California",
-    "link": "https://www.nytimes.com/2026/03/05/arts/music/britney-spears-arrest.html",
-    "summary": "“Hopefully this can be the first step in long overdue change that needs to occur in Britney’s life,” a representative for the pop star said after she was released from jail."
+    "title": "Superfood Fuels Mating Frenzy for Critically Endangered Kakapo",
+    "link": "https://www.nytimes.com/2026/03/05/science/kakapo-endangered-parrots-mating-berries.html",
+    "summary": "Kakapos, which are reclusive and flightless and can live as long as humans, are found only in New Zealand. They feed on the fruit of the rimu tree."
   }
 ]

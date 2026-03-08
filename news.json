@@ -1,13 +1,13 @@
 [
   {
+    "title": "Trump Witnesses Return of Bodies of 6 U.S. Service Members",
+    "link": "https://www.nytimes.com/2026/03/07/us/politics/trump-dover-dignified-transfer-iran.html",
+    "summary": "President Trump traveled to Dover Air Force Base in Delaware to witness the transfer of the remains of five men and one woman killed in an Iranian drone strike."
+  },
+  {
     "title": "In War’s First Week, a Punishing Military Campaign With No Coherent Endgame",
     "link": "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html",
     "summary": "The U.S. and Israel have pounded Iran’s leadership and undercut its defense capabilities, but President Trump has offered wildly different explanations for what he hopes to achieve."
-  },
-  {
-    "title": "Iranian President’s Apology to Neighboring Gulf States Showcases Leadership Rifts",
-    "link": "https://www.nytimes.com/2026/03/07/world/middleeast/iran-president-pezeshkian-gulf-apology-war.html",
-    "summary": "Masoud Pezeshkian, the Iranian president, apologized for Iranian strikes on Gulf states before backtracking after criticism from other Iranian leaders. Despite his remarks, Iran has continued its attacks."
   },
   {
     "title": "How We Analyzed the Strike on the Iranian School",
@@ -20,6 +20,11 @@
     "summary": "Agents have conducted more targeted operations, rather than street sweeps, leading to a dip in arrests — at least for now."
   },
   {
+    "title": "Judge Voids Mass Layoffs at Voice of America",
+    "link": "https://www.nytimes.com/2026/03/07/us/politics/judge-kari-lake-voa-layoffs.html",
+    "summary": "The ruling, which said that Kari Lake’s appointment to oversee V.O.A.’s parent agency was invalid, was a major rejection of President Trump’s attempts to dismantle the government-funded news group."
+  },
+  {
     "title": "When DOGE Unleashed ChatGPT on the Humanities",
     "link": "https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html",
     "summary": "Documents show how A.I. was used to cancel most previously approved grants by the National Endowment for the Humanities as the agency embraced President Trump’s agenda."
@@ -27,12 +32,7 @@
   {
     "title": "Trump Assembles a New Coalition to ‘Eradicate’ Cartels",
     "link": "https://www.nytimes.com/2026/03/07/world/americas/trump-latin-american-coalition-cartels.html",
-    "summary": "At a gathering in Florida, the president asked the leaders of a dozen Latin American nations to help the U.S. military crush armed trafficking groups."
-  },
-  {
-    "title": "Kristi Noem Survived Many Crises. Then She Crossed a Trump Red Line.",
-    "link": "https://www.nytimes.com/2026/03/06/us/politics/trump-noem.html",
-    "summary": "President Trump, who values loyalty, has at times tried to distance himself from his administration’s own actions when they become politically toxic."
+    "summary": "At a gathering in Florida, the president asked the leaders of a dozen Latin American and Caribbean nations to help the U.S. military crush armed trafficking groups."
   },
   {
     "title": "At Noma, Accusations of Past Physical Abuse",
@@ -40,49 +40,34 @@
     "summary": "Dozens of former employees say René Redzepi inflicted physical and psychological violence on the staff for years."
   },
   {
-    "title": "How Candidates Are Using Winks and Posts to Seek Crypto and A.I. Cash",
-    "link": "https://www.nytimes.com/2026/03/07/us/politics/ai-crypto-money-midterms-congress.html",
-    "summary": "All across America, congressional candidates are finding creative — and critics say cynical — ways to signal support for two deep-pocketed industries, A.I. and crypto."
-  },
-  {
-    "title": "How Talarico Won Texas Democrats With Love, Luck and a Little Restraint",
-    "link": "https://www.nytimes.com/2026/03/07/us/politics/how-talarico-won.html",
-    "summary": "A carefully disciplined campaign that capitalized on viral media, months of organizing and strong outreach to Latino voters helped propel James Talarico to the center of Texas politics."
-  },
-  {
-    "title": "Ahead of Midterms, Economic Warning Signs Pile Up for Republicans",
-    "link": "https://www.nytimes.com/2026/03/07/us/politics/economy-midterms-republicans.html",
-    "summary": "With employers cutting jobs and gas prices rising amid the war in Iran, Democrats see an opportunity to press their advantage."
-  },
-  {
     "title": "How Alberto Carvalho Became L.A.U.S.D. Superintendent Despite Scandals",
     "link": "https://www.nytimes.com/2026/03/07/us/alberto-carvalho-lausd-scandals.html",
     "summary": "Alberto Carvalho was seen as a catch for the nation’s second-largest school district. Then his home and office were raided by the F.B.I."
   },
   {
-    "title": "The ‘Arrogance of Power’ Drives War in Iran",
-    "link": "https://www.nytimes.com/2026/03/07/opinion/iran-war-trump.html",
-    "summary": "The Iranian people are not overthrowing their government, and the war is spreading across the region."
+    "title": "In Russia’s Former Capital, Restoring the Past to Survive the Present",
+    "link": "https://www.nytimes.com/2026/03/08/world/europe/st-petersburg-restoration-activism.html",
+    "summary": "With political activism off-limits, residents of St. Petersburg are finding purpose and community in the “politics of small deeds,” repairing and cleaning architectural treasures."
   },
   {
-    "title": "‘Wuthering Heights,’ MAGA Style",
-    "link": "https://www.nytimes.com/2026/03/07/opinion/kristi-noem-corey-lewandowski-wuthering-heights.html",
-    "summary": "Kristi and Corey cavorted in the swamp as D.H.S. got bogged down."
+    "title": "The Badlands Hold Me as I Grieve",
+    "link": "https://www.nytimes.com/2026/03/08/opinion/birding-photography-loss.html",
+    "summary": "I imagine the birds I see are the family members I’ve lost."
   },
   {
-    "title": "After Tornadoes Ravage Michigan and Oklahoma, Residents Survey Damage",
-    "link": "https://www.nytimes.com/2026/03/07/us/tornado-michigan-oklahoma-storms-weather.html",
-    "summary": "At least six people were dead and well over a dozen injured between the two states after a series of tornadoes on Friday."
+    "title": "Smoking Jars of Metal and Fuses Thrown at Protest Near Mayor’s House",
+    "link": "https://www.nytimes.com/2026/03/07/nyregion/gracie-mansion-protests.html",
+    "summary": "Six people were arrested after anti-Islamic protesters led by the right-wing activist Jake Lang clashed with counterprotesters near Gracie Mansion."
+  },
+  {
+    "title": "Gen Z-Backed Rapper Is on Course to Lead Nepal With Landslide Win",
+    "link": "https://www.nytimes.com/2026/03/07/world/asia/nepal-election-rapper-balen-genz.html",
+    "summary": "Balendra Shah, the onetime rap artist and former mayor of the country’s capital, is on course to become the country’s next prime minister."
   },
   {
     "title": "Epstein Doctor Steps Away From Elite Health Clinics",
     "link": "https://www.nytimes.com/2026/03/07/us/epstein-doctors-bernard-kruger.html",
     "summary": "Dr. Bernard Kruger once gave a private E.R. membership to Jeffrey Epstein and unnamed “girls.”"
-  },
-  {
-    "title": "Runners at Los Angeles Marathon Can Get a Finisher Medal After Only 18 Miles",
-    "link": "https://www.nytimes.com/2026/03/07/us/los-angeles-marathon-medals.html",
-    "summary": "The decision to award medals to runners who do not complete the entire 26.2-mile race comes as temperatures are set to reach into the 80s on Sunday. Some marathoners disagreed with the change."
   },
   {
     "title": "Young New Yorkers Decided the Revolution Will Have Roommates",

@@ -1,5 +1,10 @@
 [
   {
+    "title": "U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows",
+    "link": "https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html",
+    "summary": "The evidence contradicts President Trump’s claim that Iran was responsible for a strike at the school that killed 175 people, most of them children."
+  },
+  {
     "title": "Mojtaba Khamenei, Son of Iran’s Slain Supreme Leader, Is a Mysterious Figure",
     "link": "https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html",
     "summary": "The succession of the slain leader’s son is seen as a signal of the Islamic republic’s defiance of Israel and the United States, and of continuity during crisis."
@@ -10,9 +15,14 @@
     "summary": "The service member killed was not publicly identified, but U.S. Central Command said the death was caused by injuries after an attack on a Saudi military base."
   },
   {
-    "title": "Oil Prices Surge Above $100 a Barrel for the First Time in Almost Four Years",
-    "link": "https://www.nytimes.com/2026/03/08/business/energy-environment/oil-prices-iran-100-dollars-barrel.html",
-    "summary": "The jump was a sign of growing concern that the war in the Middle East will take a toll on energy supplies. Stock futures fell about 1.5 percent."
+    "title": "On the Road With Zelensky, Weathered, Weary and Fighting On",
+    "link": "https://www.nytimes.com/2026/03/09/world/europe/ukraine-zelensky-frontline-tour.html",
+    "summary": "Ukraine’s leader, Volodymyr Zelensky, traveled east to visit frontline troops trying to stave off Russian attacks, and invited reporters for The New York Times to go with him."
+  },
+  {
+    "title": "Ukraine Sent Drone Experts to Protect U.S. Bases in Jordan, Zelensky Says",
+    "link": "https://www.nytimes.com/2026/03/09/world/middleeast/ukraine-shahed-drone-middle-east.html",
+    "summary": "As the war in Iran spreads, Kyiv is eagerly offering its hard-won expertise and advanced technology to counter Iranian drones."
   },
   {
     "title": "Trump Executive Order Protected Weedkiller Roundup and a Munition, White Phosphorus",
@@ -20,9 +30,9 @@
     "summary": "Citing national security, an unusual executive order gave protection to the herbicide Roundup. It also protected the U.S.’s only supply of a controversial, highly flammable munition."
   },
   {
-    "title": "ICE Detention of Teen Musicians Roils Texas Mariachi Community",
-    "link": "https://www.nytimes.com/2026/03/08/us/teen-mariachi-musicians-detained-ice-texas.html",
-    "summary": "Two brothers who were recognized by their congresswoman last year, along with their parents and younger brother, are facing deportation."
+    "title": "U.S. Carries Out Another Boat Strike, Killing Six",
+    "link": "https://www.nytimes.com/2026/03/08/us/politics/boat-strike-eastern-pacific-six-killed.html",
+    "summary": "The attack, in the eastern Pacific, was part of a continuing campaign by the U.S. Southern Command to target people suspected of smuggling drugs, and raised the overall death toll to at least 156."
   },
   {
     "title": "White House Removes Republican Member of N.T.S.B.",
@@ -35,29 +45,19 @@
     "summary": "President Trump thinks Republicans should control voting procedures in parts of the United States. But where? Here are some possibilities."
   },
   {
-    "title": "In Kentucky, Trump Allies Clash With Massie Over Iran War",
-    "link": "https://www.nytimes.com/2026/03/08/us/politics/massie-republicans-trump-iran-war-midterms.html",
-    "summary": "Representative Thomas Massie’s race against a rival backed by President Trump is shaping up as a key midterm testing ground for G.O.P. attitudes on the war."
+    "title": "The Suburb That Won’t Sleep",
+    "link": "https://www.nytimes.com/2026/03/09/world/canada/mississauga-toronto-ridgeway-immigration.html",
+    "summary": "Food is bringing thousands of people together to an unexpected place: a plaza west of Toronto. Some fear it’s tearing a neighborhood apart."
   },
   {
-    "title": "24 Hours With Nike’s C.E.O. as He Races to Win Back the Sports World",
-    "link": "https://www.nytimes.com/2026/03/08/business/nike-ceo-elliott-hill.html",
-    "summary": "Elliott Hill is traveling the globe to meet with leagues, teams and athletes to rebuild connections and spur a turnaround for the world’s largest athletic-wear company."
-  },
-  {
-    "title": "The Met Opera’s Desperate Hunt for Money",
-    "link": "https://www.nytimes.com/2026/03/08/arts/met-opera-peter-gelb-finances.html",
-    "summary": "The Met has looked to a foreign government, to new strategies, even to outer space, in its scramble to find money to sustain the country’s largest performing arts organization."
+    "title": "Is the Trial of Erdogan’s Top Rival More About Corruption or Politics?",
+    "link": "https://www.nytimes.com/2026/03/09/world/middleeast/turkey-erdogan-mayor-ekrem-imamoglu.html",
+    "summary": "Prosecutors accuse the former Istanbul mayor Ekrem Imamoglu of leading a criminal scheme. His supporters say Turkey’s president is trying to eliminate a political foe."
   },
   {
     "title": "U.S. Authorities Are Investigating Device Thrown Near Gracie Mansion",
     "link": "https://www.nytimes.com/2026/03/08/nyregion/gracie-mansion-bomb-investigation.html",
-    "summary": "The device that emitted smoke during a protest near Gracie Mansion Saturday was designed to be deadly, a person with knowledge of the investigation said."
-  },
-  {
-    "title": "A Crypto Coin Is Gobbling Up U.S. Treasuries",
-    "link": "https://www.nytimes.com/2026/03/08/business/stablecoins-crypto-treasuries-risks.html",
-    "summary": "A new generation of cryptocurrency, pegged to the dollar, is growing rapidly, promising faster payments and potentially lower interest rates. But regulators and bankers warn of risks."
+    "summary": "The device that emitted smoke during a protest near Gracie Mansion Saturday was designed to be deadly, three people  with knowledge of the investigation said."
   },
   {
     "title": "A Wink, a Nod or a Duck: The Secrets Behind Car Owners’ Secret Handshakes",
@@ -65,23 +65,38 @@
     "summary": "It’s more than the Jeep Wave: Miatas can wink with their pop-up headlights, and Porsche owners have their own waves, but only for the right cars."
   },
   {
-    "title": "The Danger of Being a Palestinian Citizen of Israel",
-    "link": "https://www.nytimes.com/2026/03/08/opinion/israel-citizen-palestinian-war.html",
-    "summary": "The Israeli government must address a crime wave in Palestinian towns."
+    "title": "24 Hours With Nike’s C.E.O. as He Races to Win Back the Sports World",
+    "link": "https://www.nytimes.com/2026/03/08/business/nike-ceo-elliott-hill.html",
+    "summary": "Elliott Hill is traveling the globe to meet with leagues, teams and athletes to rebuild connections and spur a turnaround for the world’s largest athletic-wear company."
   },
   {
-    "title": "Thousands Waiting in Security Lines at Airports in New Orleans and Houston",
-    "link": "https://www.nytimes.com/2026/03/08/us/airports-delays-security-lines-new-orleans-and-houston.html",
-    "summary": "Screening delays created lines that stretched around William P. Hobby and Louis Armstrong airports, causing many to miss flights at the start of spring break season."
+    "title": "How Trump Betrayed His First Duty to Americans",
+    "link": "https://www.nytimes.com/2026/03/09/opinion/iran-war-evacuation-trump.html",
+    "summary": "The Trump administration failed to plan for evacuating either its diplomats or its citizens and did not adequately warn either."
+  },
+  {
+    "title": "The Future We Feared Is Already Here",
+    "link": "https://www.nytimes.com/2026/03/08/opinion/ai-anthropic-claude-pentagon-hegseth-amodei.html",
+    "summary": "The showdown between the Pentagon and Anthropic is a window into how unprepared we are for the questions we are facing."
+  },
+  {
+    "title": "New Yorkers Embrace the First Warm Day of the Season",
+    "link": "https://www.nytimes.com/2026/03/08/nyregion/nyc-warm-weather-spring.html",
+    "summary": "After a frigid, snowy, seemingly interminable winter, the first taste of mild air had people shedding layers and flocking to parks."
+  },
+  {
+    "title": "Georgia Teacher Is Killed After Teenagers’ Prank Goes Wrong",
+    "link": "https://www.nytimes.com/2026/03/08/us/georgia-teacher-killed-prank.html",
+    "summary": "The teacher’s family “supports getting the charges dropped for all involved,” after a planned toilet-paper prank became a fatal car accident."
+  },
+  {
+    "title": "Large Fire in Glasgow Forces Closure of Major Train Station",
+    "link": "https://www.nytimes.com/2026/03/08/world/europe/glasgow-central-train-station-fire.html",
+    "summary": "The blaze that started near Scotland’s busiest station was under control, but officials said they expected train service to be disrupted through Monday."
   },
   {
     "title": "Country Joe McDonald, Whose Antiwar Song Became an Anthem, Dies at 84",
     "link": "https://www.nytimes.com/2026/03/08/arts/music/country-joe-mcdonald-dead.html",
     "summary": "One of the starring acts at Woodstock, he and his band, the Fish, came out of the Bay Area’s psychedelic rock scene. He went on to a long career as a solo artist."
-  },
-  {
-    "title": "Have a Montana License Plate in California? Officials Have an Eye on You.",
-    "link": "https://www.nytimes.com/2026/03/08/us/montana-loophole-cars-california.html",
-    "summary": "Since 2018, Californians have bought luxury vehicles worth over $20 million in sales-tax-free Montana, exploiting a loophole that avoided millions of dollars in levies, an investigation revealed."
   }
 ]

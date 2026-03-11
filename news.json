@@ -1,18 +1,28 @@
 [
   {
-    "title": "Iranian Military Shows It Knows How to Adapt, U.S. Officials Say",
-    "link": "https://www.nytimes.com/2026/03/10/us/politics/iran-military-tactics.html",
-    "summary": "Iran appears to be targeting what it views as American vulnerabilities, including air defenses meant to guard troops and assets in the region."
-  },
-  {
     "title": "How Trump and His Advisers Miscalculated Iran’s Response to War",
     "link": "https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html",
     "summary": "In the lead-up to the U.S.-Israeli attack, President Trump downplayed the risks to the energy markets as a short-term concern that should not overshadow the mission to decapitate the Iranian regime."
   },
   {
-    "title": "Iran’s New Supreme Leader Was Wounded Early in the War, Iranian and Israeli Officials Say",
-    "link": "https://www.nytimes.com/2026/03/11/world/middleeast/khamenei-iran-leader-injured.html",
-    "summary": "Officials say Mojtaba Khamenei’s legs were hurt, but the circumstances as well as the extent of his injuries were unclear. He has remained out of view since being announced as leader three days ago."
+    "title": "How Trump’s War With Iran Changed the World in a Week",
+    "link": "https://www.nytimes.com/2026/03/11/world/europe/trump-iran-war-global-impact.html",
+    "summary": "The conflict is reshaping travel patterns, energy dependencies, living costs, trade routes and diplomatic alliances."
+  },
+  {
+    "title": "U.S. Gas Prices Jump for 11th Straight Day, and Oil Pushes Higher",
+    "link": "https://www.nytimes.com/2026/03/11/business/gas-prices-oil-iran.html",
+    "summary": "Drivers are paying an average of 20 percent more at the pump since the strikes on Iran began. The global oil price was up and stocks in Asia rose."
+  },
+  {
+    "title": "Iranians Feel the War Is ‘Closing In,’ and Bondi Is Said to Move Because of Threats",
+    "link": "https://www.nytimes.com/2026/03/11/podcasts/the-headlines/iranians-war-bondi-threats.html",
+    "summary": "Plus, iPads in kindergarten."
+  },
+  {
+    "title": "Trump Casts a Shadow Over One of Mexico’s Deadliest States",
+    "link": "https://www.nytimes.com/2026/03/11/world/americas/trump-sinaloa-cartels.html",
+    "summary": "President Trump wants to strike cartels inside Mexico. In Sinaloa State, a cartel stronghold, some residents said they were willing to entertain U.S. intervention."
   },
   {
     "title": "Bondi Is Said to Move to Military Housing Because of Threats",
@@ -20,19 +30,19 @@
     "summary": "The attorney general relocated from a Washington apartment to a base in the area within the past month, according to people familiar with the situation."
   },
   {
-    "title": "Senate Moves Toward Passing Sweeping Housing Bill, but Challenges Lie Ahead",
-    "link": "https://www.nytimes.com/2026/03/10/us/politics/senate-housing-bill.html",
-    "summary": "The legislation’s progress is all the more surprising because it addresses an issue that is shaping up to be the main battleground of the midterm elections: affordability. The effort could still stall."
-  },
-  {
     "title": "Trump Administration to Restart Global Entry Program",
     "link": "https://www.nytimes.com/2026/03/10/us/politics/global-entry-dhs-shutdown.html",
     "summary": "The program for people traveling internationally, set to come back online at 5 a.m. Wednesday, had been paused amid the shutdown of the Homeland Security Department."
   },
   {
-    "title": "Voting Company Smartmatic Says It’s a Target of Vindictive Prosecution by Trump",
-    "link": "https://www.nytimes.com/2026/03/10/us/politics/smartmatic-trump-indictment-vindictive-prosecution.html",
-    "summary": "The voting technology company’s new court filing signals how far-reaching the legal fights over elections will be in 2026."
+    "title": "They Don’t Want Their Company’s Surveillance Tool Used by ICE",
+    "link": "https://www.nytimes.com/2026/03/11/technology/thomson-reuters-ice-minnesota.html",
+    "summary": "Thomson Reuters, best known for its media outlet and legal research tools, provides an investigative tool to immigration enforcers. Its Minnesota employees want that to stop."
+  },
+  {
+    "title": "Why Did the UK Police Repeatedly Decline to Investigate Claims About Epstein and Prince Andrew?",
+    "link": "https://www.nytimes.com/2026/03/11/world/europe/uk-police-epstein-giuffre-maxwell-prince-andrew.html",
+    "summary": "The police in London interviewed Virginia Giuffre three times over her allegations about Jeffrey Epstein, Andrew Mountbatten-Windsor and Ghislaine Maxwell, but never began a criminal investigation."
   },
   {
     "title": "Clayton Fuller and Shawn Harris Advance to Runoff in Marjorie Taylor Greene’s Georgia District",
@@ -45,9 +55,14 @@
     "summary": "The victory by Mr. Thompson, the state’s longest-serving Black Democrat, offers a counterpoint to the broader push nationwide for younger leadership in Congress."
   },
   {
-    "title": "Culture at Columbia Shielded Sexual Assault by Physician, Report Finds",
-    "link": "https://www.nytimes.com/2026/03/10/nyregion/columbia-hospitals-hadden-resignation.html",
-    "summary": "Two doctors affiliated with the university and NewYork-Presbyterian Hospital stepped down after an external report found that the administrators mishandled allegations of abuse against Robert Hadden."
+    "title": "Liza Minnelli: What, Specifically, Makes Her an Icon",
+    "link": "https://www.nytimes.com/2026/03/10/style/liza-minnelli-photos.html",
+    "summary": "The things that make Liza Liza."
+  },
+  {
+    "title": "Book Review: ‘Kids, Wait Till You Hear This! A Memoir,’ by Liza Minnelli",
+    "link": "https://www.nytimes.com/2026/03/10/books/review/liza-minnelli-memoir-kids-wait-till-you-hear-this.html",
+    "summary": "“Kids, Wait Till You Hear This!” is a familiar reminder that growing up in showbiz can lead to awards and adulation, but also to heartache."
   },
   {
     "title": "Ukraine Can Now Manufacture ‘China-Free’ Drones",
@@ -55,34 +70,49 @@
     "summary": "The country has prioritized self-sufficiency in producing a crucial battlefield weapon, though weaning itself fully off cheaper Chinese components is difficult."
   },
   {
-    "title": "San Francisco Bay Area Residents Weigh Possibility of BART Reductions",
-    "link": "https://www.nytimes.com/2026/03/10/us/bart-bay-area-san-francisco-transit.html",
-    "summary": "The Bay Area Rapid Transit system was once so successful, it could rely mostly on riders to sustain itself. But the pandemic dealt BART an unusually heavy blow."
+    "title": "Russia Says Ukraine’s Strike on Factory City Was Deadly",
+    "link": "https://www.nytimes.com/2026/03/11/world/europe/ukraine-russia-electronics-plant-missiles.html",
+    "summary": "Ukraine said the attack struck a key electronics plant, highlighting how it remains capable of hitting high-value targets inside Russia."
   },
   {
-    "title": "Noma Loses American Express and Blackbird Sponsors For Los Angeles Dinners",
-    "link": "https://www.nytimes.com/2026/03/10/dining/noma-sponsors-american-express-blackbird.html",
-    "summary": "Two companies have withdrawn from a series of dinners in Los Angeles after The New York Times reported allegations that René Redzepi attacked workers."
+    "title": "Raise Taxes on the Rich? These Rich New Yorkers Are All for It.",
+    "link": "https://www.nytimes.com/2026/03/11/nyregion/nyc-tax-rich.html",
+    "summary": "Mayor Zohran Mamdani says he wants to raise taxes on New Yorkers who earn more than $1 million per year. Some millionaires actually agree with him."
   },
   {
-    "title": "Alberto Carvalho, Suspended LAUSD Chief, Denies Wrongdoing",
-    "link": "https://www.nytimes.com/2026/03/10/us/lausd-chief-alberto-carvalho-statement.html",
-    "summary": "Through his lawyers, Alberto Carvalho, who was put on leave after the F.B.I. raided his home and office, said that his actions were appropriate but that he would respect the investigative process."
+    "title": "A Trump-Xi Summit Nears, but China Doesn’t Know What Trump Wants",
+    "link": "https://www.nytimes.com/2026/03/11/world/asia/china-us-trump-ceos.html",
+    "summary": "Trump’s agenda for the high-stakes meeting remains unclear to Beijing, Chinese analysts say, while American executives say they haven’t been invited along."
   },
   {
-    "title": "Who Are the Men Accused of Bringing Homemade Bombs to Gracie Mansion?",
-    "link": "https://www.nytimes.com/2026/03/10/nyregion/gracie-mansion-bomb-arrests.html",
-    "summary": "A high school senior and a recent graduate, both from the Philadelphia suburbs, were charged by federal prosecutors with trying to support a terrorist group."
+    "title": "China’s Military Has Quietly Cut Flying Near Taiwan. But Why?",
+    "link": "https://www.nytimes.com/2026/03/11/world/asia/taiwan-china-military-planes.html",
+    "summary": "For years, China has flown military jets near Taiwan almost daily. Then they suddenly stopped, leaving analysts to wonder why."
   },
   {
-    "title": "How Does This End? Four Scenarios for What Comes Next With Iran.",
-    "link": "https://www.nytimes.com/2026/03/10/opinion/how-does-this-end-four-scenarios-for-what-comes-next-with-iran.html",
-    "summary": "The best hope? Weaken the regime’s ability to lash out and resist an uprising."
+    "title": "How ‘Sync Music’ Became the Soundtrack to Our Lives",
+    "link": "https://www.nytimes.com/2026/03/10/magazine/sync-music-songwriters-video.html",
+    "summary": "“Sync music” has become the soundtrack to our lives — whether we realize it or not."
   },
   {
-    "title": "Leave the Kurds Out of It",
-    "link": "https://www.nytimes.com/2026/03/11/opinion/iran-kurds-us-israel.html",
-    "summary": "The United States and Israel have considered using Iranian Kurds as a ground force."
+    "title": "In Talking to Parents About Vaccines, Pediatricians Navigate a Sea of Misinformation",
+    "link": "https://www.nytimes.com/2026/03/11/health/pediatricians-vaccines-cdc-kennedy.html",
+    "summary": "Practitioners nationwide are striving to do what’s best for children’s health, while staying supportive in the face of mistrust and confusion."
+  },
+  {
+    "title": "Slowly, Slowly, ‘Darwin’s Finches of the Snail World’ Return From Near Extinction",
+    "link": "https://www.nytimes.com/2026/03/11/science/conservation-snails-partula.html",
+    "summary": "Partula snails all but vanished from Polynesia after the arrival of a carnivorous foreign snail. But a global alliance of zoos has worked to bring them back."
+  },
+  {
+    "title": "Why Voters Might Finally Blame Trump for Rising Costs",
+    "link": "https://www.nytimes.com/2026/03/11/opinion/trump-war-iran-oil-prices.html",
+    "summary": "Trump’s Iran war will affect more than just gas prices."
+  },
+  {
+    "title": "Carolyn Bessette Was Living the Dream. Then She Met John.",
+    "link": "https://www.nytimes.com/2026/03/11/opinion/carolyn-bessette-kennedy-love-story.html",
+    "summary": "The fairy tale was 1990s New York."
   },
   {
     "title": "Tornadoes Reported Across the Midwest as Violent Storms Move Through",
@@ -90,18 +120,18 @@
     "summary": "The Weather Service issued several of its most urgent alerts on Tuesday night."
   },
   {
-    "title": "Matt Snell Dies at 84; Carried Jets to Stunning Upset in Super Bowl III",
-    "link": "https://www.nytimes.com/2026/03/10/sports/football/matt-snell-dead.html",
-    "summary": "His pounding runs for the underdog New York team against the Baltimore Colts secured a pivotal win for the American Football League."
+    "title": "A Dublin Pub-Crawl, but Hold the Booze",
+    "link": "https://www.nytimes.com/2026/03/11/world/europe/ireland-pubs-alcohol-free.html",
+    "summary": "A wander through some famed watering holes in Ireland’s capital reveals a booming alcohol-free scene and a cultural shift."
   },
   {
-    "title": "Bill Kurtis to Leave NPR’s ‘Wait Wait … Don’t Tell Me!’",
-    "link": "https://www.nytimes.com/2026/03/10/arts/bill-kurtis-retires-npr-wait-wait-dont-tell-me.html",
-    "summary": "As the irreverent quiz show’s judge and scorekeeper, Kurtis, a former news anchor known for his rich voice, has helped find comedy in current events since 2014."
+    "title": "Alberto Carvalho, Suspended LAUSD Chief, Denies Wrongdoing",
+    "link": "https://www.nytimes.com/2026/03/10/us/lausd-chief-alberto-carvalho-statement.html",
+    "summary": "Through his lawyers, Alberto Carvalho, who was put on leave after the F.B.I. raided his home and office, said that his actions were appropriate but that he would respect the investigative process."
   },
   {
-    "title": "Meta Acquires Moltbook, the Social Network Just for A.I. Bots",
-    "link": "https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html",
-    "summary": "Matt Schlicht, the site’s creator, helped kick off Silicon Valley’s obsession with artificial intelligence agents. Two months later, he is joining the Meta Superintelligence Lab."
+    "title": "Bumblebee Queens Can Breathe Underwater",
+    "link": "https://www.nytimes.com/2026/03/10/science/bumlebees-queens-underwater-breathe.html",
+    "summary": "A new study offers clues as to how the insects survive flooding as they emerge from a hibernation-like phase every winter."
   }
 ]

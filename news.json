@@ -1,23 +1,8 @@
 [
   {
-    "title": "Flight 8646 to LaGuardia: From Routine Landing to Disaster in 20 Seconds",
-    "link": "https://www.nytimes.com/2026/03/24/nyregion/air-canada-laguardia-crash-investigation.html",
-    "summary": "In the early stages of the investigation into the Air Canada Express crash on Sunday night, a hazy timeline has begun to emerge."
-  },
-  {
-    "title": "Air Canada Pilots Killed in LaGuardia Crash Were Early in Flying Careers",
-    "link": "https://www.nytimes.com/2026/03/24/nyregion/air-canada-pilots-laguardia.html",
-    "summary": "The pilots were identified as Antoine Forest, 30, and Mackenzie Gunther. They were the only two fatalities in the plane’s collision with a fire truck at New York’s LaGuardia Airport."
-  },
-  {
-    "title": "LaGuardia Crash Tests New Port Authority Leader",
-    "link": "https://www.nytimes.com/2026/03/24/nyregion/port-authority-laguardia-crash-firefighters.html",
-    "summary": "Kathryn Garcia, who began leading the agency in February, consoled two injured firefighters and dealt with delays at the three big airports serving New York City."
-  },
-  {
-    "title": "Why President Trump Has a Big Oil Problem",
-    "link": "https://www.nytimes.com/video/world/middleeast/100000010796844/why-iran-strait-of-hormuz-is-important-trump.html",
-    "summary": "Our national security correspondent David E. Sanger looks at President Trump’s trouble handling retaliatory attacks by Iran that have largely choked off the Strait of Hormuz."
+    "title": "2,000 U.S. Troops From 82nd Airborne Division to Be Sent to Middle East",
+    "link": "https://www.nytimes.com/2026/03/24/us/politics/82nd-airborne-division-iran-troops.html",
+    "summary": "The order gives President Trump more military options as he considers diplomacy with Iran. It is unclear where the soldiers will go in the Middle East."
   },
   {
     "title": "United States Said to Have Sent Iran a Plan to End the Middle East War",
@@ -30,14 +15,24 @@
     "summary": "Ships with no ties to Israel or the United States would be allowed to pass, the government said, but it was unclear if any vessels would try."
   },
   {
-    "title": "Trump’s Threat to ‘Obliterate’ Iran’s Power Stations Could Constitute a War Crime, Rights Experts Say",
-    "link": "https://www.nytimes.com/2026/03/24/us/politics/trump-iran-power-stations.html",
-    "summary": "Intentionally targeting the country’s energy infrastructure could constitute a war crime under international law."
+    "title": "Senate Republicans Again Block Bid to Halt Iran War Without Authorization",
+    "link": "https://www.nytimes.com/2026/03/24/us/politics/senate-iran-war-vote.html",
+    "summary": "Senate Democrats failed for the third time to advance a resolution that would force the removal of troops from hostilities in Iran unless Congress approves offensive operations."
+  },
+  {
+    "title": "Air Canada Pilots Killed in LaGuardia Crash Were Early in Flying Careers",
+    "link": "https://www.nytimes.com/2026/03/24/nyregion/air-canada-pilots-laguardia.html",
+    "summary": "The pilots were identified as Antoine Forest, 30, and Mackenzie Gunther. They were the only two fatalities in the plane’s collision with a fire truck at New York’s LaGuardia Airport."
+  },
+  {
+    "title": "LaGuardia Crash Tests New Port Authority Leader",
+    "link": "https://www.nytimes.com/2026/03/24/nyregion/port-authority-laguardia-crash-firefighters.html",
+    "summary": "Kathryn Garcia, who began leading the agency in February, consoled two injured firefighters and dealt with delays at the three big airports serving New York City."
   },
   {
     "title": "Democrat Emily Gregory Wins Florida Special Election in Mar-a-Lago’s District",
     "link": "https://www.nytimes.com/2026/03/24/us/politics/florida-special-election-emily-gregory.html",
-    "summary": "Emily Gregory’s victory brought the Democratic surge to President Trump’s backyard, Palm Beach, just weeks after her party won the mayor’s race in Boca Raton, 30 miles south."
+    "summary": "Emily Gregory’s victory in Palm Beach brought the Democratic surge to President Trump’s backyard, while a union leader leads in a race for a state senate seat vacated by Florida’s lieutenant governor."
   },
   {
     "title": "N.C. Senator Phil Berger Officially Just Lost to Sam Page",
@@ -53,6 +48,11 @@
     "title": "Trump and Republican National Committee Lean Toward Dallas for Unusual 2026 GOP Midterm Convention",
     "link": "https://www.nytimes.com/2026/03/24/us/politics/trump-republican-convention-dallas-midterm-elections.html",
     "summary": "Parties normally hold conventions every four years to nominate presidential candidates, but Republicans hope to hold one this year in the face of midterm headwinds."
+  },
+  {
+    "title": "Republicans Step Up Efforts to Reach DHS Funding Deal and End Shutdown",
+    "link": "https://www.nytimes.com/2026/03/24/us/politics/senate-republicans-homeland-security-shutdown-ice.html",
+    "summary": "A day after President Trump said he did not want a compromise, Senate Republicans sent Democrats a plan that would break off ICE enforcement funding and reopen the rest of the department."
   },
   {
     "title": "TSA Airport Delays: What It’s Like Waiting in Line for Hours",
@@ -80,11 +80,6 @@
     "summary": "Airport escorts and “red coat” assistance for lawmakers will be suspended, the airline said on Tuesday, citing the extended partial government shutdown."
   },
   {
-    "title": "David A. Ross Sought Epstein’s Help to Build Art Museums. Now He’s Facing the Fallout.",
-    "link": "https://www.nytimes.com/2026/03/24/us/david-a-ross-jeffrey-epstein-donations.html",
-    "summary": "He mastered the world of the “Epstein Class” to build great museums. Now he’s confronting the cost."
-  },
-  {
     "title": "Supreme Court Seems Open to Trump Request to Block Asylum Seekers at Border",
     "link": "https://www.nytimes.com/2026/03/24/us/politics/supreme-court-trump-asylum-seekers.html",
     "summary": "A policy of turning back many asylum seekers at the border was rescinded in 2021, but the Justice Department wants the flexibility to reinstate it as a tool for border control."
@@ -95,9 +90,9 @@
     "summary": "Transportation Security Administration officials told ICE that a mother and daughter under a detention order had planned to fly domestically, federal documents show."
   },
   {
-    "title": "Costa Rica Agrees to Take Migrants Deported by the Trump Administration",
-    "link": "https://www.nytimes.com/2026/03/24/world/americas/costa-rica-us-deportation-deal.html",
-    "summary": "The agreement is part of President Trump’s efforts to find governments willing to accept people who have been detained in the United States."
+    "title": "Somali Immigrants Have Effectively Been Denied a Fair Hearing, Lawsuit Says",
+    "link": "https://www.nytimes.com/2026/03/24/us/dhs-fast-track-somali-deportations-lawsuit.html",
+    "summary": "Two Minnesota-based legal groups accused the Justice Department of unconstitutionally expediting Somalis’ immigration cases."
   },
   {
     "title": "The U.S. Military Said It Helped Bomb a Drug Camp in Ecuador. It Was a Dairy Farm.",
@@ -130,9 +125,9 @@
     "summary": "The start-up said it would discontinue Sora just three months after signing a multiyear deal to bring Disney characters to the service."
   },
   {
-    "title": "How Do You Measure Snow From Space? First, Climb a Mountain.",
-    "link": "https://www.nytimes.com/2026/03/24/climate/snow-satellite-rockies-research.html",
-    "summary": "A new satellite could transform how water is studied worldwide. But to help unlock its capabilities, scientists first needed to take critical measurements on a mountaintop."
+    "title": "Hawaii Storms Bring More Rain to Oahu and Maui",
+    "link": "https://www.nytimes.com/2026/03/24/weather/hawaii-storms-rain-records.html",
+    "summary": "Experts agree that the past weeks have been one of the rainiest periods in recent memory across the state."
   },
   {
     "title": "The War Is Going Better Than You Think",
@@ -140,33 +135,28 @@
     "summary": "How the fight in Iran compares to past conflicts."
   },
   {
-    "title": "Iran’s ‘Nuclear’ Option",
-    "link": "https://www.nytimes.com/2026/03/24/opinion/iran-trump-hormuz.html",
-    "summary": "How U.S. strategy encouraged mutually assured destruction."
+    "title": "For Putin, the War in Iran Changed Everything",
+    "link": "https://www.nytimes.com/2026/03/25/opinion/russia-putin-iran-war.html",
+    "summary": "In one swoop, it overturned the conditions for conciliation."
   },
   {
-    "title": "Justices Seem Open to Allowing Trump to Block Some Asylum Seekers",
-    "link": "https://www.nytimes.com/2026/03/24/briefing/supreme-court-asylum-laguardia-crash.html",
-    "summary": "Also, officials described overlapping failures before the deadly LaGuardia crash. Here’s the latest at the end of Tuesday."
+    "title": "Late Night Questions the ‘Very Big Present’ Trump Got From Iran",
+    "link": "https://www.nytimes.com/2026/03/25/arts/television/late-night-trump-present-iran.html",
+    "summary": "Josh Johnson was puzzled by what kind of gift the president could have received “from the people you are currently at war with.”"
   },
   {
-    "title": "Hawaii Storms Bring More Rain to Oahu and Maui",
-    "link": "https://www.nytimes.com/2026/03/24/weather/hawaii-storms-rain-records.html",
-    "summary": "Experts agree that the past weeks have been one of the rainiest periods in recent memory across the state."
+    "title": "Plan to Disarm Hamas in Gaza Is Detailed at U.N.",
+    "link": "https://www.nytimes.com/2026/03/24/world/middleeast/gaza-disarm-hamas-israel-board-of-peace.html",
+    "summary": "A Board of Peace member said the most dangerous weapons would be collected first. He linked compliance with disarmament to reconstruction beginning in the enclave."
   },
   {
-    "title": "College Graduates Are Facing the Grimmest Job Market in Years",
-    "link": "https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html",
-    "summary": "Artificial intelligence could reshape work, but for now a low-hire, low-fire labor market is the main impediment for young people seeking employment."
+    "title": "Massachusetts Teacher Charged With Raping Two Students",
+    "link": "https://www.nytimes.com/2026/03/24/us/teacher-rape-miss-halls-massachusetts.html",
+    "summary": "The students say the former teacher at Miss Hall’s, a boarding school, groomed them and began having sex with them at age 16, which state law considers old enough for consent."
   },
   {
-    "title": "After Standing Up to Trump Over Greenland, Denmark’s Prime Minister Leads in Election",
-    "link": "https://www.nytimes.com/2026/03/24/world/europe/denmark-elections-mette-frederiksen.html",
-    "summary": "Mette Frederiksen’s party fell far short of a majority, but analysts say she is still in the best position to form a new government."
-  },
-  {
-    "title": "Investigators Seek Answers in Attacks on Jewish Sites in Europe",
-    "link": "https://www.nytimes.com/2026/03/24/world/europe/attacks-jewish-sites-europe.html",
-    "summary": "Attacks on schools and property in several countries have Jewish communities on edge, amid suspicions that Iran is behind the violence."
+    "title": "Sarah Mullally, the First Female Archbishop of Canterbury, is About to Be Enthroned",
+    "link": "https://www.nytimes.com/2026/03/25/world/europe/sarah-mullally-archbishop-of-canterbury-church-of-england.html",
+    "summary": "Sarah Mullally will be installed on Wednesday at Canterbury Cathedral. Her appointment to the role has been both celebrated, and denounced by some factions within the global Anglican Church."
   }
 ]

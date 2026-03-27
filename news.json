@@ -1,18 +1,33 @@
 [
   {
-    "title": "Will ICE Change Under Its New Leader?",
-    "link": "https://www.nytimes.com/video/us/politics/100000010793141/will-ice-change-under-its-new-leader.html",
-    "summary": "Markwayne Mullin, the new homeland security secretary, has promised a different approach, but how much change is likely? Our reporter Hamed Aleaziz describes what we know."
-  },
-  {
     "title": "Florida’s Immigration Crackdown, Led by DeSantis, Is Showing Cracks",
     "link": "https://www.nytimes.com/2026/03/27/us/florida-immigration-desantis-republicans.html",
     "summary": "Some conservative sheriffs have raised concerns about the aggressive enforcement tactics that Gov. Ron DeSantis, a Republican, has embraced."
   },
   {
-    "title": "A Breakthrough for T.S.A. Funding, and How the War in Iran Will Hit Grocery Prices",
-    "link": "https://www.nytimes.com/2026/03/27/podcasts/the-headlines/trump-tsa-agents-iran-war-grocery-prices.html",
-    "summary": "Plus, the Friday news quiz."
+    "title": "Global Food Supply Faces a Dangerous Bottleneck as Iran War Persists",
+    "link": "https://www.nytimes.com/2026/03/27/business/economy/fertilizer-food-supply-iran-war.html",
+    "summary": "Fertilizer prices are climbing as a result of disruptions in the Middle East, putting global food supplies at risk."
+  },
+  {
+    "title": "Energy Crisis Forces India’s Eateries to Adapt",
+    "link": "https://www.nytimes.com/video/world/asia/100000010791678/iran-war-india-cooking-gas.html",
+    "summary": "A small street stall and a big restaurant chain in India rethought how to cook after the war in the Middle East squeezed their supply of liquified petroleum gas."
+  },
+  {
+    "title": "The Iran War Has Diesel Prices Soaring, and Consumers Could Pay the Price",
+    "link": "https://www.nytimes.com/2026/03/27/business/diesel-prices-inflation-consumer-prices.html",
+    "summary": "Diesel has climbed faster than gasoline this month, directly hitting businesses, from brewers to trucking companies. Those higher costs are likely to make their way into consumer prices."
+  },
+  {
+    "title": "As Stocks Keep Falling, Investors Are Losing Patience With the War in Iran",
+    "link": "https://www.nytimes.com/2026/03/27/business/iran-war-stock-market-investors.html",
+    "summary": "The S&amp;P 500 is on course for its fifth straight week of losses and its worst weekly losing streak in roughly four years."
+  },
+  {
+    "title": "Where Might the Iran War Hit Your Grocery Bill? Start With Raspberries.",
+    "link": "https://www.nytimes.com/2026/03/27/dining/raspberry-prices.html",
+    "summary": "It takes a lot of fuel to produce this delicate fruit, which can be a sensitive barometer as oil costs rise."
   },
   {
     "title": "UAE and Qatar Arrest Hundreds Over Online Videos of Iranian Attacks",
@@ -20,34 +35,34 @@
     "summary": "The authorities have made a wave of arrests to stop people posting footage of strikes, citing security risks. Experts also see a fear of damage to the countries’ image as safe havens."
   },
   {
-    "title": "Standoff With Iran Raises Fresh Doubts About Trump’s Freestyle Diplomacy",
-    "link": "https://www.nytimes.com/2026/03/26/us/politics/trump-iran-talks.html",
-    "summary": "A jumble of emissaries — a friend, a family member, a dove and a hawk — on the Iran crisis reflects President Trump’s improvisational approach."
-  },
-  {
-    "title": "Oil Prices Continue to Climb After Trump Delays Bombing Threat",
-    "link": "https://www.nytimes.com/2026/03/26/business/gas-oil-gas-prices-iran.html",
-    "summary": "President Trump said on Thursday he would delay an imminent deadline to begin attacking Iran’s power grid."
-  },
-  {
     "title": "Hegseth Strikes Two Black and Two Female Officers From Promotion List",
     "link": "https://www.nytimes.com/2026/03/27/us/hegseth-promotion-list.html",
     "summary": "Defense Secretary Pete Hegseth’s highly unusual decision to remove officers from a one-star promotion list has spurred allegations of racial and gender bias."
   },
   {
-    "title": "Trump’s Signature Is Set to Be Added to America’s Currency",
-    "link": "https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html",
-    "summary": "President Trump is poised to be the first sitting president to have his signature appear on the U.S. dollar."
+    "title": "Justice Dept. Scrutinizes Transgender Prisoner Housing in California and Maine",
+    "link": "https://www.nytimes.com/2026/03/27/us/doj-transgender-prison-housing-california-maine.html",
+    "summary": "The investigations are the latest moves by the Trump administration to force prisons to house transgender women with male inmates."
   },
   {
-    "title": "The View of the War From a Florida Gas Station",
-    "link": "https://www.nytimes.com/2026/03/27/podcasts/the-daily/iran-war-florida-gas-station-prices.html",
-    "summary": "Since the start of the war in Iran, the average price of gas in the United States has climbed by nearly a dollar."
+    "title": "U.S. May Label Brazilian Gangs as Terror Groups, After Push by the Bolsonaros",
+    "link": "https://www.nytimes.com/2026/03/27/world/americas/brazil-gangs-terror-trump-bolsonaro.html",
+    "summary": "The Trump administration is weighing declaring Brazil’s two largest drug gangs terrorist groups, after lobbying by the sons of jailed former President Jair Bolsonaro."
+  },
+  {
+    "title": "One Republican Farmer in Wisconsin Is Bitter Over Trump’s Deportations",
+    "link": "https://www.nytimes.com/2026/03/27/us/politics/wisconsin-farmer-republicans-immigration-trump.html",
+    "summary": "For 20 years, Tim O’Harrow has asked lawmakers to acknowledge that America’s food supply depends on immigrants. Politics went in the other direction."
   },
   {
     "title": "Before the LaGuardia Crash, Why Didn’t Truck 1 Stop?",
     "link": "https://www.nytimes.com/2026/03/27/nyregion/laguardia-crash-air-canada-truck.html",
-    "summary": "After a fatal collision between an Air Canada jet and a fire truck on a runway, attention has focused on why the truck didn’t heed frantic calls to stop."
+    "summary": "After a fatal runway collision between a jet and a fire truck, one of the key questions is why the truck didn’t heed frantic calls to stop."
+  },
+  {
+    "title": "United Airlines Flight Avoids Collision With Military Helicopter in California",
+    "link": "https://www.nytimes.com/2026/03/27/us/united-airlines-helicopter-california-faa.html",
+    "summary": "The Federal Aviation Administration said it was investigating after a helicopter crossed into the path of United Airlines Flight 589."
   },
   {
     "title": "Europeans Are Angry at Trump, but Often Forgiving of Americans",
@@ -65,34 +80,14 @@
     "summary": "NBC said that she would return as an anchor of the show on April 6, a little more than two months after the disappearance of her mother."
   },
   {
-    "title": "Resurgent Inflation Tests Faith in Fed’s Willingness to Tame It",
-    "link": "https://www.nytimes.com/2026/03/27/business/inflation-federal-reserve-iran-war.html",
-    "summary": "The war in the Middle East risks worsening an inflation problem that the Federal Reserve has struggled for years to subdue."
-  },
-  {
-    "title": "An Invisible Bottleneck: A Helium Shortage Threatens the Chip Industry",
-    "link": "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html",
-    "summary": "With a third of the global supply offline because of the war in Iran, gas companies are scrambling to assure critical A.I. chip makers there will be no disruptions."
-  },
-  {
-    "title": "Where Might the Iran War Hit Your Wallet? Start With Raspberries.",
-    "link": "https://www.nytimes.com/2026/03/27/dining/raspberry-prices.html",
-    "summary": "It takes a lot of fuel to produce this delicate fruit, which can be a sensitive barometer as oil costs rise."
-  },
-  {
-    "title": "How the Iran War Is Costing the Economy Its Buffers",
-    "link": "https://www.nytimes.com/2026/03/27/business/dealbook/iran-war-oil-markets.html",
-    "summary": "As the U.S.-Israeli campaign enters a second month, analysts see a growing toll. One forecast predicts oil hitting $200 a barrel."
-  },
-  {
     "title": "The Iran War is Revealing the Messy Middle of Our Renewable Energy Transition",
     "link": "https://www.nytimes.com/2026/03/27/magazine/iran-war-energy-climate-change.html",
     "summary": "When the world map of literal power changes, the political hierarchy shifts, too"
   },
   {
-    "title": "In Maine, Many Older Women Prefer the Younger Man for Senate",
+    "title": "In Maine, Many Older Women Prefer Graham Platner for Senate",
     "link": "https://www.nytimes.com/2026/03/27/us/graham-platner-maine-women-voters.html",
-    "summary": "Women in their 60s and beyond will likely play a key role in choosing which Democrat will face Senator Susan Collins: Gov. Janet Mills, 78, or Graham Platner, 41."
+    "summary": "Women in their 60s and beyond will likely play a key role in choosing which Democrat will face Senator Susan Collins: Mr. Platner, 41, or Gov. Janet Mills, 78."
   },
   {
     "title": "Can a Democrat Make Headway With Trump? New York’s Governor Is Trying.",
@@ -100,19 +95,14 @@
     "summary": "Gov. Kathy Hochul of New York has demonstrated her ability to negotiate with the president and his team on thorny issues like immigration enforcement."
   },
   {
+    "title": "Rep. Sam Graves, a Senior House Republican, Will Retire as Midterm Exodus Grows",
+    "link": "https://www.nytimes.com/2026/03/27/us/politics/sam-graves-retirement.html",
+    "summary": "Representative Sam Graves, the chairman of the Transportation and Infrastructure Committee, said he would leave Congress after nearly three decades, the latest sign that the G.O.P. is bracing for big losses."
+  },
+  {
     "title": "Tracking the Early Vote in Virginia’s Redistricting Referendum",
     "link": "https://www.nytimes.com/2026/03/27/us/elections/virginia-redistricting-early-vote-tracker.html",
     "summary": "Voters in Virginia will decide on April 21 whether to redraw the state’s congressional map. Turnout is even higher, thus far, than it was in last year’s governor’s election."
-  },
-  {
-    "title": "Kennedy’s Vaccine Agenda Hits Roadblocks, Diminishing His Clout",
-    "link": "https://www.nytimes.com/2026/03/26/us/politics/kennedy-vaccines-trump.html",
-    "summary": "Health Secretary Robert F. Kennedy Jr.’s vaccine skepticism is posing challenges for the Trump administration. Top health jobs are unfilled, and a court has blocked his vaccine schedule changes."
-  },
-  {
-    "title": "As Kennedy Takes on Food Policy, Companies Push Back",
-    "link": "https://www.nytimes.com/2026/03/27/health/rfk-food-ingredients-fda.html",
-    "summary": "Though the health secretary falsely claimed a victory in a recent podcast, a federal proposal to review all new food ingredients is still in the early stages and drawing fierce opposition."
   },
   {
     "title": "Why College Graduates Feel Betrayed",
@@ -120,14 +110,24 @@
     "summary": "Their anger goes far beyond the recent rise of unemployment and the looming threat of A.I."
   },
   {
-    "title": "What’s Your Star Sign? The Ancients Could Offer You Some Insight.",
-    "link": "https://www.nytimes.com/2026/03/26/arts/design/zodiac-origins-exhibition-berlin.html",
-    "summary": "Long before horoscope apps, the foundations of today’s multibillion-dollar astrology industry were laid in Babylonia, Egypt and the classical world."
+    "title": "Did Scientists Just Detect an Exploding Black Hole?",
+    "link": "https://www.nytimes.com/2026/03/27/science/astrophysics-neutrinos-black-holes.html",
+    "summary": "An underwater observatory recently detected a startlingly energetic cosmic neutrino. One possible cause involves a phenomenon that so far exists only in theory."
   },
   {
-    "title": "Trump Said This Policy Would Make Manhattan a ‘Ghost Town.’ He Was Wrong.",
-    "link": "https://www.nytimes.com/2026/03/27/opinion/congestion-pricing-traffic-new-york.html",
-    "summary": "The success of congestion pricing is a reminder that government, done right, has immense power to improve people’s lives."
+    "title": "Cannonball with Wesley Morris: ‘Love Story’ Is Actually a Horror Story",
+    "link": "https://www.nytimes.com/2026/03/26/podcasts/love-story-jfk-jr.html",
+    "summary": "The nightmare began when she said, “I do.”"
+  },
+  {
+    "title": "Want More ‘Love Story’? Read These Books Inspired by the Kennedys and ’90s New York.",
+    "link": "https://www.nytimes.com/2026/03/27/books/review/love-story-jfk-jr-carolyn-bessette-books.html",
+    "summary": "If the TV show has you craving 1990s glam, upper-crust romance and doomed dynasties, these books have got you covered."
+  },
+  {
+    "title": "How ‘Love Story’ Gave Viewers a History Lesson on the Kennedys and ’90s NYC",
+    "link": "https://www.nytimes.com/2026/03/27/arts/television/love-story-jfk-bessette-90s-nyc.html",
+    "summary": "The FX show, which dramatizes the relationship between John F. Kennedy Jr. and Carolyn Bessette, has inspired a legion of younger viewers to dig into the couple’s past and 1990s New York City."
   },
   {
     "title": "Republicans Know This War Is Going Badly",
@@ -135,33 +135,33 @@
     "summary": "Never before has America arrived at the threshold of a quagmire so quickly."
   },
   {
+    "title": "Will Iran Break Trumpism?",
+    "link": "https://www.nytimes.com/2026/03/27/opinion/ezra-klein-podcast-christopher-caldwell.html",
+    "summary": "The right-wing thinker Christopher Caldwell believes the Iran war is the end of Trumpism. Is he right? What was Trumpism in the first place?"
+  },
+  {
     "title": "Your Suck-up Chatbot",
     "link": "https://www.nytimes.com/2026/03/27/briefing/your-suck-up-chatbot.html",
     "summary": "We explain the implications of A.I. being so sycophantic."
   },
   {
-    "title": "Late Night Disses Trump’s New ‘America First’ Award",
-    "link": "https://www.nytimes.com/2026/03/27/arts/television/late-night-trump-america-first-award.html",
-    "summary": "“How many fake trophies that were made specifically for him is this guy going to get?” Seth Meyers asked on Thursday’s “Late Night.”"
+    "title": "Arrest Thwarts Plot Against Nerdeen Kiswani, Pro-Palestinian Activist",
+    "link": "https://www.nytimes.com/2026/03/27/nyregion/nerdeen-kiswani-assassination-plot.html",
+    "summary": "A New York Police Department detective acting undercover online identified a man who planned to target the activist Nerdeen Kiswani. The man was arrested on federal charges."
   },
   {
-    "title": "Nepal’s New Prime Minister, Former Rapper Balendra Shah, Sworn In",
-    "link": "https://www.nytimes.com/2026/03/27/world/asia/nepal-balendra-shah-rapper-prime-minister.html",
-    "summary": "A leaked report on the deadly violence and mass arson that broke out last year has put the new leader under pressure to ensure accountability."
+    "title": "Letizia Mowinckel, 105, Dies; Procured Jacqueline Kennedy’s Pink Chanel Suit",
+    "link": "https://www.nytimes.com/2026/03/27/style/letizia-mowinckel-dead.html",
+    "summary": "Mrs. Kennedy was wearing the suit when her husband was assassinated in Dallas in November 1963, and it was soaked in his blood."
   },
   {
-    "title": "Humpback Whale Is Freed After Days Stranded Off German Beach",
+    "title": "Video: Stranded Humpback Whale Beats the Odds and Swims Out to Sea",
     "link": "https://www.nytimes.com/2026/03/27/world/europe/stranded-whale-germany-baltic-freed.html",
-    "summary": "In an unexpected breakthrough, the 40-foot mammal swam to deeper water on Friday morning through a channel that rescuers had dug for it."
+    "summary": "In an unexpected breakthrough, the 40-foot mammal was freed and swam to deeper water on Friday morning through a channel that rescuers had dug for it."
   },
   {
-    "title": "The Faroe Islands, Wary After Greenland, Vote for Change",
-    "link": "https://www.nytimes.com/2026/03/27/world/europe/faroe-islands-election-greenland.html",
-    "summary": "Statehood had been a key issue in this tiny Danish archipelago before President Trump threatened Greenland. Now, Faroese voters are focused more on their own economy than geopolitics."
-  },
-  {
-    "title": "U.K. Police to Reinvestigate Sex Crime Allegations Against Andrew Tate",
-    "link": "https://www.nytimes.com/2026/03/27/world/europe/andrew-tate-assault-case-uk.html",
-    "summary": "A police force in England said it would look again at allegations against the influencer from 11 years ago. Mr. Tate was not charged in the case and denies any wrongdoing."
+    "title": "Noelia Castillo Ramos Dies in Spain After Winning Right to End Her Life",
+    "link": "https://www.nytimes.com/2026/03/27/world/europe/noelia-castillo-ramos-spain-assisted-death.html",
+    "summary": "Noelia Castillo Ramos, 25, who was in chronic physical and psychological pain, had sought an assisted death since 2024, but her father sued to prevent it."
   }
 ]

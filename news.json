@@ -1,13 +1,33 @@
 [
   {
-    "title": "Amid Trump’s Threats, NATO Labors to Survive the Iran War",
-    "link": "https://www.nytimes.com/2026/04/09/us/politics/trump-iran-nato-rutte.html",
-    "summary": "President Trump is citing the unwillingness of European nations to back the United States in the conflict as another reason to scale back or abandon the alliance. And he still wants Greenland."
+    "title": "With Iran Setting Limits, Strait of Hormuz Remains Thorny Politically",
+    "link": "https://www.nytimes.com/2026/04/10/world/middleeast/strait-hormuz-iran-ships-oil.html",
+    "summary": "Even after a cease-fire, Iran is keeping a chokehold on traffic, forcing countries to cut deals that could put them at odds with the U.S."
   },
   {
-    "title": "Iran’s Battered Leaders Emerge From War Confident — and With New Cards",
-    "link": "https://www.nytimes.com/2026/04/09/world/middleeast/iran-war-leadership.html",
-    "summary": "For Iran’s theocratic rulers, just surviving the U.S.-Israeli onslaught means victory. But the seeds of their next crisis may already be planted."
+    "title": "Vance Faces Test of His Negotiating Skills With Iran Talks",
+    "link": "https://www.nytimes.com/2026/04/10/us/politics/vance-iran-talks.html",
+    "summary": "Vice President JD Vance is leading negotiations this weekend toward an end to a war that he had opposed starting."
+  },
+  {
+    "title": "The Mass Purge of Immigration Judges, and Melania Trump’s Surprise Epstein Remarks",
+    "link": "https://www.nytimes.com/2026/04/10/podcasts/the-headlines/immigration-judges-melania-trumps-epstein-remarks.html",
+    "summary": "Plus, your Friday news quiz."
+  },
+  {
+    "title": "Consumer Spending, Engine of the U.S. Economy, Is Under Strain",
+    "link": "https://www.nytimes.com/2026/04/10/business/economy/consumer-spending-economy.html",
+    "summary": "Higher fuel costs are raising food and travel prices, while a shaky stock market tamps down free spenders."
+  },
+  {
+    "title": "Markets Waver Ahead of Cease-Fire Talks and U.S. Inflation Report",
+    "link": "https://www.nytimes.com/2026/04/10/business/oil-stocks-gas-prices-iran.html",
+    "summary": "A temporary cease-fire in the war on Iran faces multiple hurdles and investors are watching the release of U.S. government data on inflation."
+  },
+  {
+    "title": "Tracking 7 of Mamdani’s Biggest Campaign Promises",
+    "link": "https://www.nytimes.com/2026/04/10/nyregion/mamdani-campaign-promises.html",
+    "summary": "Zohran Mamdani based his successful campaign for mayor of New York City on several central pledges. Here’s an early look on where those stand."
   },
   {
     "title": "Melania Trump Says She Was Not Associated With Jeffrey Epstein",
@@ -15,9 +35,19 @@
     "summary": "Responding to what she said were smears, the first lady said she never had knowledge of Jeffrey Epstein’s abuse and was not a victim of his. She called for a congressional hearing for his victims."
   },
   {
-    "title": "For Artemis II, Returning to Earth May Be the Most Dangerous Part of the Mission",
-    "link": "https://www.nytimes.com/2026/04/09/science/nasa-artemis-ii-earth-return-heat-shield.html",
-    "summary": "After a successful flight around the moon, the astronauts are relying on a flawed heat shield to protect them as they re-enter Earth’s atmosphere."
+    "title": "How Airlines Turned First-Class Seats From Freebies to a Profit Engine",
+    "link": "https://www.nytimes.com/2026/04/10/business/airlines-first-class-seats-tickets-upgrades.html",
+    "summary": "Airlines used to give away most of their nicest seats, but they have increasingly found ways to persuade people to pay a lot for them."
+  },
+  {
+    "title": "Trump’s Changes Lock Some Employers Out of H-1B Visa Program",
+    "link": "https://www.nytimes.com/2026/04/10/us/politics/h1b-visa-program-changes.html",
+    "summary": "Since imposing a $100,000 fee on new visas in September, the Trump administration has upended the skilled worker program."
+  },
+  {
+    "title": "Trump Administration Returns to Court for Yet Another Tariff Lawsuit",
+    "link": "https://www.nytimes.com/2026/04/10/business/trump-tariffs-lawsuit-hearing.html",
+    "summary": "States and small businesses challenged the 10 percent tax on many imports that President Trump imposed after the Supreme Court struck down a previous slate of tariffs."
   },
   {
     "title": "Judge Rejects Hegseth’s Second Attempt to Restrict Reporters at Pentagon",
@@ -25,49 +55,34 @@
     "summary": "A federal judge gutted a set of rules that were adopted after the court declared an earlier press policy unconstitutional, in a case brought by The New York Times."
   },
   {
-    "title": "New Charter Allows RFK Jr. to Reclaim Vaccine Policy Despite Court Ruling",
-    "link": "https://www.nytimes.com/2026/04/09/health/cdc-rfk-jr-vaccine-committee-ruling.html",
-    "summary": "The charter, published on Thursday, alters the makeup and purpose of the panel, opening the door for Health Secretary Robert F. Kennedy Jr. to reclaim his revision of national vaccine policy."
-  },
-  {
     "title": "What to Know About the U.S. Military Draft Pool and Automatic Registration",
     "link": "https://www.nytimes.com/2026/04/09/us/us-military-draft-automatic-registration-war.html",
     "summary": "For decades, draft-eligible men ages 18 to 25 have been required to register with the Selective Service System. Most states offer a registration option on driver’s license applications."
   },
   {
-    "title": "Student Hit by Projectile During ‘No Kings’ Protest Lost an Eye, Lawyer Says",
-    "link": "https://www.nytimes.com/2026/04/09/us/usc-student-loses-eye-no-kings-protest.html",
-    "summary": "The student, Tucker Collins, 18, was observing demonstrators in Los Angeles when he was struck, the lawyer said."
+    "title": "Democrats Eying 2028 Presidential Runs Court Black Voters",
+    "link": "https://www.nytimes.com/2026/04/10/us/politics/eying-2028-ambitious-democrats-court-black-voters.html",
+    "summary": "At a gathering in New York, potential candidates made overtures to a vital Democratic constituency."
   },
   {
-    "title": "These Chimps Began the Bloodiest ‘War’ on Record. No One Knows Why.",
-    "link": "https://www.nytimes.com/2026/04/09/science/chimpanzees-war-ngogo-uganda.html",
-    "summary": "A long-running conflict in a Ugandan park may provide clues to the origins of human warfare, and how to avoid it."
+    "title": "Where Mail Voting Began, Worries Spread Over Trump’s Attacks",
+    "link": "https://www.nytimes.com/2026/04/10/us/voting-by-mail-trump-pacific-northwest.html",
+    "summary": "In the Pacific Northwest, mail-in ballots have been the norm for decades, but President Trump’s war on such voting has turned a point of regional pride into another partisan battle line."
   },
   {
-    "title": "Putin Announces Orthodox Easter Cease-Fire, but Ukraine Is Skeptical",
-    "link": "https://www.nytimes.com/2026/04/09/world/europe/russia-ukraine-cease-fire.html",
-    "summary": "The cease-fire would be in effect this weekend, but each side accused the other of violating a similar pause announced last year."
+    "title": "Masked Men in San Francisco Offer Cash for Signatures on Ballot Initiatives",
+    "link": "https://www.nytimes.com/2026/04/10/us/san-francisco-ballot-signatures-california-masks.html",
+    "summary": "California’s ballot initiative wars are so lucrative that signature gatherers are offering cash and pizza for names on a petition. The exchange is illegal, and state officials say they are investigating."
   },
   {
-    "title": "How Trump Purged Immigration Judges to Speed Up Deportations",
-    "link": "https://www.nytimes.com/2026/04/09/us/politics/trump-miller-immigration-judges-purge.html",
-    "summary": "Judges are ordering an unprecedented number of people deported after coming under significant pressure from the administration to do so or risk losing their jobs."
+    "title": "State Judges Turn to Guns in New Era of Judicial Threats",
+    "link": "https://www.nytimes.com/2026/04/10/us/state-judges-threats.html",
+    "summary": "A Times examination reveals thousands of threats against state judges, in addition to assaults and fatal attacks. Judges say local law enforcement agencies often can’t offer adequate protection."
   },
   {
-    "title": "America’s Furniture Stores Struggle to Survive a Frozen Housing Market",
-    "link": "https://www.nytimes.com/2026/04/09/business/furniture-stores-housing-market-crisis.html",
-    "summary": "Retailers are going bankrupt and liquidating as record-low housing turnover leaves fewer customers looking to furnish homes."
-  },
-  {
-    "title": "Afrika Bambaataa, Often Called the ‘Godfather of Hip-Hop,’ Is Dead",
-    "link": "https://www.nytimes.com/2026/04/09/arts/music/afrika-bambaataa-dead.html",
-    "summary": "A pioneering rapper and D.J. from the Bronx, Mr. Bambaataa was accused of child sexual abuse later in his career."
-  },
-  {
-    "title": "Florida Attorney General Investigates OpenAI and ChatGPT Over F.S.U. Shooting",
-    "link": "https://www.nytimes.com/2026/04/09/us/florida-openai-chatgpt-fsu-shooting-investigation.html",
-    "summary": "The state’s attorney general, James Uthmeier, said ChatGPT “may likely have been used to assist” the suspect in last year’s shooting at Florida State University."
+    "title": "How and When to Watch NASA’s Artemis II Splash Down in Pacific Ocean",
+    "link": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-splash-down-watch-time-stream.html",
+    "summary": "Here’s what you need to know about Artemis II and the splashdown of the Orion capsule."
   },
   {
     "title": "‘Death of a Salesman,’ With Nathan Lane and Laurie Metcalf, Is Perfect for Our Time",
@@ -75,9 +90,24 @@
     "summary": "Arthur Miller’s classic tragedy returns to Broadway, starring Nathan Lane and Laurie Metcalf. Yet again, it is a triumph."
   },
   {
-    "title": "For Putin, Iran Is Something Close to Irreplaceable",
-    "link": "https://www.nytimes.com/2026/04/10/opinion/putin-russia-iran.html",
-    "summary": "Vladimir Putin has spent years building a coalition of the discontented on the premise that authoritarian states can outlast Western pressure. Iran is his proof of concept."
+    "title": "See You in Pyongyang: Russia Pushes Its People to Embrace North Korea",
+    "link": "https://www.nytimes.com/2026/04/10/world/europe/russia-north-korea.html",
+    "summary": "Through art, food, tourism and academics, an increasingly isolated Moscow is seeking to cement lasting ties with Pyongyang."
+  },
+  {
+    "title": "Putin Announces Orthodox Easter Cease-Fire, but Ukraine Is Skeptical",
+    "link": "https://www.nytimes.com/2026/04/09/world/europe/russia-ukraine-cease-fire.html",
+    "summary": "The cease-fire would be in effect this weekend, but each side accused the other of violating a similar pause announced last year."
+  },
+  {
+    "title": "‘Euphoria’ Creator Sam Levinson Talks Tragedy, the Internet and the End of the Show",
+    "link": "https://www.nytimes.com/2026/04/08/arts/television/sam-levinson-euphoria-season-3.html",
+    "summary": "Ahead of the Season 3 premiere on Sunday, the show’s creator discussed his reputation, the loss of Angus Cloud and the soul-searching that followed."
+  },
+  {
+    "title": "‘Euphoria’ Is Back. Here’s What to Know.",
+    "link": "https://www.nytimes.com/2026/04/10/arts/television/euphoria.html",
+    "summary": "The third season of the scandalous drama premieres on Sunday, more than four years after the end of Season 2. Fuzzy on the details? We can help."
   },
   {
     "title": "Gaza’s Rubble Is the Grave of Its Future",
@@ -85,28 +115,38 @@
     "summary": "Six month’s after the cease-fire, ordinary Gazans contemplate their future while living with the wounds of war."
   },
   {
+    "title": "The Civilization Trump Destroys May Be Our Own",
+    "link": "https://www.nytimes.com/2026/04/10/opinion/ezra-klein-podcast-fareed-zakaria.html",
+    "summary": "The foreign policy analyst Fareed Zakaria explains how the Iran war has been a turning point in America’s standing in the world."
+  },
+  {
+    "title": "You Can’t Use This A.I.",
+    "link": "https://www.nytimes.com/2026/04/10/briefing/claude-mythos-preview.html",
+    "summary": "Claude Mythos Preview is dangerous, Anthropic said. We explain the risks."
+  },
+  {
     "title": "Jimmy Kimmel Salutes Melania’s White House Surprise",
     "link": "https://www.nytimes.com/2026/04/10/arts/television/jimmy-kimmel-melania-epstein.html",
     "summary": "The first lady addressed her relationship with Jeffrey Epstein in a prepared statement that the talk show host called “better than her movie.”"
   },
   {
-    "title": "Xi Seeks to Sway Taiwan, and Trump, With Message of Stability",
+    "title": "Xi Meets Taiwan Opposition Leader for First Time in a Decade",
     "link": "https://www.nytimes.com/2026/04/10/world/asia/taiwan-china-xi-cheng.html",
-    "summary": "Ahead of a summit with Donald Trump, the Chinese leader is using a rare meeting with a Taiwanese politician to cast Beijing as a peacemaker and squeeze the island’s president."
+    "summary": "Xi Jinping held rare talks with a Taiwanese opposition leader, Cheng Li-wun, who floated the idea of some day inviting Mr. Xi to visit Taiwan."
   },
   {
-    "title": "Venezuela Approves New Law to Open Mining to Foreign Investors",
-    "link": "https://www.nytimes.com/2026/04/09/world/americas/venezuela-mining-us.html",
-    "summary": "The move opens the country’s coveted mineral fortune up to foreign investors, the latest move that Venezuela’s leadership has taken to satisfy the Trump administration."
+    "title": "BuzzBallz, High-Alcohol Mixed Cocktails, Are Taking Over Gen Z",
+    "link": "https://www.nytimes.com/2026/04/10/style/buzzballz-gen-z-alcohol-cocktail.html",
+    "summary": "BuzzBallz, a brand of pre-mixed cocktail in colorful orbs, are all the rage. Experts worry they are a magnet for underage drinkers."
   },
   {
-    "title": "On Social Media, Democratic Politicians Are Letting the F-Word Fly",
-    "link": "https://www.nytimes.com/2026/04/09/us/politics/democrats-social-media-profanity-f-word.html",
-    "summary": "Democratic politicians are swearing with glee. It is usually aimed at President Trump."
+    "title": "Many Venezuelans Want to Go Home. But They Can’t Get Passports.",
+    "link": "https://www.nytimes.com/2026/04/10/world/americas/venezuelans-return-passports-trump.html",
+    "summary": "The U.S. has made it impossible for them to stay legally, and their own country makes it difficult for them to return."
   },
   {
-    "title": "‘We Are Fierce Competitors’: Live Nation Case Reaches Closing Arguments",
-    "link": "https://www.nytimes.com/2026/04/09/arts/music/live-nation-antitrust-suit-closing-arguments.html",
-    "summary": "Thirty-four states accused the concert giant of suffocating competition and driving up ticket prices. The company denies being anything but big."
+    "title": "Afrika Bambaataa, Often Called the ‘Godfather of Hip-Hop,’ Is Dead",
+    "link": "https://www.nytimes.com/2026/04/09/arts/music/afrika-bambaataa-dead.html",
+    "summary": "A pioneering rapper and D.J. from the Bronx, Mr. Bambaataa was accused of child sexual abuse later in his career."
   }
 ]

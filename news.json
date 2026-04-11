@@ -1,15 +1,5 @@
 [
   {
-    "title": "After splashdown, bring in the Navy divers.",
-    "link": "https://www.nytimes.com/2026/04/10/science/after-splashdown-bring-in-the-navy-divers.html",
-    "summary": ""
-  },
-  {
-    "title": "See Photos From All 10 Days of NASA’s Artemis II Moon Mission",
-    "link": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-moon-mission-photos-earth-eclipse.html",
-    "summary": "Over 10 days, the astronauts of NASA’s lunar flyby mission have achieved the near impossible."
-  },
-  {
     "title": "World Leaders Push to Save Iran Talks Amid Israel’s Attacks in Lebanon",
     "link": "https://www.nytimes.com/2026/04/10/us/politics/iran-israel-lebanon-trump-talks.html",
     "summary": "President Trump’s cease-fire with Iran appears at risk as Vice President JD Vance heads to Pakistan for discussions with Iranian officials."
@@ -20,19 +10,29 @@
     "summary": "Emerging from weeks of U.S. and Israeli airstrikes, an emboldened Iran has 10 demands for talks during the tenuous cease-fire, according to Iranian state media. Our reporter Erika Solomon assesses Iran’s position."
   },
   {
+    "title": "Fallout of War Piles Economic Pain Onto Europe’s Political Stress",
+    "link": "https://www.nytimes.com/2026/04/11/business/europe-economy-trump-trade-iran.html",
+    "summary": "Europe is finding itself on the outs with Russia, China and the U.S., in what’s amounting to its very own “Mean Girls” moment."
+  },
+  {
     "title": "Iran Unable to Find Mines It Planted in Strait of Hormuz, U.S. Says",
     "link": "https://www.nytimes.com/2026/04/10/us/politics/iran-mines-strait.html",
     "summary": "The lost mines have prevented Iran from quickly complying with President Trump’s demand to allow more ships to pass through the waterway."
   },
   {
-    "title": "Facing Many Crises, Pakistan Tries to End a Big One — in Iran",
-    "link": "https://www.nytimes.com/2026/04/10/world/middleeast/pakistan-iran-talks-islamabad.html",
-    "summary": "A nation with a stalled economy, a terrorism problem and two hostile neighbors is set to host the first formal U.S.-Iranian talks since the war began."
+    "title": "Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race",
+    "link": "https://www.nytimes.com/2026/04/10/science/moon-astronauts-success.html",
+    "summary": "The astronauts — three Americans and one Canadian — captivated the world with their historic mission."
+  },
+  {
+    "title": "See Photos From All 10 Days of NASA’s Artemis II Moon Mission",
+    "link": "https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-moon-mission-photos-earth-eclipse.html",
+    "summary": "Over 10 days, the astronauts of NASA’s lunar flyby mission have achieved the near impossible."
   },
   {
     "title": "Eric Swalwell Faces Sex Assault Accusation as He Runs for California Governor",
     "link": "https://www.nytimes.com/2026/04/10/us/politics/eric-swalwell-allegations-california-governor.html",
-    "summary": "Eric Swalwell, a Democratic congressman, denied the accounts published by CNN and The San Francisco Chronicle. Nancy Pelosi called on him to withdraw from the governor’s race."
+    "summary": "Eric Swalwell, a Democratic congressman, denied the accounts published by CNN and The San Francisco Chronicle. Nancy Pelosi was among those who said he should withdraw from the California governor’s race."
   },
   {
     "title": "Trump Is Racing to Redefine ‘America First’ in a Time of War",
@@ -50,9 +50,9 @@
     "summary": "An interagency dispute over the use of high-energy lasers near airports led the Federal Aviation Administration to temporarily close the airspace twice in Texas this year."
   },
   {
-    "title": "Who Is Keeping These Trains Moving? Teenagers, Illegally.",
-    "link": "https://www.nytimes.com/2026/04/10/nyregion/nyc-subway-conquesting-joyride.html",
-    "summary": "Inside the world of “conquesting,” where vandals break into the operator’s booth, fool around with the control panel — and maybe take a quick joyride."
+    "title": "How Lu Xun, a Famous Chinese Writer, Became a Cute Communist Mascot",
+    "link": "https://www.nytimes.com/2026/04/11/world/asia/lu-xun-chinese-writer-communist-mascot.html",
+    "summary": "The Chinese Communist Party has turned Lu Xun, a Mao-era hero who excoriated the establishment, into a bland, Disney-style character."
   },
   {
     "title": "Trump Says First Lady ‘Had a Right’ to Talk About Epstein",
@@ -105,11 +105,6 @@
     "summary": "The foreign policy analyst Fareed Zakaria explains how the Iran war has been a turning point in America’s standing in the world."
   },
   {
-    "title": "Have You Used A.I. Chatbots for Nutrition Advice?",
-    "link": "https://www.nytimes.com/2026/04/10/well/eat/ai-chatbots-nutrition.html",
-    "summary": "Whether you’re looking to manage a health condition, lose weight or simply eat better, we want to hear from you."
-  },
-  {
     "title": "Eric Adams, Citizen of the World, Becomes an Actual Citizen of Albania",
     "link": "https://www.nytimes.com/2026/04/10/nyregion/eric-adams-albania-citizen.html",
     "summary": "Mr. Adams, the former mayor of New York City, has expressed fondness for Albania, visiting the country in his last weeks in office."
@@ -120,13 +115,13 @@
     "summary": "The device burned an exterior gate of the house in San Francisco, the police said, and it was unclear whether the artificial intelligence executive was home. The authorities arrested a suspect."
   },
   {
-    "title": "Banks Warned About Anthropic’s New, Powerful A.I. Technology",
+    "title": "Banks Are Warned About Anthropic’s New, Powerful A.I. Technology",
     "link": "https://www.nytimes.com/2026/04/10/business/anthropic-claude-mythos-preview-banks.html",
     "summary": "In an unusual move, the Treasury secretary and the Federal Reserve chair gathered bank executives to caution about cyberthreats posed by artificial intelligence."
   },
   {
-    "title": "This Hungarian Town Explains Why Orban Could Lose on Sunday",
-    "link": "https://www.nytimes.com/2026/04/10/world/europe/hungary-corruption-orban-magyar-election.html",
-    "summary": "Lake Balaton was beloved as a vacation spot. Now, luxury real estate projects serve many friends of Prime Minister Viktor Orban, and the locals are fed up."
+    "title": "Thomas S. Langner, Who Linked Social Ills to Mental Illness, Dies at 102",
+    "link": "https://www.nytimes.com/2026/04/10/science/thomas-s-langner-dead.html",
+    "summary": "He helped lead what became known as the Midtown Manhattan Study, which showed that mental impairment is highly correlated with low socioeconomic status."
   }
 ]

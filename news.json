@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Generals Who Are Now Running Iran",
+    "link": "https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html",
+    "summary": "The killing of Ayatollah Ali Khamenei ushered in a new form of collective leadership in the country, with more power for the Revolutionary Guards."
+  },
+  {
+    "title": "Who Is Running Iran, and How Doctors Cashed In on a Consumer Protection Law",
+    "link": "https://www.nytimes.com/2026/04/23/podcasts/the-headlines/iran-breast-reductions.html",
+    "summary": "Plus, the Labubus linked to forced labor."
+  },
+  {
     "title": "Navy Secretary John Phelan Is Leaving the Pentagon and the Trump Administration",
     "link": "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html",
     "summary": "John Phelan is leaving the Pentagon after months of tension with Pete Hegseth and other Pentagon leaders. The tumult comes as the Navy has been engaged in war with Iran."
@@ -10,39 +20,9 @@
     "summary": "In four days of congressional testimony, the health secretary sought to please the White House and his MAHA base at the same time."
   },
   {
-    "title": "RFK Jr. Says His Department Advises All Children to Get Measles Vaccine",
-    "link": "https://www.nytimes.com/2026/04/22/us/politics/kennedy-measles-vaccine.html",
-    "summary": "Testifying on Capitol Hill, Robert F. Kennedy Jr. continued to back away from his criticism of the measles shot. But he spoke on behalf of his department, not himself."
-  },
-  {
-    "title": "Senate Plunges Into Vote Marathon as G.O.P. Advances ICE Funding Boost",
-    "link": "https://www.nytimes.com/2026/04/23/us/politics/senate-plunges-into-vote-marathon-as-gop-advances-ice-funding-boost.html",
-    "summary": "Republicans pressed to pass a budget plan with a $70 billion increase for immigration enforcement. But first, in an overnight session, they beat back Democratic proposals aimed at lowering costs."
-  },
-  {
-    "title": "Iran Again Tightens Its Grip on Shipping in the Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/04/22/business/strait-of-hormuz-traffic-iran.html",
-    "summary": "Traffic in the strait has all but halted as Iran renews its attacks, striking two vessels on Wednesday. More than 300 ships linked to Iran have passed through the strait since the war began."
-  },
-  {
-    "title": "How the War Powers Act Could Pressure Trump to End the Iran War",
-    "link": "https://www.nytimes.com/2026/04/22/us/politics/war-powers-act-explanation.html",
-    "summary": "A decades-old law allows the president to wage war without congressional approval for 60 days, then limits his options for continuing. President Trump may seek to get around it."
-  },
-  {
-    "title": "War in Iran Gives New Fuel to a Tax Debate in Australia",
-    "link": "https://www.nytimes.com/2026/04/23/world/asia/iran-australia-natural-gas-tax.html",
-    "summary": "The world’s third-largest exporter of natural gas, Australia has been too lenient in taxing lucrative gas exports, many in the country argue."
-  },
-  {
-    "title": "F.B.I. Said to Have Investigated Times Reporter After Article on Patel’s Girlfriend",
-    "link": "https://www.nytimes.com/2026/04/22/us/politics/fbi-times-reporter.html",
-    "summary": "The bureau said it is not pursuing a case, but the scrutiny is an example of the Trump administration weighing whether to criminalize routine news gathering."
-  },
-  {
-    "title": "How ‘Yes’ Won a Narrow Victory in Virginia’s Redistricting Battle",
-    "link": "https://www.nytimes.com/2026/04/22/us/elections/virginia-redistricting-voter-data-election.html",
-    "summary": "Northern Virginia carried the measure to victory even as turnout in Democratic areas lagged and nearly all of the state shifted right from last year’s governor’s race."
+    "title": "Senate Adopts GOP Budget, Laying the Groundwork to Fund ICE and Reopen DHS",
+    "link": "https://www.nytimes.com/2026/04/23/us/politics/senate-gop-budget-immigration.html",
+    "summary": "Republicans pushed through a budget plan with a $70 billion increase for immigration enforcement after an overnight session in which they beat back Democratic proposals aimed at lowering costs."
   },
   {
     "title": "Candidates for California Governor Debate: 5 Takeaways",
@@ -50,59 +30,74 @@
     "summary": "The nonpartisan primary remains volatile after the departure of Eric Swalwell. A televised debate featured six leading candidates, but produced few fireworks."
   },
   {
+    "title": "An Independent Senate Hopeful Tries to Scare Off Montana Democrats",
+    "link": "https://www.nytimes.com/2026/04/23/us/politics/seth-bodnar-montana-senate.html",
+    "summary": "Seth Bodnar, an independent, could have the best chance of breaking the Republican stranglehold in Montana, but the state’s Democrats are choosing to fight."
+  },
+  {
     "title": "Redistricting Fight Turns to Florida and the Courtroom for Frustrated Republicans",
     "link": "https://www.nytimes.com/2026/04/22/us/redistricting-republicans-democrats-florida-virginia.html",
     "summary": "A victory for Democrats in Virginia has left Republicans grumbling about their strategy and looking to the next phase of a coast-to-coast battle."
   },
   {
-    "title": "As Democrats Outraise Republican Candidates, the G.O.P. Has This $600 Million Edge",
-    "link": "https://www.nytimes.com/2026/04/22/us/politics/democrat-republican-midterm-election-fundraising.html",
-    "summary": "Even as the party faces a worrisome political environment and its candidates are outraised by Democratic ones, powerful Republican groups and super PACs have built a colossal advantage."
+    "title": "$106 Billion Loan Reflects E.U.’s View That Peace in Ukraine Is Far Away",
+    "link": "https://www.nytimes.com/2026/04/23/world/europe/eu-loan-ukraine.html",
+    "summary": "The delayed funding, which was approved on Thursday, is heavily weighted toward military spending, unlike previous European packages."
+  },
+  {
+    "title": "Will Bulgaria’s New Leader Cast His Lot With Europe or Russia?",
+    "link": "https://www.nytimes.com/2026/04/23/world/europe/bulgaria-radev-election-russia-europe.html",
+    "summary": "With a record of pro-Russia statements, Rumen Radev handily won elections this week. Now Bulgarians and his E.U. partners wait to see which way he will turn."
+  },
+  {
+    "title": "F.B.I. Said to Have Investigated Times Reporter After Article on Patel’s Girlfriend",
+    "link": "https://www.nytimes.com/2026/04/22/us/politics/fbi-times-reporter.html",
+    "summary": "The bureau said it is not pursuing a case, but the scrutiny is an example of the Trump administration weighing whether to criminalize routine news gathering."
+  },
+  {
+    "title": "Trump Wants Private Equity and Crypto Accessible in 401(k)s. There Are Risks.",
+    "link": "https://www.nytimes.com/2026/04/23/your-money/401ks-and-similar-plans/401k-private-credit-crypto.html",
+    "summary": "Alternative investments could appear on some 401(k) menus in the year ahead. Here’s what that means for investors."
+  },
+  {
+    "title": "Sewage Spill Is Over, But Contamination Lingers In Potomac",
+    "link": "https://www.nytimes.com/2026/04/23/climate/potomac-river-sewage-contamination.html",
+    "summary": "Though river monitoring shows bacteria levels have declined, scientists and environmentalists said a full recovery isn’t yet assured."
+  },
+  {
+    "title": "Some Labubu Dolls Contain Cotton Banned By Forced Labor Law, Testing Shows",
+    "link": "https://www.nytimes.com/2026/04/23/business/labubu-cotton-banned-forced-labor-law-xinjiang-china.html",
+    "summary": "A test verified by The New York Times found that clothes for some of the viral dolls contained cotton from the Xinjiang region of China, which is banned in the United States."
   },
   {
     "title": "A Lost Tribe in India Makes Its Exodus to Israel",
     "link": "https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html",
-    "summary": "The B’nei Menashe believe they are the children of Manasseh, a king of Judah exiled about 2,800 years ago. Evidence is thin, but Israel is welcoming them ‘home.’"
+    "summary": "The B’nei Menashe believe they are the children of Manasseh, a king of Judah exiled about 2,800 years ago. Evidence is thin, but Israel is welcoming them “home.”"
   },
   {
-    "title": "D4vd Murder Case: Celeste Rivas Hernandez’s Cause of Death Is Revealed",
-    "link": "https://www.nytimes.com/2026/04/22/arts/music/d4vd-celeste-rivas-hernandez-cause-of-death.html",
-    "summary": "The Los Angeles police sought to keep the findings secret for months as they investigated the singer D4vd, who was charged this week with the murder of the teenager."
+    "title": "As U.S. Brands Stumble, China Wins Over Young Indonesians",
+    "link": "https://www.nytimes.com/2026/04/23/business/china-brands-indonesia.html",
+    "summary": "A new generation of Indonesian consumers view Chinese brands as high-tech and of good quality, a departure from the days when “made in China” was associated with cheap goods."
   },
   {
-    "title": "How the Southern Poverty Law Center Drew the Ire of Conservatives",
-    "link": "https://www.nytimes.com/2026/04/22/us/southern-poverty-law-center-doj.html",
-    "summary": "Before the Justice Department filed charges against it, the group had faced scandal and critiques from both the left and the right."
+    "title": "Controversies and Production Issues Around ‘Michael,’ the Jackson Biopic, Explained",
+    "link": "https://www.nytimes.com/2026/04/23/movies/michael-jackson-biopic-controversies-production-casting.html",
+    "summary": "Reshoots, reluctant studios and family holdouts: the production faced many issues. But now the box office is expected to be huge."
   },
   {
-    "title": "‘Free Births’ Are a New Pregnancy Trend. Critics Warn About Serious Risks.",
-    "link": "https://www.nytimes.com/2026/04/22/science/free-birth-wild-pregancy-risks-home-birth.html",
-    "summary": "Promoters of free birthing reject any type of medical intervention during pregnancy or delivery. The movement has been trending on social media, but critics warn it poses serious risks."
+    "title": "‘Michael’ Review: A Jackson Biopic Leaves Too Much Unsaid",
+    "link": "https://www.nytimes.com/2026/04/21/movies/michael-review.html",
+    "summary": "A biographical film produced by the estate of Michael Jackson flattens its subject to scrub his reputation."
   },
   {
-    "title": "College Where Charlie Kirk Was Killed Revokes Graduation Speaker’s Invite",
-    "link": "https://www.nytimes.com/2026/04/22/us/politics/sharon-mcmahon-utah-valley-university-charlie-kirk.html",
-    "summary": "Utah Valley University was thrilled that Sharon McMahon, a best-selling author, would speak at its graduation. And then her old posts resurfaced."
+    "title": "‘People Here Do Not Consider Themselves Poor. They Consider Themselves Broke.’",
+    "link": "https://www.nytimes.com/2026/04/23/opinion/bobby-pulido-texas-latinos-democrats.html",
+    "summary": "Big parts of the Rio Grande Valley turned against the party in recent years. One candidate is trying to win it back, one quinceañera at a time."
   },
   {
-    "title": "Aging in Place: How Technology Might Help You Grow Old at Home",
-    "link": "https://www.nytimes.com/2026/04/22/business/seniors-home-care-tech.html",
-    "summary": "The budding field is turning dreams into reality for older adults who are eager to age in place, filling caregiving gaps and easing minds as America ages rapidly."
-  },
-  {
-    "title": "Alan Osmond, Who Led His Brothers in a Boy Band, Dies at 76",
-    "link": "https://www.nytimes.com/2026/04/22/arts/music/alan-osmond-dead.html",
-    "summary": "He was the eldest original member of the Osmonds, a family singing group that hit it big in the 1970s with songs like “One Bad Apple.”"
-  },
-  {
-    "title": "I’ve Photographed Protests Around the World. This Still Surprises Me.",
-    "link": "https://www.nytimes.com/2026/04/23/opinion/matthew-connors-photos-protest-authoritarianism.html",
-    "summary": "Scenes from life in a global era increasingly shaped by confrontations with authoritarian power."
-  },
-  {
-    "title": "Yale Has Come Up With a Surefire Way to Make a Terrible Situation Worse",
-    "link": "https://www.nytimes.com/2026/04/22/opinion/yale-has-come-up-with-a-surefire-way-to-make-a-terrible-situation-worse.html",
-    "summary": "Don’t retreat from the world; engage it."
+    "title": "A Bitcoin Evangelist Tries to Convert Me",
+    "link": "https://www.nytimes.com/2026/04/23/opinion/bitcoin-crypto-anthony-pompliano.html",
+    "summary": "What the crypto currency promises that the dollar doesn’t."
   },
   {
     "title": "Stephen Colbert Sends Jimmy Kimmel a Box of ‘Iran War Jokes’",
@@ -110,23 +105,23 @@
     "summary": "Colbert said he was “beginning to think this war might not be over before Memorial Day,” when “The Late Show” will have ended its run."
   },
   {
+    "title": "Mamdani Considers Delaying Pension-Fund Payments to Ease Budget Gap",
+    "link": "https://www.nytimes.com/2026/04/23/nyregion/mamdani-pension-funds.html",
+    "summary": "With New York City facing a multibillion-dollar deficit, Mayor Zohran Mamdani is exploring ways to delay the city’s payments to municipal pension funds."
+  },
+  {
     "title": "Restrictions on Transgender Students Violated Law, New York Finds",
     "link": "https://www.nytimes.com/2026/04/22/nyregion/transgender-schools-restrictions-long-island.html",
     "summary": "Two school districts had similar policies that required students to use facilities that were gender neutral or aligned with their sex assigned at birth."
   },
   {
-    "title": "Drake’s Ice Installation for New ‘Iceman’ Album Brings Headaches to Toronto",
-    "link": "https://www.nytimes.com/2026/04/22/world/canada/drake-album-ice-block-toronto.html",
-    "summary": "Fire crews melted a 25-foot-tall ice structure erected to promote the rapper’s forthcoming album, “Iceman,” less than a week after an explosion for a Drake music video shook part of the city."
-  },
-  {
-    "title": "King Charles Will Not Meet Epstein Victims During U.S. State Visit",
-    "link": "https://www.nytimes.com/2026/04/22/us/politics/king-charles-epstein-victims.html",
-    "summary": "Representative Ro Khanna had asked Buckingham Palace for a private meeting between the victims and King Charles during his planned visit to the U.S. next week."
-  },
-  {
     "title": "Oscar Schmidt, Brazilian Superstar Who Spurned the N.B.A., Dies at 68",
     "link": "https://www.nytimes.com/2026/04/22/sports/basketball/oscar-schmidt-dead.html",
     "summary": "A Hall of Fame forward, he was a basketball scoring machine and an early master of the three-pointer. “There was not a shot I didn’t like,” he said."
+  },
+  {
+    "title": "D4vd Murder Case: Celeste Rivas Hernandez’s Cause of Death Is Revealed",
+    "link": "https://www.nytimes.com/2026/04/22/arts/music/d4vd-celeste-rivas-hernandez-cause-of-death.html",
+    "summary": "The Los Angeles police sought to keep the findings secret for months as they investigated the singer D4vd, who was charged this week with the murder of the teenager."
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "title": "The ‘Lasting Damage’ of Pirro’s Investigation of the Federal Reserve and Powell",
-    "link": "https://www.nytimes.com/2026/04/24/us/politics/federal-reserve-powell-pirro-investigation.html",
-    "summary": "The Trump administration’s attacks on the Federal Reserve have rattled confidence in the central bank’s ability to operate independently before a leadership transition."
-  },
-  {
-    "title": "Justice Dept. Closes Criminal Investigation of Fed Chair",
-    "link": "https://www.nytimes.com/2026/04/24/briefing/fed-investigation-us-iran-peace-talks.html",
-    "summary": "Also, the U.S. is sending top envoys to Pakistan for Iran peace talks. Here’s the latest at the end of Friday."
-  },
-  {
     "title": "Rubio’s Absence From Iran Talks Highlights Stay-at-Home Role",
     "link": "https://www.nytimes.com/2026/04/24/us/politics/marco-rubio-absence-iran-talks.html",
     "summary": "President Trump has outsourced much of his diplomacy to others, while Mr. Rubio focuses on his second job as national security adviser."
@@ -18,6 +8,16 @@
     "title": "How Jet Fuel Shortages Could Affect Summer Travel to Europe and Beyond",
     "link": "https://www.nytimes.com/2026/04/24/travel/flight-cancellations-europe-summer-vacation.html",
     "summary": "Facing sky-high fuel costs linked to the war in Iran, airlines are cutting routes and raising prices. European vacations are looking a lot less affordable."
+  },
+  {
+    "title": "The ‘Lasting Damage’ of Pirro’s Investigation of the Federal Reserve and Powell",
+    "link": "https://www.nytimes.com/2026/04/24/us/politics/federal-reserve-powell-pirro-investigation.html",
+    "summary": "The Trump administration’s attacks on the Federal Reserve have rattled confidence in the central bank’s ability to operate independently before a leadership transition."
+  },
+  {
+    "title": "Justice Department Drops Criminal Investigation of Fed Chair Jerome Powell",
+    "link": "https://www.nytimes.com/2026/04/24/business/doj-investigation-federal-reserve-powell.html",
+    "summary": "The decision to end the inquiry into Jerome H. Powell’s handling of the Federal Reserve’s renovation could allow Kevin M. Warsh, the president’s pick for Fed chair, to be confirmed."
   },
   {
     "title": "Trump Says He Dislikes Prediction Markets. His Family Invests in Them.",
@@ -35,19 +35,19 @@
     "summary": "The indictment of a soldier who bet on the U.S. operation to capture President Nicolás Maduro of Venezuela put renewed focus on a new way to gamble, and a new way to cheat."
   },
   {
-    "title": "Appeals Court Says Trump’s Ban on Asylum Claims at Border Is Illegal",
-    "link": "https://www.nytimes.com/2026/04/24/us/politics/appeals-court-trump-asylum-claims.html",
-    "summary": "The ruling could require the Trump administration to begin processing new applications from asylum seekers at the southern border."
-  },
-  {
-    "title": "Who’s Getting a Tariff Refund?",
-    "link": "https://www.nytimes.com/video/business/100000010852324/whos-getting-a-tariff-refund.html",
-    "summary": "Following a Supreme Court ruling that struck down several Trump administration tariffs, importers have begun applying for their share of $166 billion in refunds. As our economic policy reporter Tony Romm explains, consumers are unlikely to see much of that money returned to their own pockets."
+    "title": "U.S. Says Venezuelan Government Can Pay for Nicolás Maduro’s Defense",
+    "link": "https://www.nytimes.com/2026/04/24/nyregion/us-venezuela-maduro-court-cost.html",
+    "summary": "The issue had been hanging over the former Venezuelan leader’s federal criminal case for weeks. Last month, a judge indicated that he was skeptical of the U.S. government’s rationale for blocking the funds."
   },
   {
     "title": "Inside Trump and David Ellison’s Private Party in Washington",
     "link": "https://www.nytimes.com/2026/04/24/business/media/david-ellison-trump-cbs-news.html",
     "summary": "The gathering included executives and leading journalists from CBS News, which Paramount owns, and the head of the Justice Department, which is reviewing the acquisition."
+  },
+  {
+    "title": "Appeals Court Says Trump’s Ban on Asylum Claims at Border Is Illegal",
+    "link": "https://www.nytimes.com/2026/04/24/us/politics/appeals-court-trump-asylum-claims.html",
+    "summary": "The ruling could require the Trump administration to begin processing new applications from asylum seekers at the southern border."
   },
   {
     "title": "Trump Administration Approves Firing Squad Executions for Death Penalty",
@@ -60,19 +60,9 @@
     "summary": "When Amazon gutted its podcast company, it built a new department that made creators kings, starting with the football stars Jason and Travis Kelce."
   },
   {
-    "title": "They Were Michael Jackson’s ‘Second Family.’ Now They Say He Abused Them.",
-    "link": "https://www.nytimes.com/2026/04/24/arts/music/michael-jackson-second-family-cascio.html",
-    "summary": "The Cascio siblings are suing Mr. Jackson’s estate after standing by him for years as he faced accusations of child molestation."
-  },
-  {
-    "title": "‘Michael’ Review: A Jackson Biopic Leaves Too Much Unsaid",
-    "link": "https://www.nytimes.com/2026/04/21/movies/michael-review.html",
-    "summary": "A biographical film produced by the estate of Michael Jackson flattens its subject to scrub his reputation."
-  },
-  {
-    "title": "A Man, a Howitzer and His Battle to Fire It Into the Adirondack Woods",
-    "link": "https://www.nytimes.com/2026/04/24/nyregion/howitzer-adirondacks.html",
-    "summary": "In the mountains of northern New York, many local residents are weary of the military activities near an old missile silo and wary of the prospect of a howitzer range."
+    "title": "The 85-Year-Old Widow Snagged by Trump’s Immigration Crackdown",
+    "link": "https://www.nytimes.com/2026/04/25/us/french-ross-mahe-ice-detention.html",
+    "summary": "In her first interview since being deported, Marie-Thérèse Ross-Mahé, the French widow of a former G.I., recounted her experience in ICE detention."
   },
   {
     "title": "Camp Mystic May Not Receive License to Reopen After Fatal Flood in Texas",
@@ -90,19 +80,9 @@
     "summary": "Republicans are likely to fall back on a tried-and-tested strategy for the midterms: Going negative."
   },
   {
-    "title": "N.F.L. Style Will Never Beat N.B.A. Style",
-    "link": "https://www.nytimes.com/2026/04/24/style/nfl-draft-style.html",
-    "summary": "Plus: some great Japanese designers and a final thought on the press tour for “The Devil Wears Prada 2.”"
-  },
-  {
     "title": "A New Idea to Save the AMOC? Dam the Bering Strait.",
     "link": "https://www.nytimes.com/2026/04/24/climate/amoc-bering-strait-dam.html",
     "summary": "Blocking the narrow waterway between Russia and Alaska could help stabilize a vulnerable system of ocean currents, scientists found in a study."
-  },
-  {
-    "title": "The Rich and Powerful Want to Live Forever",
-    "link": "https://www.nytimes.com/2026/04/24/magazine/eternal-life-longevity-world-leaders.html",
-    "summary": "From the Kremlin to Silicon Valley, some of the most powerful people in the world now want something more: eternal life."
   },
   {
     "title": "How Dermatologists Are Helping People Who’ve Been Sex Trafficked",
@@ -130,19 +110,19 @@
     "summary": "The counterculture icon Stewart Brand is advocating values that are more countercultural than ever."
   },
   {
-    "title": "As Putin Orders That the Economy Be Fixed, Russia Grasps for Solutions",
-    "link": "https://www.nytimes.com/2026/04/24/world/europe/russia-economy.html",
-    "summary": "Another interest-rate cut highlights the narrowing path for the country’s central bank amid the strains of immense wartime spending."
-  },
-  {
     "title": "Kenyan Court Strikes Down Ruling Protecting Right to Abortion",
     "link": "https://www.nytimes.com/2026/04/24/world/africa/kenya-court-abortion-ruling.html",
     "summary": "The decision, in a country where thousands of women die yearly from unsafe abortions, held that abortions deprive unborn children of the “right to life.”"
   },
   {
-    "title": "Wildfires Destroy Dozens of Structures in Georgia, Governor Says",
-    "link": "https://www.nytimes.com/2026/04/24/us/georgia-wildfires-homes-destroyed.html",
-    "summary": "Fires fueled by drought have burned tens of thousands of acres in southern Georgia and northern Florida, where officials said one blaze was blamed for the death of a volunteer firefighter."
+    "title": "Wayne Moss, Guitarist Who Helped Broaden Country Sound, Dies at 88",
+    "link": "https://www.nytimes.com/2026/04/24/arts/music/wayne-moss-dead.html",
+    "summary": "A top Nashville musician, he played on Bob Dylan’s “I Want You,” Roy Orbison’s “Oh, Pretty Woman” and Dolly Parton’s “Jolene.”"
+  },
+  {
+    "title": "One of Two Missing USF Doctoral Students Is Found Dead, Officials Say",
+    "link": "https://www.nytimes.com/2026/04/24/us/usf-students-missing-body-found.html",
+    "summary": "The University of South Florida students were reported missing last week. A roommate of the student whose body was found was charged in connection with his disappearance."
   },
   {
     "title": "31 Sloths Acquired by an Orlando Animal Attraction Died, Officials Say",

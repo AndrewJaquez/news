@@ -1,13 +1,8 @@
 [
   {
-    "title": "Trump Seeks to Abolish Iran’s Atomic Stockpile, a Problem He Helped Create",
+    "title": "Trump Seeks to Abolish Iran’s Nuclear Stockpile, a Problem He Helped Create",
     "link": "https://www.nytimes.com/2026/04/25/us/politics/trump-iran-nuclear.html",
     "summary": "President Trump withdrew from the Obama-era nuclear accord in 2018, saying it was the worst deal ever. But Iran responded with an enrichment spree that haunts the negotiations to this day."
-  },
-  {
-    "title": "Rubio’s Absence From Iran Talks Highlights Stay-at-Home Role",
-    "link": "https://www.nytimes.com/2026/04/24/us/politics/marco-rubio-absence-iran-talks.html",
-    "summary": "President Trump has outsourced much of his diplomacy to others, while Mr. Rubio focuses on his second job as national security adviser."
   },
   {
     "title": "On Iran’s Border, Cooking Oil Trade Is a Snapshot of the Country’s Struggles",
@@ -25,14 +20,9 @@
     "summary": "The National Park Service increased the value of the contract several times over and then awarded it to Maryland-based Clark Construction, in a process that experts said was highly unusual."
   },
   {
-    "title": "U.S. Says Venezuelan Government Can Pay for Nicolás Maduro’s Defense",
-    "link": "https://www.nytimes.com/2026/04/24/nyregion/us-venezuela-maduro-court-cost.html",
-    "summary": "The issue had been hanging over the former Venezuelan leader’s federal criminal case for weeks. Last month, a judge indicated that he was skeptical of the U.S. government’s rationale for blocking the funds."
-  },
-  {
-    "title": "Trump Says He Dislikes Prediction Markets. His Family Invests in Them.",
-    "link": "https://www.nytimes.com/2026/04/24/us/politics/trump-prediction-markets.html",
-    "summary": "The White House has warned staff not to wager on government decisions, but his family’s involvement with these firms undermines the president’s message."
+    "title": "At White House Correspondents Dinner, Trump Will Dine With Reporters He’s Been Roasting",
+    "link": "https://www.nytimes.com/2026/04/25/us/politics/trump-white-house-correspondents-dinner.html",
+    "summary": "President Trump has boycotted the White House Correspondents’ Association dinner in previous years."
   },
   {
     "title": "Under Trump, Green Card Seekers Face New Scrutiny for Views on Israel",
@@ -45,6 +35,11 @@
     "summary": "In her first interview since being deported, Marie-Thérèse Ross-Mahé, the French widow of a former G.I., recounted her experience in ICE detention."
   },
   {
+    "title": "They Survived Torture. Why Is the Program That Helped Them Closing?",
+    "link": "https://www.nytimes.com/2026/04/25/nyregion/nyc-torture-survivors-hospital-program-closing.html",
+    "summary": "Some Bellevue Hospital officials feared having to disclose patients’ immigration status. They will get care elsewhere at the hospital, administrators say."
+  },
+  {
     "title": "Tennessee Passed a Slate of Immigration Bills. Here’s What They Do.",
     "link": "https://www.nytimes.com/2026/04/25/us/politics/tennessee-immigration-bills-what-to-know.html",
     "summary": "The Republican supermajority in the Tennessee General Assembly approved a series of immigrations bills, crafted in coordination with the White House."
@@ -55,14 +50,19 @@
     "summary": "A once-robust H.I.V. treatment and prevention system, credited with saving hundreds of thousands of lives, has begun to crumble."
   },
   {
-    "title": "Measles Is Back. It’s a Sign Worse Is Coming.",
+    "title": "New Taxes Helped Cool London’s Housing Market. Could That Happen in New York?",
+    "link": "https://www.nytimes.com/2026/04/25/nyregion/second-home-tax-london-ny.html",
+    "summary": "Economists and real estate agents are calling London’s taxation of wealthy property owners a cautionary tale for New York, where leaders have endorsed a second-home tax."
+  },
+  {
+    "title": "Measles Is Back. What Comes Next Will Be Worse.",
     "link": "https://www.nytimes.com/2026/04/25/opinion/measles-vaccines-rfk-jr.html",
     "summary": "Reversing the new vaccine skepticism will require a dedicated effort."
   },
   {
-    "title": "Trump’s True Deal-Making Abilities, Revealed",
-    "link": "https://www.nytimes.com/2026/04/25/opinion/trump-iran-deal-making.html",
-    "summary": "What moving deadlines — and red lines — in Iran means for America’s leverage."
+    "title": "Trump, Iran’s Newest Hostage",
+    "link": "https://www.nytimes.com/2026/04/25/opinion/trump-iran-war-israel.html",
+    "summary": "The president is buried in the graveyard of vanity."
   },
   {
     "title": "High Lights",
@@ -70,18 +70,18 @@
     "summary": "Our lives are governed by wondrous phenomena that we don’t often stop to consider."
   },
   {
+    "title": "One of Two Missing USF Doctoral Students Is Found Dead, Officials Say",
+    "link": "https://www.nytimes.com/2026/04/24/us/usf-students-missing-body-found.html",
+    "summary": "The University of South Florida students were reported missing last week. On Saturday, prosecutors charged a roommate of one student in both their deaths."
+  },
+  {
     "title": "Europe Prepares for a Longer War in Ukraine, With No Strategy to End It",
     "link": "https://www.nytimes.com/2026/04/25/world/europe/ukraine-russia-europe-european-union.html",
     "summary": "With American dealmakers wrapped up with Iran, neither Russia nor Ukraine has a clear path to victory — or toward a negotiated peace."
   },
   {
-    "title": "The Long, Challenging Road to D4vd’s Arrest",
-    "link": "https://www.nytimes.com/2026/04/25/arts/d4vd-arrest-prosecutor-challenges.html",
-    "summary": "Uncooperative witnesses drove prosecutors to convene an investigative grand jury after a teenage girl’s body was discovered in the trunk of the singer’s car."
-  },
-  {
-    "title": "SiriusXM Said to Be in Early Talks to Acquire iHeartMedia",
-    "link": "https://www.nytimes.com/2026/04/24/business/media/siriusxm-iheart-radio.html",
-    "summary": "A deal, which was described by two people familiar with the discussions, would unite two major providers of traditional and satellite radio."
+    "title": "In Wine Country, Sales Are Down and Fraud Is Rampant",
+    "link": "https://www.nytimes.com/2026/04/25/business/dealbook/wine-fraud.html",
+    "summary": "The industry’s murky supply chain has long attracted scammers and con artists. In the words of one expert, “Wine and fraud go hand in hand.”"
   }
 ]

@@ -1,28 +1,13 @@
 [
   {
-    "title": "How a Nature Cruise Turned Into a Nightmare",
-    "link": "https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html",
-    "summary": "The hantavirus outbreak on the MV Hondius set off alarms for a world still traumatized by Covid. For those on board, the danger was much closer."
+    "title": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs.",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html",
+    "summary": "The lack of concrete agreements with Beijing shows the risks of President Trump’s personality-driven foreign policy, which rests on the belief that he can defend U.S. interests through charm and force of will."
   },
   {
-    "title": "With Possible Raúl Castro Indictment, U.S. Eyes Venezuela Playbook",
-    "link": "https://www.nytimes.com/2026/05/15/us/politics/trump-cuba-pressue-castro.html",
-    "summary": "Amid stepped-up surveillance flights, a visit of the C.I.A. director and an energy embargo, the White House is trying to increase pressure on Cuba."
-  },
-  {
-    "title": "The Push to Indict Raúl Castro, Cuba’s Former President",
-    "link": "https://www.nytimes.com/2026/05/15/world/americas/cuba-raul-castro-us-indictment.html",
-    "summary": "Mr. Castro, Cuba’s former president, could soon face charges in the 1996 killings of four volunteer airmen who were members of a humanitarian group that searched for migrants at sea."
-  },
-  {
-    "title": "Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump",
-    "link": "https://www.nytimes.com/2026/05/16/us/politics/rubio-china-trump-trip.html",
-    "summary": "As a senator, Marco Rubio even hinted at the need for regime change in China. Now he talks about cooperation."
-  },
-  {
-    "title": "Trump Turns Taiwan Arms Sales Into Bargaining Chip With China",
+    "title": "Trump Uses Taiwan Arms Sales as Bargaining Chip With China, in a Risky Move",
     "link": "https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html",
-    "summary": "The president said a potential arms deal for Taiwan was a “very good negotiating chip” in talks with Beijing. His words raise questions about the steadfastness of U.S. support."
+    "summary": "The president said a potential arms deal for Taiwan was a “very good negotiating chip” in talks with Beijing. His words raise questions about the reliability of U.S. support."
   },
   {
     "title": "China Will Host Putin, Days After Trump’s Visit",
@@ -30,9 +15,24 @@
     "summary": "The Russian leader will go to Beijing on Tuesday for talks with President Xi Jinping. The Kremlin said he had watched President Trump’s visit closely."
   },
   {
+    "title": "How a Nature Cruise Turned Into a Nightmare",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html",
+    "summary": "The hantavirus outbreak on the MV Hondius set off alarms for a world still traumatized by Covid. For those on board, the danger was much closer."
+  },
+  {
     "title": "In Congress, a Sexual Harassment ‘Minefield’ Persists, Aides and Former Staff Say",
     "link": "https://www.nytimes.com/2026/05/16/us/politics/on-capitol-hill-a-sexual-harassment-minefield-persists.html",
     "summary": "Nearly 10 years after Congress instituted measures to make it easier for women to lodge harassment complaints, lawmakers and aides say the behavior is still rampant."
+  },
+  {
+    "title": "A Bitter Land Commissioner Race in New Mexico Over 9 Million Acres",
+    "link": "https://www.nytimes.com/2026/05/16/us/new-mexico-land-commissioner-race.html",
+    "summary": "A Republican candidate for the state land commissioner post has Democrats worried that protected state and federal land could be opened to industry."
+  },
+  {
+    "title": "At Supreme Court, Virginia Democrats Pressed Legal Theory Embraced by Trump",
+    "link": "https://www.nytimes.com/2026/05/16/us/at-supreme-court-virginia-democrats-pressed-legal-theory-embraced-by-trump.html",
+    "summary": "A long-shot emergency request to restore a voting map was the latest salvo in an all-out legal war over control of the House."
   },
   {
     "title": "What to Watch in Saturday’s Republican Senate Primary in Louisiana",
@@ -40,37 +40,27 @@
     "summary": "Senator Bill Cassidy, who has drawn President Trump’s ire, is fighting for political survival."
   },
   {
-    "title": "Political Money Is Flowing to Influencers. But From Whom?",
-    "link": "https://www.nytimes.com/2026/05/16/business/media/influencers-political-financing-disclosure.html",
-    "summary": "Social media stars have become a magnet for campaigns and political groups that want to push priorities without disclosing where their money is going."
-  },
-  {
-    "title": "Supreme Court Rejects Virginia Democrats’ Effort to Reinstate New Voting Map",
-    "link": "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html",
-    "summary": "State officials had asked the justices to step in to allow the state to use a congressional map in the midterms that was drawn by Democrats and recently approved by voters."
-  },
-  {
     "title": "Which Countries Are Profiting From the Iran War Oil Shock",
     "link": "https://www.nytimes.com/2026/05/16/business/energy-environment/iran-war-oil-countries-winners-losers.html",
     "summary": "An analysis of oil export data offers clues about which nations have benefited from higher prices, and which have lost a lot of revenue."
   },
   {
-    "title": "Israel Says It Killed Hamas’s Top Leader in Gaza",
+    "title": "Fears Grow That Iran May Be Using Proxy Groups Beyond Mideast",
+    "link": "https://www.nytimes.com/2026/05/16/world/middleeast/iran-proxy-groups-us.html",
+    "summary": "The charges against Mohammad al-Saadi in the United States have raised concerns that Iran could be working with its proxies to stage attacks outside the region."
+  },
+  {
+    "title": "Hamas’s Top Leader in Gaza Is Killed in Israeli Strike",
     "link": "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html",
-    "summary": "Izz al-Din al-Haddad took over the group’s military wing in Gaza last year. Hamas’s official broadcaster appeared to confirm Mr. al-Haddad’s death, although the group has yet to formally comment."
+    "summary": "Izz al-Din al-Haddad took over the group’s military wing in Gaza last year. Hamas officials confirmed Mr. al-Haddad’s death in an Israeli attack."
   },
   {
-    "title": "They Fled to Safety in Palestinian Territory, Then Settlers Attacked Again",
-    "link": "https://www.nytimes.com/2026/05/16/world/middleeast/settler-attacks-palestinians-west-bank.html",
-    "summary": "Violent settlers are not merely clearing Palestinians from land under Israel’s control. They are attacking areas where Israel agreed to Palestinian self-governance."
+    "title": "How to Watch the Eurovision Song Contest Final",
+    "link": "https://www.nytimes.com/2026/05/15/arts/eurovision-final-how-to-watch.html",
+    "summary": "The internationally popular event will be available to U.S. viewers, too, although not on domestic TV in some countries that are boycotting this year."
   },
   {
-    "title": "Trump Says a Top ISIS Leader Was Killed in a U.S.-Nigerian Mission",
-    "link": "https://www.nytimes.com/2026/05/16/world/africa/trump-isis-nigeria-al-minuki.html",
-    "summary": "The leader, whom the State Department designated a terrorist in 2023, had been hiding in Africa, President Trump said."
-  },
-  {
-    "title": "Long Island Rail Road Strike Shuts Down Busiest U.S. Passenger Rail Service",
+    "title": "LIRR Labor Strike Shuts Down Busiest U.S. Passenger Rail Service",
     "link": "https://www.nytimes.com/2026/05/16/nyregion/lirr-strike.html",
     "summary": "This is the first strike on the service in more than 30 years. It comes after three years of failed contract negotiations, two federal interventions and a volley of last-minute bargaining."
   },
@@ -85,9 +75,9 @@
     "summary": "Could we English majors have a future after all?"
   },
   {
-    "title": "The Great Political Realignment of 2026",
-    "link": "https://www.nytimes.com/2026/05/16/opinion/supreme-court-midterms-politics.html",
-    "summary": "The country seems to be tiring of the Trump era. Now what?"
+    "title": "China’s Peak Is Now",
+    "link": "https://www.nytimes.com/2026/05/16/opinion/america-china-xi-peak.html",
+    "summary": "Does Xi Jinping see the world this way?"
   },
   {
     "title": "Finishing School",
@@ -95,13 +85,18 @@
     "summary": "It’s graduation season, a time of aspiration and anxiety. Today is about the aspiration — the wisdom to be gleaned from great commencement addresses."
   },
   {
-    "title": "Plot Was ‘Targeting Heart’ of New York’s Jewish Community, Tisch Says",
-    "link": "https://www.nytimes.com/2026/05/15/nyregion/nypd-synagogue-terror-plot-nyc.html",
-    "summary": "Police Commissioner Jessica S. Tisch spoke after prosecutors said they had arrested a man planning to attack a Manhattan synagogue."
+    "title": "Jack Douglas, Producer for Aerosmith and Lennon, Dies at 80",
+    "link": "https://www.nytimes.com/2026/05/15/arts/music/jack-douglas-dead.html",
+    "summary": "A onetime Beatlemaniac, he helped shape the sound of hits like “Walk This Way” and “(Just Like) Starting Over.”"
   },
   {
-    "title": "It’s Been a Wild Week in British Politics. What Happens Next?",
-    "link": "https://www.nytimes.com/2026/05/16/world/europe/britain-politics-labour-whats-next.html",
-    "summary": "Nobody has yet challenged Prime Minister Keir Starmer for the leadership, but his leading rival, Andy Burnham, finally has a route to Downing Street."
+    "title": "Man Stole Medieval Skull From Church and Sealed it in Concrete, Police Say",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/czech-saint-skull-theft-stolen-church.html",
+    "summary": "The man disagreed with the 800-year-old relic’s display in a church in the Czech Republic and planned to throw it into a river, police said."
+  },
+  {
+    "title": "Drake Drops 3 Albums: ‘Iceman,’ ‘Habibti’ and ‘Maid of Honour’",
+    "link": "https://www.nytimes.com/2026/05/15/arts/music/drake-new-albums-iceman-habibti-maid-of-honour.html",
+    "summary": "The chart-topping Canadian rapper released an anticipated new album, “Iceman,” on Friday and two previously unannounced LPs, “Habibti” and “Maid of Honour.”"
   }
 ]

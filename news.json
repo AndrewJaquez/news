@@ -1,5 +1,10 @@
 [
   {
+    "title": "How a Nature Cruise Turned Into a Nightmare",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html",
+    "summary": "The hantavirus outbreak on the MV Hondius set off alarms for a world still traumatized by Covid. For those on board, the danger was much closer."
+  },
+  {
     "title": "With Possible Raúl Castro Indictment, U.S. Eyes Venezuela Playbook",
     "link": "https://www.nytimes.com/2026/05/15/us/politics/trump-cuba-pressue-castro.html",
     "summary": "Amid stepped-up surveillance flights, a visit of the C.I.A. director and an energy embargo, the White House is trying to increase pressure on Cuba."
@@ -10,29 +15,9 @@
     "summary": "Mr. Castro, Cuba’s former president, could soon face charges in the 1996 killings of four volunteer airmen who were members of a humanitarian group that searched for migrants at sea."
   },
   {
-    "title": "Photos: Cuba Plunges Into Darkness as U.S. Cuts Off Oil Supply",
-    "link": "https://www.nytimes.com/2026/05/15/world/americas/cuba-energy-crisis-photos.html",
-    "summary": "The United States has choked off Cuba’s fuel supply, plunging the already impoverished island into an acute energy crisis."
-  },
-  {
-    "title": "Supreme Court Rejects Virginia Democrats’ Effort to Reinstate New Voting Map",
-    "link": "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html",
-    "summary": "State officials had asked the justices to step in to allow the state to use a congressional map in the midterms that was drawn by Democrats and recently approved by voters."
-  },
-  {
-    "title": "Texas Supreme Court Rejects Abbott Effort to Remove Democrats After Walkout",
-    "link": "https://www.nytimes.com/2026/05/15/us/texas-supreme-court-abbott-democrats-walkout-redistricting.html",
-    "summary": "Republican state leaders tried to expel Democratic lawmakers during their fight over redistricting last year. The court said it was not necessary."
-  },
-  {
-    "title": "Trump’s ‘Learning Curve’ on China Ends With Conciliation at Summit",
-    "link": "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html",
-    "summary": "The president has shifted the foundations of American policy toward China, throwing aside the adversarial approach of recent years."
-  },
-  {
-    "title": "Why Were These C.E.O.s in Beijing With Trump?",
-    "link": "https://www.nytimes.com/video/us/politics/100000010906537/why-were-these-ceos-in-beijing-with-trump.html",
-    "summary": "Some of America’s most powerful C.E.O.s accompanied President Trump to Beijing during his summit with President Xi Jinping of China. Our reporter Ana Swanson explains what they were hoping to gain from the trip."
+    "title": "Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump",
+    "link": "https://www.nytimes.com/2026/05/16/us/politics/rubio-china-trump-trip.html",
+    "summary": "As a senator, Marco Rubio even hinted at the need for regime change in China. Now he talks about cooperation."
   },
   {
     "title": "Trump Turns Taiwan Arms Sales Into Bargaining Chip With China",
@@ -40,9 +25,49 @@
     "summary": "The president said a potential arms deal for Taiwan was a “very good negotiating chip” in talks with Beijing. His words raise questions about the steadfastness of U.S. support."
   },
   {
-    "title": "For Xi’s Critics, Trump’s China Visit Is Fuel for Jokes They Can’t Tell",
-    "link": "https://www.nytimes.com/2026/05/15/business/trump-xi-meeting-china-social-media.html",
-    "summary": "On Threads and other sites, liberal-minded Chinese accounts were mocking the proceedings and offering a rare window into opinions on Xi Jinping and his leadership style."
+    "title": "China Will Host Putin, Days After Trump’s Visit",
+    "link": "https://www.nytimes.com/2026/05/16/world/europe/putin-china-visit-trump.html",
+    "summary": "The Russian leader will go to Beijing on Tuesday for talks with President Xi Jinping. The Kremlin said he had watched President Trump’s visit closely."
+  },
+  {
+    "title": "In Congress, a Sexual Harassment ‘Minefield’ Persists, Aides and Former Staff Say",
+    "link": "https://www.nytimes.com/2026/05/16/us/politics/on-capitol-hill-a-sexual-harassment-minefield-persists.html",
+    "summary": "Nearly 10 years after Congress instituted measures to make it easier for women to lodge harassment complaints, lawmakers and aides say the behavior is still rampant."
+  },
+  {
+    "title": "What to Watch in Saturday’s Republican Senate Primary in Louisiana",
+    "link": "https://www.nytimes.com/2026/05/16/us/politics/what-to-watch-louisiana-senate-primary.html",
+    "summary": "Senator Bill Cassidy, who has drawn President Trump’s ire, is fighting for political survival."
+  },
+  {
+    "title": "Political Money Is Flowing to Influencers. But From Whom?",
+    "link": "https://www.nytimes.com/2026/05/16/business/media/influencers-political-financing-disclosure.html",
+    "summary": "Social media stars have become a magnet for campaigns and political groups that want to push priorities without disclosing where their money is going."
+  },
+  {
+    "title": "Supreme Court Rejects Virginia Democrats’ Effort to Reinstate New Voting Map",
+    "link": "https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html",
+    "summary": "State officials had asked the justices to step in to allow the state to use a congressional map in the midterms that was drawn by Democrats and recently approved by voters."
+  },
+  {
+    "title": "Which Countries Are Profiting From the Iran War Oil Shock",
+    "link": "https://www.nytimes.com/2026/05/16/business/energy-environment/iran-war-oil-countries-winners-losers.html",
+    "summary": "An analysis of oil export data offers clues about which nations have benefited from higher prices, and which have lost a lot of revenue."
+  },
+  {
+    "title": "Israel Says It Killed Hamas’s Top Leader in Gaza",
+    "link": "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html",
+    "summary": "Izz al-Din al-Haddad took over the group’s military wing in Gaza last year. Hamas’s official broadcaster appeared to confirm Mr. al-Haddad’s death, although the group has yet to formally comment."
+  },
+  {
+    "title": "They Fled to Safety in Palestinian Territory, Then Settlers Attacked Again",
+    "link": "https://www.nytimes.com/2026/05/16/world/middleeast/settler-attacks-palestinians-west-bank.html",
+    "summary": "Violent settlers are not merely clearing Palestinians from land under Israel’s control. They are attacking areas where Israel agreed to Palestinian self-governance."
+  },
+  {
+    "title": "Trump Says a Top ISIS Leader Was Killed in a U.S.-Nigerian Mission",
+    "link": "https://www.nytimes.com/2026/05/16/world/africa/trump-isis-nigeria-al-minuki.html",
+    "summary": "The leader, whom the State Department designated a terrorist in 2023, had been hiding in Africa, President Trump said."
   },
   {
     "title": "Long Island Rail Road Strike Shuts Down Busiest U.S. Passenger Rail Service",
@@ -55,14 +80,19 @@
     "summary": "America’s busiest passenger rail service shut down on Saturday after unions and transit officials failed to agree on a new contract."
   },
   {
-    "title": "Claudine Longet, Entertainer Who Shot Olympian Boyfriend, Dies at 84",
-    "link": "https://www.nytimes.com/2026/05/15/us/claudine-longet-dead.html",
-    "summary": "A singer and actress, she drew wide attention for the fatal 1976 shooting of Spider Sabich. She was convicted of negligent homicide."
+    "title": "What A.I. Kant Do",
+    "link": "https://www.nytimes.com/2026/05/16/opinion/ai-liberal-arts.html",
+    "summary": "Could we English majors have a future after all?"
   },
   {
-    "title": "Kataib Hezbollah Commander Accused of Planning Attacks on N.Y.C.",
-    "link": "https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html",
-    "summary": "Mohammad Baqer Saad Dawood al-Saadi is accused of leading attacks in Europe and being part of a retaliation campaign by Iran. Prosecutors say he is a leader of Kataib Hezbollah, an Iraqi militia with ties to Iran."
+    "title": "The Great Political Realignment of 2026",
+    "link": "https://www.nytimes.com/2026/05/16/opinion/supreme-court-midterms-politics.html",
+    "summary": "The country seems to be tiring of the Trump era. Now what?"
+  },
+  {
+    "title": "Finishing School",
+    "link": "https://www.nytimes.com/2026/05/16/briefing/finishing-school.html",
+    "summary": "It’s graduation season, a time of aspiration and anxiety. Today is about the aspiration — the wisdom to be gleaned from great commencement addresses."
   },
   {
     "title": "Plot Was ‘Targeting Heart’ of New York’s Jewish Community, Tisch Says",
@@ -70,73 +100,8 @@
     "summary": "Police Commissioner Jessica S. Tisch spoke after prosecutors said they had arrested a man planning to attack a Manhattan synagogue."
   },
   {
-    "title": "Back From China, Trump Faces Decision on Whether to Resume Strikes on Iran",
-    "link": "https://www.nytimes.com/2026/05/15/us/politics/trump-iran.html",
-    "summary": "Top aides have drafted battle plans as peace negotiations have stalled."
-  },
-  {
-    "title": "Trump Administration Weighs $1.7 Billion Fund for Allies Investigated Under Biden",
-    "link": "https://www.nytimes.com/2026/05/15/us/politics/trump-allies-weaponization-fund.html",
-    "summary": "Critics denounced the highly unusual plan, which has yet to be finalized or approved, as a vast political slush fund financed by taxpayers."
-  },
-  {
-    "title": "Snorkeling at Pearl Harbor: Kash Patel’s Travels Add to Focus on Ethical Issues",
-    "link": "https://www.nytimes.com/2026/05/15/us/politics/patel-fbi-travel-snorkeling-pearl-harbor.html",
-    "summary": "The F.B.I. director continues to come under scrutiny for mixing government business with dates, vacation and leisure time."
-  },
-  {
     "title": "It’s Been a Wild Week in British Politics. What Happens Next?",
     "link": "https://www.nytimes.com/2026/05/16/world/europe/britain-politics-labour-whats-next.html",
     "summary": "Nobody has yet challenged Prime Minister Keir Starmer for the leadership, but his leading rival, Andy Burnham, finally has a route to Downing Street."
-  },
-  {
-    "title": "Tina Peters, Colorado Election Denier, Will Be Freed by Gov. Jared Polis",
-    "link": "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html",
-    "summary": "Gov. Jared Polis, a Democrat, commuted the sentence of Ms. Peters, a former county clerk serving a nine-year sentence for her role in a plot to examine voting machines after the 2020 election."
-  },
-  {
-    "title": "Israeli Strike Targeted Top Hamas Leader in Gaza, Officials Say",
-    "link": "https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html",
-    "summary": "Izz al-Din al-Haddad, the target of an Israeli strike in Gaza City, took over the group’s military wing in Gaza last year. Israeli officials said he was also an architect of the Oct. 7 attack."
-  },
-  {
-    "title": "Hospital Will Open First ‘Detransition’ Clinic in Legal Settlement With Texas",
-    "link": "https://www.nytimes.com/2026/05/15/us/detransition-transgender-clinic.html",
-    "summary": "Texas Children’s Hospital was under investigation for billing practices on gender-transition treatments. The settlement was expected to end that inquiry."
-  },
-  {
-    "title": "Why ‘Smart’ Products Have Started to Look Like the Dumb Choice",
-    "link": "https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html",
-    "summary": "How Wi-Fi-connecting, app-based tech led to a backlash in the name of simplicity."
-  },
-  {
-    "title": "The Damage of ‘Trump Math’ Is Adding Up",
-    "link": "https://www.nytimes.com/2026/05/15/opinion/trump-data-war-on-numbers.html",
-    "summary": "Authoritarians go after data. The president has already started."
-  },
-  {
-    "title": "Keir Starmer and the End of Britain’s Old Certainties",
-    "link": "https://www.nytimes.com/2026/05/15/opinion/keir-starmer-uk-brexit-politics.html",
-    "summary": "The decade since Brexit has been one long, painful process of trying — and failing — to make sense of this new reality."
-  },
-  {
-    "title": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices",
-    "link": "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html",
-    "summary": "The acquisition, Weights.gg, was a sort of social network for creating and sharing artificial intelligence algorithms."
-  },
-  {
-    "title": "NPR Podcast Host Ramtin Arablouei Exits Amid Workplace Inquiry",
-    "link": "https://www.nytimes.com/2026/05/15/business/media/npr-podcast-ramtin-arablouei-throughline.html",
-    "summary": "Ramtin Arablouei, a co-host of “Throughline,” left the network after an employee made a human resources complaint about his behavior."
-  },
-  {
-    "title": "Five Italians Die While Scuba Diving Deep Caves in the Maldives",
-    "link": "https://www.nytimes.com/2026/05/15/world/asia/maldives-diving-italians.html",
-    "summary": "The divers, including a marine scientist and her daughter, were part of a research trip and were exploring an underwater cave system when they failed to resurface."
-  },
-  {
-    "title": "How Fights Over West Bank Settlements Are Unfolding at N.Y.C. Synagogues",
-    "link": "https://www.nytimes.com/2026/05/15/nyregion/west-bank-settlements-protests-nyc.html",
-    "summary": "Demonstrations outside synagogues have turned real estate sales in Israel and in the occupied territories into a political issue in the city. The protesters’ tactics have disturbed some New Yorkers."
   }
 ]

@@ -1,28 +1,13 @@
 [
   {
-    "title": "5 Things to Know About Ed Gallrein, Republican House Candidate in Kentucky",
-    "link": "https://www.nytimes.com/2026/05/19/us/politics/ed-gallrein-kentucky-republican-house-election.html",
-    "summary": "Mr. Gallrein ran with President Trump’s support."
-  },
-  {
-    "title": "Republican Primary for Georgia Governor Will Go to a Runoff",
-    "link": "https://www.nytimes.com/2026/05/19/us/politics/georgia-governor-runoff-jones-jackson.html",
-    "summary": "The state’s lieutenant governor, Burt Jones, will face a billionaire health care executive, Rick Jackson, on June 16 to decide the party’s standard-bearer to succeed Gov. Brian Kemp."
-  },
-  {
-    "title": "Andy Barr Wins Republican Primary for McConnell’s Seat in Kentucky",
-    "link": "https://www.nytimes.com/2026/05/19/us/politics/andy-barr-republican-primary-mcconnell-kentucky.html",
-    "summary": "Mr. Barr, who serves in the House, consolidated support among Republicans in part by securing the endorsement of President Trump."
-  },
-  {
-    "title": "The I.R.S. Will Drop Audits of Trump and His Family",
-    "link": "https://www.nytimes.com/2026/05/19/briefing/irs-audits-trump-deal.html",
-    "summary": "Also, voters cast ballots in key primaries. Here’s the latest at the end of Tuesday."
-  },
-  {
     "title": "Early War Goal Was to Install Hard Line Former President as Iran’s Leader",
     "link": "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html",
     "summary": "An Israeli strike designed to free Mahmoud Ahmadinejad from house arrest in Tehran, U.S. officials said, was part of an effort to bring about regime change and put him in power."
+  },
+  {
+    "title": "How Iran Gained Leverage in the War",
+    "link": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triang.html",
+    "summary": "Outmatched militarily, Iran used “triangular coercion” by attacking Gulf states and closing the Strait of Hormuz. It points to a long-term U.S. vulnerability."
   },
   {
     "title": "Senate Votes to Take Up Measure to Force Trump to End Iran War",
@@ -33,6 +18,11 @@
     "title": "Bond Yields Hit Highest Level Since 2007 as Inflation Fears Set In",
     "link": "https://www.nytimes.com/2026/05/19/business/bond-market-iran-war-inflation.html",
     "summary": "The 30-year U.S. Treasury yield hasn’t been this high since the lead-up to the global financial crisis. Across Europe and Asia, yields are also elevated."
+  },
+  {
+    "title": "Trump Crushes Republican Dissent: 8 Takeaways From Tuesday’s Primaries",
+    "link": "https://www.nytimes.com/2026/05/19/us/politics/trump-massie-primary-takeaways.html",
+    "summary": "President Trump unseated Representative Thomas Massie, a top Republican critic in Congress, and also got his way in other primary contests."
   },
   {
     "title": "I.R.S. to Drop Audits of Trump and Family",
@@ -55,9 +45,9 @@
     "summary": "Democrats called the transportation secretary’s reality-show-like series unethical."
   },
   {
-    "title": "Sen. Gillibrand of New York Clashes With Sean Duffy Over Funding Freeze",
-    "link": "https://www.nytimes.com/2026/05/19/us/politics/gillibrand-duffy-ny-highway-funds.html",
-    "summary": "Senator Kirsten Gillibrand, Democrat of New York, criticized the transportation secretary, Sean Duffy, for posting a video that bragged about withholding money from the state."
+    "title": "ICE Makes Courthouse Arrest Despite Judge’s Order",
+    "link": "https://www.nytimes.com/2026/05/19/nyregion/ice-courthouse-arrest-nyc.html",
+    "summary": "A Honduran man was taken into custody on Tuesday in New York City, which his lawyers said violated a prohibition imposed a day earlier. Hours later, the man was released."
   },
   {
     "title": "The Best of ‘S.N.L.’ Season 51: Sensitive Strippers and Regretful Moms",
@@ -85,29 +75,14 @@
     "summary": "News that President Trump had snubbed Senator John Cornyn of Texas, the four-term incumbent, was met with shock, anger and fear that the G.O.P. could lose his seat."
   },
   {
-    "title": "How Trump Entrusted His World Cup to Another Giuliani",
-    "link": "https://www.nytimes.com/2026/05/19/us/politics/world-cup-trump-andrew-giuliani.html",
-    "summary": "Andrew Giuliani, the son of Rudy and a longtime Trump loyalist, is overseeing American hosting duties for the World Cup next month. It’s a big promotion."
+    "title": "Days After Hosting Trump, Xi Deepens Ties With Putin",
+    "link": "https://www.nytimes.com/2026/05/20/world/asia/china-putin-trump-russia-xi.html",
+    "summary": "Meeting President Vladimir V. Putin of Russia in Beijing, China’s leader called for a halt to fighting in the Middle East and took a veiled swipe at the United States."
   },
   {
-    "title": "‘The Future of Truth’ Contains Quotes Made Up by A.I.",
-    "link": "https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html",
-    "summary": "Steven Rosenbaum, author of “The Future of Truth,” said he had started his own investigation after The New York Times asked about the fake quotes."
-  },
-  {
-    "title": "Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation",
-    "link": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
-    "summary": "Meta told employees last month that it would carry out mass layoffs on May 20, as the Silicon Valley giant tries to transform into an A.I.-first company."
-  },
-  {
-    "title": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years",
-    "link": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html",
-    "summary": "Using a new Gemini A.I. model, the tech giant is overhauling its search box dimensions to answer longer queries, adding a video-generation tool and simplifying online shopping."
-  },
-  {
-    "title": "How Google Is Starting to Win the A.I. Race",
-    "link": "https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html",
-    "summary": "Despite its early stumbles, Google’s Gemini has leapfrogged ChatGPT in relevance and usefulness. Soon, it will be ubiquitous."
+    "title": "China Confirms It Will Buy 200 Boeing Planes",
+    "link": "https://www.nytimes.com/2026/05/20/business/china-boeing-planes-summit.html",
+    "summary": "The deal, which President Trump announced after last week’s summit, represents the largest single sale of the American company’s aircraft to Beijing in nearly a decade."
   },
   {
     "title": "Woman Dies After Falling Into Open Manhole in Manhattan",
@@ -125,9 +100,19 @@
     "summary": "In 1996, the giggling stuffed doll turned holiday shopping into chaos, a preview of every sneaker drop, PlayStation launch and Taylor Swift ticket rush to come."
   },
   {
+    "title": "I’m the Foreign Minister of Sweden. Don’t Overestimate Russia.",
+    "link": "https://www.nytimes.com/2026/05/20/opinion/sweden-intelligence-russia-economy.html",
+    "summary": "We can’t afford to underestimate Russia’s strength and its ability to harm Ukraine and NATO allies, but we must not overestimate it either."
+  },
+  {
     "title": "Kentucky Had an Easy Choice Between Massie and Trump",
     "link": "https://www.nytimes.com/2026/05/19/opinion/massie-primary-trump-republicans.html",
     "summary": "The president wants a loyal Republican Party — even if the country might not."
+  },
+  {
+    "title": "Late Night Could Set a Clock by Trump’s Iran Attack Delays",
+    "link": "https://www.nytimes.com/2026/05/20/arts/television/late-night-trump-iran-delays.html",
+    "summary": "Jimmy Kimmel noted that the president backs down on his own deadlines to bomb Iran “every Tuesday. It’s like a new episode of ‘NCIS.’”"
   },
   {
     "title": "Minnesota Becomes First State to Ban Prediction Markets",

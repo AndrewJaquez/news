@@ -1,23 +1,73 @@
 [
   {
-    "title": "Ken Paxton Ousts John Cornyn, Solidifying Trump’s Grip on Republican Party Voters",
-    "link": "https://www.nytimes.com/2026/05/26/us/politics/texas-republican-senate-cornyn-paxton.html",
-    "summary": "Ken Paxton, the Texas attorney general, overcame scandals and a significant fund-raising disadvantage to win. His victory sets up the general-election clash that Democrats had hoped for."
+    "title": "Cornyn’s Defeat Fuels Tensions With President Trump in Senate G.O.P.",
+    "link": "https://www.nytimes.com/2026/05/27/us/trump-cornyn-paxton-senate-republicans.html",
+    "summary": "Senators are angry President Trump turned on a respected former leader whom they consider a loyal Republican. Now Mr. Trump faces resistance from his own embittered ranks."
   },
   {
-    "title": "Cornyn Crushed: 7 Takeaways From Tuesday’s Runoffs in Texas",
-    "link": "https://www.nytimes.com/2026/05/26/us/politics/texas-runoff-senate-cornyn-paxton.html",
-    "summary": "President Trump’s record of ousting those he sees as disloyal continued apace with Senator John Cornyn’s defeat. Whether his relationship with Senate Republicans can be repaired is another question."
+    "title": "Paxton’s Texas Victory Opens a New Front in the Battle for the Senate",
+    "link": "https://www.nytimes.com/2026/05/27/us/politics/paxton-talarico-texas-senate-race.html",
+    "summary": "Many Democrats and some Republicans said the scandal-plagued Ken Paxton’s victory could turn Texas into a battleground state that will determine Senate control."
   },
   {
-    "title": "Colin Allred, Former Lawmaker, Wins Democratic Runoff for House Seat",
-    "link": "https://www.nytimes.com/2026/05/26/us/politics/texas-democratic-primary-allred-johnson.html",
-    "summary": "Mr. Allred beat the incumbent, Representative Julie Johnson, and is now favored to win the general election in a heavily Democratic Dallas-based district."
+    "title": "A Blue Texas May Be More Than a Dream for Democrats",
+    "link": "https://www.nytimes.com/2026/05/27/upshot/paxton-talarico-texas-polling.html",
+    "summary": "Ken Paxton’s victory for the Republican nomination and a big shift among Hispanic voters have put a Senate seat within reach."
   },
   {
-    "title": "5 Things to Know About Ken Paxton, the Republican Senate Nominee in Texas",
-    "link": "https://www.nytimes.com/2026/05/26/us/politics/ken-paxton-republican-senate-candidate.html",
-    "summary": "With the support of President Trump, Mr. Paxton unseated Senator John Cornyn in a high-profile Republican runoff."
+    "title": "Ken Paxton Victory Tests Whether Texas Republicans Can Reunite for November",
+    "link": "https://www.nytimes.com/2026/05/27/us/texas-republicans-ken-paxton-primary-aftermath.html",
+    "summary": "Republican voters made a familiar bet, that Texas is conservative enough that any Republican, even the most conservative, will beat a Democrat."
+  },
+  {
+    "title": "A MAGA Victory in Texas, and the Trump Administration’s New Ebola Plan",
+    "link": "https://www.nytimes.com/2026/05/27/podcasts/the-headlines/texas-election-ebola-plan.html",
+    "summary": "Plus, Iran begins lifting an internet blackout."
+  },
+  {
+    "title": "Oil Prices Fall as Uneasy Truce Holds Between U.S. and Iran",
+    "link": "https://www.nytimes.com/2026/05/27/business/oil-gas-price-iran.html",
+    "summary": "Traders are weighing signals that a more lasting agreement may be within reach against recent flare-ups in hostilities."
+  },
+  {
+    "title": "After 88 Days of Censored News, TV and Chat, Iranians Are Coming Back Online",
+    "link": "https://www.nytimes.com/2026/05/27/world/europe/iran-internet.html",
+    "summary": "The government is letting people connect with the world after a near-total internet shutdown. But not everyone has access, and those who do wonder how long it will last."
+  },
+  {
+    "title": "A Quiet Pacific Village Becomes China’s Security Testing Ground",
+    "link": "https://www.nytimes.com/2026/05/27/world/asia/china-solomons-pacific-security-threats.html",
+    "summary": "When a remote Pacific village asked for help with rowdy youth, the Chinese police arrived with a surveillance system. Then came the backlash."
+  },
+  {
+    "title": "Cubans Deported to Mexico Live a Precarious Existence, Report Finds",
+    "link": "https://www.nytimes.com/2026/05/27/us/cuba-deport-mexico.html",
+    "summary": "A Human Rights Watch report found that many Cubans deported to Mexico by the Trump administration are living in an “indefinite legal limbo” and struggling to get by."
+  },
+  {
+    "title": "Two of America’s Thorniest Political Issues Are Dividing an Arizona Town",
+    "link": "https://www.nytimes.com/2026/05/27/us/politics/marana-arizona-data-center-ice-detention.html",
+    "summary": "Marana, Ariz., is used to placid local politics, but the town, in a congressional swing district held by Juan Ciscomani, has been convulsed by two national issues, A.I. and immigration detention."
+  },
+  {
+    "title": "The Battle Over Trump’s Immigration Crackdown Comes to a Newark ICE Facility Parking Lot",
+    "link": "https://www.nytimes.com/2026/05/27/nyregion/delaney-hall-nj-detention-center-protests.html",
+    "summary": "For five days, activists have gathered outside a detention center in New Jersey to denounce conditions inside. Federal officials have rejected those concerns."
+  },
+  {
+    "title": "The Best Restaurants in San Francisco",
+    "link": "https://www.nytimes.com/article/best-san-francisco-restaurants.html",
+    "summary": "From world-class Korean barbecue to Mission-style burritos to quintessential California cuisine, here are our current favorites."
+  },
+  {
+    "title": "The Best Restaurants in Atlanta",
+    "link": "https://www.nytimes.com/article/best-restaurants-in-atlanta.html",
+    "summary": "There’s no shortage of Southern virtuosity in the 404, but don’t miss the outstanding Indian, Italian and Thai cooking — or the amazing wings from an unexpected spot."
+  },
+  {
+    "title": "The Best Restaurants in Portland, Ore.",
+    "link": "https://www.nytimes.com/article/best-portland-oregon-restaurants.html",
+    "summary": "The dining capital of the Pacific Northwest remains one of America’s great culinary cities."
   },
   {
     "title": "Trump Administration to Send Americans Exposed to Ebola to Kenya",
@@ -25,34 +75,24 @@
     "summary": "In past outbreaks, Americans exposed to the virus were sent home to be treated in state-of-the-art facilities. The Trump administration has already flown some U.S. citizens to Europe for treatment."
   },
   {
-    "title": "Trump Administration Wants Employees to Sign NDAs",
-    "link": "https://www.nytimes.com/2026/05/26/us/politics/trump-administration-nondisclosure-agreements.html",
-    "summary": "Lawyers representing federal workers said the move is intended to chill speech and could be challenged on First Amendment grounds."
+    "title": "Crypto Firms and Automakers Are Looking to Open Banks, at Trump’s Urging",
+    "link": "https://www.nytimes.com/2026/05/27/business/bank-charters-fintech-crypto.html",
+    "summary": "Urged on by the White House and a reduction in regulatory oversight, crypto companies and automakers are among those that have applied for banking charters."
   },
   {
-    "title": "UFC Unveils Plans for White House Fight on Trump’s Birthday",
-    "link": "https://www.nytimes.com/2026/05/26/us/politics/ufc-fight-trump-white-house.html",
-    "summary": "The Ultimate Fighting Championship bout is scheduled for June 14, President Trump’s 80th birthday."
+    "title": "The $400 Million Showdown Between a Billionaire and a California Mayor",
+    "link": "https://www.nytimes.com/2026/05/27/arts/music/inglewood-hollywood-park-sofi-stadium.html",
+    "summary": "The owner of the Los Angeles Rams and the City of Inglewood are in a dispute over Hollywood Park and SoFi Stadium, which is about to host World Cup matches."
   },
   {
-    "title": "Robert F. Kennedy Jr. Keeps Picking Up Snakes. Is He Doing It Right?",
-    "link": "https://www.nytimes.com/2026/05/26/us/rfk-jr-snakes-video-safety.html",
-    "summary": "The health secretary wrangled two nonvenomous snakes while visiting Florida in a video that drew widespread attention."
+    "title": "The Viruses Causing New Outbreaks Are Much Less Familiar to Science",
+    "link": "https://www.nytimes.com/2026/05/27/science/ebola-hantavirus-species-strains.html",
+    "summary": "The types of Ebola and hantavirus panicking officials are very different from the species identified decades ago, raising new questions about how to respond."
   },
   {
-    "title": "Judge Allows Florida House Map That Could Add 4 Republican Seats",
-    "link": "https://www.nytimes.com/2026/05/26/us/florida-congress-map-redistricting.html",
-    "summary": "The plaintiffs had sought a temporary restraining order, arguing that the map violated a state ban on partisan gerrymandering that voters passed in 2010."
-  },
-  {
-    "title": "South Carolina Redistricting: Senate Passes on New Map, Defying Trump",
-    "link": "https://www.nytimes.com/2026/05/26/us/south-carolina-redistricting-map.html",
-    "summary": "With early voting already underway, it became clear there was no longer enough support to use new lines before the November midterm elections."
-  },
-  {
-    "title": "Court Rejects Alabama House Map, Calling It Unfair to Black Voters",
-    "link": "https://www.nytimes.com/2026/05/26/us/politics/alabama-congress-map-redistricting.html",
-    "summary": "Alabama is likely to appeal the ruling, which stops an effort to use a new congressional map that would likely cost Democrats a majority-Black district."
+    "title": "How Delta Steered Around Airline Industry Chaos",
+    "link": "https://www.nytimes.com/2026/05/26/business/delta-airlines-ed-bastian.html",
+    "summary": "The carrier has become the country’s most profitable by catering to affluent travelers, but it is facing stiffer competition from United."
   },
   {
     "title": "Xi Jinping Quit Smoking. China Still Cannot.",
@@ -60,59 +100,29 @@
     "summary": "China’s tobacco monopoly has become so financially vital to the government that even its powerful leader has failed to curb the country’s smoking habit."
   },
   {
-    "title": "At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology",
-    "link": "https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html",
-    "summary": "Pope Leo XIV’s spiritual message on artificial intelligence arrived as Silicon Valley’s A.I. enthusiasts pursue their own spirituality through technology."
+    "title": "Why Is TikTok in This Book from 2006?",
+    "link": "https://www.nytimes.com/2026/05/27/books/why-is-tiktok-in-this-book-from-2006.html",
+    "summary": "For decades, publishers have swapped out cultural references in new editions of books to appeal to younger readers. Fans aren’t always thrilled."
   },
   {
-    "title": "Supreme Court Reverses Ruling in Immigration Judges’ Free Speech Lawsuit",
-    "link": "https://www.nytimes.com/2026/05/26/us/politics/supreme-court-immigration-judges.html",
-    "summary": "A group of immigration judges in 2020 challenged work-related restrictions on their public speaking engagements, saying they violated their free speech rights."
+    "title": "Hunting a ‘Frankenfish’ With a Bow and Arrow",
+    "link": "https://www.nytimes.com/2026/05/27/climate/hunting-a-frankenfish-with-a-bow-and-arrow.html",
+    "summary": "Invasive snakeheads are proliferating in waterways from New York to Florida. Wildlife officials around the Chesapeake Bay are recommending a solution: high-powered compound bows."
   },
   {
-    "title": "Supreme Court Rejects Lawsuit Over Commercial Driver’s Licenses for Migrants",
-    "link": "https://www.nytimes.com/2026/05/26/us/politics/supreme-court-drivers-licenses-migrants.html",
-    "summary": "Florida officials had asked the justices to hear a lawsuit accusing California and Washington of improperly granting licenses to an immigrant accused in a fatal crash."
+    "title": "Writing Is Fundamental to How We Think",
+    "link": "https://www.nytimes.com/2026/05/27/opinion/writing-creativity-ai.html",
+    "summary": "A.I. can be a crutch that hurts our ability to think creatively."
   },
   {
-    "title": "Donald E. Newhouse, Low-Profile Heir to a Media Empire, Dies at 96",
-    "link": "https://www.nytimes.com/2026/05/26/business/media/donald-e-newhouse-dead.html",
-    "summary": "He ran the newspaper division of Advance Publications, while his older brother, Si, ran the Condé Nast magazine operation."
+    "title": "Time Gave Me Back What Prison Took Away",
+    "link": "https://www.nytimes.com/2026/05/27/opinion/america-incarceration-prison-time-film.html",
+    "summary": "A formerly incarcerated writer reflects on how the prison system didn’t foster change, but befriending time did."
   },
   {
-    "title": "Trump May Appear at N.B.A. Finals in New York",
-    "link": "https://www.nytimes.com/2026/05/26/us/politics/trump-nba-finals.html",
-    "summary": "President Trump is said to be considering the appearance after his hometown team, the Knicks, clinched a championship spot."
-  },
-  {
-    "title": "Minneapolis Police Chief Brian O’Hara Resigns After Investigation",
-    "link": "https://www.nytimes.com/2026/05/26/us/minneapolis-police-chief-resigns.html",
-    "summary": "The chief, Brian O’Hara, began leading the department in 2022 as it reeled in the aftermath of the police killing of George Floyd."
-  },
-  {
-    "title": "Nigel Farage’s Far-Right Party Is Now Central to British Politics",
-    "link": "https://www.nytimes.com/2026/05/27/world/europe/britain-reform-party-farage.html",
-    "summary": "Nigel Farage’s anti-immigrant, populist agenda has helped his party, Reform U.K., emerge from the fringe of politics in Britain. But it faces an uphill climb to win power."
-  },
-  {
-    "title": "High-Level British Spy Warns of Expanding Russia Threat",
-    "link": "https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html",
-    "summary": "The director of Britain’s electronic surveillance agency warns that Russia is only getting more brazen as battlefield losses in Ukraine mount."
-  },
-  {
-    "title": "They’ve Heard the Warnings. Gen Z Is Tanning Anyway.",
-    "link": "https://www.nytimes.com/2026/05/25/well/gen-z-sun-tanning-dermatologists.html",
-    "summary": "Dermatologists are flummoxed."
-  },
-  {
-    "title": "What Ken Paxton’s Win Means for James Talarico",
-    "link": "https://www.nytimes.com/2026/05/26/opinion/paxton-talarico-texas-senate.html",
-    "summary": "The Texas senate race will come down to the Democratic candidate’s strengths — and the Republican’s weaknesses."
-  },
-  {
-    "title": "Yuval Noah Harari on Donald Trump’s Core Delusion",
-    "link": "https://www.nytimes.com/2026/05/26/opinion/ezra-klein-podcast-yuval-noah-harari.html",
-    "summary": "The best-selling author of “Sapiens” and “Nexus” discusses the core delusions deranging our politics."
+    "title": "War. Heat. Cigarettes.",
+    "link": "https://www.nytimes.com/2026/05/27/briefing/war-heat-cigarettes.html",
+    "summary": "Updates on stories from around the world."
   },
   {
     "title": "Jimmy Kimmel Slams Trump for Missing His Son’s Wedding",
@@ -120,23 +130,23 @@
     "summary": "“It was a small ceremony with about 40 guests, none of whom were his father,” the late-night host said of Donald Trump Jr.’s wedding in the Bahamas over the weekend."
   },
   {
-    "title": "Evacuation Orders Lifted as Southern California Chemical Tank Cools",
-    "link": "https://www.nytimes.com/2026/05/26/us/chemical-tank-orange-county-california.html",
-    "summary": "The risk of an explosion or spill has fallen significantly, the authorities said late Tuesday, and all evacuated residents can now go home. Some have begun to ask who should be held accountable."
+    "title": "Teachers Union Urges Schools to Curb A.I. Chatbots and Screen Time",
+    "link": "https://www.nytimes.com/2026/05/27/technology/ai-screens-schools-weingarten.html",
+    "summary": "The American Federation of Teachers recommended “no screens” at all for those in second grade or younger, and no A.I. chatbots for students in elementary school."
   },
   {
-    "title": "Scientists Ditched a Scary Climate Scenario. What Now?",
-    "link": "https://www.nytimes.com/2026/05/26/climate/emissions-worst-case-scenario-rcp.html",
-    "summary": "While global warming is still a threat, the decision to back away from a worst-case outlook raises questions about whether some risks have been overstated."
+    "title": "Go Ask Alice Why Tech Start-Ups Are Spending Big on Hype Videos",
+    "link": "https://www.nytimes.com/2026/05/27/technology/ai-startups-videos-marketing.html",
+    "summary": "A Mad Hatter and a giant rabbit sit around a table discussing an A.I. start-up. This is normal behavior around the Bay Area these days."
   },
   {
-    "title": "A Fiery Visitor From Space Photo-Bombs an Erupting Volcano",
-    "link": "https://www.nytimes.com/2026/05/26/science/volcano-eruption-fireball-philippines.html",
-    "summary": "For a split second, a fireball outshone the rivers of molten lava flowing from the Philippines’ most active volcano."
+    "title": "Minneapolis Police Chief Brian O’Hara Resigns After Investigation",
+    "link": "https://www.nytimes.com/2026/05/26/us/minneapolis-police-chief-resigns.html",
+    "summary": "The chief, Brian O’Hara, began leading the department in 2022 as it reeled in the aftermath of the police killing of George Floyd."
   },
   {
-    "title": "Park Slope Food Co-op Votes to Boycott Israeli Products",
-    "link": "https://www.nytimes.com/2026/05/26/nyregion/park-slope-food-coop-boycott.html",
-    "summary": "In a three-hour meeting, members of the grocery cooperative voted by a margin of more than 2 to 1 in favor of a boycott."
+    "title": "For Years, Democrats Refused to Primary Him. This Year Is Different.",
+    "link": "https://www.nytimes.com/2026/05/27/nyregion/ny-comptroller-dinapoli-primary-challenge.html",
+    "summary": "Thomas DiNapoli, the state comptroller in New York since 2007, now faces his first primary challenge, as two Democrats hope to capitalize on anti-incumbent fervor."
   }
 ]

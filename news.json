@@ -1,18 +1,33 @@
 [
   {
-    "title": "The Wars in Ukraine and Iran Are More Alike Than You May Think",
-    "link": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html",
-    "summary": "Aspects such as drone technology and diplomacy show how the wars intersect on the battlefield and in global alignments, providing a model for future conflicts."
+    "title": "5 Things to Know About Ken Paxton, the Republican Senate Nominee in Texas",
+    "link": "https://www.nytimes.com/2026/05/26/us/politics/ken-paxton-republican-senate-candidate.html",
+    "summary": "With the support of President Trump, Mr. Paxton unseated Senator John Cornyn in a high-profile Republican runoff."
   },
   {
-    "title": "Iran Begins Lifting Monthslong Internet Blackout, Officials Say",
-    "link": "https://www.nytimes.com/2026/05/26/world/middleeast/iran-internet-blackout-lifting.html",
-    "summary": "Organizations that track online traffic confirmed an uptick in activity on Tuesday, as Iranians reconnected to the global internet after a government-imposed shutdown."
+    "title": "Christian Menefee Defeats Al Green in Texas Democratic House Runoff",
+    "link": "https://www.nytimes.com/2026/05/26/us/politics/texas-democratic-primary-menefee-green.html",
+    "summary": "The showdown, manufactured by a Republican gerrymander, created one of many generational clashes consuming Democrats this cycle."
   },
   {
-    "title": "U.S. Aims to Give Cold War Plutonium to Start-Ups for Nuclear Fuel",
-    "link": "https://www.nytimes.com/2026/05/26/climate/plutonium-nuclear-weapons-fuel.html",
-    "summary": "Companies say it’s a better way to dispose of the Cold War-era material — and fix a shortage of nuclear fuel. But the plan has also faced criticism from nonproliferation experts."
+    "title": "As Republicans Battled in the Runoff, Talarico Sought to Unify Democrats",
+    "link": "https://www.nytimes.com/2026/05/26/us/politics/talarico-texas-democrats.html",
+    "summary": "James Talarico, the Democratic nominee for U.S. Senate, has been raising money and looking to unite his party for the general election."
+  },
+  {
+    "title": "Texans Head to the Polls, Again",
+    "link": "https://www.nytimes.com/2026/05/26/briefing/texas-primaries-iran.html",
+    "summary": "Plus, Ferrari’s first fully electric car. Here’s the latest at the end of Tuesday."
+  },
+  {
+    "title": "Trump Administration to Send Americans Exposed to Ebola to Kenya",
+    "link": "https://www.nytimes.com/2026/05/26/us/politics/trump-ebola-kenya.html",
+    "summary": "In past outbreaks, Americans exposed to the virus were sent home to be treated in state-of-the-art facilities. The Trump administration has already flown some U.S. citizens to Europe for treatment."
+  },
+  {
+    "title": "Trump Administration Wants Employees to Sign NDAs",
+    "link": "https://www.nytimes.com/2026/05/26/us/politics/trump-administration-nondisclosure-agreements.html",
+    "summary": "Lawyers representing federal workers said the move is intended to chill speech and could be challenged on First Amendment grounds."
   },
   {
     "title": "UFC Unveils Plans for White House Fight on Trump’s Birthday",
@@ -20,39 +35,9 @@
     "summary": "The Ultimate Fighting Championship bout is scheduled for June 14, President Trump’s 80th birthday."
   },
   {
-    "title": "As Trump Politicizes Justice Dept., Prosecutors Struggle With Grand Juries",
-    "link": "https://www.nytimes.com/2026/05/26/us/politics/trump-justice-department-grand-juries.html",
-    "summary": "Judges and grand juries have increasingly lost faith in the Justice Department as the president uses it to reward his friends and go after his opponents."
-  },
-  {
-    "title": "Trump Declares Himself in Good Health After Physical Exam at Walter Reed",
-    "link": "https://www.nytimes.com/2026/05/26/us/politics/trump-physical-walter-reed.html",
-    "summary": "President Trump, who will turn 80 next month, did not give details on the exam."
-  },
-  {
-    "title": "At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology",
-    "link": "https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html",
-    "summary": "Pope Leo XIV’s spiritual message on artificial intelligence arrived as Silicon Valley’s A.I. enthusiasts pursue their own spirituality through technology."
-  },
-  {
-    "title": "To Understand Pope Leo’s Efforts on A.I., Look at the Man Shaking His Hand",
-    "link": "https://www.nytimes.com/2026/05/26/us/pope-leo-ai-anthropic.html",
-    "summary": "The co-founder of a prominent A.I. company was nearby as the pope implored A.I. leaders to slow down and consider the technology’s possible perils."
-  },
-  {
-    "title": "Scientists Ditched a Scary Climate Scenario. What Now?",
-    "link": "https://www.nytimes.com/2026/05/26/climate/emissions-worst-case-scenario-rcp.html",
-    "summary": "While global warming is still a threat, the decision to back away from a worst-case outlook raises questions about whether some risks have been overstated."
-  },
-  {
-    "title": "A Spring Heat Wave is Breaking Records in the U.K., Spain and France",
-    "link": "https://www.nytimes.com/2026/05/26/world/europe/europe-heatwave-uk-spain-france.html",
-    "summary": "Authorities in Britain and France warned that “unprecedented” temperatures — at a time when few expected them — could persist. Climate change has made heat waves more frequent and more intense."
-  },
-  {
-    "title": "The Homesteading Mother of 6 Taking On Big Tech",
-    "link": "https://www.nytimes.com/2026/05/26/us/data-centers-kassi-solberg.html",
-    "summary": "Kassi Solberg has concerns about a proposed data center complex, the size of 3,800 football fields, near her home. Trust us, the developer says."
+    "title": "Judge Allows Florida House Map That Could Add 4 Republican Seats",
+    "link": "https://www.nytimes.com/2026/05/26/us/florida-congress-map-redistricting.html",
+    "summary": "The plaintiffs had sought a temporary restraining order, arguing that the map violated a state ban on partisan gerrymandering that voters passed in 2010."
   },
   {
     "title": "South Carolina Redistricting: Senate Passes on New Map, Defying Trump",
@@ -65,9 +50,24 @@
     "summary": "Alabama is likely to appeal the ruling, which stops an effort to use a new congressional map that would likely cost Democrats a majority-Black district."
   },
   {
-    "title": "G.D.P. Is a Flawed Measure of Prosperity. Alternatives Are On the Way.",
-    "link": "https://www.nytimes.com/2026/05/26/business/economy/gdp-united-nations-prosperity-measures.html",
-    "summary": "The United Nations has a new plan for weighing economic gains alongside health and environmental progress. But consensus is elusive."
+    "title": "You Can’t Stop This Data Center, a Mom Was Told. She Won’t Quit.",
+    "link": "https://www.nytimes.com/2026/05/26/us/data-centers-kassi-solberg.html",
+    "summary": "Kassi Solberg has concerns about a proposed complex, the size of 3,800 football fields, near her home. Trust us, the developer says."
+  },
+  {
+    "title": "Scientists Ditched a Scary Climate Scenario. What Now?",
+    "link": "https://www.nytimes.com/2026/05/26/climate/emissions-worst-case-scenario-rcp.html",
+    "summary": "While global warming is still a threat, the decision to back away from a worst-case outlook raises questions about whether some risks have been overstated."
+  },
+  {
+    "title": "A Spring Heat Wave Is Breaking Records in the U.K., Spain and France",
+    "link": "https://www.nytimes.com/2026/05/26/world/europe/europe-heatwave-uk-spain-france.html",
+    "summary": "Authorities in Britain and France warned that “unprecedented” temperatures — at a time when few expected them — could persist. Climate change has made heat waves more frequent and more intense."
+  },
+  {
+    "title": "At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology",
+    "link": "https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html",
+    "summary": "Pope Leo XIV’s spiritual message on artificial intelligence arrived as Silicon Valley’s A.I. enthusiasts pursue their own spirituality through technology."
   },
   {
     "title": "Supreme Court Reverses Ruling in Immigration Judges’ Free Speech Lawsuit",
@@ -80,29 +80,24 @@
     "summary": "Florida officials had asked the justices to hear a lawsuit accusing California and Washington of improperly granting licenses to an immigrant accused in a fatal crash."
   },
   {
-    "title": "Knicks Fans Celebrate the Team’s First NBA Finals Appearance Since 1999",
-    "link": "https://www.nytimes.com/2026/05/26/nyregion/knicks-eastern-conference-nyc.html",
-    "summary": "After a 27-year drought, the New York Knicks are headed to the N.B.A. finals. Fans flooded the streets of the city in celebration."
+    "title": "Celebrity Assistants Exist to Indulge Their Bosses, but When Does Duty Cross a Line?",
+    "link": "https://www.nytimes.com/2026/05/26/arts/matthew-perry-personal-assistant-ketamine.html",
+    "summary": "Matthew Perry’s assistant injected the ketamine that killed his employer. His sentencing has some in the demanding profession considering the power dynamics involved."
   },
   {
-    "title": "‘Bing Bong!’ The Knicks’ Watch Party Outside the Garden Is Dead.",
-    "link": "https://www.nytimes.com/2026/05/25/nyregion/knicks-watch-party-garden.html",
-    "summary": "The police say that celebrations outside of Madison Square Garden have gotten out of control. Fans and insiders say the chaos has been driven by social media influencers."
+    "title": "Donald E. Newhouse, Low-Profile Heir to a Media Empire, Dies at 96",
+    "link": "https://www.nytimes.com/2026/05/26/business/media/donald-e-newhouse-dead.html",
+    "summary": "He ran the newspaper division of Advance Publications, while his older brother, Si, ran the Condé Nast magazine operation."
   },
   {
-    "title": "SpaceX IPO Filing Reveals Favorable Terms for Elon Musk",
-    "link": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
-    "summary": "The ways it set up its board and Mr. Musk’s pay appear to benefit him at the expense of other shareholders, corporate governance experts said."
+    "title": "Trump May Appear at N.B.A. Finals in New York",
+    "link": "https://www.nytimes.com/2026/05/26/us/politics/trump-nba-finals.html",
+    "summary": "President Trump is said to be considering the appearance after his hometown team, the Knicks, clinched a championship spot."
   },
   {
-    "title": "Canada Strikes Landmark Deal to Export Liquefied Natural Gas to Germany",
-    "link": "https://www.nytimes.com/2026/05/26/world/canada/canada-germany-natural-gas-lng.html",
-    "summary": "The agreement is important for both nations, as Canada seeks new markets away from the United States and Germany tries to diversify its energy supply."
-  },
-  {
-    "title": "The Average Guys Outsmarting Wall Street on Prediction Markets",
-    "link": "https://www.nytimes.com/2026/05/26/magazine/polymarket-prediction-wall-street.html",
-    "summary": "How prediction-market ‘sharps’ have made millions wagering on everything from war to Rotten Tomatoes."
+    "title": "Minneapolis Police Chief Brian O’Hara Resigns After Investigation",
+    "link": "https://www.nytimes.com/2026/05/26/us/minneapolis-police-chief-resigns.html",
+    "summary": "The chief, Brian O’Hara, began leading the department in 2022 as it reeled in the aftermath of the police killing of George Floyd."
   },
   {
     "title": "They’ve Heard the Warnings. Gen Z Is Tanning Anyway.",
@@ -110,23 +105,33 @@
     "summary": "Dermatologists are flummoxed."
   },
   {
-    "title": "Deal or No Deal With Iran",
-    "link": "https://www.nytimes.com/2026/05/26/opinion/iran-deal-truce-trump.html",
-    "summary": "A deal to end the current blockade is merely an enticement for the next blockade and the one after that."
+    "title": "What Ken Paxton’s Win Means for James Talarico",
+    "link": "https://www.nytimes.com/2026/05/26/opinion/paxton-talarico-texas-senate.html",
+    "summary": "The Texas senate race will come down to the Democratic candidate’s strengths — and the Republican’s weaknesses."
   },
   {
-    "title": "Deaths Are Reported After Chemical Tank Ruptures at Washington State Paper Mill",
-    "link": "https://www.nytimes.com/2026/05/26/us/chemical-explosion-nippon-longview-washington.html",
-    "summary": "An unknown number of injuries were also reported at the Nippon Dynawave Packaging Company in Longview, Wash., the authorities said."
+    "title": "Yuval Noah Harari on Donald Trump’s Core Delusion",
+    "link": "https://www.nytimes.com/2026/05/26/opinion/ezra-klein-podcast-yuval-noah-harari.html",
+    "summary": "The best-selling author of “Sapiens” and “Nexus” discusses the core delusions deranging our politics."
   },
   {
-    "title": "A Powerful H.I.V. Drug Lands in Zambia. But Will It Reach Those Who Need It?",
-    "link": "https://www.nytimes.com/2026/05/26/health/lenacapavir-hiv-zambia.html",
-    "summary": "Lenacapavir, which protects people from H.I.V. infection with twice-yearly shots, is arriving in a country where the health system has been hollowed out by American aid cuts."
+    "title": "High-Level British Spy Warns of Expanding Russia Threat",
+    "link": "https://www.nytimes.com/2026/05/26/world/europe/britain-gchq-spying-russia.html",
+    "summary": "The director of Britain’s electronic surveillance agency warns that Russia is only getting more brazen as battlefield losses in Ukraine mount."
   },
   {
-    "title": "BP Ousts Chairman, Citing ‘Serious Concerns’ Over Conduct",
-    "link": "https://www.nytimes.com/2026/05/26/business/bp-chairman-manifold.html",
-    "summary": "The British oil group said that Albert Manifold had been removed, after concerns were raised “related to important governance standards, oversight and conduct.”"
+    "title": "Canada Strikes Landmark Deal to Export Liquefied Natural Gas to Germany",
+    "link": "https://www.nytimes.com/2026/05/26/world/canada/canada-germany-natural-gas-lng.html",
+    "summary": "The agreement is important for both nations, as Canada seeks new markets away from the United States and Germany tries to diversify its energy supply."
+  },
+  {
+    "title": "Chemical Tank Cools, But 16,000 in Garden Grove Can’t Go Home Yet",
+    "link": "https://www.nytimes.com/2026/05/26/us/chemical-tank-orange-county-california.html",
+    "summary": "The risk of an explosion or spill has fallen, the authorities said, but residents closest to the plant cannot yet return. Some have begun to ask who should be held accountable."
+  },
+  {
+    "title": "A Fiery Visitor From Space Photo-Bombs an Erupting Volcano",
+    "link": "https://www.nytimes.com/2026/05/26/science/volcano-eruption-fireball-philippines.html",
+    "summary": "For a split second, a fireball outshone the rivers of molten lava flowing from the Philippines’ most active volcano."
   }
 ]

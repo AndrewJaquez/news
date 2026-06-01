@@ -1,15 +1,5 @@
 [
   {
-    "title": "How Lebanon’s Best Chance to Disarm Hezbollah Failed",
-    "link": "https://www.nytimes.com/2026/06/01/world/middleeast/lebanon-hezbollah-disarm.html",
-    "summary": "Lebanon’s government has long wanted the powerful militia to give up its weapons. Before the Iran war began, there were signs of progress toward that goal."
-  },
-  {
-    "title": "Netanyahu Orders Israeli Military to Attack Beirut Suburbs",
-    "link": "https://www.nytimes.com/2026/06/01/world/middleeast/netanyahu-israel-attack-beirut-lebanon.html",
-    "summary": "Thousands fled the southern suburbs of Lebanon’s capital after Prime Minister Benjamin Netanyahu of Israel announced the widening of the military campaign against Hezbollah."
-  },
-  {
     "title": "Losing Trust in Justice Dept., Judges Call Out Its Lawyers’ Behavior",
     "link": "https://www.nytimes.com/2026/06/01/us/justice-department-lawyers-judges-trump.html",
     "summary": "The federal courts have long assumed that the government’s lawyers are trustworthy. Now judges across the country are criticizing their lack of candor."
@@ -20,24 +10,39 @@
     "summary": "The defense secretary’s decision to block the officers’ promotions appears driven by his anti-diversity stance rather than based on merit."
   },
   {
-    "title": "They Voted for Trump. Here’s How They Feel About High Gas Prices.",
-    "link": "https://www.nytimes.com/2026/06/01/us/politics/trump-gas-prices-iran-war.html",
-    "summary": "With the midterm elections five months away, many Americans who backed President Trump are wrestling with pain at the pump and the war in Iran."
+    "title": "Appeals Court Says 28 Transgender Troops Who Sued Can Remain in Military",
+    "link": "https://www.nytimes.com/2026/06/01/us/transgender-troops-appeals-court-ruling.html",
+    "summary": "The ruling gives a temporary reprieve to a group of service members while their lawsuit proceeds. The plaintiffs plan to ask the court to extend the ruling to all transgender troops."
+  },
+  {
+    "title": "Oil Prices Jump as Middle East Tensions Build",
+    "link": "https://www.nytimes.com/2026/06/01/business/energy-environment/iran-war-oil-prices.html",
+    "summary": "Some analysts said the main international oil price, which was up 6 percent on Monday, could climb much higher in the coming weeks if the Strait of Hormuz doesn’t reopen."
   },
   {
     "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O.",
     "link": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
-    "summary": "The artificial intelligence company, which is racing rival OpenAI to the stock market, has seen explosive growth over the last year thanks largely to technology that can automatically write computer code."
+    "summary": "The artificial intelligence company, which is racing OpenAI to the stock market, has seen explosive growth over the last year thanks largely to technology that can automatically write computer code."
   },
   {
-    "title": "What It’s Like to Be a Student at the First A.I.-Powered University",
+    "title": "California’s Public Universities Went All in on A.I. Now They’re Tearing Themselves Apart.",
     "link": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
-    "summary": "California’s public university system spent $16.9 million on A.I. The result has been chaos."
+    "summary": "California’s public universities spent $16.9 million on A.I. during a financial crisis, and the result has been chaos."
   },
   {
-    "title": "Florida Sues OpenAI Over Chatbot Safety Concerns",
-    "link": "https://www.nytimes.com/2026/06/01/technology/florida-sues-openai-chatgpt-safety.html",
-    "summary": "The state became the first to sue the ChatGPT maker over claims that its technology posed a risk to children and that the company had failed to warn the public of dangers."
+    "title": "How Box Created 13 New Types of Jobs Because of A.I.",
+    "link": "https://www.nytimes.com/2026/06/01/technology/box-13-new-types-jobs-ai.html",
+    "summary": "Box, a Silicon Valley software maker, expects to have more employees, not fewer, as it hires A.I. architects, A.I. solutions managers and other new A.I.-related positions."
+  },
+  {
+    "title": "Is A.I. Replacing Tech Workers or Providing an Excuse for Job Cuts?",
+    "link": "https://www.nytimes.com/2026/06/01/technology/ai-tech-job-cuts.html",
+    "summary": "Tech industry layoffs are accelerating, and executives have been quick to say it’s because their companies are doing more with artificial intelligence, even when there may be more to it."
+  },
+  {
+    "title": "Scott Pelley Accuses CBS News Boss of ‘Murdering’ ‘60 Minutes’",
+    "link": "https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html",
+    "summary": "In an explosive staff meeting, Mr. Pelley, a correspondent for the long-running Sunday news show, blasted Bari Weiss, the CBS editor in chief, and Nick Bilton, the show’s new executive producer."
   },
   {
     "title": "The Return of Blaming and Shaming in Public Health",
@@ -45,14 +50,9 @@
     "summary": "For years, medicine has tried to eliminate stigma. Now, Robert F. Kennedy Jr. is bringing back the language of personal responsibility."
   },
   {
-    "title": "Sam Levinson on Why ‘Euphoria’ Had to End This Way. For Good.",
-    "link": "https://www.nytimes.com/2026/06/01/arts/television/popcast-euphoria-sam-levinson-interview.html",
-    "summary": "In an exclusive interview, Sam Levinson explained why he felt it was time to bring the series to a close and responded to its detractors."
-  },
-  {
-    "title": "In the ‘Euphoria’ Finale, the HBO Show Goes Out With a Whimper",
-    "link": "https://www.nytimes.com/2026/06/01/arts/television/euphoria-season-3-finale-rue.html",
-    "summary": "In the end, a show defined by its excesses seemed to be straining for a redemption that it didn’t need."
+    "title": "Mills Reminds Maine Voters She’s ‘Still on the Ballot’ for Senate Amid Platner Controversy",
+    "link": "https://www.nytimes.com/2026/06/01/us/politics/mills-platner-maine-democratic-senate-primary.html",
+    "summary": "A month after withdrawing from the state’s Senate race, Gov. Janet Mills suggested she remained an option after the likely Democratic nominee, Graham Platner, faced a new scandal."
   },
   {
     "title": "Are Texans Ready for Talarico’s Kind of Christianity?",
@@ -60,14 +60,19 @@
     "summary": "Jim Rigby, a pastor who rarely uses the word “God,” is a key to understanding the Senate candidate trying to pull off something unusual in Texas."
   },
   {
-    "title": "As Democrats Worry About Senate Race, Platner Attacks Reports About Sexual Messages",
-    "link": "https://www.nytimes.com/2026/05/31/us/politics/booker-platner-democrats-senate-midterms.html",
-    "summary": "Graham Platner, whose contest in Maine is a key to Democrats’ hopes of winning the Senate, sought to discredit reports that he had exchanged sexual messages with women outside his marriage."
+    "title": "They Voted for Trump. Here’s How They Feel About High Gas Prices.",
+    "link": "https://www.nytimes.com/2026/06/01/us/politics/trump-gas-prices-iran-war.html",
+    "summary": "With the midterm elections five months away, many Americans who backed President Trump are wrestling with pain at the pump and the war in Iran."
   },
   {
     "title": "Alberta’s Movement to Separate from Canada Gets Its Moment",
     "link": "https://www.nytimes.com/2026/06/01/world/canada/canada-alberta-separation-referendum-vote.html",
     "summary": "In October, Albertans will get to say if they want to stay in Canada, or hold a referendum to leave. Will it settle the matter, or deepen the rift?"
+  },
+  {
+    "title": "Alberta Will Vote on a Possible Referendum to Separate From Canada. Here’s What to Know.",
+    "link": "https://www.nytimes.com/article/alberta-separation-referendum-vote.html",
+    "summary": "Premier Danielle Smith announced that she would ask citizens to vote on whether they want to stay in Canada, or hold a referendum to secede."
   },
   {
     "title": "Joana Avillez Revisits Her Waterfront Childhood",
@@ -85,29 +90,14 @@
     "summary": "Congressional primaries in Manhattan, Brooklyn and beyond could test the strength of Mayor Zohran Mamdani’s socialist movement and reverberate across the country."
   },
   {
-    "title": "N.Y.C. Children May Get Up to $3,000 From City for College Accounts",
-    "link": "https://www.nytimes.com/2026/06/01/nyregion/nyc-college-savings-account-children.html",
-    "summary": "The city’s current savings plan starts with $100. A City Council proposal would make the initial contributions among the highest anywhere."
-  },
-  {
-    "title": "China Aims A.I. at Predicting Who Could Pose a Political Risk",
-    "link": "https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html",
-    "summary": "New research examines how a Chinese company struggled to develop its predictive surveillance technology while U.S. restrictions were in place."
-  },
-  {
-    "title": "How an Act of Vandalism Helped a Dissident Find His Voice",
-    "link": "https://www.nytimes.com/2026/06/01/business/teacher-li-transnational-repression.html",
-    "summary": "Li Ying, known as Teacher Li to his 2.2 million followers on X, doesn’t live in China but still faces smear campaigns and death threats. He is not letting that stop him."
-  },
-  {
-    "title": "Prized by ‘MAHA’ Influencers and Chefs Alike, Craft Flour Is on the Rise",
-    "link": "https://www.nytimes.com/2026/06/01/business/craft-flour-maha.html",
-    "summary": "Growing demand for fiber-rich grains is boosting the premium flour industry, which offers less processed, but pricier, alternatives to the classic grocery store brands."
+    "title": "Marilyn Monroe Fans Descended on Palm Springs For Her 100th Birthday",
+    "link": "https://www.nytimes.com/2026/06/01/style/marilyn-monroe-100th-birthday.html",
+    "summary": "To honor her centennial, over 1,000 Marilyn Monroe fans came together to dress as the screen legend in Palm Springs, where her Hollywood career began."
   },
   {
     "title": "Marco Rubio: Florida Centrist, Tea Party Darling, MAGA Warrior, President?",
     "link": "https://www.nytimes.com/2026/06/01/opinion/marco-rubio-florida.html",
-    "summary": "The secret to the Secretary of State’s success."
+    "summary": "The secret to the secretary of state’s success."
   },
   {
     "title": "Why This Summer Travel Season Will Be a Nightmare",
@@ -115,13 +105,8 @@
     "summary": "Air travel could be disrupted into next year because of high jet fuel prices."
   },
   {
-    "title": "Death from Above",
-    "link": "https://www.nytimes.com/2026/06/01/briefing/boat-strikes.html",
-    "summary": "We look at U.S. boat strikes in the Caribbean Sea and eastern Pacific Ocean."
-  },
-  {
-    "title": "An Industrial Gem in Venezuela Now Embodies the Country’s Decay",
-    "link": "https://www.nytimes.com/2026/06/01/world/americas/venezuela-economy-cumana.html",
-    "summary": "Cumaná was once an economic hub, producing Toyota Land Cruisers and exporting food across South America. Now it’s on the brink of disaster as public services collapse."
+    "title": "Giant Stone Urns Hint at the Death Rites of a Lost People in Laos",
+    "link": "https://www.nytimes.com/2026/06/01/science/death-jars-internment-laos.html",
+    "summary": "Thousands of mysterious containers lie scattered across northern Laos. These “death jars” may have provided a form of communal interment, archaeologists reported."
   }
 ]

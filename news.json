@@ -1,28 +1,8 @@
 [
   {
-    "title": "As Trump Pushes Deportations, a Skyrocketing Caseload Strains Immigration Courts",
-    "link": "https://www.nytimes.com/2026/06/06/us/politics/immigration-courts-deportation.html",
-    "summary": "A federal surge has more than doubled caseloads within some immigration courts nationwide. Lawyers say the tactic is causing errors and confusion."
-  },
-  {
-    "title": "Paxton’s Senate Bid Raises the Stakes in His War on Latino Voting Groups",
-    "link": "https://www.nytimes.com/2026/06/06/us/politics/ken-paxton-latino-voting.html",
-    "summary": "The Texas attorney general has mounted an all-out effort to prove Democratic Hispanic groups have been corrupting elections. Now he could be the beneficiary of his own attacks."
-  },
-  {
-    "title": "ICE Says Detainees Are ‘Worst of the Worst.’ Government Data Disagrees.",
-    "link": "https://www.nytimes.com/2026/06/06/nyregion/delaney-hall-ice-detainees.html",
-    "summary": "Federal officials said they are removing killers and rapists from the streets. Data obtained by The New York Times indicates most detainees at a Newark facility haven’t been convicted of crimes."
-  },
-  {
     "title": "Trump’s Defense Department Sees Growing Espionage Threat From Israel",
     "link": "https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html",
     "summary": "The Defense Department has increased the counterintelligence threat assessment to its highest level, and Israel is believed to have eavesdropped on American negotiations with Iran."
-  },
-  {
-    "title": "What Visual Evidence Tells Us About Israel’s Use of White Phosphorus in Lebanon",
-    "link": "https://www.nytimes.com/2026/06/06/world/middleeast/white-phosphorous-israel-lebanon.html",
-    "summary": "Videos collected by The Times shows how the Israeli military has deployed a munition that can be extremely harmful over populated areas in Lebanon."
   },
   {
     "title": "Israeli Strike Kills 3 Lebanese Soldiers, Days After Truce Was Signed",
@@ -35,19 +15,24 @@
     "summary": "Israel’s military said a soldier opened fire after Israeli troops “perceived a vehicle accelerating toward them.” The baby’s grandmother, who was in the car, disputed that account."
   },
   {
+    "title": "An Uncertain Win for Immigrants Seeking to Stay in U.S.",
+    "link": "https://www.nytimes.com/2026/06/06/us/an-uncertain-win-for-immigrants-seeking-to-stay-in-us.html",
+    "summary": "After a judge’s ruling, there was a sense of renewed hope that immigration applications that were put on hold would move forward. But how soon that would happen was unknown."
+  },
+  {
+    "title": "Kennedy Center Loses Case Against Musician Who Canceled Over Trump Naming Dispute",
+    "link": "https://www.nytimes.com/2026/06/06/us/politics/kennedy-center-lawsuit-tossed-trump-chuck-redd.html",
+    "summary": "A federal judge sided with jazz performer Chuck Redd, who canceled a 2025 holiday concert after President Trump’s name was added to the building."
+  },
+  {
+    "title": "Senators Warn of Intelligence Gaps if Surveillance Program Expires",
+    "link": "https://www.nytimes.com/2026/06/06/us/politics/cotton-grassley-surveillance-program.html",
+    "summary": "Two senior Republicans urged the Trump administration to prepare for the possible expiration of a contentious intelligence-gathering authority."
+  },
+  {
     "title": "The Bidens Return With New Book and South Dakota Speech Targeting Trump",
     "link": "https://www.nytimes.com/2026/06/06/us/politics/biden-speech-sioux-falls-trump.html",
     "summary": "The re-emergence of the former first family has been fraught for some Democrats who just want to move on."
-  },
-  {
-    "title": "Graham Platner Says His Past Is Being ‘Weaponized’ Amid Growing Democratic Concern",
-    "link": "https://www.nytimes.com/2026/06/05/us/politics/graham-platner-maine-rally-senate.html",
-    "summary": "The presumptive Democratic Senate nominee in Maine said the state would have his back in the face of accusations he has denied."
-  },
-  {
-    "title": "What Are Democrats’ Best Senate Pickup Opportunities?",
-    "link": "https://www.nytimes.com/2026/06/05/upshot/democrats-senate-midterms-analysis.html",
-    "summary": "We’ve grouped six battleground states by some of the factors that shape how likely it is for the party to flip each Senate seat."
   },
   {
     "title": "A.I. Companies Don’t Know What to Do With Alex Bores",
@@ -55,19 +40,19 @@
     "summary": "Outside groups have spent roughly $12 million to support or oppose Mr. Bores’s campaign for a House seat in Manhattan, elevating his name in a crowded race."
   },
   {
-    "title": "Trump Greets Farmers in Wisconsin, but Says He Could Be Home Watching TV",
-    "link": "https://www.nytimes.com/2026/06/05/us/politics/trump-wisconsin-farmers-midterms.html",
-    "summary": "President Trump was in Wisconsin to reassure farmers who have been stung by his tariff policies and rising fuel prices from the war in Iran."
+    "title": "What Are Democrats’ Best Senate Pickup Opportunities?",
+    "link": "https://www.nytimes.com/2026/06/05/upshot/democrats-senate-midterms-analysis.html",
+    "summary": "We’ve grouped six battleground states by some of the factors that shape how likely it is for the party to flip each Senate seat."
   },
   {
-    "title": "U.S. Job Market Pushes Past Shocks and Strains",
-    "link": "https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html",
-    "summary": "Employers added 172,000 jobs in May, adding to a vigorous pace of hiring in recent months. But wage growth is not keeping up with higher prices and consumers remain pessimistic."
+    "title": "Deluged With Mail Ballots, California Takes Its Time Counting Votes Again",
+    "link": "https://www.nytimes.com/2026/06/06/us/california-slow-vote-count.html",
+    "summary": "Experts say speeding up the count in California would take more resources, but also scaling back rules that expand voting access."
   },
   {
-    "title": "Trump Pardons Stephen Buyer, Former Congressman Convicted of Insider Trading",
-    "link": "https://www.nytimes.com/2026/06/06/us/politics/trump-pardon-stephen-buyer-insider-trading.html",
-    "summary": "Stephen Buyer, a former Republican representative from Indiana, was convicted of trading stock related to two deals before they were made public."
+    "title": "Ahead of World Cup, Two Generations of Haitian Players Unite",
+    "link": "https://www.nytimes.com/2026/06/06/us/ahead-of-world-cup-two-generations-of-haitian-players-unite.html",
+    "summary": "A player from Haiti’s 1974 World Cup team, the last to qualify for the tournament, met with the co-captain of this year’s squad in South Florida."
   },
   {
     "title": "New York City’s Most Patient Soccer Fans Are Ready for the Party",
@@ -75,14 +60,9 @@
     "summary": "Uzbekistan is new to the World Cup. Norway and Haiti haven’t been there in decades. For expat communities all over the city, the wait is nearly over."
   },
   {
-    "title": "U.S. Amputee World Cup Contenders Are Fierce on Crutches",
-    "link": "https://www.nytimes.com/2026/06/05/sports/soccer/amputee-world-cup-national-team.html",
-    "summary": "With the Amputee Football World Cup nearing, an elite squad of athletes gathered on Long Island to vie for a spot on the national men’s team, displaying skill and grit."
-  },
-  {
-    "title": "As Ebola Spreads in East Africa, Will China Step Up?",
-    "link": "https://www.nytimes.com/2026/06/06/world/asia/as-ebola-spreads-in-east-africa-will-china-step-up.html",
-    "summary": "China is well positioned to help stop the deadly virus, and could move into a gap left by U.S. retreat."
+    "title": "Screwworm Flies Add to Cattle Ranchers’ Woes",
+    "link": "https://www.nytimes.com/2026/06/06/business/screwworm-flies-drought-cattle.html",
+    "summary": "Some Texans fear “the nightmares and the horrors” of a potential screwworm outbreak. Elsewhere, not enough grass to feed cattle sends them to market earlier."
   },
   {
     "title": "Raphael Warnock Says the Supreme Court Has Done ‘Violence’ to Democracy",
@@ -100,8 +80,8 @@
     "summary": "And what the Maine candidate reveals about politics today."
   },
   {
-    "title": "Balancing Act",
-    "link": "https://www.nytimes.com/2026/06/06/briefing/balancing-act.html",
-    "summary": "The tension between sticking to what we know and seeking out new experiences is one of comfort versus novelty. How can we have both?"
+    "title": "Ukraine Strikes St. Petersburg in Long-Range Drone Attack",
+    "link": "https://www.nytimes.com/2026/06/06/world/europe/ukraine-drone-strike-st-petersburg.html",
+    "summary": "It was the second such attack in days and came just hours after President Vladimir V. Putin spoke at an economic forum in the city."
   }
 ]

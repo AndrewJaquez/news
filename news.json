@@ -1,15 +1,5 @@
 [
   {
-    "title": "U.S. and Iran Zero In on Four Nuclear Issues in Talks",
-    "link": "https://www.nytimes.com/2026/06/09/us/politics/iran-nuclear-deal.html",
-    "summary": "With the cease-fire proving tenuous, negotiations between the two nations are in flux, but have advanced to outline potential paths forward on difficult questions about Iran’s nuclear program."
-  },
-  {
-    "title": "Netanyahu’s Bow to Trump’s Iran Pressure Spurs New Criticism",
-    "link": "https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html",
-    "summary": "Opponents attacked Prime Minister Benjamin Netanyahu for halting strikes against Iran after a call with President Trump, saying that he was letting the United States make Israel’s decisions."
-  },
-  {
     "title": "Steve Hilton Wins Second Spot in California Governor Race, Beating Tom Steyer",
     "link": "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html",
     "summary": "Steve Hilton, a Republican endorsed by President Trump, will face Xavier Becerra, a Democrat, in the general election. Tom Steyer, another Democrat, will not advance."
@@ -25,19 +15,24 @@
     "summary": "Mr. Kiley dropped his Republican affiliation earlier this year. The newly drawn Sixth Congressional District is widely considered to be favorable for Democrats."
   },
   {
+    "title": "Takeaways From Tuesday’s Primary Elections in Maine and South Carolina",
+    "link": "https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html",
+    "summary": "Graham Platner won the Democratic primary for Senate in Maine and quickly turned his populist message against Susan Collins, the Republican incumbent."
+  },
+  {
     "title": "Lindsey Graham Wins Republican Senate Primary in South Carolina",
     "link": "https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html",
     "summary": "Mr. Graham, a four-term incumbent, is the favorite to win the general election in a solidly Republican state."
   },
   {
+    "title": "Nevada Attorney General Wins Democratic Nomination for Governor",
+    "link": "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html",
+    "summary": "Aaron Ford easily outpaced a Washoe County commissioner, Alexis Hill, for the nod to take on Gov. Joe Lombardo in November."
+  },
+  {
     "title": "Navy Admiral Fired by Hegseth Advances to Runoff to Replace Mace",
     "link": "https://www.nytimes.com/2026/06/09/us/politics/nancy-lacore-mace-south-carolina.html",
     "summary": "Nancy Lacore would face a tough fall election in a district drawn in 2021 to be more Republican. She is seeking to replace Representative Nancy Mace, who ran unsuccessfully for governor instead of running for re-election."
-  },
-  {
-    "title": "Pro-Israel Group Pushes for Haley Stevens in Michigan Senate Race",
-    "link": "https://www.nytimes.com/2026/06/09/us/politics/aipac-haley-stevens-michigan-senate.html",
-    "summary": "The main super PAC tied to the influential American Israel Public Affairs Committee released its first ads backing Ms. Stevens, a moderate congresswoman locked in a tight three-way primary."
   },
   {
     "title": "Blanche Was Once Seen as Tempering Trump’s Tactics. Now He’s All In.",
@@ -58,6 +53,11 @@
     "title": "Hannah Neeleman’s Ballerina Farm Store Draws Crowds in Utah",
     "link": "https://www.nytimes.com/2026/06/09/us/tradwife-ballerina-farm-utah.html",
     "summary": "Tourists are flocking to Midway, Utah. The Ballerina Farm Store, from the influencer whose brand revolves around motherhood and farm life, is a reason."
+  },
+  {
+    "title": "Trump’s Sharp Turn on China: Embracing It as a Peer Power",
+    "link": "https://www.nytimes.com/2026/06/09/us/politics/trump-china-taiwan.html",
+    "summary": "President Trump’s warming with Xi Jinping of China, a leader he admires, has ignited anxieties in Washington and across Asia."
   },
   {
     "title": "In the Hybrid A.I.-Human Work Force, Who Will Actually Thrive?",
@@ -85,11 +85,6 @@
     "summary": "Experts have been hopeful, but say the agency’s lunar aspirations are largely at the whims of two billionaires, Elon Musk and Jeff Bezos."
   },
   {
-    "title": "She’s Set to Swim the Entire 900-Mile California Coast — Sharks Permitting",
-    "link": "https://www.nytimes.com/2026/06/09/us/catherine-breed-california-coast-swimming.html",
-    "summary": "Swimming 900 miles won’t be “the worst way to spend four months,” Catherine Breed says — as long as the great whites, jellyfish and elephant seals leave her alone."
-  },
-  {
     "title": "Paramount CEO David Ellison Pledges Editorial Independence for ‘60 Minutes’",
     "link": "https://www.nytimes.com/2026/06/09/business/media/60-minutes-david-ellison-paramount.html",
     "summary": "David Ellison told Ms. Stahl, one of three remaining correspondents for the news program, that he would respect the show’s editorial decisions after a tumultuous stretch."
@@ -100,29 +95,19 @@
     "summary": "It’s a word ripped from Twitch streams, but it functions as a Greek chorus for an online, isolated generation."
   },
   {
-    "title": "Infantino’s Yearslong Effort to Woo Trump for the World Cup",
-    "link": "https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html",
-    "summary": "Gianni Infantino, the FIFA president, has unabashedly courted the president’s favor. Soccer officials privately ask, who really benefits?"
-  },
-  {
-    "title": "Somali Referee Says His World Cup Dream Is Dashed After U.S. Denies Entry",
-    "link": "https://www.nytimes.com/2026/06/09/world/africa/somali-referee-world-cup-us-entry-omar-artan.html",
-    "summary": "“I had the right papers and everything,” Omar Abdulkadir Artan said in his first interview since he was turned back. He would have been the first Somali to referee a game in the tournament."
-  },
-  {
     "title": "F.D.A. Clears Sunscreen Ingredient Long Used in Europe and Asia",
     "link": "https://www.nytimes.com/2026/06/09/well/fda-sunscreen-bemotrizinol-approval.html",
     "summary": "Dermatologists say bemotrizinol offers advantages over other compounds in sunscreens currently on the market."
   },
   {
-    "title": "Everybody Is a Loser in This Middle East War",
-    "link": "https://www.nytimes.com/2026/06/09/opinion/middle-east-war-accountability-iran-us-trump.html",
-    "summary": "None of the participants in the recent wars of the Middle East can claim victory. All are to blame."
+    "title": "Taking a Week to Count Votes Is Doing It Wrong",
+    "link": "https://www.nytimes.com/2026/06/10/opinion/california-slow-vote-primary.html",
+    "summary": "It is time for California to catch up to its own past."
   },
   {
-    "title": "The Left’s Reckoning on Gaza, Elites and American Power",
-    "link": "https://www.nytimes.com/2026/06/09/opinion/ezra-klein-podcast-matt-duss.html",
-    "summary": "Matt Duss, Senator Bernie Sanders’s former foreign policy adviser, argues that Democrats need a foreign policy reckoning."
+    "title": "‘A Mighty Form of Communion’: Three Writers on the World Cup’s Strange Magic",
+    "link": "https://www.nytimes.com/2026/06/10/opinion/world-cup-trump-fifa.html",
+    "summary": "There’s ample cause for celebration and consternation alike."
   },
   {
     "title": "Air Canada Pilot Accused of Flying for 17 Years Without Proper License",

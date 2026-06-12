@@ -15,11 +15,6 @@
     "summary": "SpaceX will not raise money from investors in China and Hong Kong. Others firms, like OpenAI, may follow suit."
   },
   {
-    "title": "The World Cup Is Officially Underway",
-    "link": "https://www.nytimes.com/2026/06/11/briefing/world-cup-trump-spy-chief.html",
-    "summary": "Also, Trump picks a new intelligence chief. Here’s the latest at the end of Thursday."
-  },
-  {
     "title": "Trump Picks Jay Clayton for Director of National Intelligence After Backlash Over Bill Pulte",
     "link": "https://www.nytimes.com/2026/06/11/us/politics/trump-jay-clayton-intelligence-chief.html",
     "summary": "The president said he would nominate Jay Clayton, the U.S. attorney in Manhattan and the former chairman of the Securities and Exchange Commission, for the permanent role."
@@ -35,6 +30,11 @@
     "summary": "One day before a deadline to take the president’s name off its facade, the arts institution appealed a federal judge’s ruling that also temporarily blocked it from closing."
   },
   {
+    "title": "Trump Suspends Funding for Los Angeles Homeless Agency",
+    "link": "https://www.nytimes.com/2026/06/11/us/trump-los-angeles-homeless.html",
+    "summary": "The Trump administration cited misspending among the reasons for blocking funds to the Los Angeles Homeless Services Authority. Mayor Karen Bass warned that “people will lose their lives.”"
+  },
+  {
     "title": "Justice Dept. Pushes Limits of Its Power Over State Elections",
     "link": "https://www.nytimes.com/2026/06/11/us/politics/trump-california-vote-elections-investigations.html",
     "summary": "The department once tried to stay out of state elections, urging caution. It is now pressing forward with claims of fraud as President Trump revives his unfounded assertions that elections cannot be trusted."
@@ -43,6 +43,11 @@
     "title": "Postal Service Issues Proposal to Block Mail Ballots in States That Don’t Turn Over Data",
     "link": "https://www.nytimes.com/2026/06/11/us/politics/usps-mail-voting-democratic-resistance.html",
     "summary": "Democrats and voting-rights groups have challenged the proposed rule as a harmful federal intrusion that could affect millions of voters who cast their ballots by mail."
+  },
+  {
+    "title": "Oil Falls, Stocks Rise as Trump Signals Iran Peace Deal Takes Shape",
+    "link": "https://www.nytimes.com/2026/06/11/business/oil-gas-price-iran.html",
+    "summary": "Oil prices retreated and stocks rallied after President Trump called off plans for another day of strikes on Iran, saying that a peace deal could be within reach."
   },
   {
     "title": "Whipsawed Between Fear and Relief, Iranians Hope for War’s End",
@@ -70,9 +75,9 @@
     "summary": "The towering claw will be the site of an Ultimate Fighting Championship cage match on Sunday, which is President Trump’s 80th birthday."
   },
   {
-    "title": "The Researcher Who Didn’t Want to Know",
-    "link": "https://www.nytimes.com/2026/06/11/science/researcher-huntingtons-disease-wexler.html",
-    "summary": "Her decades of work on Huntington’s disease helped lead to the creation of a genetic test for the devastating condition. Why didn’t she take it herself?"
+    "title": "‘Operation Pushkin’: Paris Trial Puts Spotlight on Rare-Book Heists",
+    "link": "https://www.nytimes.com/2026/06/12/world/europe/russian-book-theft-trial-paris.html",
+    "summary": "One by one, valuable works by Russian masters like Pushkin and Gogol were disappearing from libraries across Europe. Now six defendants are being prosecuted."
   },
   {
     "title": "Mamdani Finds a Foil Familiar to New Yorkers: James Dolan",
@@ -80,14 +85,24 @@
     "summary": "Mr. Dolan, the owner of the New York Knicks, began a public feud with Mayor Zohran Mamdani with his team on the verge of an N.B.A. title."
   },
   {
-    "title": "This Is What Joy Looks Like for Knicks Fans",
-    "link": "https://www.nytimes.com/2026/06/11/nyregion/knicks-win-celebrations.html",
-    "summary": "A thrilling, historic comeback victory in Game 4 of the N.BA. finals sent Madison Square Garden, and the rest of New York City, into a lasting frenzy."
-  },
-  {
     "title": "For a Knicks Reporter, Good Basketball Wasn’t Always So Easy to Find",
     "link": "https://www.nytimes.com/2026/06/11/insider/knicks-bad-season.html",
     "summary": "In 2015, the team was so bad, The Times’s beat writer took a break to search for the game in its prettier forms."
+  },
+  {
+    "title": "Supreme Court Blocks Alabama From Executing Inmate Using Nitrogen Gas",
+    "link": "https://www.nytimes.com/2026/06/11/us/supreme-court-blocks-alabama-nitrogen-execution.html",
+    "summary": "The unsigned decision for now spares Jeffery Lee, a convicted murderer, and could lead to a broader fight over the relatively new execution method."
+  },
+  {
+    "title": "Princess Bha of Thailand, Second in Line to the Throne, Dies at 47",
+    "link": "https://www.nytimes.com/2026/06/11/world/asia/thai-princess-bajrakitiyabha-bha-dead-coma.html",
+    "summary": "Ever since she collapsed in a park three and a half years ago, speculation has swirled in Thailand about who could become the next monarch."
+  },
+  {
+    "title": "Tornadoes Are Reported as Storms Sweep the Midwest",
+    "link": "https://www.nytimes.com/2026/06/11/weather/chicago-illinois-tornado-storms.html",
+    "summary": "Chicago is in the bull’s-eye of severe weather for the second day in a row. Tornadoes were reported in Illinois, Indiana and Wisconsin."
   },
   {
     "title": "NOAA Issues El Nino Advisory",
@@ -95,28 +110,28 @@
     "summary": "The global weather pattern threatens to worsen floods and heat waves already intensifying due to climate change. But it may also mean fewer hurricanes."
   },
   {
-    "title": "Tornadoes Are Reported in Illinois as Storms Sweep the Midwest",
-    "link": "https://www.nytimes.com/2026/06/11/weather/chicago-illinois-tornado-storms.html",
-    "summary": "For the second day in a row, Chicago is in the bull’s-eye of severe weather on Thursday, but the storm forecast is widespread."
-  },
-  {
     "title": "Scientists Measure Earth’s Vast Underground Fungal Webs",
     "link": "https://www.nytimes.com/2026/06/11/science/ecology-mycorrhizal-fungus.html",
     "summary": "With machine learning and a high-resolution imaging robot, scientists measured and mapped the extent of Earth’s carbon circulatory system."
   },
   {
-    "title": "Tom Steyer Spent $558 Million. What a Waste.",
-    "link": "https://www.nytimes.com/2026/06/11/opinion/tom-steyer-california-governor.html",
-    "summary": "Imagine what Tom Steyer could have done with all the money he wasted on another campaign."
+    "title": "SpaceX’s I.P.O. Will Help Fulfill Elon Musk’s Political Vision of America",
+    "link": "https://www.nytimes.com/2026/06/12/opinion/elon-musk-spacex-starbase-texas.html",
+    "summary": "The SpaceX I.P.O. will enable its founder to build — and scale — his peculiar vision of society."
   },
   {
-    "title": "‘All Men Are Created Equal’? Not Everyone Agrees.",
-    "link": "https://www.nytimes.com/2026/06/11/opinion/inequality-musk-thiel-carvalho-billionaires.html",
-    "summary": "Our founding creed has always had its critics."
+    "title": "‘Yes’ Is a Scathing Portrait of Israeli Depravity. Why Are European Leftists Boycotting It?",
+    "link": "https://www.nytimes.com/2026/06/12/opinion/yes-israel-film-boycott.html",
+    "summary": "The inanity of the leftists who’d censor such a film shouldn’t distract us from the right-wing nightmare it reveals."
   },
   {
-    "title": "Supreme Court Blocks Alabama From Executing Inmate Using Nitrogen Gas",
-    "link": "https://www.nytimes.com/2026/06/11/us/supreme-court-blocks-alabama-nitrogen-execution.html",
-    "summary": "The unsigned decision for now spares Jeffery Lee, a convicted murderer, and could lead to a broader fight over the relatively new execution method."
+    "title": "Late Night Prepares for Trump’s U.F.C. Birthday Fight at the White House",
+    "link": "https://www.nytimes.com/2026/06/12/arts/television/late-night-trump-birthday-ufc.html",
+    "summary": "Jimmy Fallon called the president “the only 80-year-old yelling, ‘Get on my lawn!’”"
+  },
+  {
+    "title": "Drones Flown Over North Korea Were Part of Martial Law Plot by Former South Korean President",
+    "link": "https://www.nytimes.com/2026/06/11/world/asia/north-korea-drones-martial-law.html",
+    "summary": "A court ruled that Yoon Suk Yeol, the impeached former president, had sought to stir up instability to justify his bid for authoritarian rule in 2024."
   }
 ]

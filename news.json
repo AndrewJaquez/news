@@ -1,5 +1,30 @@
 [
   {
+    "title": "Photos: Earthquakes Strike Venezuela",
+    "link": "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html",
+    "summary": "After two powerful quakes shook the South American country, concern is growing that the damage could be devastating."
+  },
+  {
+    "title": "Representative Tom Kean, Missing for Months, Is Back Home in New Jersey",
+    "link": "https://www.nytimes.com/2026/06/24/nyregion/tom-kean-missing-found.html",
+    "summary": "The congressman, who has been absent from Washington since March, answered the door of his home on Wednesday evening. He was wearing a suit and tie."
+  },
+  {
+    "title": "After Trump’s Outburst, Senate G.O.P. Reverses Course on Iran",
+    "link": "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-iran.html",
+    "summary": "In a late-night vote aimed at mollifying the president, Senate Republicans rejected a resolution directing him to end the war against Iran, a day after a bipartisan rebuke."
+  },
+  {
+    "title": "Trump Clashes With Senate Republicans Over Iran in Heated Closed-Door Meeting",
+    "link": "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-gop-meeting-iran.html",
+    "summary": "The president had a lengthy and angry exchange with Senator Bill Cassidy of Louisiana and lit into other Republicans who voted to check his war powers."
+  },
+  {
+    "title": "New Clues Point to Taylor Swift Wedding Event at M.S.G.",
+    "link": "https://www.nytimes.com/2026/06/24/nyregion/taylor-swift-wedding-madison-square-garden.html",
+    "summary": "The New York Times has confirmed that Taylor Swift has rented the sports arena for the July 4 weekend, suggesting plans for a days-long celebration."
+  },
+  {
     "title": "Democratic Leaders Want the Party to Moderate. Its Base Has Other Ideas.",
     "link": "https://www.nytimes.com/2026/06/24/us/politics/democratic-progressive-primary-candidates-mamdani.html",
     "summary": "The primary victories of leftist Democratic congressional candidates in New York came as some leaders were urging the party to move to the center to broaden its appeal."
@@ -15,19 +40,14 @@
     "summary": "If the shift in public opinion continues, it could reshape one of the United States’ closest alliances."
   },
   {
-    "title": "Trump Cancels Plans to Sign a Bipartisan Housing Bill",
-    "link": "https://www.nytimes.com/2026/06/24/briefing/trump-cancels-plans-to-sign-a-bipartisan-housing-bill.html",
-    "summary": "Also, Western Europe is sweltering. Here’s the latest at the end of Wednesday."
+    "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
+    "link": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
+    "summary": "Crowds are filling the Canal Saint-Martin in Paris, as temperatures soar above 100 degrees Fahrenheit. Forty people drowned while swimming in other waterways."
   },
   {
-    "title": "New Clues Point to Taylor Swift Wedding Event at M.S.G.",
-    "link": "https://www.nytimes.com/2026/06/24/nyregion/taylor-swift-wedding-madison-square-garden.html",
-    "summary": "The New York Times has confirmed that Taylor Swift has rented the sports arena for the July 4 weekend, suggesting plans for a days-long celebration."
-  },
-  {
-    "title": "Trump Stokes Chaos in Congress as He Huddles With the G.O.P.",
-    "link": "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-republicans-meeting.html",
-    "summary": "Hours before visiting the Capitol, the president scrapped plans to sign a major housing bill, condemning “bad Republicans” for resisting his demands to ram through new voting restrictions."
+    "title": "See Record-Breaking Extreme Heat Wave Across Europe in Photos",
+    "link": "https://www.nytimes.com/2026/06/24/world/europe/europe-heat-wave-photos.html",
+    "summary": "Temperature records were broken in several European countries on Wednesday."
   },
   {
     "title": "From ‘Terrible People’ to ‘Smart People’: The Trump-Led Right Rethinks Iran",
@@ -38,6 +58,11 @@
     "title": "Trump Asks Congress for $88 Billion, Mostly for War With Iran",
     "link": "https://www.nytimes.com/2026/06/24/us/politics/trump-congress-iran-war-pentagon.html",
     "summary": "The proposal was all but dead on arrival in the Senate, where it would need bipartisan support, and comes amid growing G.O.P. skepticism about the conflict."
+  },
+  {
+    "title": "Oil Prices Fall Toward Prewar Levels as Gulf Shipping Resumes",
+    "link": "https://www.nytimes.com/2026/06/25/business/oil-prices-gas-iran.html",
+    "summary": "Oil prices fell, moving closer to levels not seen since the war in Iran began in February."
   },
   {
     "title": "Gay Marriage Is Dividing Republicans, Again",
@@ -70,19 +95,9 @@
     "summary": "The ruling of a three-judge appeals panel in Michigan was the most significant rebuke yet to the Department of Justice’s effort to find ineligible voters in state voter rolls."
   },
   {
-    "title": "Dianna Russini Was an N.F.L. ‘Insider.’ Was She Also Out of Bounds?",
-    "link": "https://www.nytimes.com/2026/06/24/nyregion/dianna-russini-mike-vrabel-athletic-new-york-times.html",
-    "summary": "Ms. Russini’s closeness to a coach, Mike Vrabel of the New England Patriots, led to her breakup with The Athletic and its parent, The New York Times Company."
-  },
-  {
-    "title": "Los Angeles Names a New Schools Superintendent After Scandal",
-    "link": "https://www.nytimes.com/2026/06/24/us/los-angeles-new-school-superintendent-lausd.html",
-    "summary": "Andres Chait is a district veteran who has helped keep peace with labor unions. He started in the classroom and now runs a district with hundreds of thousands of students."
-  },
-  {
-    "title": "President Narcissus and the Fetid Reflecting Pool",
-    "link": "https://www.nytimes.com/2026/06/24/opinion/trump-reflecting-pool-washington.html",
-    "summary": "Why the president’s latest renovation project is so irresistible and resonant."
+    "title": "There’s One Clear Reason Why Americans Are Gloomy About A.I.",
+    "link": "https://www.nytimes.com/2026/06/25/opinion/ai-americans-pessimism.html",
+    "summary": "The key is understanding how our labor market and our social net differs from the rest of the world."
   },
   {
     "title": "Democrats Are Done With Caution",
@@ -90,8 +105,13 @@
     "summary": "Tuesday’s primary demonstrated the astonishing political power of Mamdani and of the Democratic Socialists of America."
   },
   {
-    "title": "California’s Plastic Law Goes to Court: Is It Too Strict or Too Lax?",
-    "link": "https://www.nytimes.com/2026/06/24/us/california-single-use-plastics-lawsuits.html",
-    "summary": "The sweeping legislation, fully enacted last month, has been challenged by Republican-led states. Environmental groups have their own complaints."
+    "title": "Jimmy Fallon Teases Trump’s Great American State Fair",
+    "link": "https://www.nytimes.com/2026/06/25/arts/television/jimmy-fallon-trump-state-fair.html",
+    "summary": "“There’s even a dunk tank with JD Vance and a drunk tank with Kash Patel,” Fallon said."
+  },
+  {
+    "title": "Suspect in Kansas City Shootings Found Dead in Basement, Police Say",
+    "link": "https://www.nytimes.com/2026/06/25/us/suspect-in-kansas-city-shootings-found-dead-in-basement-police-say.html",
+    "summary": "Officers found the body of a man believed to be Oscar Sanchez-Munoz, the suspect in a series of roadway shootings last week, inside a home they had already searched."
   }
 ]

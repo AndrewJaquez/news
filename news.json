@@ -1,5 +1,30 @@
 [
   {
+    "title": "The Venezuela Earthquakes Hit a Health System Already in Crisis",
+    "link": "https://www.nytimes.com/2026/06/26/world/americas/venezuela-earthquake-shortages-doctors.html",
+    "summary": "Firefighters are using cellphone lights because of a flashlight shortage, and an overwhelmed hospital in the disaster zone is operating without running water, one doctor said."
+  },
+  {
+    "title": "Trump Says Iran Attack on Cargo Ship Violated the Cease-fire",
+    "link": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
+    "summary": "The president did not say how or whether he would respond, a day after Iran fired on a container ship that was transiting the Strait of Hormuz, an act Mr. Trump called “foolish.”"
+  },
+  {
+    "title": "Oil Prices Return to Prewar Levels After Four Months",
+    "link": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html",
+    "summary": "The cost of crude has become a real-time barometer of the Iran war’s toll on the global economy."
+  },
+  {
+    "title": "Americans Are Feeling Better About the Economy, Consumer Survey Shows",
+    "link": "https://www.nytimes.com/2026/06/26/business/economy/consumer-sentiment.html",
+    "summary": "Consumer sentiment rose in recent weeks after plummeting early this year as energy costs soared."
+  },
+  {
+    "title": "Pro-Palestinian Activists Sense a Tide Turning After N.Y. Primary Wins",
+    "link": "https://www.nytimes.com/2026/06/26/nyregion/palestinian-dsa-israel-nyc.html",
+    "summary": "After years of operating on the fringe of Democratic values, pro-Palestinian activists felt validated after the primary wins by several candidates who oppose Israel’s actions."
+  },
+  {
     "title": "Ukrainian Attacks Spur State of Emergency Declaration in Crimea",
     "link": "https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html",
     "summary": "Weeks of intense strikes by Ukraine have rattled everyday life in Crimea to an extent unseen since Russia illegally annexed the peninsula in 2014."
@@ -10,129 +35,29 @@
     "summary": "Ukrainian officials say their northern neighbor is allowing its radio relay stations to be used to guide Russian attack drones more precisely."
   },
   {
-    "title": "Big Wins for Trump at the Supreme Court, and a $2.5 Billion Cyberattack Whodunit",
-    "link": "https://www.nytimes.com/2026/06/26/podcasts/the-headlines/trump-supreme-court-uk-jaguar-cyberattack.html",
-    "summary": "Plus, the Friday news quiz."
-  },
-  {
-    "title": "The Aftermath of Venezuela’s Earthquakes",
-    "link": "https://www.nytimes.com/video/world/americas/100000010992544/the-aftermath-of-venezuelas-earthquakes.html",
-    "summary": "Adriana Loureiro Fernandez, a photographer for The New York Times, describes the scene on the ground after the Venezuelan earthquakes."
-  },
-  {
-    "title": "He Was Deported Back to Venezuela and Started Anew. Then the Quakes Hit.",
-    "link": "https://www.nytimes.com/2026/06/25/us/florida-venezuela-earthquake-missing-relatives.html",
-    "summary": "Venezuelans in South Florida were frantically trying to track down friends and relatives after two earthquakes in Venezuela. Jorge Erazo was among the missing."
-  },
-  {
-    "title": "Immigration Hard-Liners Repeatedly Lost in Court Before Justices Ruled in Their Favor",
-    "link": "https://www.nytimes.com/2026/06/26/us/politics/supreme-court-trump-tps.html",
-    "summary": "“This is a victory 10 years in the making,” a White House official said after the Supreme Court ruled that the Trump administration could end deportation protections for some migrants."
-  },
-  {
-    "title": "Justices Clash on Whether Race Played a Role in Trump’s Bid to Deport Haitians",
-    "link": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-trump-haiti-race.html",
-    "summary": "The split mirrored one that has long divided Americans: how seriously to take the president’s loose, provocative and sometimes ugly remarks."
-  },
-  {
-    "title": "Here’s What the Supreme Court’s Decision Means for TPS Holders",
-    "link": "https://www.nytimes.com/2026/06/25/us/supreme-court-tps-decision-explainer.html",
-    "summary": "The ruling on Temporary Protection Status will have swift repercussions for migrants and employers alike."
-  },
-  {
-    "title": "After Attacking Cargo Ship, Iran Presses Its Claim to Authority Over Strait",
-    "link": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
-    "summary": "Iran issued a statement on Friday asserting its right to control traffic in the Strait of Hormuz, a day after firing on a container ship that took a route near Oman’s shore."
-  },
-  {
-    "title": "How Three Months of War Changed the Gulf Forever",
-    "link": "https://www.nytimes.com/2026/06/26/world/middleeast/gulf-changed-forever-iran-war.html",
-    "summary": "Facing an emerging U.S.-Iran deal that leaves them vulnerable, Gulf Arab countries are reshaping their defense strategies, economies and trade routes."
-  },
-  {
-    "title": "Oil Prices Return to Prewar Levels After Four Months",
-    "link": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html",
-    "summary": "The cost of crude has become a real-time barometer of the Iran war’s toll on the global economy."
-  },
-  {
-    "title": "How a Jet Fuel Refinery Is Scrambling After the Iran War Oil Shock",
-    "link": "https://www.nytimes.com/2026/06/26/world/asia/iran-war-korea-jet-fuel.html",
-    "summary": "For a mega-refinery in Ulsan, South Korea, a top exporter of jet fuel to the West Coast of the United States and other places, weaning off Middle Eastern oil is no small feat."
-  },
-  {
-    "title": "Intel’s Chip Business Shows Signs of Life After Years of Struggle",
-    "link": "https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html",
-    "summary": "It is the centerpiece of President Trump’s drive to make more chips in the United States, but the company still has a long way to go before it can be called a complete turnaround."
-  },
-  {
-    "title": "Apple, Micron, OpenAI and A.I.’s Rough Summer",
-    "link": "https://www.nytimes.com/2026/06/26/business/dealbook/ai-openai-ipo-slump.html",
-    "summary": "Rising memory prices, more expensive iPads and a longer wait for OpenAI to go public: The sector that has driven markets skyward is hitting turbulence."
-  },
-  {
-    "title": "The High School Pipeline to South Korea’s Chip-Making Fortunes",
-    "link": "https://www.nytimes.com/2026/06/26/business/korea-chip-high-school.html",
-    "summary": "Huge memory-chip profits from the global A.I. boom have increased interest in semiconductor factory work. But behind the hype are uncertain job prospects."
-  },
-  {
-    "title": "How a Niche Technology Became a Choke Point for A.I.",
-    "link": "https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html",
-    "summary": "Advanced chip packaging, which boosts computing power for artificial intelligence, has made the United States more reliant on Taiwan than ever."
-  },
-  {
-    "title": "As Europe Sweats, Some Politicians Talk of Air-Conditioning, Not Climate Action",
-    "link": "https://www.nytimes.com/2026/06/26/world/europe/europe-heat-climate-change-politics.html",
-    "summary": "Heat-related deaths and disruptions to daily life are forcing politicians to reckon, in different ways, with a rapidly warming planet."
-  },
-  {
-    "title": "Europe’s Scorching Heat Is Gradually Moving East",
-    "link": "https://www.nytimes.com/2026/06/26/weather/europe-heat-wave-temperatures.html",
-    "summary": "Parts of Spain, France and other countries are seeing slight relief, but the record-breaking heat wave is far from over."
-  },
-  {
-    "title": "Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking",
-    "link": "https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html",
-    "summary": "The Paris police chief, Patrice Faure, said that alcohol restrictions were intended to ease pressure on health services."
-  },
-  {
-    "title": "Climate Change Fueling Europe’s Ferocious Heat Wave, Scientists Find",
-    "link": "https://www.nytimes.com/2026/06/26/climate/europe-heat-wave-climate-change.html",
-    "summary": "A scientific analysis concluded that such high temperatures, across so much of the continent, would “not have been possible” without global warming."
-  },
-  {
-    "title": "Pro-MAGA Groups Spur Trump Push For Cultural Change In Schools",
-    "link": "https://www.nytimes.com/2026/06/26/us/politics/defending-education-smith-transgender.html",
-    "summary": "One nonprofit, Defending Education, initiated nearly a dozen civil rights investigations targeting diversity programs and transgender policies."
-  },
-  {
-    "title": "How Trump’s Education Department Is Targeting Trans Students",
-    "link": "https://www.nytimes.com/video/us/100000010927494/how-trump-mcmahon-use-title-ix-to-target-transgender-students.html",
-    "summary": "Our Washington correspondent Michael Bender explains how the Trump administration is trying to use a civil rights law that prohibits sex-based discrimination to roll back protections for transgender students."
-  },
-  {
-    "title": "Obama Says He Occupies a ‘Suite’ in Trump’s Head",
-    "link": "https://www.nytimes.com/2026/06/25/us/politics/obama-trump-podcast-interview.html",
-    "summary": "Former President Barack Obama says President Trump has an obsession with him and that Mr. Trump “knows better” than to say “crazy stuff” to his face."
-  },
-  {
-    "title": "John Bolton, Former Trump Adviser, Is Expected to Plead Guilty in Classified Information Case",
+    "title": "John Bolton, Former Trump Adviser, Pleads Guilty in Classified Information Case",
     "link": "https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html",
-    "summary": "Mr. Bolton is expected to admit to mishandling classified information and could face time in prison, in an inquiry that spanned the Trump and Biden administrations."
+    "summary": "Mr. Bolton admitted to mishandling classified information and could face time in prison, in an inquiry that spanned the Trump and Biden administrations."
   },
   {
-    "title": "Small Plane Crashes Into Tallest Building in Beijing",
-    "link": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
-    "summary": "Crowds in the capital’s central business district fled as the crash sent debris falling into the streets below."
+    "title": "How Trump’s Political Agenda Is Shaped by His Own Obsessions",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/trump-agenda-republicans.html",
+    "summary": "President Trump’s priorities seem increasingly detached from the concerns of voters and his party."
   },
   {
-    "title": "After Almost 50 Years, Etan Patz’s Father Is Relieved to Have Closure",
-    "link": "https://www.nytimes.com/2026/06/26/nyregion/after-almost-50-years-etan-patzs-father-is-relieved-to-have-closure.html",
-    "summary": "In a rare interview, Stanley Patz said he hoped that a decision reinstating the conviction of Pedro Hernandez would end the  ordeal of going to court and reliving the day of his son’s disappearance."
+    "title": "Vance Downplays Watergate and Compares Himself to Nixon",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/vance-nixon-watergate-deep-state.html",
+    "summary": "The vice president said that the scandal that ended Richard Nixon’s presidency would be “like a 12-hour news story” if it happened today and that the “deep state” had taken down Nixon."
   },
   {
-    "title": "Is There a Founding Story That Can Unify Left and Right?",
-    "link": "https://www.nytimes.com/2026/06/26/magazine/a-founding-story-to-unify-left-and-right.html",
-    "summary": "There has never been agreement over the meaning of America’s creation 250 years ago. Maybe there shouldn’t be."
+    "title": "Yale Seeks Trump Administration Deal in Inquiry Over Race and Admissions",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/yale-trump-administration-admissions-race.html",
+    "summary": "The university hired a high-powered law firm to try to reach an agreement with the Justice Department over claims its admissions practices hurt white and Asian applicants."
+  },
+  {
+    "title": "Freedom Con: Thousands of Men Gather for Christianity and Feats of Strength",
+    "link": "https://www.nytimes.com/2026/06/26/us/politics/freedom-con-christian-men.html",
+    "summary": "Thousands of men and boys gathered in central Washington for masculinity, Christianity and right-wing politics."
   },
   {
     "title": "With ‘Supergirl,’ Milly Alcock is Learning to Accept the Fear",
@@ -145,28 +70,48 @@
     "summary": "Milly Alcock is naturally appealing in this derivative, if altogether watchable, superhero movie."
   },
   {
-    "title": "The Supreme Court Is Unshackling the Presidency",
+    "title": "The Man Who Cried Goooooooooooal",
+    "link": "https://www.nytimes.com/2026/06/26/arts/television/andres-cantor-telemundo-world-cup-goal.html",
+    "summary": "The Telemundo announcer Andrés Cantor must train to deliver his famed scoring celebration for the World Cup, where he could call 20 games in about a month."
+  },
+  {
+    "title": "Best Investments Over the Last 100 Years? Almost All Are Tech Companies.",
+    "link": "https://www.nytimes.com/2026/06/26/business/apple-nvidia-tesla-spacex-stock-market-winners.html",
+    "summary": "What’s most surprising is that Tesla and SpaceX have entered that elite group. A vast majority of companies weren’t worth owning, a long-running study shows."
+  },
+  {
+    "title": "In Europe, Tesla Sales Are Rising Despite Views on Elon Musk",
+    "link": "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html",
+    "summary": "Price cuts and low-interest-rate loans are luring buyers, including people offended by the company’s chief executive."
+  },
+  {
+    "title": "Small Plane Crashes Into Tallest Building in Beijing",
+    "link": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
+    "summary": "Crowds in the capital’s central business district fled as the crash sent debris falling into the streets below."
+  },
+  {
+    "title": "In London, You Can Celebrate America’s 250th Birthday From the British Side",
+    "link": "https://www.nytimes.com/2026/06/26/travel/america-250-birthday-london-uk.html",
+    "summary": "Britain may have lost the Revolutionary War, but London still holds the blueprints of the American Revolution. Follow in the founders’ footsteps at these notable places."
+  },
+  {
+    "title": "For the U.S.’s 250th Birthday, a German Declaration of Independence Goes on Show",
+    "link": "https://www.nytimes.com/2026/06/26/arts/design/german-declaration-of-independence.html",
+    "summary": "The presentation of an original German-language translation in Berlin is an opportunity to consider the shared history of the United States and Germany."
+  },
+  {
+    "title": "Why Is the Supreme Court Unshackling the Presidency?",
     "link": "https://www.nytimes.com/2026/06/26/opinion/supreme-court-ruling-tps-immigration-trump.html",
     "summary": "Where is Chief Justice John Roberts? And why isn’t he putting limits on this administration?"
   },
   {
-    "title": "Is It Time for a New Sexual Revolution?",
-    "link": "https://www.nytimes.com/2026/06/25/opinion/gender-sexual-revolution-men-women.html",
-    "summary": "One that actually brings men and women together."
+    "title": "In Cuba, Where So Many Have Left, These Artists Have Stayed",
+    "link": "https://www.nytimes.com/2026/06/26/opinion/cuba-migration-havana-artists.html",
+    "summary": "Four young Cubans grapple with what it means to stay on an island facing unprecedented migration."
   },
   {
-    "title": "Protected No More",
-    "link": "https://www.nytimes.com/2026/06/26/briefing/supreme-court-immigration-rulings.html",
-    "summary": "We look at the impact of the Supreme Court’s immigration rulings."
-  },
-  {
-    "title": "Late Night Grades the Attractions at the Great American State Fair",
-    "link": "https://www.nytimes.com/2026/06/26/arts/television/late-night-great-american-state-fair-trump.html",
-    "summary": "The fair has everything, Jimmy Fallon said, including “a Trump approval rating roller coaster, which has the biggest drop in history.”"
-  },
-  {
-    "title": "Mamdani’s Rent Freeze Is Approved by New York City Board",
-    "link": "https://www.nytimes.com/2026/06/25/nyregion/nyc-rent-freeze-vote-mamdani.html",
-    "summary": "Mayor Zohran Mamdani’s pledge to freeze rents for rent-stabilized apartments became a centerpiece of his campaign. Six months into his first year, a city panel delivered."
+    "title": "Canada’s 24 Sussex Drive Is a Dump. Mark Carney Is Going to Fix It Up.",
+    "link": "https://www.nytimes.com/2026/06/26/world/canada/carney-ottawa-24-sussex-drive.html",
+    "summary": "The prime minister’s official residence in Ottawa, in disrepair and vacant for more than a decade, has become the country’s most prominent home renovation project."
   }
 ]

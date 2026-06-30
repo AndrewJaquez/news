@@ -1,13 +1,18 @@
 [
   {
-    "title": "‘Chaos Will Follow’ Ruling Allowing Trump Firings, Dissent Predicts",
-    "link": "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-trump-firings-dissent.html",
-    "summary": "In a rare dissent from the bench, Justice Sonia Sotomayor said that the Supreme Court undid “centuries of political practice,” and that the court concluded that the federal government had been acting in “open defiance of the Constitution.”"
+    "title": "Trump Renews Threat to Fire Fed Governor Lisa Cook After Supreme Court Ruling",
+    "link": "https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html",
+    "summary": "President Trump promised to “take appropriate action immediately” against Lisa Cook, the Fed governor he had tried to fire, even as the court affirmed that Fed officials can be fired only for cause."
   },
   {
-    "title": "Supreme Court Upholds Grace Period to Count Mail-In Ballots That Arrive After Election Day",
-    "link": "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-late-mail-ballots.html",
-    "summary": "The justices had been asked to examine the legality of the state’s grace period for late-arriving mail-in ballots."
+    "title": "Supreme Court Expands Trump’s Power to Fire Officials but Prevents Lisa Cook Removal",
+    "link": "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-independent-regulator-firings.html",
+    "summary": "In twin rulings, the Supreme Court affirmed the Fed’s independence and said its leaders could not be fired at will, but said President Trump could fire other independent regulators for any reason."
+  },
+  {
+    "title": "Supreme Court Decision on Late-Arriving Mail-In Ballots Grants Relief to 18 States",
+    "link": "https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html",
+    "summary": "The Supreme Court ruled on Monday that state laws allowing ballots to arrive after Election Day are legal. The decision is the latest in a series of setbacks for President Trump’s efforts to regulate elections."
   },
   {
     "title": "Supreme Court Rejects Trump’s Request to Appeal $5 Million Verdict in E. Jean Carroll Case",
@@ -15,24 +20,34 @@
     "summary": "President Trump had asked the justices to intervene after a jury found that he had sexually abused and defamed the writer E. Jean Carroll."
   },
   {
+    "title": "The Supreme Court Expands Presidential Power",
+    "link": "https://www.nytimes.com/2026/06/29/briefing/supreme-court-presidential-power.html",
+    "summary": "Also, NASA plans to catch a falling space telescope and nudge it up. Here’s the latest at the end of Monday."
+  },
+  {
     "title": "‘No One’s Coming to Save Us but Us’: Gen Z Runs for Office",
     "link": "https://www.nytimes.com/2026/06/29/us/elections/colorado-primary-gen-z.html",
     "summary": "Melat Kiros’s challenge Tuesday to Representative Diana DeGette, who was elected the year before Ms. Kiros was born, is the latest Gen Z test in a year defined by generational upheaval."
   },
   {
-    "title": "Why Trump Is Giving Republicans Midterms Anxiety",
-    "link": "https://www.nytimes.com/video/us/politics/100000010993276/why-trump-is-giving-republicans-midterms-anxiety.html",
-    "summary": "Ahead of the midterms, Republicans have sought to focus on the issue of affordability, but the president keeps going off script. Our White House correspondent Tyler Pager explains."
+    "title": "California Hopes to Speed Up Election Results With $40 Million Infusion",
+    "link": "https://www.nytimes.com/2026/06/29/us/california-election-ballot-counting-money.html",
+    "summary": "It took six days to determine the outcome of the primary for Los Angeles mayor, and seven for the governor’s race."
   },
   {
-    "title": "Why Maine Has Turned Into Such a Tight Race",
-    "link": "https://www.nytimes.com/2026/06/29/upshot/poll-maine-platner-collins.html",
-    "summary": "A Times/Siena poll reveals several crosscurrents in a key contest for Senate control."
+    "title": "Judge Orders Trump to End Efforts to Kill Hudson Tunnel Funding",
+    "link": "https://www.nytimes.com/2026/06/29/nyregion/hudson-tunnel-trump-funding-judge-ruling.html",
+    "summary": "Federal judge says that the administration’s attempts to block money for the $16 billion rail project were “flagrantly” illegal."
   },
   {
-    "title": "Voters Think A.I. Is Terrible. In Campaigns, It’s Everywhere.",
-    "link": "https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html",
-    "summary": "A.I.-generated images are the public face of this election overhaul. Behind the scenes, campaigns are using the technology to analyze voter data, craft campaign materials and write custom messages."
+    "title": "Trump on Legislation to Address the Nation’s Housing Crisis: ‘It’s a Yawn’",
+    "link": "https://www.nytimes.com/2026/06/29/us/politics/trump-housing-bill.html",
+    "summary": "Time and again, President Trump has brushed off Americans’ concerns about the economy and their financial situations."
+  },
+  {
+    "title": "Clash Unfolds as Trump Administration Pushes Intelligence Agencies to Share Foreign Espionage Targets",
+    "link": "https://www.nytimes.com/2026/06/29/us/trump-intelligence-agencies-spies-master-list.html",
+    "summary": "The clash reflects increasing skepticism of the Office of the Director of National Intelligence, which has been willing to pursue President Trump’s priorities."
   },
   {
     "title": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough",
@@ -45,9 +60,9 @@
     "summary": "Scholars say the “unknown unknowns” of using artificial intelligence in the workplace may be undermining the technology’s advertised benefits."
   },
   {
-    "title": "China Emerges as a Relative Winner From Strait of Hormuz Crisis",
-    "link": "https://www.nytimes.com/2026/06/29/business/economy/china-iran-strait-of-hormuz.html",
-    "summary": "A report examines how the war in Iran has weighed on Asian economies, but left China in a more advantageous position."
+    "title": "$22,000 Per Hour: Assistants Use a Legislative Loophole to Outearn Surgeons",
+    "link": "https://www.nytimes.com/2026/06/29/upshot/assistant-surgeons-loophole-pay.html",
+    "summary": "A law meant to end surprise medical billing has led to large paydays for some surgical assistants, who can earn far more than the doctors they help."
   },
   {
     "title": "Did American-Style ‘Gentle Parenting’ Spoil French Children?",
@@ -55,29 +70,29 @@
     "summary": "As positive parenting takes over France, one psychologist’s call for a return to discipline has set off a furious debate."
   },
   {
-    "title": "$22,000 Per Hour: Assistants Use a Legislative Loophole to Outearn Surgeons",
-    "link": "https://www.nytimes.com/2026/06/29/upshot/assistant-surgeons-loophole-pay.html",
-    "summary": "A law meant to end surprise medical billing has led to large paydays for some surgical assistants, who can earn far more than the doctors they help."
-  },
-  {
-    "title": "Comcast to Spin Off NBCUniversal, Ending a Long Union of Cable and Media",
-    "link": "https://www.nytimes.com/2026/06/29/business/comcast-nbcuniversal-spinoff.html",
-    "summary": "The media business, which owns NBC News and Universal Pictures, will be separated from Comcast’s cable and internet business, following a trend in the media industry."
+    "title": "Efforts to Rescue Venezuela Quake Victims Grow More Desperate",
+    "link": "https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-victims-rescue-deaths.html",
+    "summary": "The death toll has risen to over 1,700, which is likely an undercount."
   },
   {
     "title": "See Day-by-Day Forecast as Heat Wave Engulfs U.S. Ahead of the July 4 Weekend",
     "link": "https://www.nytimes.com/2026/06/29/weather/us-heat-wave-forecast.html",
-    "summary": "Dangerous heat is expected across much of the country through the July 4 weekend."
+    "summary": "Dangerous heat is expected across much of the country through the Fourth of July weekend."
   },
   {
-    "title": "Europe Heat Wave: Forecasts, Warnings and How to Stay Cool",
-    "link": "https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html",
-    "summary": "A heat wave responsible for shattering numerous temperature records in Western Europe continued its shift east."
+    "title": "Emily Barker Loved Fighting Fires. She Died in One She Couldn’t Escape.",
+    "link": "https://www.nytimes.com/2026/06/29/us/women-forest-firefighter-deaths-emily-barker.html",
+    "summary": "Emily Barker was one of two women who died fighting a large forest fire in Colorado this week."
   },
   {
-    "title": "France Recorded 1,000 Excess Deaths During Heat Wave, Officials Say",
-    "link": "https://www.nytimes.com/2026/06/29/world/europe/france-heat-wave-excess-deaths.html",
-    "summary": "First estimates published by the national health agency listed hundreds more deaths per day compared with the daily death rate in previous months."
+    "title": "What to Know About Wildfires in Colorado and Other Western States",
+    "link": "https://www.nytimes.com/2026/06/29/us/what-to-know-wildfires-colorado-utah-arizona-new-mexico-nevada.html",
+    "summary": "Thousands of acres in Utah and other Western states have burned. Here is what to know about the firefighters who have died, the destruction so far and the spreading smoke."
+  },
+  {
+    "title": "How the Wildfires in Colorado and Utah Were Poised to Spark",
+    "link": "https://www.nytimes.com/2026/06/29/weather/utah-colorado-fire-drought.html",
+    "summary": "Since last week, meteorologists issued a series of increasingly dire warnings about extremely critical weather conditions."
   },
   {
     "title": "The Best Movies of 2026 So Far, and Where to Watch Them",
@@ -85,14 +100,14 @@
     "summary": "Now is a good time to catch up on films you may have missed. Our critics have thoughts."
   },
   {
-    "title": "NASA Aims to Catch a Falling Space Telescope and Push It Back Up",
-    "link": "https://www.nytimes.com/2026/06/29/science/nasa-falling-space-telescope-swift.html",
-    "summary": "A rescue mission will soon be underway for NASA’s Swift telescope."
+    "title": "In Peru’s Presidential Election, Keiko Fujimori Gives the Right in Latin America Another Win",
+    "link": "https://www.nytimes.com/2026/06/29/world/americas/peru-presidential-election-keiko-fujimori-conservative.html",
+    "summary": "Keiko Fujimori, a daughter of the former strongman Alberto Fujimori, returns her family’s movement to power, but with a narrow victory in a divided country."
   },
   {
-    "title": "Naomi Osaka Serves Up a Fashion Slam at Wimbledon",
-    "link": "https://www.nytimes.com/2026/06/29/style/naomi-osaka-fashion-wimbledon.html",
-    "summary": "The tennis player once again offered some on-court couture."
+    "title": "In Michigan, the Most Moderate Candidate May Not Be the Most Electable",
+    "link": "https://www.nytimes.com/2026/06/29/opinion/haley-stevens-michigan-democrats.html",
+    "summary": "The case for Haley Stevens’s candidacy rests on electability, but it’s far from clear how electable she really is."
   },
   {
     "title": "The Supreme Court Just Handed Trump a Dangerous New Power",
@@ -100,18 +115,8 @@
     "summary": "The Supreme Court is bestowing new powers on a president who often behaves as an aspiring autocrat."
   },
   {
-    "title": "The Trump Vibe Shift Was Just a Mirage",
-    "link": "https://www.nytimes.com/2026/06/29/opinion/politics/trump-vibe-shift.html",
-    "summary": "The country does not love its president."
-  },
-  {
-    "title": "Migration Woes",
-    "link": "https://www.nytimes.com/2026/06/29/briefing/south-africa-immigration.html",
-    "summary": "We look into the anti-immigrant movement in South Africa."
-  },
-  {
-    "title": "Could GLP-1 Drugs Help You Live Longer?",
-    "link": "https://www.nytimes.com/2026/06/29/well/glp1-drugs-ozempic-longevity.html",
-    "summary": "Experts are intrigued by the theory. Here’s what early research suggests."
+    "title": "6 Dead in Rare Shooting in Germany Over Custody of Girl, Police Say",
+    "link": "https://www.nytimes.com/2026/06/29/world/europe/germany-shooting-stade.html",
+    "summary": "The authorities said a 45-year-old man opened fire at a youth facility after a quarrel about the custody of his baby daughter. The dead were all facility employees."
   }
 ]

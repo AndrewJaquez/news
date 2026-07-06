@@ -1,23 +1,38 @@
 [
   {
+    "title": "As Trump Cools on NATO, Turkey Hosts Summit Meeting",
+    "link": "https://www.nytimes.com/2026/07/06/world/middleeast/nato-summit-turkey-erdogan-trump.html",
+    "summary": "As President Trump cools on the alliance, its members see Turkey’s large military and vibrant defense sector as assets."
+  },
+  {
     "title": "Deadly Russian Strikes Rock Kyiv on Eve of NATO Summit",
     "link": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html",
     "summary": "Ballistic missiles were fired into the capital of Ukraine as Russia launched its second major attack in less than a week. At least 12 people were killed, officials said."
   },
   {
-    "title": "Trump Asked FIFA to Review U.S. Player’s Suspension. Now He’s Eligible to Play.",
-    "link": "https://www.nytimes.com/2026/07/05/us/trump-fifa-balogun-world-cup.html",
-    "summary": "The reversal of Folarin Balogun’s World Cup suspension is highly unusual. It was the first time since 1962 that FIFA has nullified a suspension for a red card received during the World Cup."
+    "title": "Ukraine Remade Air Defense, but Russia Has Changed Its Attacks",
+    "link": "https://www.nytimes.com/2026/07/06/world/europe/ukraine-russia-patriot-air-defense.html",
+    "summary": "Ukraine has changed how militaries use Patriot systems. But recent attacks prove that clever adaptations cannot overcome a shortage of interceptors."
   },
   {
-    "title": "Andy Burnham, the UK’s Likely Next Prime Minister, Made His Name in Manchester. Here’s How.",
-    "link": "https://www.nytimes.com/2026/07/06/world/europe/andy-burnham-manchesterism-uk.html",
-    "summary": "Andy Burnham was mayor of Greater Manchester for nine years. His time there came to define his identity — and his pitch to lead Britain."
+    "title": "Erdogan-Trump Friendship Can Help NATO, Turkey’s Foreign Minister Says",
+    "link": "https://www.nytimes.com/2026/07/06/world/europe/nato-turkey-erdogan-trump-hakan-fidan.html",
+    "summary": "In an interview, Turkey’s top diplomat, Hakan Fidan, said the relationship between President Recep Tayyip Erdogan and President Trump could ease NATO tensions."
   },
   {
-    "title": "How Manchester’s Bee Buses and Trams Helped Fuel Andy Burnham’s Rise",
-    "link": "https://www.nytimes.com/2026/07/06/world/europe/buses-andy-burnham-greater-manchester-bee.html",
-    "summary": "Andy Burnham brought Greater Manchester’s public transit back under public control, making buses more frequent and capping fares."
+    "title": "Huge Crowds Gather for Ayatollah’s Funeral, and China Tests Long-Range Ballistic Missile",
+    "link": "https://www.nytimes.com/2026/07/06/podcasts/the-headlines/huge-crowds-gather-for-ayatollahs-funeral-and-china-tests-long-range-ballistic-missile.html",
+    "summary": "Plus, an unusual World Cup reversal."
+  },
+  {
+    "title": "Belgium Expresses Shock After FIFA Lifts U.S. Player’s Suspension",
+    "link": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
+    "summary": "The American striker Folarin Balogun is eligible to play in a World Cup match against Belgium on Monday night after soccer officials reversed his one-game ban."
+  },
+  {
+    "title": "In Trump’s Second Midterm, Democrats Are Looking for Fighters",
+    "link": "https://www.nytimes.com/2026/07/06/us/politics/democrats-midterms-trump-mood-fighters.html",
+    "summary": "Attitudes in the party have shifted, Democrats say, with a growing appetite for outsider candidates vowing to overhaul the system. Some worry that the trend could be costly in November."
   },
   {
     "title": "Mallory McMorrow Suspends Senate Bid in Democrats’ Heated Michigan Primary",
@@ -25,14 +40,24 @@
     "summary": "The state senator sought to carve a middle path between a left-wing candidate and one backed by the party establishment, but she gained little traction."
   },
   {
-    "title": "Trump Administration Rolls Back Dozens of Gun Regulations",
-    "link": "https://www.nytimes.com/2026/07/05/us/politics/trump-gun-rights-laws.html",
-    "summary": "Critics say the administration is weakening public safety. Proponents say regulations would be where they were before President Joseph R. Biden took office."
+    "title": "China Test Fires Long-Range Ballistic Missile in the Pacific",
+    "link": "https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html",
+    "summary": "China’s firing of a submarine-launched missile came as Australia secured more defense deals with Pacific Island nations. Countries expressed concern about the test."
   },
   {
-    "title": "White House Criticizes Smithsonian Museum for ‘Extreme Political Activism’",
-    "link": "https://www.nytimes.com/2026/07/05/arts/design/white-house-smithsonian-american-history-museum.html",
-    "summary": "A scathing report released on the Fourth of July says the National Museum of American History downplays the role of the founders while emphasizing social justice."
+    "title": "Fatigue, Tension, Joy: England Pulls a World Cup All-Nighter",
+    "link": "https://www.nytimes.com/2026/07/06/world/europe/england-mexico-world-cup-london.html",
+    "summary": "The game against Mexico started at 2 a.m. in Britain. Pubs were allowed to stay open unusually late for fans to share the drama together."
+  },
+  {
+    "title": "The Funeral of Iran’s Supreme Leader Ayatollah Ali Khamenei",
+    "link": "https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html",
+    "summary": "Iran’s new leaders are commemorating Ayatollah Khamenei, who was killed on the first day of the U.S.-Israeli war against the country, with a funeral unlike any other in the country’s recent history."
+  },
+  {
+    "title": "Emil Bove Defended Trump in Court. Then Trump Made Him a Judge.",
+    "link": "https://www.nytimes.com/2026/07/06/us/emil-bove-judge-trump.html",
+    "summary": "President Trump is appointing his former personal lawyers to judgeships, part of a larger effort to put his stamp on the federal courts."
   },
   {
     "title": "How Trump Put Himself in the Middle of America’s 250th",
@@ -40,34 +65,24 @@
     "summary": "The president placed his image and initiatives front and center, blurring the line, critics said, between loyalty to nation and loyalty to him."
   },
   {
-    "title": "At Trump’s Direction, Federal Agencies Are Abandoning Discrimination Cases",
-    "link": "https://www.nytimes.com/2026/07/05/us/politics/trump-dei-order-eeoc-discrimination.html",
-    "summary": "President Trump has tried to scale back anti-discrimination regulations that date back decades. Federal agencies have heeded his call."
+    "title": "For Families With Nonspeaking Autistic Children, a Fierce Debate Over Assisted Spelling",
+    "link": "https://www.nytimes.com/2026/07/06/science/autism-assisted-spelling-nonspeaking.html",
+    "summary": "Popular communication methods for nonspeaking autistic people have ignited a fierce debate over what counts as evidence of hidden cognitive abilities."
   },
   {
-    "title": "China Test Fires Long-Range Ballistic Missile in the Pacific",
-    "link": "https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html",
-    "summary": "China’s firing of a submarine-launched missile came as Australia secured more defense deals with Pacific Island nations. Countries expressed concern about the test."
+    "title": "With $8 Billion in Venezuelan Oil Money, U.S. Gives $300 Million in Quake Aid",
+    "link": "https://www.nytimes.com/2026/07/06/world/americas/earthquake-venezuela-haiti-us-aid.html",
+    "summary": "In 2010, there was a huge U.S. aid effort after a quake in Haiti. Today, U.S. officials say they oversee billions in Venezuelan oil revenue, but aid is less."
   },
   {
-    "title": "Wikipedia Is Battling for the Soul of the Internet",
-    "link": "https://www.nytimes.com/2026/07/05/business/media/wikipedia-ai-elon-musk.html",
-    "summary": "The internet’s largest stockpile of free knowledge is under threat from MAGA, A.I. and foreign autocrats. A bibliophile ex-ambassador is here to help."
+    "title": "Sites That Report Venezuela’s Missing Rise Far From Quake Zone",
+    "link": "https://www.nytimes.com/2026/07/06/world/americas/venezuela-earthquake-missing.html",
+    "summary": "Despite problems like duplicate submissions, tallies gathered by the websites have been cited by news organizations and critics of the Venezuelan government’s disaster response."
   },
   {
-    "title": "How Meta’s Threads Became as Popular as X",
-    "link": "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html",
-    "summary": "The social platform that Meta once positioned as a rival to Elon Musk’s X now has 500 million monthly users. It increasingly resembles Reddit."
-  },
-  {
-    "title": "Searching for What Pretty Means After an Acid Attack",
-    "link": "https://www.nytimes.com/2026/07/05/nyregion/nafiah-ikram-acid-attack.html",
-    "summary": "Nafiah Ikram was steps from her home when a stranger threw acid in her face. Five years later, she is trying to rebuild her life and cope with a stunning twist in her case."
-  },
-  {
-    "title": "The Main Attraction at Africa’s Most Lucrative Horse Race? Black Wealth.",
-    "link": "https://www.nytimes.com/2026/07/05/world/africa/durban-july-south-africa-black-wealth.html",
-    "summary": "In South Africa, where the Black majority was excluded from the economy for generations, the annual Durban July event is a chance to celebrate luxury and high society."
+    "title": "Research Universities Are Admitting Fewer Ph.D.s, a Bad Sign for Science",
+    "link": "https://www.nytimes.com/2026/07/06/us/research-universities-fewer-phds-science.html",
+    "summary": "Some of the nation’s top research universities are shrinking doctoral programs because of uncertain federal funding."
   },
   {
     "title": "Bring Back the SAT, California",
@@ -80,8 +95,13 @@
     "summary": "Over the years, I have moved toward the way of being Jewish that my father rejected."
   },
   {
-    "title": "Years of Warnings About Public Housing Preceded Venezuela’s Earthquakes",
-    "link": "https://www.nytimes.com/2026/07/05/world/americas/venezuela-earthquake-la-guaira-building-collapse-government.html",
-    "summary": "Residents, construction experts and seismologists said for years that Venezuela’s public housing would be vulnerable in a natural disaster."
+    "title": "The Latest News",
+    "link": "https://www.nytimes.com/2026/07/06/briefing/the-latest-news.html",
+    "summary": "Catch up after the long weekend."
+  },
+  {
+    "title": "Andy Burnham, the UK’s Likely Next Prime Minister, Made His Name in Manchester. Here’s How.",
+    "link": "https://www.nytimes.com/2026/07/06/world/europe/andy-burnham-manchesterism-uk.html",
+    "summary": "Andy Burnham was mayor of Greater Manchester for nine years. His time there came to define his identity — and his pitch to lead Britain."
   }
 ]

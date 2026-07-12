@@ -2,22 +2,17 @@
   {
     "title": "Senator Lindsey Graham, Republican of South Carolina, Dies at 71",
     "link": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
-    "summary": "Mr. Graham died of a “brief and sudden” illness on Saturday evening, his office said. He served in the Senate for more than two decades."
+    "summary": "Mr. Graham died of a “brief and sudden” illness on Saturday evening, his office said. Over more than two decades in the Senate, he consistently pushed for the use of U.S. military power overseas."
   },
   {
-    "title": "White House Directed Patel to Oversee Investigation Involving Times Reporting",
-    "link": "https://www.nytimes.com/2026/07/11/us/politics/white-house-patel-investigation-times.html",
-    "summary": "The F.B.I. director spent about eight hours at the White House Friday focused on the effort, which led to the subpoenaing of several Times reporters who wrote about the security of Air Force One."
+    "title": "World Leaders Remember Senator Lindsey Graham",
+    "link": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-world-react.html",
+    "summary": "Mr. Graham’s sudden death on Saturday prompted a wave of tributes for an outsize and often divisive figure in U.S. foreign policy for two decades."
   },
   {
-    "title": "How Marco Rubio Is Running Venezuela From Afar",
-    "link": "https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html",
-    "summary": "The secretary of state effectively controls Venezuela’s finances, the distribution of its natural resources and its government. His grip on the country is a vivid manifestation of American power in the Trump era."
-  },
-  {
-    "title": "Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
-    "link": "https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html",
-    "summary": "The state’s large Muslim and Somali communities expressed indignation after the president reposted a video of a kindergarten promotion ceremony, including comments noting the girls were in hijabs."
+    "title": "Hard-Liners in Iran Want to Keep Fighting America",
+    "link": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
+    "summary": "With much of their leadership killed in the war, Iran’s conservatives have sought to fill the void and intensify the fight against the United States."
   },
   {
     "title": "How Putin Turned Japan Into a Den of Spies",
@@ -30,23 +25,63 @@
     "summary": "With its mass-produced and inexpensive A.I. powered war machines, the German start-up Helsing SE illustrates a profound shift in military spending."
   },
   {
-    "title": "Mick Jagger Knows He May Have Played His Last Rolling Stones Show",
-    "link": "https://www.nytimes.com/2026/07/11/magazine/mick-jagger-interview.html",
-    "summary": "The legendary rock star, now 82, on how fame, touring and aging have changed him."
+    "title": "Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.",
+    "link": "https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html",
+    "summary": "The Iran and Ukraine wars underline the common limits of military force in achieving political ends, but also the differences between a dug-in Russian president and a vacillating American one."
   },
   {
-    "title": "The World Is Cutting Ties With America. It’s Already Costing Us.",
-    "link": "https://www.nytimes.com/2026/07/12/opinion/america-trump-nato-europe-world.html",
-    "summary": "When other countries cut ties, Americans pay."
+    "title": "White House Directed Patel to Oversee Investigation Involving Times Reporting",
+    "link": "https://www.nytimes.com/2026/07/11/us/politics/white-house-patel-investigation-times.html",
+    "summary": "The F.B.I. director spent about eight hours at the White House Friday focused on the effort, which led to the subpoenaing of several Times reporters who wrote about the security of Air Force One."
   },
   {
-    "title": "Serena Williams Is Back. Thank Goodness.",
-    "link": "https://www.nytimes.com/2026/07/12/opinion/serena-williams-returns-tennis-wimbledon.html",
-    "summary": "Until Serena Williams announced her return to tennis at 44, I never realized how much I needed her."
+    "title": "Trump Justifies $2 Billion Made as President With Inaccurate Claims",
+    "link": "https://www.nytimes.com/2026/07/11/us/politics/trump-money-crypto-financial-gains.html",
+    "summary": "President Trump has wrongly attributed the $2 billion windfall he gained during his second term to a hot stock market and claimed that he was the only president to donate his salary."
   },
   {
-    "title": "Toronto Police Search For Active Shooter After 2 Killed at Street Festival",
-    "link": "https://www.nytimes.com/2026/07/11/world/canada/toronto-shooting-salsa-festival-canada.html",
-    "summary": "The shooting disrupted a weekend Latino celebration where hundreds had gathered on Saturday evening."
+    "title": "What We Know About the ICE Shooting of Lorenzo Salgado Araujo",
+    "link": "https://www.nytimes.com/2026/07/09/us/houston-ice-shooting-lorenzo-salgado-araujo.html",
+    "summary": "Mr. Araujo was a father, a husband and a business owner who had moved to the United States 35 years ago from Mexico."
+  },
+  {
+    "title": "The Democratic Socialists Winning Elections Far From New York City",
+    "link": "https://www.nytimes.com/2026/07/12/nyregion/dsa-upstate-new-york.html",
+    "summary": "They won Democratic state legislative primaries in Buffalo and Syracuse, showing how the party’s messaging and ground game can work outside New York City."
+  },
+  {
+    "title": "Younger Voters Are Propelling the Democratic Socialist Surge in New York",
+    "link": "https://www.nytimes.com/2026/07/12/nyregion/dsa-young-voters-primary-ny.html",
+    "summary": "Age seemed to be the predominant factor in the Democratic Socialists of America’s primary wins in House races in New York City."
+  },
+  {
+    "title": "How an Election Fight in Arizona Could Affect the Nation’s Midterms",
+    "link": "https://www.nytimes.com/2026/07/12/us/elections/maricopa-county-election-security.html",
+    "summary": "A bitter struggle between Maricopa County’s Republican-dominated Board of Supervisors and a Trump-allied official over control of elections has ramifications far beyond Greater Phoenix."
+  },
+  {
+    "title": "How a Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist",
+    "link": "https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html",
+    "summary": "The world’s most valuable assets are stored on rows of servers in giant, anonymous buildings. And they can be stolen."
+  },
+  {
+    "title": "Trump’s Corruption Stains, From Texas to Maine",
+    "link": "https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html",
+    "summary": "Something is wrong if vice is all them and virtue is all you."
+  },
+  {
+    "title": "We’re Living in a Tick Nightmare. It’s Time to Go to War.",
+    "link": "https://www.nytimes.com/2026/07/11/opinion/ticks-disease-lyme-alpha-gal.html",
+    "summary": "With ticks, we’ve barely begun to fight back. The longer we wait, the more territory they will claim across both our geographic and psychic maps."
+  },
+  {
+    "title": "Cold Plunging",
+    "link": "https://www.nytimes.com/2026/07/12/briefing/cold-plunging.html",
+    "summary": "A writer reflects on the healing powers of trying new things."
+  },
+  {
+    "title": "Inside Herat, Where a Taliban Campaign Targets a Cosmopolitan Outpost",
+    "link": "https://www.nytimes.com/2026/07/12/world/asia/taliban-morality-police-herat-protests.html",
+    "summary": "Afghanistan’s leader has exerted full control over a city that once enjoyed looser social norms, even under Taliban rule."
   }
 ]

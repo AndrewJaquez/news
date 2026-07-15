@@ -1,5 +1,15 @@
 [
   {
+    "title": "China’s Economy Grows at Slowest Pace in Years",
+    "link": "https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html",
+    "summary": "Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might."
+  },
+  {
+    "title": "China’s Chip Champion to Raise Billions in Race for A.I. Control",
+    "link": "https://www.nytimes.com/2026/07/15/business/china-chips-cxmt-ipo.html",
+    "summary": "CXMT, a linchpin in China’s drive to develop homegrown artificial intelligence technology, is aiming to raise nearly $10 billion in a blockbuster public offering in Shanghai."
+  },
+  {
     "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
     "link": "https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html",
     "summary": "The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses."
@@ -25,9 +35,14 @@
     "summary": "Kristi Noem, the former homeland security secretary, said five months ago that the Trump administration would “rapidly” deploy body cameras to immigration agents across the country. About half still don’t have them."
   },
   {
-    "title": "ICE Is Ordered to Pause Most Vehicle Stops",
-    "link": "https://www.nytimes.com/2026/07/14/briefing/ice-is-ordered-to-pause-most-vehicle-stops.html",
-    "summary": "Also, Trump drops his plan for a Strait of Hormuz fee. Here’s the latest at the end of Tuesday."
+    "title": "An ICE Shooting in Maine Puts Pressure on Senator Susan Collins",
+    "link": "https://www.nytimes.com/2026/07/14/us/politics/ice-shooting-maine-susan-collins.html",
+    "summary": "The Democrats hoping to challenge Ms. Collins, a vulnerable Republican, have seized on the fatal incident, drawing attention to her record on immigration matters."
+  },
+  {
+    "title": "Colombian Immigrant Killed by ICE in Maine Had Legal Status, Father Says",
+    "link": "https://www.nytimes.com/2026/07/14/us/joan-sebastian-guerrero-maine-ice-shooting.html",
+    "summary": "The father of Joan Sebastian Guerrero, the man fatally shot by a federal immigration agent on Monday, said his son had been working two jobs to support his wife and daughter."
   },
   {
     "title": "As Confirmation Hearing Nears, Todd Blanche’s Role in Epstein Case Draws Scrutiny",
@@ -35,9 +50,9 @@
     "summary": "Todd Blanche’s role in interviewing Ghislaine Maxwell, a longtime associate of the convicted sex offender Jeffrey Epstein, will be front and center as he seeks to become attorney general."
   },
   {
-    "title": "Trump Paid $2 Million by South Korean Company Facing Trade Investigation",
-    "link": "https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html",
-    "summary": "The payment illustrates the minefield Mr. Trump has created by maintaining personal financial ties with foreign businesses while he is in office."
+    "title": "Trump Says His Thursday Speech Will Focus on Election Security and Voting Machines",
+    "link": "https://www.nytimes.com/2026/07/14/us/politics/trump-speech-voting-elections.html",
+    "summary": "The planned prime-time address comes as an administration task force has been working to declassify documents, including some related to elections, according to people familiar with the process."
   },
   {
     "title": "Trump Administration Subpoenas Law Firms, Escalating Pressure Campaign",
@@ -48,11 +63,6 @@
     "title": "Opportunities Narrow for Women as Hegseth Blocks More Promotions",
     "link": "https://www.nytimes.com/2026/07/14/us/hegseth-blocks-navy-promotions.html",
     "summary": "For the first time in more than a decade, no active-duty female Navy officers are likely to be promoted to admiral this year."
-  },
-  {
-    "title": "Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security",
-    "link": "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-takeaways.html",
-    "summary": "Elena Kagan and Amy Coney Barrett, the first Supreme Court justices to testify since 2019, talked about ethics and security threats during collegial hearings."
   },
   {
     "title": "An Elite N.Y.C. Public School Admitted 777 Students. Only 3 Were Black.",
@@ -70,29 +80,14 @@
     "summary": "A federal jury found President Trump liable for sexually abusing and defaming Ms. Carroll. He exhausted his appeals last month, prompting a judge to order that the money be paid."
   },
   {
-    "title": "A Beastie Boy Returns to the Mic, With Some Help",
-    "link": "https://www.nytimes.com/2026/07/14/arts/music/mike-d-new-album-beastie-boys.html",
-    "summary": "Thanks to an assist from his sons, Mike D is set to release “Thank You,” the first new music from a member of the pioneering rap trio in 15 years."
-  },
-  {
     "title": "House Votes for Permanent Daylight Saving Time",
     "link": "https://www.nytimes.com/2026/07/14/us/politics/house-daylight-savings-time-sunshine-protection-act.html",
     "summary": "House Republicans and Democrats united in favor of a bill to eliminate semiannual clock-changing, but it faces an uncertain fate in the Senate."
   },
   {
-    "title": "Texas Faces Potentially ‘Catastrophic’ Amounts of Rain",
-    "link": "https://www.nytimes.com/2026/07/14/weather/texas-flash-flooding-rain.html",
-    "summary": "Intense storms overnight dropped heavy rain, and more was falling Tuesday. Forecasters warned about the increasing likelihood of flooding across the state."
-  },
-  {
-    "title": "Tornadoes in Maine? A Rare Forecast for Parts of U.S. and Canada",
-    "link": "https://www.nytimes.com/2026/07/14/weather/maine-vermont-tornado-quebec.html",
-    "summary": "Storms on Tuesday could produce damaging winds, large hail and even tornadoes in areas where they are not common."
-  },
-  {
-    "title": "Restaurant Review: Ambassadors Clubhouse in New York",
-    "link": "https://www.nytimes.com/2026/07/14/dining/restaurant-review-ambassadors-clubhouse-nyc.html",
-    "summary": "At the high-flying New York outpost of Ambassadors Clubhouse, the Punjabi cooking is beguiling and the city feels miles away."
+    "title": "Alzheimer’s Blood Tests Offer New Promise to Diagnose and Predict the Disease",
+    "link": "https://www.nytimes.com/2026/07/15/well/mind/alzheimers-disease-blood-tests-symptoms.html",
+    "summary": "New studies are shedding light on how the tests could eventually transform treatment."
   },
   {
     "title": "Lindsey Graham’s Choice",
@@ -100,13 +95,18 @@
     "summary": "Would the world have been safer if Graham hadn’t cozied up to Trump?"
   },
   {
-    "title": "Lindsey Graham Made Trumpism in His Own Image",
-    "link": "https://www.nytimes.com/2026/07/14/opinion/lindsey-graham-trump-legacy.html",
-    "summary": "He bent the knee and made the most of it."
+    "title": "This Is a Forever War in the Making",
+    "link": "https://www.nytimes.com/2026/07/15/opinion/us-iran-forever-war-strait-of-hormuz.html",
+    "summary": "The vague language of the U.S.-Iran cease-fire memo laid the foundation for the war’s resumption."
   },
   {
-    "title": "A Heated Rivalry Over Bull Mascots Is Dividing a Brazilian Town",
-    "link": "https://www.nytimes.com/2026/07/14/world/americas/bull-mascots-red-blue-parintins-brazil.html",
-    "summary": "Deep in the Amazon rainforest, a heated rivalry has split a town for a century. It’s got nothing to do with sports or politics."
+    "title": "Late Night Calls Lindsey Graham’s Senate Seat ‘an Inheritance Jackpot’",
+    "link": "https://www.nytimes.com/2026/07/15/arts/television/late-night-lindsey-graham-sister-senator.html",
+    "summary": "“A Senate seat? Most people just get a garage full of damp boxes,” Michael Kosta said of Graham’s sister filling the late senator’s seat on “The Daily Show.”"
+  },
+  {
+    "title": "Missing From Prince Harry’s UK Trip: A Reunion With Prince William",
+    "link": "https://www.nytimes.com/2026/07/15/world/europe/prince-harry-uk-visit-william-king-charles.html",
+    "summary": "Harry is clearly repairing his relationship with King Charles III, but the rift with his brother remains unresolved."
   }
 ]

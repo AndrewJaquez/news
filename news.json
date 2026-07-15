@@ -1,18 +1,8 @@
 [
   {
-    "title": "Trump Paid $2 Million by South Korean Company Facing Trade Investigation",
-    "link": "https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html",
-    "summary": "The payment illustrates the minefield Mr. Trump has created by maintaining personal financial ties with foreign businesses while he is in office."
-  },
-  {
-    "title": "‘I Am Frustrated’: Emails Show Blanche’s Role in Trump’s Retribution Campaign",
-    "link": "https://www.nytimes.com/2026/07/14/us/politics/todd-blanche-trump-enemies-emails.html",
-    "summary": "The cooperation of Todd Blanche will be a flashpoint in his confirmation hearing to be attorney general on Wednesday."
-  },
-  {
-    "title": "Mahmoud Khalil Accuses Trump Officials of Conspiring Against Him",
-    "link": "https://www.nytimes.com/2026/07/14/nyregion/mahmoud-khalil-trump-conspiracy-lawsuit.html",
-    "summary": "Mr. Khalil will now have to convince a judge that the defendants coordinated to take action against him and other pro-Palestinian activists."
+    "title": "At War With Iran Again, Trump Finds an Opponent He Cannot Easily Dominate",
+    "link": "https://www.nytimes.com/2026/07/14/us/politics/iran-trump-war.html",
+    "summary": "The president is accustomed to forcing other countries to bend to his will. But he is struggling to come up with a strategy to extract Iranian concessions as the cease-fire he brokered collapses."
   },
   {
     "title": "Trump Flip-Flops on Strait of Hormuz, Creating New Risks for Global Economy",
@@ -20,34 +10,64 @@
     "summary": "The president now wants Gulf nations to invest in the U.S. in exchange for safe passage. Shipping industry experts worry other nations will follow that lead."
   },
   {
-    "title": "Iran’s Former Leader Denies Times Report",
-    "link": "https://www.nytimes.com/2026/07/14/world/middleeast/mahmoud-ahmadinejad-iran-israeli-asset.html",
-    "summary": "The Times reported that Israel had planned to reinstall Mahmoud Ahmadinejad as Iran’s leader after the war."
+    "title": "Senate Democrats Block Defense Bill Over War in Iran",
+    "link": "https://www.nytimes.com/2026/07/14/us/politics/senate-democrats-defense-bill.html",
+    "summary": "The vote reflected how the political debate over the conflict in the Middle East has sapped bipartisan support for a normally popular measure."
   },
   {
-    "title": "ICE Ordered to Cease Most Vehicle Stops After Fatal Shootings in Maine and Houston",
-    "link": "https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html",
-    "summary": "Agents fatally shot a man in Houston and another in coastal Maine, both in their vehicles. The killings were the latest in a string of ICE shootings during President Trump’s second term."
+    "title": "Videos Detail Moments Surrounding Fatal ICE Shooting in Biddeford, Maine",
+    "link": "https://www.nytimes.com/2026/07/14/us/maine-ice-shooting-video-joan-sebastian-guerrero.html",
+    "summary": "Footage obtained by The New York Times shows ICE agents in the moments before and after the killing of Joan Sebastian Guerrero. The circumstances of the shooting remain unclear."
   },
   {
-    "title": "Maine ICE Shooting: What We Know About the Death of Joan Sebastian Guerrero",
-    "link": "https://www.nytimes.com/2026/07/13/us/ice-shooting-maine-guerrero.html",
-    "summary": "A federal immigration agent shot and killed a man in a car on Monday morning in Biddeford, Maine. It was the second fatal encounter in a week involving an agent and a person in a vehicle."
+    "title": "ICE Shootings Put Spotlight on Lack of Body Cameras",
+    "link": "https://www.nytimes.com/2026/07/14/us/politics/ice-body-cameras.html",
+    "summary": "Kristi Noem, the former homeland security secretary, said five months ago that the Trump administration would “rapidly” deploy body cameras to immigration agents across the country. About half still don’t have them."
   },
   {
-    "title": "ICE Shot Lorenzo Salgado Araujo Through Open Passenger Window in Houston, Witnesses Say",
-    "link": "https://www.nytimes.com/2026/07/13/us/houston-ice-shooting-video-witnesses.html",
-    "summary": "A congresswoman and a lawyer relayed witness accounts that diverge from Immigration and Customs Enforcement’s version of the fatal encounter."
+    "title": "ICE Is Ordered to Pause Most Vehicle Stops",
+    "link": "https://www.nytimes.com/2026/07/14/briefing/ice-is-ordered-to-pause-most-vehicle-stops.html",
+    "summary": "Also, Trump drops his plan for a Strait of Hormuz fee. Here’s the latest at the end of Tuesday."
   },
   {
-    "title": "Man in Florida Fatally Hit by Truck While Fleeing ICE, Official Says",
-    "link": "https://www.nytimes.com/2026/07/14/us/florida-ice-death-immigration.html",
-    "summary": "Details about what exactly happened at a gas station in St. Augustine before the man was hit were unclear Tuesday."
+    "title": "As Confirmation Hearing Nears, Todd Blanche’s Role in Epstein Case Draws Scrutiny",
+    "link": "https://www.nytimes.com/2026/07/14/us/politics/todd-blanche-epstein-investigation-doj.html",
+    "summary": "Todd Blanche’s role in interviewing Ghislaine Maxwell, a longtime associate of the convicted sex offender Jeffrey Epstein, will be front and center as he seeks to become attorney general."
+  },
+  {
+    "title": "Trump Paid $2 Million by South Korean Company Facing Trade Investigation",
+    "link": "https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html",
+    "summary": "The payment illustrates the minefield Mr. Trump has created by maintaining personal financial ties with foreign businesses while he is in office."
+  },
+  {
+    "title": "Trump Administration Subpoenas Law Firms, Escalating Pressure Campaign",
+    "link": "https://www.nytimes.com/2026/07/14/us/politics/trump-subpoenas-law-firms-epshteyn-aba.html",
+    "summary": "The uneasy truce between the administration and the law firms it cut deals with last year has erupted into a pitched legal battle behind closed doors."
+  },
+  {
+    "title": "Opportunities Narrow for Women as Hegseth Blocks More Promotions",
+    "link": "https://www.nytimes.com/2026/07/14/us/hegseth-blocks-navy-promotions.html",
+    "summary": "For the first time in more than a decade, no active-duty female Navy officers are likely to be promoted to admiral this year."
+  },
+  {
+    "title": "Takeaways From Justices Kagan and Barrett’s Congressional Testimony on Supreme Court Security",
+    "link": "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-takeaways.html",
+    "summary": "Elena Kagan and Amy Coney Barrett, the first Supreme Court justices to testify since 2019, talked about ethics and security threats during collegial hearings."
+  },
+  {
+    "title": "An Elite N.Y.C. Public School Admitted 777 Students. Only 3 Were Black.",
+    "link": "https://www.nytimes.com/2026/07/14/nyregion/nyc-specialized-schools-black-hispanic.html",
+    "summary": "New York’s specialized high schools give disproportionately few seats to Black and Hispanic students, continuing a pattern that has drawn criticism."
+  },
+  {
+    "title": "Ban on Horse-Drawn Carriages Is Backed by Key N.Y.C. Official",
+    "link": "https://www.nytimes.com/2026/07/14/nyregion/nyc-city-council-carriage-horse-ban.html",
+    "summary": "The City Council speaker, Julie Menin, said she would support a bill to ban the rides in Central Park after a tourist was killed in an accident last month."
   },
   {
     "title": "E. Jean Carroll Receives $5.6 Million Payment From Trump in Civil Case",
     "link": "https://www.nytimes.com/2026/07/14/nyregion/carroll-trump-settlement-million.html",
-    "summary": "A federal jury found President Trump liable for sexually assaulting and defaming Ms. Carroll. He exhausted his appeals last month, prompting a judge to order that the money be paid."
+    "summary": "A federal jury found President Trump liable for sexually abusing and defaming Ms. Carroll. He exhausted his appeals last month, prompting a judge to order that the money be paid."
   },
   {
     "title": "A Beastie Boy Returns to the Mic, With Some Help",
@@ -55,29 +75,19 @@
     "summary": "Thanks to an assist from his sons, Mike D is set to release “Thank You,” the first new music from a member of the pioneering rap trio in 15 years."
   },
   {
-    "title": "Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom",
-    "link": "https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html",
-    "summary": "The quarterly results reflect the dichotomy between geopolitical uncertainty and the stable American economy."
+    "title": "House Votes for Permanent Daylight Saving Time",
+    "link": "https://www.nytimes.com/2026/07/14/us/politics/house-daylight-savings-time-sunshine-protection-act.html",
+    "summary": "House Republicans and Democrats united in favor of a bill to eliminate semiannual clock-changing, but it faces an uncertain fate in the Senate."
   },
   {
-    "title": "Warsh Reiterates Fed’s Pledge to Get Inflation Down but Doesn’t Specify How",
-    "link": "https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html",
-    "summary": "Kevin M. Warsh, in his first testimony to Congress as chairman of the Federal Reserve, did not shed light on whether he supported higher interest rates to tame price pressures."
+    "title": "Texas Faces Potentially ‘Catastrophic’ Amounts of Rain",
+    "link": "https://www.nytimes.com/2026/07/14/weather/texas-flash-flooding-rain.html",
+    "summary": "Intense storms overnight dropped heavy rain, and more was falling Tuesday. Forecasters warned about the increasing likelihood of flooding across the state."
   },
   {
-    "title": "Inflation Slowed During Pause in War With Iran",
-    "link": "https://www.nytimes.com/2026/07/14/business/economy/inflation-cpi.html",
-    "summary": "The Consumer Price Index fell to a 3.5 percent annual increase in June, and prices marked their biggest drop from a month earlier since 2020."
-  },
-  {
-    "title": "T. Rex Fossil Sells for $50.1 Million, Putting the King Back On Top",
-    "link": "https://www.nytimes.com/2026/07/14/arts/design/t-rex-fossil-auction-sothebys.html",
-    "summary": "In a booming fossil market, the T. rex had been dethroned by a stegosaurus. No longer."
-  },
-  {
-    "title": "Roger Worthington Is Suing Over a Heat Wave",
-    "link": "https://www.nytimes.com/2026/07/14/climate/roger-worthington-portland-oil-industry-lawyer.html",
-    "summary": "Roger Worthington is helping to lead a $50 billion lawsuit against oil producers. This week he’ll face powerful critics in Congress."
+    "title": "Tornadoes in Maine? A Rare Forecast for Parts of U.S. and Canada",
+    "link": "https://www.nytimes.com/2026/07/14/weather/maine-vermont-tornado-quebec.html",
+    "summary": "Storms on Tuesday could produce damaging winds, large hail and even tornadoes in areas where they are not common."
   },
   {
     "title": "Restaurant Review: Ambassadors Clubhouse in New York",
@@ -85,18 +95,18 @@
     "summary": "At the high-flying New York outpost of Ambassadors Clubhouse, the Punjabi cooking is beguiling and the city feels miles away."
   },
   {
-    "title": "The Housing Crisis Is Also a Retirement Crisis",
-    "link": "https://www.nytimes.com/2026/07/14/opinion/housing-retirement-crisis.html",
-    "summary": "A home has stopped being just a place to live — it has also become an asset."
+    "title": "Lindsey Graham’s Choice",
+    "link": "https://www.nytimes.com/2026/07/14/opinion/lindsey-graham-ukraine-trump.html",
+    "summary": "Would the world have been safer if Graham hadn’t cozied up to Trump?"
   },
   {
-    "title": "The Ukraine-Russia War Reaches a New Phase",
-    "link": "https://www.nytimes.com/2026/07/14/opinion/ukraine-russia-patriots-drones.html",
-    "summary": "The ground war in Ukraine has stalemated and the crucial fight has shifted to the skies — missiles and interceptors."
+    "title": "Lindsey Graham Made Trumpism in His Own Image",
+    "link": "https://www.nytimes.com/2026/07/14/opinion/lindsey-graham-trump-legacy.html",
+    "summary": "He bent the knee and made the most of it."
   },
   {
-    "title": "As White House Leans on Smithsonian, Little Uproar Over Board Vacancies",
-    "link": "https://www.nytimes.com/2026/07/14/arts/smithsonian-trump-board-lonnie-bunch.html",
-    "summary": "An odd silence has surrounded a delay to fill several open seats on the board of the Smithsonian, even as a fierce battle to control the institution ensues."
+    "title": "A Heated Rivalry Over Bull Mascots Is Dividing a Brazilian Town",
+    "link": "https://www.nytimes.com/2026/07/14/world/americas/bull-mascots-red-blue-parintins-brazil.html",
+    "summary": "Deep in the Amazon rainforest, a heated rivalry has split a town for a century. It’s got nothing to do with sports or politics."
   }
 ]

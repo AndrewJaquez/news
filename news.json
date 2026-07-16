@@ -1,5 +1,20 @@
 [
   {
+    "title": "Almost Half of House Democrats Vote to End Aid to Israel",
+    "link": "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html",
+    "summary": "The measure failed, but the level of support among Democrats exposed a stark shift in the party away from backing the Jewish state."
+  },
+  {
+    "title": "Iranian American Woman Held in Iran on Spying Charges Is Released",
+    "link": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-american-released-trump.html",
+    "summary": "The dual Iranian-U.S. citizen, Dena Karari, had her passport seized in December 2024 and had not been able to leave Iran as she faced espionage charges."
+  },
+  {
+    "title": "U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire",
+    "link": "https://www.nytimes.com/2026/07/15/us/politics/us-blockade-iran.html",
+    "summary": "President Trump ordered U.S. warships and aircraft to stop vessels going to and from Iran. Enforcing a blockade takes a huge commitment of warships and aircraft."
+  },
+  {
     "title": "Todd Blanche, Trump’s Attorney General Pick, Faces Crucial Hurdle After Rocky Hearing",
     "link": "https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation.html",
     "summary": "Even a single Republican “no” vote would block Mr. Blanche’s nomination from consideration by the full Senate, which could sink his confirmation."
@@ -10,24 +25,9 @@
     "summary": "Pete Hegseth, as defense secretary, has sought to cultivate an image as a manosphere-friendly leader."
   },
   {
-    "title": "Clayton Dodges Question on 2020 Election, and Democrats Call Him on It",
-    "link": "https://www.nytimes.com/2026/07/15/us/politics/jay-clayton-confirmation-hearing-director-national-intelligence.html",
-    "summary": "Jay Clayton’s nomination to lead the U.S. intelligence community comes as the White House pushes to use declassified intelligence to show concerns about election security."
-  },
-  {
-    "title": "A Key Senator Says He Is Undecided on Trump’s Attorney General Pick",
-    "link": "https://www.nytimes.com/2026/07/15/briefing/blanche-confirmation-hearing-cyclospora-cases.html",
-    "summary": "Also, the World Cup final is set. Here’s the latest at the end of Wednesday."
-  },
-  {
-    "title": "Almost Half of House Democrats Vote to End Aid to Israel",
-    "link": "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html",
-    "summary": "The measure failed, but the level of support among Democrats exposed a stark shift in the party away from backing the Jewish state."
-  },
-  {
-    "title": "U.S. Military Again Blockades Iranian Ports After Collapse of Cease-Fire",
-    "link": "https://www.nytimes.com/2026/07/15/us/politics/us-blockade-iran.html",
-    "summary": "President Trump ordered U.S. warships and aircraft to stop vessels going to and from Iran. Enforcing a blockade takes a huge commitment of warships and aircraft."
+    "title": "Trump Administration to Impose New Tariffs on Brazil",
+    "link": "https://www.nytimes.com/2026/07/15/business/economy/trump-brazil-tariffs.html",
+    "summary": "The United States accused the country of unfair trade practices. The tariff will replace ones that the Supreme Court struck down."
   },
   {
     "title": "Wildfire Smoke Spreads Across the Northeast as Temperatures Spike",
@@ -53,6 +53,21 @@
     "title": "Trump Says He’ll Seek to Replace Immigrant Truck Drivers With Veterans",
     "link": "https://www.nytimes.com/2026/07/15/us/politics/trump-immigrant-truck-drivers-veterans.html",
     "summary": "The president has pushed to curtail the commercial licenses of immigrants, including legal residents, whom he has blamed for crashes."
+  },
+  {
+    "title": "India Is Moving Fast to Build A.I. Data Centers. A Coastal City May Pay the Price.",
+    "link": "https://www.nytimes.com/2026/07/16/world/asia/india-ai-data-centers-google.html",
+    "summary": "With India lagging in the technology, officials are embracing giant data centers. But critics say the megaprojects will use up energy and water, without providing long-term jobs."
+  },
+  {
+    "title": "Europe Wants to Break Free From American and Chinese Technology. But How?",
+    "link": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
+    "summary": "France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it."
+  },
+  {
+    "title": "Australia to Impose Energy and Water Guardrails on Data Centers Amid A.I. Boom",
+    "link": "https://www.nytimes.com/2026/07/15/world/australia/albanese-artificial-intelligence-guardrails.html",
+    "summary": "The country will also seek to protect the rights of creators of work used to train artificial intelligence models, as it aims to impose parameters on the growing industry."
   },
   {
     "title": "New York Times Files Motion to Quash Subpoenas of Its Journalists",
@@ -100,24 +115,19 @@
     "summary": "Republicans seem to view Francesca Hong as their weakest opponent in a general election. They are spending $2.2 million in an apparent attempt to aid her primary campaign."
   },
   {
-    "title": "Trump Endorses Mike Lindell, MyPillow Founder, for Minnesota Governor",
-    "link": "https://www.nytimes.com/2026/07/15/us/trump-mike-lindell-endorsement-minnesota.html",
-    "summary": "He is a close ally of President Trump and has been a leading proponent of the election denial movement, which falsely claims that voting machines are often rigged."
-  },
-  {
-    "title": "He Wanted to Be John Travolta. Instead, He Became ‘Kaves.’",
-    "link": "https://www.nytimes.com/2026/07/15/nyregion/michael-mcleer-kaves-graffiti-brooklyn.html",
-    "summary": "As a child, Michael McLeer wanted to be like John Travolta in “Saturday Night Fever” and escape Brooklyn. A tragedy in the neighborhood changed his mind."
-  },
-  {
     "title": "Boat That Sank Near Alcatraz Rolled After Wave Struck, Officials Say",
     "link": "https://www.nytimes.com/2026/07/15/us/alcatraz-boat-captain.html",
     "summary": "Rescuers described survivors trying to stay afloat in the San Francisco Bay. A brother of the boat’s owner died, and the authorities say they will end the search for the missing."
   },
   {
-    "title": "How Worried Should You Be About Cyclospora?",
-    "link": "https://www.nytimes.com/2026/07/15/opinion/cyclospora-stomach-bug-risk-lettuce.html",
-    "summary": "We didn’t need an outbreak of a nightmare stomach bug. But here we are."
+    "title": "Meet Earth’s Newest Monkey. (And Check Out Its Orange Lips.)",
+    "link": "https://www.nytimes.com/2026/07/15/science/meet-earths-newest-monkey-and-check-out-its-orange-lips.html",
+    "summary": "It is only the fifth new African monkey identified as a new species in the past 75 years."
+  },
+  {
+    "title": "An American Strike Killed Iranian Civilians. Where’s the Accountability?",
+    "link": "https://www.nytimes.com/2026/07/16/opinion/trump-minab-civilian-casualties-iran-war.html",
+    "summary": "The Trump administration has failed to publicly address the mistaken missile strike that killed children during the Iran war."
   },
   {
     "title": "England Lost in the World Cup. They Were Always Going to Lose.",
@@ -125,8 +135,13 @@
     "summary": "The football team, like Britain itself, is burdened by the dead weight of impossible expectations."
   },
   {
-    "title": "New Jersey Couple Aids Meteorite Discovery After it Crashes Through Their Roof",
-    "link": "https://www.nytimes.com/2026/07/15/science/meteorite-new-jersey.html",
-    "summary": "A New Jersey couple helped scientists uncover the makeup of an unusual asteroid after it fell into their bedroom."
+    "title": "Jimmy Fallon Pokes Fun at Joe Biden’s New Memoir",
+    "link": "https://www.nytimes.com/2026/07/16/arts/television/jimmy-fallon-joe-biden-memoir-book.html",
+    "summary": "“It’s the second book Biden has written,” Fallon said of the former president. “The first was ‘The Odyssey.’”"
+  },
+  {
+    "title": "Superagent? Obviously. Secret Weapon in 2028? Maybe.",
+    "link": "https://www.nytimes.com/2026/07/15/style/ari-emanuel-rahm-emanuel-2028.html",
+    "summary": "Ari Emanuel’s empire has grown beyond Hollywood to include the U.F.C., WWE and some key figures in the manosphere. That could work out well for his brother Rahm Emanuel."
   }
 ]

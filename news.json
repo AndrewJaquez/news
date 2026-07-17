@@ -1,18 +1,83 @@
 [
   {
-    "title": "Wildfire Smokes Makes Air Hazardous for Millions in Midwest and East Coast",
-    "link": "https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html",
-    "summary": "The haze is likely to ease in the East this weekend but linger in the Upper Midwest, where some cities recorded extremely high pollution indexes on Thursday."
+    "title": "How Andy Burnham, ‘King of the North,’ Conquered U.K. Politics",
+    "link": "https://www.nytimes.com/2026/07/17/world/europe/andy-burnham-uk-labour-prime-minister.html",
+    "summary": "A plain-spoken politician from a modest background in northwest England, Mr. Burnham became Labour leader — and Britain’s incoming prime minister — on Friday."
   },
   {
-    "title": "Canada’s Wildfires Are Burning Through the Night",
-    "link": "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html",
-    "summary": "As overnight temperatures climb across Canada, fires that once spread more slowly after dark are burning around the clock, straining fire crews."
+    "title": "New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow",
+    "link": "https://www.nytimes.com/2026/07/17/business/britain-andy-burnham-prime-minister.html",
+    "summary": "Conversations with economists, and people around him, shed light on how Andy Burnham might tackle entrenched challenges."
   },
   {
-    "title": "What to Know About Canada Wildfire Smoke and Air Quality in U.S. Cities",
-    "link": "https://www.nytimes.com/2026/07/16/weather/what-to-know-canada-wildfires-smoke.html",
-    "summary": "A thick plume of smoke swept across the Midwest and New England, and those conditions could linger on Friday."
+    "title": "What a Times Reporter Saw in Iran, and Takeaways from Trump’s Speech on Election Security",
+    "link": "https://www.nytimes.com/2026/07/17/podcasts/the-headlines/iran-trump-speech-election-security.html",
+    "summary": "Plus, the Friday news quiz."
+  },
+  {
+    "title": "Trump’s Obsession With Relitigating the 2020 Election Carries a Cost for Democracy",
+    "link": "https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html",
+    "summary": "In demanding steps to address the integrity of voting, President Trump persisted in relitigating his 2020 election defeat while finding ways to cast doubt on the 2026 outcome."
+  },
+  {
+    "title": "Takeaways From Trump’s Speech Claiming Election Vulnerabilities and China Interference",
+    "link": "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html",
+    "summary": "Documents released by the Trump administration to support the president’s claims did not back up his most aggressive statements."
+  },
+  {
+    "title": "Trump Promised Proof of Election Tampering. His Document Release Fell Far Short.",
+    "link": "https://www.nytimes.com/2026/07/17/us/politics/trump-election-tampering-document-release.html",
+    "summary": "In the end, the documentary evidence that President Trump claimed would prove his case appeared bound to disappoint those who expected bombshell revelations."
+  },
+  {
+    "title": "Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight",
+    "link": "https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html",
+    "summary": "Chinese officials called the election-meddling accusation baseless, while analysts said Beijing was trying to preserve a fragile détente."
+  },
+  {
+    "title": "Ontario Wildfires Burn On, and New Ones Spring Up",
+    "link": "https://www.nytimes.com/2026/07/17/weather/ontario-wildfires-smoke.html",
+    "summary": "More than 180 fires continued to devastate swaths of the province, prompting evacuations in at least 15 communities."
+  },
+  {
+    "title": "Xi Jinping of China Pitches ‘Openness’ in Push to Shape the Path of A.I.",
+    "link": "https://www.nytimes.com/2026/07/17/business/xi-jinping-china-ai.html",
+    "summary": "Xi Jinping said that the development of artificial intelligence systems should be a “symphony of global collaboration.”"
+  },
+  {
+    "title": "Stocks Sink on Anxiety About Tech and A.I. Spending",
+    "link": "https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html",
+    "summary": "A sell-off in Asia led by chipmakers spilled into Europe and U.S. markets on Friday."
+  },
+  {
+    "title": "Christopher Nolan on ‘The Odyssey’ and IMAX Technical Challenges",
+    "link": "https://www.nytimes.com/2026/07/17/movies/the-odyssey-christopher-nolan.html",
+    "summary": "He and the cinematographer Hoyte van Hoytema combined new inventions (like fire-mimicking lights they developed) with century-old techniques."
+  },
+  {
+    "title": "‘The Odyssey’ Review: Passion in Every Frame",
+    "link": "https://www.nytimes.com/2026/07/15/movies/the-odyssey-review.html",
+    "summary": "Few directors close the divide between the art film and the blockbuster like Christopher Nolan."
+  },
+  {
+    "title": "Want More of the ‘Odyssey’? Read These Books Next",
+    "link": "https://www.nytimes.com/2026/07/17/books/the-odyssey-books.html",
+    "summary": "Informative histories, modern retellings and genre-bending homages will take you back to the long road to Ithaca."
+  },
+  {
+    "title": "Dubai Migrant Worker Layoffs Reveal Costs of Middle East War",
+    "link": "https://www.nytimes.com/2026/07/17/world/middleeast/dubai-iran-war-migrant-workers-layoffs.html",
+    "summary": "The Persian Gulf city attracted migrant workers with the promise of opportunity. Many now say the war has brought job losses and salary cuts."
+  },
+  {
+    "title": "Cyclospora Linked to Taylor Farms Lettuce Sent to Taco Bell",
+    "link": "https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html",
+    "summary": "Federal officials worked with Michigan investigators to trace the outbreak to iceberg lettuce, which may also have gone to other vendors."
+  },
+  {
+    "title": "The 20-Somethings Running Ukraine’s War Machine",
+    "link": "https://www.nytimes.com/2026/07/17/world/europe/youth-ukraine-defense-innovation.html",
+    "summary": "A new generation has been cutting red tape to speed weapons to the front. But the old guard pushed back, and now Ukraine’s young defense minister is out."
   },
   {
     "title": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
@@ -25,69 +90,14 @@
     "summary": "Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”"
   },
   {
-    "title": "Takeaways From Trump’s Speech Claiming Election Vulnerabilities and China Interference",
-    "link": "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html",
-    "summary": "Documents released by the Trump administration to support the president’s claims did not back up his most aggressive statements."
-  },
-  {
-    "title": "A Trump Obsession That Carries a Cost for Democracy",
-    "link": "https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html",
-    "summary": "In demanding steps to address the integrity of voting, President Trump persisted in relitigating his 2020 election defeat while finding ways to cast doubt on the 2026 outcome."
-  },
-  {
-    "title": "Trump Has Dismantled Election Security Efforts. Here’s How.",
-    "link": "https://www.nytimes.com/2026/07/16/us/politics/trump-election-security-cisa.html",
-    "summary": "Since his return to the White House, the lead federal partner for states on election security has lost around a third of its work force."
-  },
-  {
-    "title": "Trump Released Documents on China and the 2020 Election. Here’s What We Know.",
-    "link": "https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html",
-    "summary": "President Trump claimed that China had tried to acquire American voter data. Possessing such information would not allow votes to be manipulated."
-  },
-  {
-    "title": "Cyclospora Linked to Taylor Farms Lettuce Sent to Taco Bell",
-    "link": "https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html",
-    "summary": "Federal officials worked with Michigan investigators to trace the outbreak to iceberg lettuce, which may also have gone to other vendors."
-  },
-  {
-    "title": "Astronomers Find an Atmosphere on a Nearby Earthlike Planet",
-    "link": "https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html",
-    "summary": "It’s the first potentially habitable world known to host an atmosphere, making it a lead contender in the search for life beyond our solar system."
-  },
-  {
-    "title": "New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow",
-    "link": "https://www.nytimes.com/2026/07/17/business/britain-andy-burnham-prime-minister.html",
-    "summary": "Conversations with economists, and people around him, shed light on how Andy Burnham might tackle entrenched challenges."
-  },
-  {
-    "title": "How Andy Burnham Becomes Britain’s New Prime Minister",
-    "link": "https://www.nytimes.com/2026/07/17/world/europe/burnham-prime-minister-explainer.html",
-    "summary": "Andy Burnham is set to officially become the next prime minister on Monday, but a number of things have to happen before then. Here’s how everything is expected to play out."
-  },
-  {
-    "title": "Republican Rifts Deepen Over $95 Billion Budget Plan for Iran War and SAVE Act",
-    "link": "https://www.nytimes.com/2026/07/16/us/politics/iran-war-save-act.html",
-    "summary": "A House panel approved the measure. But Republicans are divided over its size, cost and policy provisions, and many are concerned about the timing before the midterm elections."
-  },
-  {
     "title": "Manhattan Building’s Buckled Columns Probably Lacked Required Reinforcements",
     "link": "https://www.nytimes.com/2026/07/16/nyregion/manhattan-building-collapse-nyc-drawings.html",
     "summary": "Drawings obtained by The New York Times show the columns called for additional steel plates, but engineers reviewing site photos said they appeared to be missing."
   },
   {
-    "title": "Republican Senator Thom Tillis Demands Todd Blanche Meet With Epstein Survivors",
-    "link": "https://www.nytimes.com/2026/07/16/us/politics/todd-blanche-attorney-general-epstein.html",
-    "summary": "Senator Thom Tillis of North Carolina, a key vote on confirmation, had demanded the acting attorney general meet with victims."
-  },
-  {
-    "title": "White House Teleprompter Operator Bet on Trump Speeches, Kalshi Says",
-    "link": "https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html",
-    "summary": "A technical assistant to President Trump won around $100,000, according to the prediction market, which flagged the activity to the federal government."
-  },
-  {
-    "title": "Trump Administration Restricts Green Cards for Immigrants on Public Assistance",
-    "link": "https://www.nytimes.com/2026/07/16/us/politics/trump-green-cards-public-assistance.html",
-    "summary": "The move is a significant change that could deter hundreds of thousands of immigrants from using such programs to meet basic needs."
+    "title": "In One of Houston’s Oldest Latino Barrios, Mourning After ICE Shooting Mixed With Fear and Anger",
+    "link": "https://www.nytimes.com/2026/07/17/us/magnolia-park-houston-mourning-ice-shooting.html",
+    "summary": "After a federal agent killed Lorenzo Salgado Araujo, the grief and anger in Magnolia Park has been less visible, but no less intense."
   },
   {
     "title": "Johan Guerrero, Maine ICE Shooting Victim, Relentlessly Pursued a Better Life, Partner Says",
@@ -95,24 +105,39 @@
     "summary": "The partner of Johan Guerrero, who was killed by an immigration agent this week, described him as a tireless worker and doting father who would do anything for his 3-year-old daughter."
   },
   {
-    "title": "Houston ICE Shooting: Lawyer Says Bags Held Salt, Not Drugs",
-    "link": "https://www.nytimes.com/2026/07/16/us/fbi-search-drugs-houston-ice-shooting.html",
-    "summary": "Federal investigators said a “crystal-like” substance in the bags looked like methamphetamine. A lawyer for the victim’s brother said it was salt."
+    "title": "A Mathematical Tribute to the Soccer Ball",
+    "link": "https://www.nytimes.com/2026/07/17/science/mathematical-tribute-soccer-ball.html",
+    "summary": "As the World Cup final approaches, take a moment to appreciate the beautiful symmetries of humanity’s favorite truncated icosahedron."
   },
   {
-    "title": "Chinese Human Rights Lawyer Seeking Asylum Is Arrested by ICE",
-    "link": "https://www.nytimes.com/2026/07/16/us/chinese-lawyer-wu-shaoping-ice-detention.html",
-    "summary": "Shaoping Wu was working as a contract delivery driver for Amazon when he was pulled over in Pennsylvania. He had championed personal and religious freedom for Chinese citizens."
+    "title": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
+    "link": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
+    "summary": "In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping."
   },
   {
-    "title": "For Families Facing a Deadly Brain Cancer, Scientific Progress Can’t Come Soon Enough",
-    "link": "https://www.nytimes.com/2026/07/16/well/pediatric-cancer-dmg-treatments.html",
-    "summary": "Researchers have made important strides in understanding and treating diffuse midline gliomas, which were long seen as a death sentence for the children and adolescents they affect."
+    "title": "Venezuela Earthquakes Force a Grim Homecoming for Migrants",
+    "link": "https://www.nytimes.com/2026/07/17/world/americas/venezuela-earthquakes-families-migration.html",
+    "summary": "Mass migration, which defines modern Venezuela, has heavily marked the earthquake, too, saving many who had left, but also making their grief harder."
+  },
+  {
+    "title": "Can Democrats Finally Understand the Latino Voter in an Era of Mass Deportations?",
+    "link": "https://www.nytimes.com/2026/07/17/opinion/latino-voter-democrats-immigration-trump.html",
+    "summary": "For decades, Democrats have misunderstood Latino voters. Trump’s deportation campaign offers a chance for them to get it right."
   },
   {
     "title": "The King of the North, Andy Burnham, Won’t Save Britain",
     "link": "https://www.nytimes.com/2026/07/17/opinion/andy-burnham-britain-prime-minister.html",
     "summary": "For the country, Andy Burnham looks a lot like more of the same."
+  },
+  {
+    "title": "Greek Life",
+    "link": "https://www.nytimes.com/2026/07/17/briefing/christopher-nolan-odyssey.html",
+    "summary": "We look at the place of Homer’s epic “Odyssey” in our cultural lives."
+  },
+  {
+    "title": "Late Night Is Amused by Alleged White House Teleprompter Grift",
+    "link": "https://www.nytimes.com/2026/07/17/arts/television/late-night-trump-teleprompter-operator-bets.html",
+    "summary": "Hosts responded on Thursday to a teleprompter operator reportedly winning around $100,000 betting on what President Trump would say in his speeches."
   },
   {
     "title": "Two Dead and Scores Rescued as Flooding Engulfs Central Texas",

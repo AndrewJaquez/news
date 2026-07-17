@@ -1,18 +1,8 @@
 [
   {
-    "title": "Trump Is Expected to Revisit Election Fraud Claims in Speech: What to Know.",
-    "link": "https://www.nytimes.com/2026/07/16/us/politics/us-election-interference-security.html",
-    "summary": "Repeated investigations and audits have debunked claims by the president and his allies of widespread fraud or manipulation in 2020 or other elections."
-  },
-  {
-    "title": "ABC and NBC Will Not Take Trump’s Speech Live as Other TV Networks’ Plans Remain Uncertain",
-    "link": "https://www.nytimes.com/2026/07/16/us/politics/trump-speech-television-networks.html",
-    "summary": "ABC, CNN and NBC were not planning to pre-empt regularly scheduled programming for the president’s remarks at 9 p.m. Fox News is set to carry it live."
-  },
-  {
-    "title": "Wildfires Continue in Ontario as Officials Brace for More Evacuations",
-    "link": "https://www.nytimes.com/2026/07/16/weather/ontario-canada-wildfires.html",
-    "summary": "Ontario’s minister for emergency preparedness has asked the federal government for help, including potentially deploying Canadian soldiers to the affected regions."
+    "title": "Wildfire Smokes Makes Air Hazardous for Millions in Midwest and East Coast",
+    "link": "https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html",
+    "summary": "The haze is likely to ease in the East this weekend but linger in the Upper Midwest, where some cities recorded extremely high pollution indexes on Thursday."
   },
   {
     "title": "Canada’s Wildfires Are Burning Through the Night",
@@ -20,29 +10,64 @@
     "summary": "As overnight temperatures climb across Canada, fires that once spread more slowly after dark are burning around the clock, straining fire crews."
   },
   {
+    "title": "What to Know About Canada Wildfire Smoke and Air Quality in U.S. Cities",
+    "link": "https://www.nytimes.com/2026/07/16/weather/what-to-know-canada-wildfires-smoke.html",
+    "summary": "A thick plume of smoke swept across the Midwest and New England, and those conditions could linger on Friday."
+  },
+  {
     "title": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
     "link": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html",
     "summary": "From an underground parking garage, Ukraine’s newly dismissed defense minister aired the most dramatic, public critique of the military command to emerge during the war."
   },
   {
-    "title": "Millions of Americans Are Urged to Limit Their Time Outdoors",
-    "link": "https://www.nytimes.com/2026/07/16/briefing/wildfire-smoke-trump-election-speech.html",
-    "summary": "Also, Trump is set to deliver a prime-time speech on election security. Here’s the latest at the end of Thursday."
+    "title": "He Was a Russian Political Survivor, Until the Masked Men Appeared",
+    "link": "https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html",
+    "summary": "Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”"
+  },
+  {
+    "title": "Takeaways From Trump’s Speech Claiming Election Vulnerabilities and China Interference",
+    "link": "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html",
+    "summary": "Documents released by the Trump administration to support the president’s claims did not back up his most aggressive statements."
+  },
+  {
+    "title": "A Trump Obsession That Carries a Cost for Democracy",
+    "link": "https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html",
+    "summary": "In demanding steps to address the integrity of voting, President Trump persisted in relitigating his 2020 election defeat while finding ways to cast doubt on the 2026 outcome."
+  },
+  {
+    "title": "Trump Has Dismantled Election Security Efforts. Here’s How.",
+    "link": "https://www.nytimes.com/2026/07/16/us/politics/trump-election-security-cisa.html",
+    "summary": "Since his return to the White House, the lead federal partner for states on election security has lost around a third of its work force."
+  },
+  {
+    "title": "Trump Released Documents on China and the 2020 Election. Here’s What We Know.",
+    "link": "https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html",
+    "summary": "President Trump claimed that China had tried to acquire American voter data. Possessing such information would not allow votes to be manipulated."
+  },
+  {
+    "title": "Cyclospora Linked to Taylor Farms Lettuce Sent to Taco Bell",
+    "link": "https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html",
+    "summary": "Federal officials worked with Michigan investigators to trace the outbreak to iceberg lettuce, which may also have gone to other vendors."
+  },
+  {
+    "title": "Astronomers Find an Atmosphere on a Nearby Earthlike Planet",
+    "link": "https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html",
+    "summary": "It’s the first potentially habitable world known to host an atmosphere, making it a lead contender in the search for life beyond our solar system."
+  },
+  {
+    "title": "New Prime Minister Faces Old Problems: How to Make Britain’s Economy Grow",
+    "link": "https://www.nytimes.com/2026/07/17/business/britain-andy-burnham-prime-minister.html",
+    "summary": "Conversations with economists, and people around him, shed light on how Andy Burnham might tackle entrenched challenges."
+  },
+  {
+    "title": "How Andy Burnham Becomes Britain’s New Prime Minister",
+    "link": "https://www.nytimes.com/2026/07/17/world/europe/burnham-prime-minister-explainer.html",
+    "summary": "Andy Burnham is set to officially become the next prime minister on Monday, but a number of things have to happen before then. Here’s how everything is expected to play out."
   },
   {
     "title": "Republican Rifts Deepen Over $95 Billion Budget Plan for Iran War and SAVE Act",
     "link": "https://www.nytimes.com/2026/07/16/us/politics/iran-war-save-act.html",
     "summary": "A House panel approved the measure. But Republicans are divided over its size, cost and policy provisions, and many are concerned about the timing before the midterm elections."
-  },
-  {
-    "title": "How the NYT Reported on Khamenei’s Funeral in Iran",
-    "link": "https://www.nytimes.com/2026/07/16/insider/iran-funeral-coverage.html",
-    "summary": "Our correspondent talked about the challenges of covering major news while under surveillance and filing his work without reliable internet access."
-  },
-  {
-    "title": "Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It.",
-    "link": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
-    "summary": "Someone used A.I. to write my biography. Thousands more of those books are polluting Amazon. Who is behind all this drivel?"
   },
   {
     "title": "Manhattan Building’s Buckled Columns Probably Lacked Required Reinforcements",
@@ -65,6 +90,11 @@
     "summary": "The move is a significant change that could deter hundreds of thousands of immigrants from using such programs to meet basic needs."
   },
   {
+    "title": "Johan Guerrero, Maine ICE Shooting Victim, Relentlessly Pursued a Better Life, Partner Says",
+    "link": "https://www.nytimes.com/2026/07/16/us/johan-sebastian-guerrero-colombia.html",
+    "summary": "The partner of Johan Guerrero, who was killed by an immigration agent this week, described him as a tireless worker and doting father who would do anything for his 3-year-old daughter."
+  },
+  {
     "title": "Houston ICE Shooting: Lawyer Says Bags Held Salt, Not Drugs",
     "link": "https://www.nytimes.com/2026/07/16/us/fbi-search-drugs-houston-ice-shooting.html",
     "summary": "Federal investigators said a “crystal-like” substance in the bags looked like methamphetamine. A lawyer for the victim’s brother said it was salt."
@@ -80,18 +110,13 @@
     "summary": "Researchers have made important strides in understanding and treating diffuse midline gliomas, which were long seen as a death sentence for the children and adolescents they affect."
   },
   {
-    "title": "Astronomers Find an Atmosphere on a Nearby Earthlike Planet",
-    "link": "https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html",
-    "summary": "It’s the first potentially habitable world known to host an atmosphere, making it a lead contender in the search for life beyond our solar system."
+    "title": "The King of the North, Andy Burnham, Won’t Save Britain",
+    "link": "https://www.nytimes.com/2026/07/17/opinion/andy-burnham-britain-prime-minister.html",
+    "summary": "For the country, Andy Burnham looks a lot like more of the same."
   },
   {
-    "title": "The Odyssey, by Donald Trump",
-    "link": "https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html",
-    "summary": "The president lacks not only a coherent strategic concept but an elementary understanding of what strategy is."
-  },
-  {
-    "title": "Blue Angels’ Close Beach Flyby in Florida Results in No Punishments for Pilots",
-    "link": "https://www.nytimes.com/2026/07/16/us/us-navy-jet-blue-angels.html",
-    "summary": "The elite flying team had announced a safety review after videos posted on social media showed a fighter jet passing just above beachgoers on Wednesday."
+    "title": "Two Dead and Scores Rescued as Flooding Engulfs Central Texas",
+    "link": "https://www.nytimes.com/2026/07/16/us/flooding-central-texas-hill-country.html",
+    "summary": "Flooding from relentless rain, which Gov. Greg Abbott said was likely to break records, left a trail of damage in many communities in the Hill Country region."
   }
 ]

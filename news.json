@@ -1,23 +1,8 @@
 [
   {
-    "title": "Inside Andy Burnham’s 1st Day as U.K. Prime Minister",
-    "link": "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html",
-    "summary": "As Andy Burnham became Britain’s seventh leader in a decade on Monday, he tried to show that he will govern differently."
-  },
-  {
-    "title": "Andy Burnham, New UK Prime Minister, Names John Healey As Top Finance Official",
-    "link": "https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html",
-    "summary": "As chancellor, John Healey, who quit as defense secretary in the former government, will fill one of the most consequential posts, overseeing fiscal and economic policy."
-  },
-  {
-    "title": "G.O.P. Boxed In on Iran War as Trump Sidelines Congress",
-    "link": "https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html",
-    "summary": "Republicans now face a worst-case political scenario of being asked to fund an unpopular war over which they have exercised little oversight."
-  },
-  {
-    "title": "Trump to Impose 50% Tariff on Many Canadian Goods",
-    "link": "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html",
-    "summary": "The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners."
+    "title": "The U.S. Is Pulling Back on Energy Efficiency",
+    "link": "https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html",
+    "summary": "The Trump administration is undoing fuel-saving efforts even as war in Iran, data centers and heat waves are pushing up gasoline and electricity costs."
   },
   {
     "title": "Trump Rejected Nearly 6,000 Clemency Applications Amid Hope of Pardon Wave",
@@ -25,29 +10,59 @@
     "summary": "Expectations were raised for a raft of pardons in connection with the country’s 250th birthday but the president granted fewer than 20 on July 3."
   },
   {
-    "title": "Trump Administration Sought Phone Records of Times Journalists and Their Relatives",
-    "link": "https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html",
-    "summary": "The government is aggressively seeking the confidential sources of Times reporters who wrote about the president’s new Air Force One. The Times has asked a judge to quash the subpoenas."
+    "title": "Trump to Impose 50% Tariff on Many Canadian Goods",
+    "link": "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html",
+    "summary": "The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners."
   },
   {
-    "title": "The Sewer Knows What You Ate",
-    "link": "https://www.nytimes.com/2026/07/20/science/sewer-diet-research.html",
-    "summary": "During the Covid-19 pandemic, wastewater testing became a virus warning system. Now, scientists are using the approach to understand how communities eat."
+    "title": "A New Threat to Global Shipping, and a Huge Drop-Off in Food Stamps",
+    "link": "https://www.nytimes.com/2026/07/21/podcasts/the-headlines/yemen-blockade-food-stamps.html",
+    "summary": "Plus, when A.I. writes your biography."
   },
   {
-    "title": "Lindsey Graham’s Sister, Darline Graham, Says She Will Run to Succeed Him",
-    "link": "https://www.nytimes.com/2026/07/20/us/politics/darline-graham-south-carolina-senate-race.html",
-    "summary": "Ms. Graham, who filled her brother’s Senate seat in South Carolina after his death, does not appear to have previous political experience. But she does have President Trump’s endorsement."
+    "title": "New UK Prime Minister Burnham Promises Hope and Change. The Hurdles Are High.",
+    "link": "https://www.nytimes.com/2026/07/21/world/europe/andy-burnham-new-uk-prime-minister-policies.html",
+    "summary": "Britain’s new prime minister, Andy Burnham, promised policies that would give average Britons financial “breathing space.” His opponents are already doling out criticism."
   },
   {
-    "title": "5 Things to Know About the Maine Senate Candidate Troy Jackson",
-    "link": "https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html",
-    "summary": "Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy."
+    "title": "Burnham, UK’s New Prime Minister, Starts With Electricity Tax Cut",
+    "link": "https://www.nytimes.com/2026/07/21/world/europe/uk-andy-burnham-electricity-tax-vat.html",
+    "summary": "Prime Minister Andy Burnham moved quickly to confront the high cost of living. And President Trump wished him well after a phone call between the two leaders."
   },
   {
-    "title": "Will a Sex Scandal Involving Mark Lamb Matter in Arizona GOP House Primary?",
-    "link": "https://www.nytimes.com/2026/07/20/us/politics/arizona-house-primary-lamb.html",
-    "summary": "The contest in a deeply religious part of the state is a test of the power of a Trump endorsement."
+    "title": "Inside Andy Burnham’s 1st Day as U.K. Prime Minister",
+    "link": "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html",
+    "summary": "As Andy Burnham became Britain’s seventh leader in a decade on Monday, he tried to show that he will govern differently."
+  },
+  {
+    "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
+    "link": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html",
+    "summary": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the war rippling across the Middle East."
+  },
+  {
+    "title": "Lebanese Troops Deploy in Israeli-Held Village Under New Cease-Fire Plan",
+    "link": "https://www.nytimes.com/2026/07/21/world/middleeast/lebanon-israel-ceasefire-plan.html",
+    "summary": "The Israeli military withdrew from the village under a U.S.-brokered deal to transfer control of occupied areas back to Lebanon after months of war. But Hezbollah has rejected the truce."
+  },
+  {
+    "title": "When Protesters Speak, Zelensky Listens, in the Ukrainian Tradition",
+    "link": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-zelensky-protests.html",
+    "summary": "With anger high over the firing of the defense minister, the president’s office is signaling an openness to compromise."
+  },
+  {
+    "title": "I Thought ‘Menswear’ Was for Other Men. Then I Touched the Perfect Hat.",
+    "link": "https://www.nytimes.com/2026/07/21/magazine/menswear-clothes.html",
+    "summary": "Lots of men are geeking out over very expensive clothes — and I became one of them."
+  },
+  {
+    "title": "Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat",
+    "link": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate.html",
+    "summary": "Troy Jackson, who is expected to become his party’s nominee in the state’s marquee Senate race, has long been an economic populist, but his positions on social issues have changed markedly over time."
+  },
+  {
+    "title": "What We Know About Tuesday’s Arizona Primaries",
+    "link": "https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-election-what-we-know.html",
+    "summary": "Arizona primary voters will chose nominees for governor, secretary of state and for key races that could determine control of the House."
   },
   {
     "title": "How Trump’s Immigration Crackdown Is Hurting Elder Care",
@@ -55,34 +70,29 @@
     "summary": "Retirement communities already grappling with labor shortages are being forced to terminate caregivers at a time when more Americans are living longer."
   },
   {
-    "title": "Judge Tosses Justice Department Challenge to Minnesota Immigration Laws",
-    "link": "https://www.nytimes.com/2026/07/20/us/minnesota-immigration-lawsuit.html",
-    "summary": "The Trump administration, which flooded Minnesota with immigration agents this year, argued that policies limiting cooperation with ICE were unconstitutional."
+    "title": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’",
+    "link": "https://www.nytimes.com/2026/07/21/health/hantavirus-quarantine-americans.html",
+    "summary": "Eighteen Americans were isolated for weeks in a Nebraska quarantine facility after being exposed to the deadly virus on a cruise ship. Many found the experience traumatic."
   },
   {
-    "title": "Spain Celebrates Both a Soccer Win and a Sense of Wider Success",
-    "link": "https://www.nytimes.com/2026/07/20/world/europe/spain-victory-world-cup.html",
-    "summary": "For many fans, the World Cup victory cemented a belief that something promising — a cultural, economic and sports revival — is happening in the country."
+    "title": "How a 911 Call Led to the Nation’s Strictest Trans Bathroom Law",
+    "link": "https://www.nytimes.com/2026/07/21/us/sandpoint-idaho-transgender-bathroom-law.html",
+    "summary": "People in Sandpoint, Idaho, don’t know how to characterize a woman’s brush with a transgender woman in a Y.M.C.A. locker room, but the emergency call that followed is still reverberating."
   },
   {
-    "title": "Evacuees of Ontario’s Wildfires Wait and Worry",
-    "link": "https://www.nytimes.com/2026/07/20/world/canada/ontario-wildfire-evacuations-thunder-bay.html",
-    "summary": "Flames crept, and then sprinted, toward unsuspecting residents who fled remote parts of northwestern Ontario. Now they want to know why officials weren’t prepared."
+    "title": "How Two Brothers Dug for Dead Relatives: With a Shovel and a Kitchen Knife",
+    "link": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html",
+    "summary": "After Venezuela’s devastating earthquakes, Winder and Deivi Delfín dug every day for 26 days to find the bodies of their mother, brother and grandmother."
   },
   {
-    "title": "Tropical Storm Bertha Forms Near the Gulf Coast",
-    "link": "https://www.nytimes.com/2026/07/20/weather/tropical-storm-bertha-updates.html",
-    "summary": "Bertha, the second named storm of the Atlantic hurricane season, is expected to drop heavy rain in the region this week."
+    "title": "Tuesday Forecast: Millions In Northeast Face Heavy Rain and Powerful Winds",
+    "link": "https://www.nytimes.com/2026/07/21/weather/new-york-rain-flood-forecast.html",
+    "summary": "Forecasters zeroed in on an area from Kentucky to New York as being the most at risk for dangerous weather."
   },
   {
-    "title": "Wildfire Smoke Gives Way to Powerful Thunderstorms in the Midwest and Northeast",
-    "link": "https://www.nytimes.com/2026/07/20/weather/wisconsin-midwest-storms-tornado-forecast.html",
-    "summary": "The Midwest and the Northeast are facing potentially intense thunderstorms Monday and Tuesday."
-  },
-  {
-    "title": "Soaring Egg Prices Are Hitting China Hard",
-    "link": "https://www.nytimes.com/2026/07/20/business/china-eggs-expensive.html",
-    "summary": "China consumes more eggs per capita than almost every other country, so a recent spike in costs is touching a nerve."
+    "title": "Bill Maher Feuded With Trump. Did He Get the Last Laugh?",
+    "link": "https://www.nytimes.com/2026/07/21/magazine/bill-maher-trump-mark-twain-prize.html",
+    "summary": "How the late-night host won comedy’s biggest prize — despite the White House’s objections."
   },
   {
     "title": "The Grim Lessons of Israel’s War in Gaza",
@@ -90,9 +100,14 @@
     "summary": "Israel has not been held accountable for its actions in Gaza. The nation and the individuals and countries enabling it to escape punishment may only benefit."
   },
   {
-    "title": "Maine Democrats Are Replacing an Oysterman With a Lumberjack. It Might Just Work.",
-    "link": "https://www.nytimes.com/2026/07/20/opinion/troy-jackson-maine-democrats.html",
-    "summary": "For the state’s progressives, Graham Platner was tempting. Troy Jackson is tested."
+    "title": "Trump’s Kiss of Death",
+    "link": "https://www.nytimes.com/2026/07/21/opinion/trump-inept-second-term.html",
+    "summary": "On top of everything else, the president is inept."
+  },
+  {
+    "title": "Lives Lost",
+    "link": "https://www.nytimes.com/2026/07/21/briefing/american-casualties-iran-war.html",
+    "summary": "We look at the American casualties in the war with Iran."
   },
   {
     "title": "Seth Meyers Calls Trump ‘The Sports Reaper’",
@@ -100,8 +115,8 @@
     "summary": "The late-night host joked that the president’s sports curse had struck again after he backed Lionel Messi of Argentina, which then lost the World Cup final to Spain."
   },
   {
-    "title": "Mamdani Eyes a McKinsey Partner to Lead Economic Development Team",
-    "link": "https://www.nytimes.com/2026/07/20/nyregion/mamdani-shorris-edc.html",
-    "summary": "Mayor Zohran Mamdani, who wanted to use the Economic Development Corporation to pursue economic justice as well as growth, is leaning toward someone likely to placate the business community."
+    "title": "Cyclospora Spreads Through Human Feces. How Did It Get Into Our Food Supply?",
+    "link": "https://www.nytimes.com/2026/07/21/well/eat/how-cyclospora-contaminates-food.html",
+    "summary": "The large number of cases suggests that excrement entered the food system on a “surprising scale.”"
   }
 ]

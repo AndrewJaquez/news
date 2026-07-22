@@ -1,8 +1,23 @@
 [
   {
-    "title": "Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel",
+    "title": "Trump Administration to Announce Deal That Could Let Saudis Enrich Nuclear Fuel",
     "link": "https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html",
     "summary": "U.S. lawmakers and Israeli officials have expressed opposition to such a plan, to be announced Wednesday, fearing that the kingdom could use a civilian nuclear project to develop nuclear weapons."
+  },
+  {
+    "title": "Expected U.S.-Saudi Nuclear Deal Fuels Israeli Concerns of Regional Arms Race",
+    "link": "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html",
+    "summary": "An Israeli minister sought to downplay the deal, but critics said it could spur other regional countries to pursue a nuclear program, and potentially the creation of a bomb."
+  },
+  {
+    "title": "Trump Reaches Contentious New Nuclear Deal, and A.I. Models Go Rogue",
+    "link": "https://www.nytimes.com/2026/07/22/podcasts/the-headlines/trump-nuclear-deal-ai-model-rogue.html",
+    "summary": "Plus, what is a Jimothy?"
+  },
+  {
+    "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
+    "link": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html",
+    "summary": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route."
   },
   {
     "title": "With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate",
@@ -10,34 +25,39 @@
     "summary": "President Trump is facing a critical moment in the war, which has failed to bring about the “unconditional surrender” he once demanded."
   },
   {
-    "title": "Hegseth Estimates Iran War Has Cost $37.5 Billion",
-    "link": "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html",
-    "summary": "Defense Secretary Pete Hegseth is requesting as much as $70 billion in emergency military spending after nearly five months of war."
-  },
-  {
     "title": "Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him",
     "link": "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html",
     "summary": "Mayor Zohran Mamdani challenged the United States to execute an international arrest warrant against Prime Minister Benjamin Netanyahu of Israel, which New York itself cannot do."
   },
   {
-    "title": "Zelensky Dismisses Ukraine’s Top General After Protests",
-    "link": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html",
-    "summary": "The move followed the firing of a popular defense minister, who had clashed with the general over how to fight the war."
+    "title": "Ukraine’s New Military Chief Faces a Monumental Test",
+    "link": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html",
+    "summary": "Maj. Gen. Mykhailo Drapatyi faces a balancing act between asserting the independence favored by military reformers and accommodating political input on battlefield strategy."
   },
   {
-    "title": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
-    "link": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html",
-    "summary": "Maj. Gen. Mykhailo Drapatyi, a decorated commander, is popular both inside and outside of his country."
+    "title": "Firing of Ukraine’s Top General Signals the End of an Era",
+    "link": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html",
+    "summary": "Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more."
   },
   {
-    "title": "Trump Pick Wins G.O.P. Nomination to Challenge Arizona Governor",
-    "link": "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html",
-    "summary": "Representative Andy Biggs, a conservative Republican and an ally of the president, will try to unite Republicans against Gov. Katie Hobbs in a crucial swing state."
+    "title": "Laredo’s Future Rides on Trump’s Next Trade Move",
+    "link": "https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html",
+    "summary": "The economy of Laredo, Texas, has boomed under the president’s global tariffs. Now, his demands may threaten its success."
   },
   {
-    "title": "Election Denier Wins G.O.P. Nomination to Be Arizona’s Top Election Official",
-    "link": "https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-secretary-of-state-alexander-kolodin-wins.html",
-    "summary": "State Representative Alexander Kolodin will take on Adrian Fontes, the incumbent Democratic secretary of state, after defeating a more moderate Republican in the primary."
+    "title": "Government Overhauls Teen Pregnancy Program to Focus on Marriage and Starting Families",
+    "link": "https://www.nytimes.com/2026/07/22/us/politics/teen-pregnancy-prevention-trump.html",
+    "summary": "The administration canceled federal grants to organizations across the country, accusing them of encouraging premarital sex. New criteria say programs should stress abstinence."
+  },
+  {
+    "title": "He’s the Last Great Land Artist You’ve Never Heard Of",
+    "link": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
+    "summary": "Charles Ross spent 50 years building “Star Axis,” a naked-eye observatory in New Mexico. Now his masterwork is ready. How to share it with a changed world?"
+  },
+  {
+    "title": "A Lettuce-Growing Region in Mexico Stomachs the Fallout From the Cyclospora Outbreak",
+    "link": "https://www.nytimes.com/2026/07/22/world/americas/cyclospora-lettuce-mexico-guanajuato.html",
+    "summary": "In central Mexico, a lettuce-growing region has been potentially linked to an outbreak in the U.S. that has sickened thousands."
   },
   {
     "title": "Cyclospora Cases in the U.S. Hit Record High",
@@ -45,39 +65,19 @@
     "summary": "Federal health officials have confirmed another 2,500 cases of the parasitic infection."
   },
   {
-    "title": "Cyclospora Spreads Through Human Feces. How Did It Get Into Our Food Supply?",
-    "link": "https://www.nytimes.com/2026/07/21/well/eat/how-cyclospora-contaminates-food.html",
-    "summary": "The large number of cases suggests that excrement entered the food system on a “surprising scale.”"
+    "title": "6 Takeaways From Arizona’s Tense, Trump-Dominated Primaries",
+    "link": "https://www.nytimes.com/2026/07/22/us/politics/arizona-primary-takeaways.html",
+    "summary": "Republicans nominated a former N.F.L. kicker in a top House battleground, a Trump loyalist for governor and an election denier for the state’s top election post."
   },
   {
-    "title": "House Narrowly Passes Stopgap Spending Bill, but Shutdown Fight Looms",
-    "link": "https://www.nytimes.com/2026/07/21/us/politics/house-stopgap-spending-bill-shutdown.html",
-    "summary": "Republicans managed to push through legislation to fund the government through Dec. 4. But with Democrats opposed, the stage is set for a broader battle."
+    "title": "How Donald Trump Jr.’s 1789 Capital Is Cashing In Without Apology",
+    "link": "https://www.nytimes.com/2026/07/22/business/donald-trump-jr-1789-capital.html",
+    "summary": "The fledgling firm, run by the president’s oldest son and his partner Omeed Malik, has made investments in A.I. and defense technology that have tripled in value in just months."
   },
   {
-    "title": "Whitney Cummings’s Trump Joke at Kennedy Center Is Cut From Netflix Special",
-    "link": "https://www.nytimes.com/2026/07/21/arts/television/whitney-cummings-trump-joke-kennedy-center.html",
-    "summary": "At the Mark Twain Prize ceremony, the comedian Whitney Cummings made a joke about the president that seemed to refer to Jeffrey Epstein."
-  },
-  {
-    "title": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library",
-    "link": "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html",
-    "summary": "The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems."
-  },
-  {
-    "title": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
-    "link": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html",
-    "summary": "Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I."
-  },
-  {
-    "title": "Meet Jimothy, the Seattle Raccoon Who Is Taking Over the Internet",
-    "link": "https://www.nytimes.com/2026/07/21/style/jimothy-raccoon-seattle-videos.html",
-    "summary": "The stout raccoon, which has a spinal condition, is “an example to all of us that you don’t have to be perfect to be loved,” a Seattle City Council member said."
-  },
-  {
-    "title": "Tornado Watch Issued for New York and Other Northeast Areas as Storms Bring Heavy Rain and Winds",
-    "link": "https://www.nytimes.com/2026/07/21/weather/new-york-rain-flood-forecast.html",
-    "summary": "New York was under a tornado watch, and forecasters warned that flash flooding was possible into the evening."
+    "title": "At a Utah Campus, an Emotional Odyssey After Charlie Kirk’s Death",
+    "link": "https://www.nytimes.com/2026/07/22/us/charlie-kirk-utah-valley-university.html",
+    "summary": "Since Mr. Kirk was gunned down at Utah Valley University, the school and its students have struggled to find a way forward."
   },
   {
     "title": "Japan Is Startled by Prime Minister’s Grueling Sleep Schedule",
@@ -85,18 +85,23 @@
     "summary": "Sanae Takaichi has said she gets just “zero to three hours” of sleep a night, prompting a debate in the country over work-life balance."
   },
   {
-    "title": "Russia Will Not Yield",
-    "link": "https://www.nytimes.com/2026/07/22/opinion/russia-putin-ukraine-west.html",
-    "summary": "A journey around the globe showed the country’s relentless adaptation."
+    "title": "Joe McCarthy Lives!",
+    "link": "https://www.nytimes.com/2026/07/22/opinion/trump-red-scare-midterms.html",
+    "summary": "Trump’s attempt to drum up a third red scare is certain to fail."
   },
   {
-    "title": "Call the Veep, Agent Mulder!",
-    "link": "https://www.nytimes.com/2026/07/21/opinion/jd-vance-vice-president.html",
-    "summary": "Have the “space Jews” come to get us at last?"
+    "title": "Dirty Lettuce",
+    "link": "https://www.nytimes.com/2026/07/22/briefing/cyclospora-outbreak.html",
+    "summary": "We look into the cyclospora outbreak."
   },
   {
     "title": "‘The Daily Show’ Tackles Trump’s Latest Move in His ‘War on Canada’",
     "link": "https://www.nytimes.com/2026/07/22/arts/television/desi-lydic-trump-canada-tariffs.html",
     "summary": "“Fighting again with Canada?” Desi Lydic said about the president imposing new tariffs on the country. “I thought we were going to work this ‘oot.’”"
+  },
+  {
+    "title": "After Decades of Caution, Germany Is Shaking Up How It Makes Weapons",
+    "link": "https://www.nytimes.com/2026/07/22/world/europe/germany-rearmament-innovation-reinvention-arms.html",
+    "summary": "As threats from Moscow rise and support from Washington dwindles, the German military is reinventing how it researches, funds and wields 21st-century arms."
   }
 ]

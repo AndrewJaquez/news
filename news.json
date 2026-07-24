@@ -1,13 +1,13 @@
 [
   {
-    "title": "Trump Administration to Impose New Tariffs of Around 10% on Over 80 Nations",
+    "title": "Trump Administration Imposed New Tariffs of Around 10% on Over 80 Nations",
     "link": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html",
-    "summary": "The administration announced new duties tied to countries’ imports of goods made with forced labor, replacing a global 10 percent tariff set to expire at midnight."
+    "summary": "The administration launched new duties tied to countries’ imports of goods made with forced labor, replacing a 10 percent tariff immediately after it expired."
   },
   {
-    "title": "Stocks Tumble as A.I. Spending and Oil Prices Weigh on Market",
-    "link": "https://www.nytimes.com/2026/07/23/business/iran-crude-oil-gas-stock-prices.html",
-    "summary": "The S&amp;P 500 tumbled more than 1 percent, while the tech-heavy Nasdaq Composite sank more than 2 percent."
+    "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
+    "link": "https://www.nytimes.com/article/trump-tariffs-trade.html",
+    "summary": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court stuck down his original levies."
   },
   {
     "title": "U.S. Withdraws Subpoenas Issued to New York Times Journalists",
@@ -20,11 +20,6 @@
     "summary": "At an annual meeting of judges and lawyers, the liberal justice defended her conservative colleagues from criticism that they have rubber-stamped President Trump’s agenda."
   },
   {
-    "title": "Trump to Impose Tariffs on More Than 80 Countries",
-    "link": "https://www.nytimes.com/2026/07/23/briefing/trump-impose-tariffs-popcorn-buckets.html",
-    "summary": "Also, oil hits $100 a barrel. Here’s the latest at the end of Thursday."
-  },
-  {
     "title": "A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War",
     "link": "https://www.nytimes.com/2026/07/23/us/michael-emmanuel-swinton-iran-soldier.html",
     "summary": "Sgt. Michael Emmanuel Swinton was killed in recent days, one of 18 U.S. soldiers who have lost their lives since the beginning of the war in Iran."
@@ -35,14 +30,14 @@
     "summary": "Three military officials and a Pentagon spokesman gave conflicting explanations for why the number of Americans killed in the Iran war had changed."
   },
   {
-    "title": "House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate",
-    "link": "https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html",
-    "summary": "For the second time, a few House Republicans joined Democrats to back a measure calling on the president to seek authorization for the war."
+    "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
+    "link": "https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html",
+    "summary": "Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry."
   },
   {
-    "title": "For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard",
-    "link": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
-    "summary": "President Trump has put Saudi Arabia on the path to enriching uranium on its own soil, a demand South Korea has been making for years."
+    "title": "As Part of Nuclear Deal, Trump Demands Saudi Arabia Join the Abraham Accords",
+    "link": "https://www.nytimes.com/2026/07/23/us/politics/saudi-nuclear-deal-israel.html",
+    "summary": "The president’s new condition could create a roadblock to the agreement his administration announced this week."
   },
   {
     "title": "Did the World Cup Live Up to Tourism Expectations? Here Are the Winners and Losers.",
@@ -58,11 +53,6 @@
     "title": "Democratic Voters Keep Defying the Party Establishment",
     "link": "https://www.nytimes.com/2026/07/23/us/politics/democrats-dccc-house.html",
     "summary": "The House Democratic campaign arm has stepped up its interventions in high-profile contested primaries. But this week, it suffered its third primary defeat in two months."
-  },
-  {
-    "title": "Why I Sought Out a Taliban Commander I Had Fought",
-    "link": "https://www.nytimes.com/2026/07/23/world/asia/taliban-afghanistan-marine.html",
-    "summary": "First as a Marine and then as a journalist, I spent years tied to Afghanistan. I returned one last time to speak to a former enemy in search of answers, and perhaps closure."
   },
   {
     "title": "2 Men Stabbed on Upper West Side in Possible Hate Crimes, Police Say",
@@ -90,9 +80,14 @@
     "summary": "After Andrew and Tristan Tate, prominent leaders of the so-called manosphere, were arrested in Miami, many of their onetime allies on the American right pulled back support."
   },
   {
+    "title": "What to Know About Andrew Tate and Tristan Tate",
+    "link": "https://www.nytimes.com/article/andrew-tate-arrests-explained.html",
+    "summary": "The influencer, accused of human trafficking and rape, is under investigation in three countries along with his brother, Tristan. They were arrested in Miami last week."
+  },
+  {
     "title": "Los Angeles Homeless Population Grows Again, After 2 Years of Decline",
     "link": "https://www.nytimes.com/2026/07/23/us/los-angeles-homeless-increase.html",
-    "summary": "Los Angeles had an increase in homeless residents between early 2025 and early 2026. The rise could hurt Mayor Karen Bass as she runs for re-election."
+    "summary": "Los Angeles had an increase in homeless residents between early 2025 and early 2026. The rise could hurt Mayor Karen Bass, as she runs for re-election."
   },
   {
     "title": "A Lakers Jacket, Bought for $3 at Goodwill, Fetches Nearly $90,000 at Auction",
@@ -108,6 +103,11 @@
     "title": "How Trump and His Allies Can Corrupt the Midterms",
     "link": "https://www.nytimes.com/2026/07/23/opinion/trump-midterms-fraud-corruption.html",
     "summary": "Stop the steal before it starts."
+  },
+  {
+    "title": "Jimmy Fallon Pokes Fun at Trump’s ‘Pinky Herman’",
+    "link": "https://www.nytimes.com/2026/07/24/arts/television/jimmy-fallon-trump-pinky-herman.html",
+    "summary": "“You got to give Trump credit: He misspeaks in ways nobody ever thought possible,” Fallon said of the president’s calling the famous man-child character “Pinky,” instead of “Pee-wee,” Herman."
   },
   {
     "title": "Bear Dies After Getting Stranded Atop Electric Pole in New Mexico",

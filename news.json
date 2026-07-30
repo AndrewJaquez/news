@@ -15,9 +15,9 @@
     "summary": "An explosion at a port on Egypt’s Mediterranean coast set fire to two ships, including a U.S. gas storage tanker, according to maritime tracking firms."
   },
   {
-    "title": "Senators Cornyn and Tillis Threaten to Block Blanche Nomination Over Trump’s IRS Deal",
+    "title": "Senators Cornyn and Tillis Force Delay of Blanche Nomination Over Trump’s IRS Deal",
     "link": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html",
-    "summary": "John Cornyn and Thom Tillis accused the attorney general nominee of refusing to put on paper his promise to kill aspects of the deal he cut to settle President Trump’s suit against the agency."
+    "summary": "John Cornyn and Thom Tillis accused the nominee for attorney general of refusing to put on paper his promise to kill aspects of the deal he cut to settle President Trump’s suit against the agency."
   },
   {
     "title": "With Blanche Nomination at Stake, Payouts to Trump Allies Continue",
@@ -25,19 +25,14 @@
     "summary": "A seven-figure settlement was announced hours before senators skeptical about the so-called weaponization fund delayed a crucial vote on Todd Blanche’s nomination to be attorney general."
   },
   {
+    "title": "China Threatens Retaliation as U.S. Moves to Block Robot Imports",
+    "link": "https://www.nytimes.com/2026/07/30/business/china-robots-ban-fcc.html",
+    "summary": "The dispute highlights how robotics has become the latest battleground in the intensifying technological and industrial rivalry between Washington and Beijing."
+  },
+  {
     "title": "Trump Unveils $22.5 Billion Redesign of Dulles Airport",
     "link": "https://www.nytimes.com/2026/07/29/us/politics/trump-dulles-airport-redesign.html",
     "summary": "The project would make the airport easier to navigate and include a new United lounge, officials said. It’s part of the president’s plans to remake the Washington area."
-  },
-  {
-    "title": "Lawyer Who Represented Trump Is Appointed U.S. Attorney in Manhattan",
-    "link": "https://www.nytimes.com/2026/07/29/nyregion/trump-attorney-james-mcdonald-manhattan.html",
-    "summary": "Federal court judges appointed James M. McDonald, a former federal prosecutor, to the post. He represented President Trump in his appeal of his criminal conviction."
-  },
-  {
-    "title": "Republicans Threaten to Block Blanche Nomination",
-    "link": "https://www.nytimes.com/2026/07/29/briefing/blanche-nomination-fauci-testimony-happy-cities.html",
-    "summary": "Also, Fauci invokes the Fifth Amendment. Here’s the latest at the end of Wednesday."
   },
   {
     "title": "Fauci Pleads the Fifth, Refusing to Answer Questions on Covid Origins at Senate Hearing",
@@ -55,6 +50,11 @@
     "summary": "The so-called pied-à-terre tax is causing anxiety for homeowners who feel outed by the publication of their addresses. Some say they have only one home."
   },
   {
+    "title": "How Climate Change and Tariffs Help China Raise More Cattle",
+    "link": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
+    "summary": "As increased rain makes grasslands and cornfields possible in areas that once were deserts, the world’s largest beef importer is becoming more self-reliant by expanding domestic herds."
+  },
+  {
     "title": "Why Republicans Aren’t Funding the Texas Senate Race Yet",
     "link": "https://www.nytimes.com/2026/07/29/us/politics/texas-senate-paxton-fund-raising.html",
     "summary": "The peculiar dynamic is playing out in Texas, where the fate of the Republican nominee, Ken Paxton, will help decide which party controls the U.S. Senate."
@@ -70,34 +70,9 @@
     "summary": "The former president is trying to help Josh Turek net a Senate seat in Iowa, which Democrats see as one of their best pickup opportunities of the midterms."
   },
   {
-    "title": "Trying to Make a Buck Off a Data Center, One 6-Pack at a Time",
-    "link": "https://www.nytimes.com/2026/07/29/us/data-center-construction-workers.html",
-    "summary": "What do you do when a $25 billion complex is under construction nearby? One couple in Abilene had an idea."
-  },
-  {
-    "title": "Fed Holds Rates Steady but Three Officials Back Increase",
-    "link": "https://www.nytimes.com/2026/07/29/business/economy/what-to-watch-at-the-meeting.html",
-    "summary": "Kevin M. Warsh’s second meeting as chairman of the Federal Reserve was colored by internal divisions over the path forward for policy."
-  },
-  {
-    "title": "Government Borrowing Cost Hits Two-Decade High After Fed Rate Decision",
-    "link": "https://www.nytimes.com/2026/07/29/business/economy/treasury-yields-fed-inflation.html",
-    "summary": "The surge in Treasury yields suggests investors doubt that the Federal Reserve can keep inflation contained."
-  },
-  {
-    "title": "Trump Administration Is Repurposing Federal Land for A.I. Data Centers",
-    "link": "https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html",
-    "summary": "In the latest example, the Energy Department will convert a shuttered Cold War-era uranium enrichment facility into a data center campus and gas plants."
-  },
-  {
-    "title": "Meta’s Profit Falls 14 Percent as A.I. Spending Continues",
-    "link": "https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html",
-    "summary": "The Silicon Valley company’s costs rose more steeply than revenue growth, as it continues to invest heavily in artificial intelligence."
-  },
-  {
-    "title": "Microsoft Increases Spending on A.I. as Profit Jumps 31%",
-    "link": "https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html",
-    "summary": "Like other big technology companies, Microsoft is hoping its aggressive spending on artificial intelligence is starting to translate into revenue."
+    "title": "A.I. Data Centers in Space? A System to Cool Chips Could Help.",
+    "link": "https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html",
+    "summary": "Researchers at Caltech and Sophia Space, a start-up, have developed a technology using solar power to prevent computer equipment from overheating in orbit."
   },
   {
     "title": "Salman Rushdie’s Attacker Found Guilty of Aiding a Foreign Terror Group",
@@ -125,8 +100,13 @@
     "summary": "Show trials are bad for democracy."
   },
   {
-    "title": "Teenage Lifeguard Fights Intense Waves to Bring Boy to Safety",
-    "link": "https://www.nytimes.com/2026/07/29/us/santa-cruz-lifeguard-rescue-ryder-williams.html",
-    "summary": "A lifeguard with a relentless grip on a young boy brought him to safety amid enormous waves that ripped across a Santa Cruz beach over the weekend."
+    "title": "Late Night Reviews Trump’s Eulogy for ‘Friend’ Lindsey Graham",
+    "link": "https://www.nytimes.com/2026/07/30/arts/television/late-night-trump-eulogy-lindsey-graham.html",
+    "summary": "“I can’t believe I have to say this to Donald Trump, but can you just lie to us?” Jordan Klepper said on “The Daily Show.”"
+  },
+  {
+    "title": "As Wildfires Plague Europe, Scotland Races to Save a Cherished National Park",
+    "link": "https://www.nytimes.com/2026/07/30/world/europe/scotland-wildfire-cairngorms-highlands.html",
+    "summary": "As Europe’s climate warms, even moorlands and forests in the Cairngorms, in the Scottish Highlands, have fallen victim to rapidly spreading flames."
   }
 ]

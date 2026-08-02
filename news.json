@@ -1,13 +1,18 @@
 [
   {
+    "title": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme",
+    "link": "https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html",
+    "summary": "The amount is still far below what the U.S. spent previously on humanitarian and health aid, but resumes the flow of money for key efforts to fight malnutrition and disease."
+  },
+  {
+    "title": "Trump’s Polling Numbers Hit a New Low. Don’t Expect Him to Change Course.",
+    "link": "https://www.nytimes.com/2026/08/01/us/politics/trump-polls-approval-rating.html",
+    "summary": "Barely a third of Americans approve of Mr. Trump’s handling of the job, putting him at historic depths for a second-term president at this stage of his tenure."
+  },
+  {
     "title": "In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath",
     "link": "https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html",
     "summary": "Jeanine Pirro, the U.S. attorney in Washington, blamed shoddy construction, contradicting President Trump’s pet theory. Mr. Trump said he disagreed “100%” with her."
-  },
-  {
-    "title": "Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga",
-    "link": "https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html",
-    "summary": "President Trump vowed to restore the Reflecting Pool, a defining feature of Washington. Months later, it is empty and closed to the public."
   },
   {
     "title": "Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight",
@@ -15,14 +20,14 @@
     "summary": "The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement."
   },
   {
-    "title": "Justice Dept. Subpoenas Times Freelancer in Effort to Identify Sources",
-    "link": "https://www.nytimes.com/2026/08/01/us/politics/times-subpoena-reporter-trump-north-korea.html",
-    "summary": "A previously undisclosed subpoena, involving reporting on a failed SEAL Team 6 mission in North Korea, reflects the government’s expanding campaign to investigate leaks of secrets."
+    "title": "How a Top Law Firm Went From Standing Up to Trump to Bending the Knee",
+    "link": "https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html",
+    "summary": "Paul Weiss was a progressive stalwart for decades and led the legal resistance against President Trump in his first term. Then it surrendered without a fight. This is the inside story of its transformation."
   },
   {
-    "title": "Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal",
-    "link": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
-    "summary": "President Trump said he agreed to requests from Iran and other Middle Eastern countries to cancel planned attacks, citing what he said was progress in reaching the “perimeters of a deal” with Tehran."
+    "title": "Trump, Paul Weiss and the Capitulation of Big Law: 5 Takeaways",
+    "link": "https://www.nytimes.com/2026/08/02/us/politics/trump-paul-weiss-takeaways.html",
+    "summary": "The law firm Paul Weiss led the legal resistance against President Trump. Then it led a sudden retreat across the legal industry. A Times investigation examined how it caved to White House pressure."
   },
   {
     "title": "Iran Plotted Wider War With Help of Its Proxies",
@@ -30,14 +35,29 @@
     "summary": "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S. forces attacked anew."
   },
   {
-    "title": "Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians",
-    "link": "https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html",
-    "summary": "The weapon, one of the largest in the U.S.’s arsenal, struck a house in a heavily populated area, according to a Times analysis."
-  },
-  {
     "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
     "link": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
     "summary": "The confrontation, over a strategic ridge in southern Lebanon, challenged a fragile cease-fire between Israel and the Iran-backed militant group."
+  },
+  {
+    "title": "Leopold Aschenbrenner Built a Hot A.I. Hedge Fund. Then it Melted Down.",
+    "link": "https://www.nytimes.com/2026/07/31/business/situational-awareness-leopold-aschenbrenner.html",
+    "summary": "Situational Awareness, led by a 24-year-old, exploded onto the artificial intelligence scene — and then nose-dived."
+  },
+  {
+    "title": "Mitch McConnell, Still Hospitalized, Misses Signature Kentucky Political Picnic",
+    "link": "https://www.nytimes.com/2026/08/01/us/mitch-mcconnell-kentucky-republicans.html",
+    "summary": "Senator Mitch McConnell’s ongoing hospitalization meant he missed his final chance to attend the signature western Kentucky event while in office."
+  },
+  {
+    "title": "Can Democratic Socialists Agree on Anything? They Say That’s Not the Point.",
+    "link": "https://www.nytimes.com/2026/08/02/us/politics/democratic-socialists-america-convention.html",
+    "summary": "At a national summit of the Democratic Socialists of America, nervous energy and a sprawling tableau of sometimes-competing interests were on display."
+  },
+  {
+    "title": "Five Big Moments in Michigan’s Democratic Senate Primary",
+    "link": "https://www.nytimes.com/2026/08/02/us/politics/five-big-moments-michigan-democratic-senate-primary.html",
+    "summary": "Divisions over Israel and high-profile endorsements have shaped the closely-watched race between a progressive former public health official and a more moderate member of Congress."
   },
   {
     "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
@@ -50,38 +70,33 @@
     "summary": "Most of the people who surged into Spain on Thursday have since returned to Morocco. A small minority are holed up on a seafront, tired, hungry and vowing to stay."
   },
   {
-    "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
-    "link": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
-    "summary": "Most of those who came to the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said."
+    "title": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
+    "link": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
+    "summary": "Anti-immigration campaigners were set to hold a rally in the Spanish territory to call for tougher action, after thousands of migrants entered the exclave last week."
   },
   {
-    "title": "Mitch McConnell, Still Hospitalized, Misses Signature Kentucky Political Picnic",
-    "link": "https://www.nytimes.com/2026/08/01/us/mitch-mcconnell-kentucky-republicans.html",
-    "summary": "Senator Mitch McConnell’s ongoing hospitalization meant he missed his final chance to attend the signature western Kentucky event while in office."
+    "title": "Self-Help Influencer Nicole LePera Faces Litigation",
+    "link": "https://www.nytimes.com/2026/08/02/style/nicole-lepera-self-help-litigation-holistic-psychologist.html",
+    "summary": "Millions look to Nicole LePera for advice on how to achieve contentment and maintain healthy relationships. But her own story is complicated."
   },
   {
-    "title": "She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.",
-    "link": "https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html",
-    "summary": "Senator Susan Collins, who supports abortion rights, endorsed Brett Kavanaugh’s nomination for the Supreme Court. It has emerged as a major issue in her campaign for re-election."
+    "title": "Christopher Nolan Stared Into Elon Musk’s Soul",
+    "link": "https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html",
+    "summary": "Then he turned toward Stephen Miller."
   },
   {
-    "title": "Anthony Bourdain’s Wild Summers Still Echo in Provincetown",
-    "link": "https://www.nytimes.com/2026/07/30/dining/anthony-bourdain-provincetown-tony-movie.html",
-    "summary": "As a new film evokes his coming-of-age in this bohemian Cape Cod town, Pete Wells goes looking for the people and restaurants that shaped him."
+    "title": "FaceTime, Zoom and Ring Cameras Are Warping Our Reality",
+    "link": "https://www.nytimes.com/2026/07/31/opinion/face-self-reflection-technology-video.html",
+    "summary": "Staring at ourselves on screens, on video and on social media is taking us to a dark place."
   },
   {
-    "title": "This Is What My Father’s Assassination Taught Me About the War in Iran",
-    "link": "https://www.nytimes.com/2026/08/02/opinion/iran-revolution-father-murder-boroujerdi-grimm.html",
-    "summary": "After a lifetime of observing Iran’s revolutionary generation, I know that expecting meekness or diplomatic finesse from them is a dangerous illusion."
+    "title": "Keep on Truckin’",
+    "link": "https://www.nytimes.com/2026/08/02/briefing/family-road-trip.html",
+    "summary": "A family vacation takes an unexpected turn."
   },
   {
-    "title": "The ‘Civil War’ Is a Lie. Let’s Call It the ‘Slaveholders’ Rebellion’ Again.",
-    "link": "https://www.nytimes.com/2026/08/02/opinion/civil-war-slaveholders-rebellion-slavery.html",
-    "summary": "To face our own history, we must be honest about it."
-  },
-  {
-    "title": "Shooting at In-and-Out Burger in Idaho Leaves at Least 3 Dead and 2 Injured, Official Says",
-    "link": "https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html",
-    "summary": "A spokesman for Twin Falls cautioned that the number of victims was “expected to be higher.” The police said the shooter was dead."
+    "title": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
+    "link": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
+    "summary": "More than a month after the earthquakes, the coastal region of La Guaira — once Venezuela’s main gateway — is completely unrecognizable."
   }
 ]

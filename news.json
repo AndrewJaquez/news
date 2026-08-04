@@ -1,8 +1,8 @@
 [
   {
-    "title": "Republicans Let Trump Keep Unparalleled Benefit: I.R.S. Immunity",
-    "link": "https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html",
-    "summary": "The rebellion against Todd Blanche’s nomination to be attorney general, now seemingly contained, at no point fundamentally questioned President Trump’s new protections from the I.R.S."
+    "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
+    "link": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html",
+    "summary": "The Trump administration has struggled over how to approach “open source” models, which are freely available to download and favored by Chinese companies."
   },
   {
     "title": "Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case",
@@ -10,39 +10,14 @@
     "summary": "President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting."
   },
   {
-    "title": "An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump",
-    "link": "https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html",
-    "summary": "The deal would address President Trump’s most urgent political problem by allowing ships to move again. But it would give Iran strategic leverage it did not have before the war."
+    "title": "The New Deal That Could Lock in Iran’s Control of the Strait, and the $7 Billion Trump’s Not Spending",
+    "link": "https://www.nytimes.com/2026/08/04/podcasts/the-headlines/iran-deal-strait-of-hormuz-trump-spending.html",
+    "summary": "Plus, where are you supposed to practice the bagpipes?"
   },
   {
-    "title": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War",
-    "link": "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html",
-    "summary": "Thousands of civilian workers remain stranded on ships at risk of attack by Iran. On one vessel, sailors have been held by the Iranian navy for more than three months."
-  },
-  {
-    "title": "Saudi Aramco Reports 33% Profit Surge Despite War’s Disruption",
-    "link": "https://www.nytimes.com/2026/08/04/business/saudi-aramco-earnings-iran-war.html",
-    "summary": "Higher oil prices propelled a quarterly earnings jump for Saudi Arabia’s energy giant, which used pipelines to work around disruptions in the Strait of Hormuz."
-  },
-  {
-    "title": "A Currency Trader at Heart, Bessent Bets on Japan’s Yen",
-    "link": "https://www.nytimes.com/2026/08/04/business/economy/bessent-yen-currency-support.html",
-    "summary": "Coordinated intervention allowed Japan to support its currency without selling off its U.S. debt holdings."
-  },
-  {
-    "title": "Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter",
-    "link": "https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html",
-    "summary": "A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward."
-  },
-  {
-    "title": "Inside the Democratic Socialists of America Summit",
-    "link": "https://www.nytimes.com/video/us/politics/100000011064084/democratic-socialists-of-america.html",
-    "summary": "Our politics reporter Kellen Browning went to the Democratic Socialists of America’s national summit in Chicago to learn more about the group’s new platform."
-  },
-  {
-    "title": "In Michigan’s 7th District’s Democratic Primary, a Centrist Split Boosts Progressive Hopes",
-    "link": "https://www.nytimes.com/2026/08/03/us/politics/democrats-michigan-house-primary-progressives-moderates.html",
-    "summary": "Unable to unite behind a single candidate in Michigan’s Seventh Congressional District, moderate Democrats worry that they’ve complicated their chances in a key November battleground."
+    "title": "Ronald Lauder, a Billionaire G.O.P. Backer, Closes His Wallet",
+    "link": "https://www.nytimes.com/2026/08/04/nyregion/ronald-lauder-republicans-donor.html",
+    "summary": "Ronald S. Lauder, a major funder of conservative political causes, has not given a single dollar this year to Republicans in his home state, and his super PAC has gone idle."
   },
   {
     "title": "Trump, Graham Dominate Senate Race: 5 Takeaways from South Carolina Debate.",
@@ -50,69 +25,104 @@
     "summary": "The legacy of Lindsey Graham loomed over the field to replace him in a debate Monday. All eyes were on his sister, Darline, who was endorsed by President Trump."
   },
   {
-    "title": "Cambridge Professor’s Jason Arday’s Work Challenged Ahead of Book Launch",
+    "title": "How the War in Iran Is Complicating Trump’s Agenda at Home",
+    "link": "https://www.nytimes.com/2026/08/04/us/politics/iran-war-complications-trump-agenda.html",
+    "summary": "As President Trump heads to the West Coast to talk to Americans about the economy, the war in Iran is driving up costs and polls show the already unpopular conflict is losing support."
+  },
+  {
+    "title": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War",
+    "link": "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html",
+    "summary": "Thousands of civilian workers remain stranded on ships at risk of attack by Iran. On one vessel, sailors have been held by the Iranian navy for more than three months."
+  },
+  {
+    "title": "An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump",
+    "link": "https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html",
+    "summary": "The deal would address President Trump’s most urgent political problem by allowing ships to move again. But it would give Iran strategic leverage it did not have before the war."
+  },
+  {
+    "title": "U.S. Stocks Near a Record High Amid Lull in Iran War",
+    "link": "https://www.nytimes.com/2026/08/04/business/stocks-sp500-oil-prices.html",
+    "summary": "Markets have been lashed between disruptions in the Strait of Hormuz and anxiety about massive corporate investments in artificial intelligence."
+  },
+  {
+    "title": "Uber’s Strategy for Fighting Sexual Assault Suits: ‘What Were You Wearing?’",
+    "link": "https://www.nytimes.com/2026/08/04/business/uber-sexual-assault-lawsuits.html",
+    "summary": "The ride-hailing giant promised to handle legal claims “in a way that is best for the survivor.” Its lawyers are pursuing a far more aggressive strategy."
+  },
+  {
+    "title": "Where To Find the Best Ice Cream in New York City",
+    "link": "https://www.nytimes.com/2026/08/04/dining/best-ice-cream-nyc.html",
+    "summary": "Froyo comes and goes, but ice cream is forever."
+  },
+  {
+    "title": "A Currency Trader at Heart, Bessent Bets on Japan’s Yen",
+    "link": "https://www.nytimes.com/2026/08/04/business/economy/bessent-yen-currency-support.html",
+    "summary": "Coordinated intervention allowed Japan to support its currency without selling off its U.S. debt holdings."
+  },
+  {
+    "title": "U.S. Trade Deficit Dips in June as Imports Fall Back",
+    "link": "https://www.nytimes.com/2026/08/04/business/economy/us-trade-deficit-june.html",
+    "summary": "Imports and exports both declined, retreating from a busy month in May, data from the Commerce Department showed."
+  },
+  {
+    "title": "Cambridge Professor Jason Arday’s Work Challenged Ahead of Book Launch",
     "link": "https://www.nytimes.com/2026/08/03/books/jason-arday-cambridge-plagiarism.html",
     "summary": "A knife-wielding masked man. A pig’s head outside his parents’ door. Running 30 marathons in 35 days. The Cambridge professor Jason Arday, accused of plagiarism, says he’s been through it all. Not everyone believes him."
   },
   {
-    "title": "Immigrant Held at Delaney Detention Center Has Died, Officials Say",
-    "link": "https://www.nytimes.com/2026/08/03/nyregion/ice-detention-center-death-delaney-hall-nj.html",
-    "summary": "The mayor of Newark identified the dead man as Edwin Lopez-Cornejo. The New Jersey center has been the focus of intense scrutiny for its treatment of detainees."
+    "title": "Using a Gun to Defend Yourself? The Right to Kill Is Growing.",
+    "link": "https://www.nytimes.com/2026/08/03/magazine/using-a-gun-to-defend-yourself-the-right-to-kill-is-growing.html",
+    "summary": "States are pushing to pass laws sanctioning more reasons to use lethal violence in self-defense, a distinctly American tradition."
   },
   {
-    "title": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
-    "link": "https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html",
-    "summary": "A plane with 147 Venezuelans landed on Monday in the South American country amid criticism over the deaths of deportees housed in a collapsed building during June’s quakes."
+    "title": "After Deadly E-Bike Crashes, N.Y. Lawmakers Consider Crackdown",
+    "link": "https://www.nytimes.com/2026/08/04/nyregion/ebike-electric-scooter-regulations-nyc.html",
+    "summary": "The City Council on Tuesday is expected to present 17 proposals to make electric bikes and scooters safer for riders and pedestrians."
   },
   {
-    "title": "N.Y. Law Barring ICE Agents From Wearing Masks Is Blocked by Judge",
-    "link": "https://www.nytimes.com/2026/08/03/nyregion/ice-mask-ban-new-york.html",
-    "summary": "While the ruling dealt a blow to New York’s efforts to rein in ICE, a ban on formal cooperation with local police officers will move forward."
+    "title": "What to Know About Legal and Illegal E-Bikes in New York",
+    "link": "https://www.nytimes.com/2026/08/04/nyregion/ebike-electric-scooters-nyc-illegal-rules.html",
+    "summary": "After a series of fatal crashes, often involving illegal devices, officials in New York City are weighing new rules for electric vehicles."
   },
   {
-    "title": "Spotlight on Fauci Said to Boost Book Sales for Kennedy and His Publisher",
-    "link": "https://www.nytimes.com/2026/08/03/us/politics/fauci-rfk-publisher.html",
-    "summary": "Health Secretary Robert F. Kennedy Jr., his son, and Senator Rand Paul have all written books criticizing Dr. Anthony S. Fauci. All were published by a company led by a close Kennedy adviser."
+    "title": "Phoenix Species Project Announces Funds for Imperiled Wildlife",
+    "link": "https://www.nytimes.com/2026/08/04/climate/phoenix-species-project-bezos-dicaprio-rewild.html",
+    "summary": "A new fund called the Phoenix Species Project will provide $200 million to help pull imperiled species back from the brink of extinction."
   },
   {
-    "title": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises",
-    "link": "https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html",
-    "summary": "Andy Burnham’s social media push appears to be resonating with some voters. But he faces big decisions about how to pay for his promises."
+    "title": "Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets",
+    "link": "https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html",
+    "summary": "Drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on Russian oil refineries."
   },
   {
-    "title": "‘A War Zone’: Spokane Wildfires Leave a Devastating Trail of Destruction",
-    "link": "https://www.nytimes.com/2026/08/03/us/spokane-wildfires-update.html",
-    "summary": "Despite the scale of the damage, there have been no reported fatalities in the fires that started over the weekend. Late on Monday, officials arrested a man suspected of setting one of the fires."
+    "title": "Drone Explodes on Russian Beach, Killing 7, Officials Say",
+    "link": "https://www.nytimes.com/2026/08/03/world/europe/drone-russian-beach-explosion.html",
+    "summary": "It was unclear what the drone was targeting and why it crashed in the crowded resort spot, but it has been a deadly summer for civilians caught up in the Russian-Ukrainian war."
   },
   {
-    "title": "Man Arrested on Suspicion of Arson in Spokane Wildfire",
-    "link": "https://www.nytimes.com/2026/08/04/us/spokane-wildfires-arson-arrest.html",
-    "summary": "Aaron Farinacci, 37, was arrested after a witness reported seeing him kneeling near the ignition site of a major fire in Washington State, officials said."
+    "title": "These Employees Like Their A.I. Boss. Its Shop Is Kind of a Disaster.",
+    "link": "https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html",
+    "summary": "A new study of a bot running a first-of-its-kind San Francisco store finds it is really friendly, but not very smart."
   },
   {
-    "title": "Pakistan’s Kashmir Problem",
-    "link": "https://www.nytimes.com/2026/08/04/world/asia/pakistan-kashmir-jaac-rawalkot-protests.html",
-    "summary": "A wave of protests is posing the most significant challenge in years to Islamabad’s authority in the region."
+    "title": "Ariana Grande and the Debate Over Health, Privacy and Celebrity",
+    "link": "https://www.nytimes.com/2026/08/04/arts/music/ariana-grande-health-weight.html",
+    "summary": "The pop star has long pushed back on comments about her weight loss, urging fans to be “gentler.” As her fame reached new heights, so did the scrutiny."
   },
   {
-    "title": "New Zealand Has Ended Greyhound Racing. Now It Has to Manage the Aftermath.",
-    "link": "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html",
-    "summary": "As the country holds its final greyhound race, the government has committed to finding homes for dogs and supporting people whose livelihoods depended on racing."
+    "title": "David Ellison: In Defense of the Paramount-Warner Deal",
+    "link": "https://www.nytimes.com/2026/08/04/opinion/david-ellison-paramount-warner-deal.html",
+    "summary": "The issue is whether I can be trusted as a steward of CNN"
   },
   {
-    "title": "Gen Z Can’t Afford a First Date",
-    "link": "https://www.nytimes.com/2026/08/03/nyregion/gen-z-dating-too-expensive-cost.html",
-    "summary": "From $130 dinners to expensive cocktails and even exorbitant movie tickets, a crushing economy in New York City is creating a fresh barrier to love."
+    "title": "The A.I. Giants Weren’t Prepared for This",
+    "link": "https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html",
+    "summary": "Jasmine Sun, a writer covering technology, takes us into the backlash against A.I. data centers."
   },
   {
-    "title": "What Do Dictators Fear Most? Just Ask Nicaragua.",
-    "link": "https://www.nytimes.com/2026/08/04/opinion/nicaragua-ortega-murillo-elections.html",
-    "summary": "Nicaragua shows what happens when even dictators fear a rigged election."
-  },
-  {
-    "title": "I Helped Run Lululemon. The A.I. Revolution Is a Hot Mess.",
-    "link": "https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html",
-    "summary": "The A.I. revolution is stalling because companies don’t want to admit that integrating the technology is expensive and slow and requires human effort."
+    "title": "Trump’s Top Lawyer",
+    "link": "https://www.nytimes.com/2026/08/04/briefing/donald-trump-todd-blanche-attorney-general.html",
+    "summary": "We look into the issues surrounding Todd Blanche’s confirmation."
   },
   {
     "title": "Late Night Reacts to Trump’s Latest Iran Deal Comments",

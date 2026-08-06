@@ -1,23 +1,48 @@
 [
   {
-    "title": "After Michigan Loss, AIPAC Weighs a Second Effort to Defeat El-Sayed",
-    "link": "https://www.nytimes.com/2026/08/05/us/politics/aipac-michigan-general-election.html",
-    "summary": "The pro-Israel organization spent $32 million in an unsuccessful effort to defeat Abdul El-Sayed in Michigan’s Democratic Senate primary. It might try again in the general election."
+    "title": "Amid Intensifying Russian Strikes, Ukraine’s Pleas for Air Defenses Are Falling Flat",
+    "link": "https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html",
+    "summary": "Western allies are more hesitant to give up interceptor missiles they may need for their own defense as war rages on multiple fronts."
   },
   {
-    "title": "Trump-Backed Michigan Candidate Loses Primary to Rival Who Suspended His Campaign",
-    "link": "https://www.nytimes.com/2026/08/05/us/politics/trump-hassan-smith-loses-michigan-primary.html",
-    "summary": "Without running a single ad or filing a campaign finance report, Tom Smith, who had suspended his bid, soundly defeated Amir Hassan, a Navy veteran backed by President Trump."
+    "title": "Wars, Wildfires and Migrants Leave Europe Straining for Control",
+    "link": "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html",
+    "summary": "A brutal summer has exposed how much pressure European countries are under from forces largely out of their grip: war in Iran and Ukraine, record heat and more."
   },
   {
-    "title": "Scandal Leaves North Carolina G.O.P. With No Candidate and Little Time",
-    "link": "https://www.nytimes.com/2026/08/05/us/politics/chuck-edwards-scandal-north-carolina.html",
-    "summary": "Representative Chuck Edwards’s decision to drop his re-election bid amid sexual harassment charges came as a Democratic farmer, Jamie Ager, was already making inroads."
+    "title": "A New Plan for Closer U.S.-Israel Military Cooperation, and the First mRNA Flu Vaccine",
+    "link": "https://www.nytimes.com/2026/08/06/podcasts/the-headlines/a-new-plan-for-closer-us-israel-military-cooperation-and-the-first-mrna-flu-vaccine.html",
+    "summary": "Plus, what happens when you have an A.I. boss."
   },
   {
-    "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
-    "link": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html",
-    "summary": "Federal and state officials are racing to address an assault on the nation’s water supply that they believe is the work of Iranian hackers."
+    "title": "Senate Panel Has Obtained Copy of Fauci’s Government Cellphone",
+    "link": "https://www.nytimes.com/2026/08/05/us/politics/fauci-phone-senate.html",
+    "summary": "The development comes as a Senate committee prepares to vote Thursday on whether to hold Dr. Anthony S. Fauci in contempt of Congress for refusing to answer questions at a hearing."
+  },
+  {
+    "title": "Moderate Democrats Prepare for ‘War’ Against an Ascendant Left",
+    "link": "https://www.nytimes.com/2026/08/06/us/politics/democratic-party-socialists-moderates.html",
+    "summary": "One moderate group says the progressive wins are “deeply troubling” and is planning a $15 million effort against democratic socialism."
+  },
+  {
+    "title": "A Growing Number of Election Deniers Hold Key Local Roles in Midterms",
+    "link": "https://www.nytimes.com/2026/08/06/us/politics/a-growing-number-of-election-deniers-hold-key-local-roles-in-midterms.html",
+    "summary": "These officials oversee or help administer elections in counties across the nation where competitive House and Senate races will determine control of Congress."
+  },
+  {
+    "title": "In Texas’ Most Eligible Senate Race, It’s Bachelor vs. Divorcé-to-Be",
+    "link": "https://www.nytimes.com/2026/08/06/us/paxton-talarico-single-dating.html",
+    "summary": "Ken Paxton is divorcing. James Talarico is dating a onetime staffer. Both have had their romantic lives scrutinized as part of their high-stakes campaigns."
+  },
+  {
+    "title": "Iran Says It Is Nearing Final Agreement With Oman on Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/08/05/world/middleeast/iran-oman-strait-of-hormuz.html",
+    "summary": "The agreement on an acceptable route for ships to pass through the strait would effectively ratify Tehran’s control over the crucial waterway."
+  },
+  {
+    "title": "A Trans Woman Pulled a Gun and Started a ‘Stand Your Ground’ Debate",
+    "link": "https://www.nytimes.com/2026/08/06/us/transgender-gun-rights-wyoming.html",
+    "summary": "Gun-friendly Wyoming has a “stand your ground” statute that allows people to use force to defend themselves. So why is a trans woman being prosecuted after being shoved to the ground?"
   },
   {
     "title": "Helicopter Carrying Trump Flew Near Passenger Jet in Washington Airspace",
@@ -35,73 +60,43 @@
     "summary": "Despite data to the contrary, the Treasury Secretary made the case that the K-shaped economy no longer exists."
   },
   {
-    "title": "Europe’s Control of Its Fate Is Tested by Iran and Ukraine Wars, Wildfires and Migration",
-    "link": "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html",
-    "summary": "A brutal summer has exposed how much Britain, France, Spain and other European countries are under pressure from forces largely out of their control."
-  },
-  {
-    "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
-    "link": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
-    "summary": "The task force will allow the spy agency to quickly direct more financial, human and technical resources at the island, with the goal of creating fissures among the Cuban political elite."
-  },
-  {
     "title": "Star Scholar Jason Arday Resigns From Cambridge",
     "link": "https://www.nytimes.com/2026/08/05/books/review/cambridge-jason-arday-resignation-investigation.html",
     "summary": "Jason Arday was hired by the University of Cambridge in 2023 as the youngest Black professor in its history. Doubt has since been cast on his academic qualifications and claims about his life."
   },
   {
-    "title": "Cambridge Professor Jason Arday’s Work Challenged Ahead of Book Launch",
-    "link": "https://www.nytimes.com/2026/08/03/books/jason-arday-cambridge-plagiarism.html",
-    "summary": "A knife-wielding masked man. A pig’s head outside his parents’ door. Running 30 marathons in 35 days. The Cambridge professor Jason Arday, accused of plagiarism, says he’s been through it all. Not everyone believes him."
+    "title": "Venezuela’s Response to Earthquakes Exposes Government’s Shortcomings",
+    "link": "https://www.nytimes.com/2026/08/06/world/americas/venezuela-earthquakes-response-rodriguez.html",
+    "summary": "The government turned to the world to respond to twin quakes. But years of shrinking budgets and political repression weakened its ability to rescue countless people trapped in rubble."
   },
   {
-    "title": "U.S. Cuts Ties With Organ Donor Group After Reports of Abuses",
-    "link": "https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html",
-    "summary": "The federal government is ending its contract with a Kentucky nonprofit that it says pressured medical workers to remove organs from patients who were getting better."
+    "title": "At Shambhala Music Festival, a Plan To Make Drugs Like Ketamine and MDMA Safer",
+    "link": "https://www.nytimes.com/2026/08/06/well/shambhala-music-festival-drugs-ketamine-ecstasy.html",
+    "summary": "Most raves turn a blind eye to drugs. At Shambhala, free testing offers peace of mind — but can’t eliminate risk altogether."
   },
   {
-    "title": "F.D.A. Approves Moderna’s mRNA Flu Vaccine",
-    "link": "https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html",
-    "summary": "The agency had initially refused to even review the application but reversed course after a public outcry."
+    "title": "Does He Have the Most Stressful Job in Sports?",
+    "link": "https://www.nytimes.com/2026/08/06/magazine/yankees-brian-cashman.html",
+    "summary": "Brian Cashman has presided over four titles and zero losing seasons. Yankees fans want more."
   },
   {
-    "title": "Why Congress Wants a Closer U.S.-Israel Defense Partnership",
-    "link": "https://www.nytimes.com/2026/08/05/us/politics/congress-us-israel-defense-partnership.html",
-    "summary": "A proposal making its way through Congress would integrate the U.S. and Israeli defense and intelligence apparatuses more tightly. Some worry that it is a bad idea."
+    "title": "Bros and Their Foes",
+    "link": "https://www.nytimes.com/2026/08/06/opinion/el-syed-democrats-cornyn-tillis-republicans.html",
+    "summary": "Democrats and Republicans are both playing with fire."
   },
   {
-    "title": "Iran Says It Is Nearing Final Agreement With Oman on Strait of Hormuz",
-    "link": "https://www.nytimes.com/2026/08/05/world/middleeast/iran-oman-strait-of-hormuz.html",
-    "summary": "The agreement on an acceptable route for ships to pass through the strait would effectively ratify Tehran’s control over the crucial waterway."
+    "title": "Scott Galloway: America Abandoned Its ‘Unremarkable’ Young Men",
+    "link": "https://www.nytimes.com/2026/08/06/opinion/ross-douthat-scott-galloway-masculinity.html",
+    "summary": "And what society can do to help a struggling generation."
   },
   {
-    "title": "Fauci Faces Contempt of Congress Vote on Thursday",
-    "link": "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html",
-    "summary": "A Senate panel scheduled a vote after Dr. Anthony Fauci declined to answer questions at a hearing last week. Here are the legal issues involved."
+    "title": "A.I. Gas Guzzlers",
+    "link": "https://www.nytimes.com/2026/08/06/briefing/data-centers-gas-power.html",
+    "summary": "We look at what’s powering data centers."
   },
   {
-    "title": "Senate Panel Has Obtained Copy of Fauci’s Cellphone",
-    "link": "https://www.nytimes.com/2026/08/05/us/politics/fauci-phone-senate.html",
-    "summary": "The development comes as a Senate committee prepares to vote Thursday on whether to hold Dr. Anthony S. Fauci in contempt of Congress for refusing to answer questions at a hearing."
-  },
-  {
-    "title": "Pakistan Starts Sweeping New Crackdown on Journalists",
-    "link": "https://www.nytimes.com/2026/08/05/world/asia/pakistan-international-news-media-ban.html",
-    "summary": "With a protest movement in Kashmir challenging its authority in the region, Pakistan restricts independent reporting by local and foreign media."
-  },
-  {
-    "title": "Abdul El-Sayed Thinks Progressives Have a Way to Win. I Hope He’s Right.",
-    "link": "https://www.nytimes.com/2026/08/05/opinion/abdul-el-sayed-michigan-democrats.html",
-    "summary": "Abdul El-Sayed is quick, magnetic, overflowing with infectious confidence. But he also has a blind spot endemic to his movement."
-  },
-  {
-    "title": "Have We Turned Personality Into Diagnosis?",
-    "link": "https://www.nytimes.com/2026/08/05/opinion/adhd-autism-diagnosis-social-media.html",
-    "summary": "Why we keep searching for new ways to explain ourselves."
-  },
-  {
-    "title": "A Four-Ton SpaceX Rocket Stage Hit the Moon, but No One Saw It",
-    "link": "https://www.nytimes.com/2026/08/05/science/space-x-moon-crash-confirmation.html",
-    "summary": "Amateur and professional astronomers pointed their telescopes at the impact site. Most did not detect anything."
+    "title": "Why Are More Young Women Developing Heart Disease?",
+    "link": "https://www.nytimes.com/2026/08/06/well/heart-disease-young-women.html",
+    "summary": "Rates are on the rise, but prevention is possible. Here’s what experts recommend."
   }
 ]

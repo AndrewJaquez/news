@@ -15,11 +15,6 @@
     "summary": "Representative Chuck Edwards’s decision to drop his re-election bid amid sexual harassment charges came as a Democratic farmer, Jamie Ager, was already making inroads."
   },
   {
-    "title": "Michigan Democrats Pick El-Sayed",
-    "link": "https://www.nytimes.com/2026/08/05/briefing/michigan-democrats-pick-el-sayed.html",
-    "summary": "Also, the Senate confirms a new C.D.C. director. Here’s the latest at the end of Wednesday."
-  },
-  {
     "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
     "link": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html",
     "summary": "Federal and state officials are racing to address an assault on the nation’s water supply that they believe is the work of Iranian hackers."
@@ -40,6 +35,11 @@
     "summary": "Despite data to the contrary, the Treasury Secretary made the case that the K-shaped economy no longer exists."
   },
   {
+    "title": "Europe’s Control of Its Fate Is Tested by Iran and Ukraine Wars, Wildfires and Migration",
+    "link": "https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html",
+    "summary": "A brutal summer has exposed how much Britain, France, Spain and other European countries are under pressure from forces largely out of their control."
+  },
+  {
     "title": "C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana",
     "link": "https://www.nytimes.com/2026/08/05/us/politics/cia-cuba-task-force.html",
     "summary": "The task force will allow the spy agency to quickly direct more financial, human and technical resources at the island, with the goal of creating fissures among the Cuban political elite."
@@ -55,6 +55,16 @@
     "summary": "A knife-wielding masked man. A pig’s head outside his parents’ door. Running 30 marathons in 35 days. The Cambridge professor Jason Arday, accused of plagiarism, says he’s been through it all. Not everyone believes him."
   },
   {
+    "title": "U.S. Cuts Ties With Organ Donor Group After Reports of Abuses",
+    "link": "https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html",
+    "summary": "The federal government is ending its contract with a Kentucky nonprofit that it says pressured medical workers to remove organs from patients who were getting better."
+  },
+  {
+    "title": "F.D.A. Approves Moderna’s mRNA Flu Vaccine",
+    "link": "https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html",
+    "summary": "The agency had initially refused to even review the application but reversed course after a public outcry."
+  },
+  {
     "title": "Why Congress Wants a Closer U.S.-Israel Defense Partnership",
     "link": "https://www.nytimes.com/2026/08/05/us/politics/congress-us-israel-defense-partnership.html",
     "summary": "A proposal making its way through Congress would integrate the U.S. and Israeli defense and intelligence apparatuses more tightly. Some worry that it is a bad idea."
@@ -65,44 +75,19 @@
     "summary": "The agreement on an acceptable route for ships to pass through the strait would effectively ratify Tehran’s control over the crucial waterway."
   },
   {
-    "title": "U.S. Cuts Ties With Organ Donor Group After Reports of Abuses",
-    "link": "https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html",
-    "summary": "The federal government is ending its contract with a Kentucky nonprofit that it says pressured medical workers to remove organs from patients who were getting better."
-  },
-  {
-    "title": "Lobga Rangzen, the Tibetan Activist Who Set Himself on Fire in Manhattan",
-    "link": "https://www.nytimes.com/2026/08/05/world/asia/lobga-rangzen-united-nations-tibet-china.html",
-    "summary": "No one doubted the intensity of Lobga Rangzen’s commitment to a Tibet free of Chinese control. But they were not prepared for what he did next."
-  },
-  {
-    "title": "Death Renews Scrutiny of Delaney Hall. Here’s What to Know.",
-    "link": "https://www.nytimes.com/2026/08/05/nyregion/delaney-hall-ice-what-we-know.html",
-    "summary": "The death of a Salvadoran immigrant at the federal detention center in Newark has raised questions about the conditions there."
-  },
-  {
-    "title": "ICE Threatens Sheriffs In Chicago and Minneapolis With Prosecution Over Access to Inmates",
-    "link": "https://www.nytimes.com/2026/08/05/us/ice-minnesota-sheriff-prosecution.html",
-    "summary": "In a new tactic, federal immigration officials recently started saying they would criminally charge the elected county sheriffs in Minneapolis and Chicago."
-  },
-  {
-    "title": "Fauci Faces Contempt Vote. Here Are the Legal Issues Involved.",
+    "title": "Fauci Faces Contempt of Congress Vote on Thursday",
     "link": "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html",
-    "summary": "Dr. Fauci invoked his Constitutional right under the Fifth Amendment in refusing to answer questions from a Senate committee. Republicans say he is ineligible for that protection."
+    "summary": "A Senate panel scheduled a vote after Dr. Anthony Fauci declined to answer questions at a hearing last week. Here are the legal issues involved."
   },
   {
-    "title": "Windy Weather Could Worsen Pacific Northwest Fires",
-    "link": "https://www.nytimes.com/2026/08/05/weather/pacific-northwest-fires-could-worsen-with-more-wind.html",
-    "summary": "Forecasters expect winds to pick up in eastern Washington and Oregon on Friday and Saturday, but not to be as strong as last weekend’s were."
+    "title": "Senate Panel Has Obtained Copy of Fauci’s Cellphone",
+    "link": "https://www.nytimes.com/2026/08/05/us/politics/fauci-phone-senate.html",
+    "summary": "The development comes as a Senate committee prepares to vote Thursday on whether to hold Dr. Anthony S. Fauci in contempt of Congress for refusing to answer questions at a hearing."
   },
   {
-    "title": "Climate Change Comes to Sesame Street",
-    "link": "https://www.nytimes.com/2026/08/05/climate/sesame-street-storm-climate-change.html",
-    "summary": "An episode this week focuses on the dangerous effects of warming, without mentioning climate change."
-  },
-  {
-    "title": "Butterflies Take Flight in Face of Climate Change and Extreme Weather",
-    "link": "https://www.nytimes.com/2026/08/05/science/butterflies-climate-change-extreme-weather.html",
-    "summary": "In 32 of the countries included in a recent study, at least a quarter of the native butterfly species had moved to new areas."
+    "title": "Pakistan Starts Sweeping New Crackdown on Journalists",
+    "link": "https://www.nytimes.com/2026/08/05/world/asia/pakistan-international-news-media-ban.html",
+    "summary": "With a protest movement in Kashmir challenging its authority in the region, Pakistan restricts independent reporting by local and foreign media."
   },
   {
     "title": "Abdul El-Sayed Thinks Progressives Have a Way to Win. I Hope He’s Right.",
@@ -113,11 +98,6 @@
     "title": "Have We Turned Personality Into Diagnosis?",
     "link": "https://www.nytimes.com/2026/08/05/opinion/adhd-autism-diagnosis-social-media.html",
     "summary": "Why we keep searching for new ways to explain ourselves."
-  },
-  {
-    "title": "Tell us Your Connections Tips, Strategies and Questions",
-    "link": "https://www.nytimes.com/2026/08/05/crosswords/connections-questions.html",
-    "summary": "We’re also looking to find out what questions solvers have about the game."
   },
   {
     "title": "A Four-Ton SpaceX Rocket Stage Hit the Moon, but No One Saw It",

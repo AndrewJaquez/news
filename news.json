@@ -1,28 +1,13 @@
 [
   {
-    "title": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
-    "link": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html",
-    "summary": "Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump."
+    "title": "The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note.",
+    "link": "https://www.nytimes.com/2026/08/08/us/politics/pentagon-weapons-stockpiles-china-russia.html",
+    "summary": "The Iran war has depleted U.S. weapons stockpiles, resulting in a significant erosion of firepower. A more drawn-out Iran conflict benefits Moscow and Beijing, some analysts say."
   },
   {
-    "title": "Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms",
-    "link": "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill-shutdown.html",
-    "summary": "The move came more than a month before the spending deadline, reflecting an eagerness in both parties to avoid a messy fight before the midterm elections."
-  },
-  {
-    "title": "After a Poisonous Primary, Michigan Democrats Promise to Get Along",
-    "link": "https://www.nytimes.com/2026/08/08/us/politics/el-sayed-buttigieg-michigan-democrats.html",
-    "summary": "The party is racing to get behind Dr. Abdul El-Sayed after a Senate primary that was “spirited,” as Pete Buttigieg diplomatically put it at a unity rally on Friday night, but tensions remain."
-  },
-  {
-    "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
-    "link": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html",
-    "summary": "Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid."
-  },
-  {
-    "title": "Amid Abuse Claims Against Max Miller, This Democrat Thinks He Can Win His Seat",
-    "link": "https://www.nytimes.com/2026/08/08/us/politics/brian-poindexter-max-miller-ohio-house.html",
-    "summary": "Brian Poindexter, an ironworker, is in the spotlight in Ohio’s 7th Congressional District, where Mr. Miller faces multiple calls to step aside."
+    "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
+    "summary": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions."
   },
   {
     "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
@@ -30,14 +15,34 @@
     "summary": "While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight."
   },
   {
-    "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
-    "link": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
-    "summary": "The inhabitants of the Chagos Islands were expelled by the British 60 years ago. Refugees were anxious to return this year, but their hopes have been caught in a morass of geopolitics."
+    "title": "In Confirming Blanche, Senators Endorse a Justice Dept. Under Trump’s Sway",
+    "link": "https://www.nytimes.com/2026/08/08/us/politics/blanche-attorney-general-doj-trump-power.html",
+    "summary": "Time and again, Todd Blanche has made it clear that he believes President Trump possesses a nearly limitless right to directly control the actions of the Justice Department."
   },
   {
-    "title": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
-    "link": "https://www.nytimes.com/2026/08/08/world/asia/india-new-delhi-cjp-protest-march-police.html",
-    "summary": "A New York Times analysis details the July 20 crackdown on unarmed protesters in New Delhi that has provoked public outrage and accusations of excessive force."
+    "title": "Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms",
+    "link": "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill-shutdown.html",
+    "summary": "The move came more than a month before the spending deadline, reflecting an eagerness in both parties to avoid a messy fight before the midterm elections."
+  },
+  {
+    "title": "Democrats Vow to Unite Behind Abdul El-Sayed in Michigan, but Tensions Remain",
+    "link": "https://www.nytimes.com/2026/08/08/us/politics/el-sayed-buttigieg-michigan-democrats.html",
+    "summary": "The party is racing to get behind Dr. Abdul El-Sayed after a poisonous Senate primary in Michigan, but some Democrats still have reservations."
+  },
+  {
+    "title": "Fact-Checking 3 Competitive Senate Races in Maine, Michigan and Ohio",
+    "link": "https://www.nytimes.com/2026/08/08/us/politics/fact-check-candidates-maine-michigan-ohio.html",
+    "summary": "Republican attacks have focused on terrorism and illegal immigration, while Democrats have sought to capitalize on the unpopularity of President Trump’s cuts to Medicaid."
+  },
+  {
+    "title": "Lindsey Graham Loved to Gab With Reporters. His Sister Won’t.",
+    "link": "https://www.nytimes.com/2026/08/08/us/politics/darline-lindsey-graham-questions.html",
+    "summary": "Senator Darline Graham, who took her brother’s place after his death and is now seeking to succeed him, has mostly declined to answer questions from reporters at the Capitol."
+  },
+  {
+    "title": "Amid Abuse Claims Against Max Miller, This Democrat Thinks He Can Win His Seat",
+    "link": "https://www.nytimes.com/2026/08/08/us/politics/brian-poindexter-max-miller-ohio-house.html",
+    "summary": "Brian Poindexter, an ironworker, is in the spotlight in Ohio’s 7th Congressional District, where Mr. Miller faces multiple calls to step aside."
   },
   {
     "title": "As Ukraine Strikes Wildberries, Russia’s Richest Businesswoman Faces Her Biggest Test Yet",
@@ -70,8 +75,8 @@
     "summary": "A superfan of thrillers recommends some of her favorites."
   },
   {
-    "title": "New Jersey Opens Civil Rights Investigation Into Delaney Hall",
-    "link": "https://www.nytimes.com/2026/08/07/nyregion/delaney-hall-investigation-civil-rights.html",
-    "summary": "The state attorney general said that her office had issued subpoenas and would investigate whether employees at the migrant detention center had violated civil rights."
+    "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
+    "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+    "summary": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments."
   }
 ]

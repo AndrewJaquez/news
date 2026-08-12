@@ -1,8 +1,18 @@
 [
   {
-    "title": "Ned Lamont Wins the Democratic Primary for Connecticut Governor",
-    "link": "https://www.nytimes.com/2026/08/11/us/politics/connecticut-primary-governor-lamont-elliott.html",
-    "summary": "Josh Elliott, a state representative who mounted a primary challenge, pledged to raise taxes on the rich and take the state on a more progressive path."
+    "title": "8 Takeaways from Tuesday’s Primaries",
+    "link": "https://www.nytimes.com/2026/08/12/us/politics/11pol-south-carolina-wisconsin-minnesota-primaries.html",
+    "summary": "A Democratic primary for governor in Wisconsin remained neck and neck early Wednesday, leaving a national battle between progressive and moderate wings largely unsettled."
+  },
+  {
+    "title": "Peggy Flanagan, a Progressive, Wins the Democratic Senate Primary in Minnesota",
+    "link": "https://www.nytimes.com/2026/08/11/us/politics/minnesota-democratic-senate-primary-flanagan-craig.html",
+    "summary": "The victory by Minnesota’s lieutenant governor was the latest for the left-wing movement in the Midwest. She could become the first Native woman in the Senate."
+  },
+  {
+    "title": "Lisa Demuth Wins Republican Primary for Governor of Minnesota",
+    "link": "https://www.nytimes.com/2026/08/11/us/elections/minnesota-governor-republican-demuth.html",
+    "summary": "Lisa Demuth beat Mike Lindell, the MyPillow founder who was endorsed by President Trump."
   },
   {
     "title": "With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy",
@@ -10,9 +20,14 @@
     "summary": "In response to a threat against the jet last month, the president was clandestinely removed in a catering container. But the plane was sent into the skies anyway with government employees and reporters onboard."
   },
   {
-    "title": "Before Trump’s Catering Container Ruse, Other Presidents Obscured Risky Travel Plans",
-    "link": "https://www.nytimes.com/2026/08/11/world/americas/presidents-secret-flights-trump-turkey.html",
-    "summary": "President Trump was part of a particularly elaborate deception last month, boarding one jet before being spirited away to another."
+    "title": "See How Trump’s Secret Air Force One Swap Unfolded",
+    "link": "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-switch.html",
+    "summary": "The extraordinary subterfuge was aimed at protecting an American president who has been in Iran’s cross hairs for years."
+  },
+  {
+    "title": "Iran Said to Have Known Details of Trump’s Stay at NATO Summit",
+    "link": "https://www.nytimes.com/2026/08/11/us/politics/trump-iran-threat-air-force-one.html",
+    "summary": "The United States picked up multiple streams of information, including one potential threat that involved a shoulder-fired missile."
   },
   {
     "title": "How Iran Adapted Its Attacks as U.S. War Munitions Dwindled",
@@ -20,39 +35,29 @@
     "summary": "The Iranian strikes that killed three U.S. soldiers in Jordan show how quickly Iran’s war-fighting skills have evolved, as the Pentagon runs low on interceptors."
   },
   {
-    "title": "The U.S. Missile Stockpile Is Dangerously Low",
-    "link": "https://www.nytimes.com/2026/08/11/podcasts/the-daily/iran-us-missile-stockpile-trump.html",
-    "summary": "The United States’ war with Iran has caused a critical weaponry shortage. That leaves the U.S. military vulnerable and complicates Washington’s efforts to end the war."
+    "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
+    "link": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
+    "summary": "Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a novelty candidate."
   },
   {
-    "title": "University of Michigan Will Ease Up on Grades for Student Mental Health",
-    "link": "https://www.nytimes.com/2026/08/11/us/university-michigan-grades-freshmen-pass-fail.html",
-    "summary": "The university will make first-semester grades pass or fail, to encourage students to try different classes and lessen fears of what a low grade could mean."
-  },
-  {
-    "title": "How the Bayeux Tapestry Got to the British Museum",
-    "link": "https://www.nytimes.com/2026/08/11/arts/design/bayeux-tapestry-british-museum.html",
-    "summary": "French art experts insisted the fragile 900-year-old masterpiece could never travel. Political will, cutting-edge engineering and unorthodox diplomacy proved them wrong."
-  },
-  {
-    "title": "Ocasio-Cortez Opened Up About Freezing Her Eggs. She Got Women Talking.",
-    "link": "https://www.nytimes.com/2026/08/11/us/politics/egg-freezing-aoc.html",
-    "summary": "Many women say being open about the fertility treatment is a form of empowerment. But critics say all the talk can be misleading."
-  },
-  {
-    "title": "What to Know About the Vaccines Targeted by Trump’s Executive Order",
-    "link": "https://www.nytimes.com/2026/01/06/well/cdc-vaccine-schedule-recommendations.html",
-    "summary": "The order, whose legal power is unclear, recommended narrowing the use of vaccinations against several diseases that can be life-threatening."
-  },
-  {
-    "title": "Ex-Marine Robert Gilman Is Freed by Russia After 4 Years in Prison",
-    "link": "https://www.nytimes.com/2026/08/11/world/europe/russia-robert-gilman-release.html",
-    "summary": "The Kremlin released Robert Gilman, whose family and an advocacy group had said he was in dire physical condition, on “a humanitarian basis,” President Trump said."
+    "title": "In Europe, the Total Solar Eclipse Is Hours Away",
+    "link": "https://www.nytimes.com/2026/08/12/world/europe/eclipse-preview.html",
+    "summary": "Sky watchers have flocked to places, from Iceland to Spain, where the moon will completely block the sun."
   },
   {
     "title": "David Ellison Floats Hollywood Exit as States Threaten His Warner Bros. Deal",
     "link": "https://www.nytimes.com/2026/08/11/business/media/david-ellison-hollywood-paramount-warner-bros.html",
     "summary": "Mr. Ellison told Paramount executives that he was considering pulling the company out of California amid a lawsuit brought by state attorneys general."
+  },
+  {
+    "title": "It Started as a Hot Tub Harbor Cruise. It Became a Rescue Mission.",
+    "link": "https://www.nytimes.com/2026/08/11/nyregion/nyc-capsized-boat-passengers-help.html",
+    "summary": "The captain of a party boat gave the fullest account of the rescue of 12 passengers near Liberty Island. A mother and daughter died and the incident is now part of a federal investigation."
+  },
+  {
+    "title": "Ocasio-Cortez Opened Up About Freezing Her Eggs. She Got Women Talking.",
+    "link": "https://www.nytimes.com/2026/08/11/us/politics/egg-freezing-aoc.html",
+    "summary": "Many women say being open about the fertility treatment is a form of empowerment. But critics say all the talk can be misleading."
   },
   {
     "title": "How a Staten Island Lawsuit Is Challenging Mamdani’s Second-Home Tax",
@@ -70,6 +75,11 @@
     "summary": "The yearslong battle has pitted community members in favor of preserving the garden against politicians, housing advocates and developers who say the space should be used to build affordable homes."
   },
   {
+    "title": "University of Michigan Will Ease Up on Grades for Student Mental Health",
+    "link": "https://www.nytimes.com/2026/08/11/us/university-michigan-grades-freshmen-pass-fail.html",
+    "summary": "The university will make first-semester grades pass or fail, to encourage students to try different classes and lessen fears of what a low grade could mean."
+  },
+  {
     "title": "As Death Toll From Colombia Earthquake Rises to at Least 181, Rescuers Hunt for Survivors",
     "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-survivors-search.html",
     "summary": "“We heard them screaming,” said one rescuer in Cali, where emergency workers and volunteers are racing against time to find the living trapped in the rubble."
@@ -80,9 +90,9 @@
     "summary": "The 7.4-magnitude quake, which killed more than 100 people and damaged hundreds of buildings, was the strongest recorded in Colombia in a decade."
   },
   {
-    "title": "Frenzy for Solar Eclipse Glasses Takes Over London",
-    "link": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html",
-    "summary": "Ahead of Wednesday’s rare cosmic event, thousands of people in London are searching for protective eyewear, as prices surge and stocks sell out."
+    "title": "El-Sayed’s Winning Path in Michigan",
+    "link": "https://www.nytimes.com/2026/08/11/opinion/abdul-el-sayed-michigan-jews-israel-mamdani-aipac.html",
+    "summary": "A swing-state Democratic Senate nominee needs to keep saying this: Jews have a right to a Jewish homeland."
   },
   {
     "title": "Can Nebraska’s Definitely-Not-a-Democrat Candidate Crack the G.O.P. Hold on Red America?",
@@ -90,13 +100,13 @@
     "summary": "The Democratic brand is just too toxic in large swaths of the country."
   },
   {
-    "title": "El-Sayed’s Winning Path in Michigan",
-    "link": "https://www.nytimes.com/2026/08/11/opinion/abdul-el-sayed-michigan-jews-israel-mamdani-aipac.html",
-    "summary": "A swing-state Democratic Senate nominee needs to keep saying this: Jews have a right to a Jewish homeland."
+    "title": "Jimmy Fallon Recreates Trump’s Catering Container Escape",
+    "link": "https://www.nytimes.com/2026/08/12/arts/television/late-night-trump-catering-container-air-force-one.html",
+    "summary": "“Everyone was, like, ‘Well, at least he has one exit plan,’” the “Tonight Show” host said."
   },
   {
-    "title": "A 5th Summer Heat Wave Will Hit Europe This Week. Here’s What to Know.",
-    "link": "https://www.nytimes.com/2026/08/11/weather/europe-extreme-heat-wave-uk-france-spain.html",
-    "summary": "The latest heat wave is the fifth to batter European countries since May as scientists warn that the continent is warming faster than any other."
+    "title": "Powerful ‘Derecho’ Storms Tear Through Midwest",
+    "link": "https://www.nytimes.com/2026/08/11/weather/storms-midwest-derecho.html",
+    "summary": "Strong storms covered hundreds of miles and brought winds nearing 100 miles per hour."
   }
 ]

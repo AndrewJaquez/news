@@ -1,8 +1,23 @@
 [
   {
-    "title": "Florida Primary Underscores State’s New Identity as a Republican Juggernaut",
-    "link": "https://www.nytimes.com/2026/08/18/us/politics/florida-primary-republican-dominance.html",
-    "summary": "Republicans hold every statewide elected office and have drastically swung voter registration in the state. A newly gerrymandered congressional map has added four Republican-leaning seats."
+    "title": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
+    "link": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
+    "summary": "Yields on the 30-year U.S. Treasury and government bonds across the world rose to multiyear highs as investors fret about inflation, deficits and A.I. spending."
+  },
+  {
+    "title": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On",
+    "link": "https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html",
+    "summary": "Saudi Arabia and the United Arab Emirates are seeking larger oil reserves in Japan and South Korea as regional conflict threatens supply routes."
+  },
+  {
+    "title": "Two Ships Passing Through the Strait of Hormuz Are Attacked",
+    "link": "https://www.nytimes.com/2026/08/18/business/strait-of-hormuz-ship-attack.html",
+    "summary": "Maritime officials on Tuesday announced the recent attacks, which killed at least one sailor. Six months into the conflict, the vital waterway remains perilous."
+  },
+  {
+    "title": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
+    "link": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
+    "summary": "American and Syrian officials said Israel carried out the attack, the latest in a series of military interventions in Syria over the past two years."
   },
   {
     "title": "Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race",
@@ -10,64 +25,9 @@
     "summary": "Dan Sullivan, a retired schoolteacher from tiny Petersburg, Alaska, shares a name with the incumbent senator he hopes to defeat. Is he a spoiler trying to divide the Republican vote? We traveled to Alaska to find out."
   },
   {
-    "title": "Trump’s $47 Billion-Dollar Border Wall Plan, and Why a Tupac Murder Trial Is Starting After 30 Years",
-    "link": "https://www.nytimes.com/2026/08/18/podcasts/the-headlines/trump-border-wall-tupac-murder-trial.html",
-    "summary": "Plus, inside the scramble to track cyclospora."
-  },
-  {
-    "title": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
-    "link": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html",
-    "summary": "Intensifying restrictions have hit every part of the territory’s dealings, spurring worries about whether the Palestinian Authority can remain solvent."
-  },
-  {
-    "title": "Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un",
-    "link": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html",
-    "summary": "Seven years ago, President Trump failed to disarm North Korea and walked away. Could the same thing happen with Iran?"
-  },
-  {
-    "title": "It’s Crunchtime Again for Canada to Avoid New U.S. Tariffs",
-    "link": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
-    "summary": "Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?"
-  },
-  {
-    "title": "Family Presses for Information About Fatal ICE Shooting in Maine",
-    "link": "https://www.nytimes.com/2026/08/17/us/biddeford-maine-ice-shooting-hearing.html",
-    "summary": "The Department of Homeland Security said there would be an investigation. But so far little has been disclosed about the killing last month."
-  },
-  {
-    "title": "Judge Rules Trump Administration Can’t Scrap F.B.I. Move to Maryland",
-    "link": "https://www.nytimes.com/2026/08/17/us/politics/fbi-headquarters-maryland-trump.html",
-    "summary": "The ruling is almost certainly not the end of the lengthy fight over the F.B.I.’s future headquarters, which has lasted for years."
-  },
-  {
-    "title": "States Seek $200 Billion From Meta Over Child Social Media Addiction Claims",
-    "link": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
-    "summary": "California, Colorado, Kentucky and New Jersey are taking the social media giant to trial in the first bellwether federal case over child harm."
-  },
-  {
-    "title": "Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.",
-    "link": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
-    "summary": "At home, moderation and restraint are the rule for tech parents. Boredom is exalted. Maybe they’re onto something."
-  },
-  {
-    "title": "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow",
-    "link": "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html",
-    "summary": "The artificial intelligence start-up announced a chatbot mode that will automatically limit some conversations to better protect young users."
-  },
-  {
-    "title": "‘Les Miz’ Offers a Lifeline to a Battered Theater Industry",
-    "link": "https://www.nytimes.com/2026/08/18/theater/les-miserables.html",
-    "summary": "Regional theaters can once again produce “Les Misérables” because a national tour has ended. One veteran actor called the popular show “an instant moneymaker.”"
-  },
-  {
-    "title": "At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present",
-    "link": "https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html",
-    "summary": "Beijing wants to portray today’s China as carrying forward Zhu Rongji’s era of growth, but for many Chinese, the optimism of that time has since faded."
-  },
-  {
-    "title": "A Mother’s Quest to Rescue Her Son From Russian-Occupied Ukraine",
-    "link": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
-    "summary": "They made a risky bid to reunite after three years of separation, illness and deprivation — the kind of ordeal suffered by many thousands of families torn apart by the war in eastern Ukraine."
+    "title": "Google Just Made It Easier for Campaigns to Send You Fund-Raising Emails",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/google-political-campaigns-email-spam.html",
+    "summary": "Republicans previously sued Google claiming its spam filter was biased, but the case was dismissed. The company will now allow verified campaigns to more easily bypass the spam filter."
   },
   {
     "title": "The Blackout That Could Devastate America",
@@ -75,19 +35,59 @@
     "summary": "The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years."
   },
   {
+    "title": "Childhood Friends, Adopted From India, Discover They’re Sisters",
+    "link": "https://www.nytimes.com/2026/08/18/world/europe/friends-adopted-sisters-india-netherlands.html",
+    "summary": "Meena Geltink and Minal Tijssen were adopted from India by families in the Netherlands and grew up less than 100 miles apart."
+  },
+  {
+    "title": "It’s Crunchtime Again for Canada to Avoid Trump’s New Tariffs",
+    "link": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
+    "summary": "Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?"
+  },
+  {
+    "title": "ABC Sues Trump Administration Over F.C.C. Threat to Its TV Licenses",
+    "link": "https://www.nytimes.com/2026/08/18/business/media/abc-fcc-lawsuit-broadcast-licenses.html",
+    "summary": "The network asked a court to stop the agency from taking steps that could force ABC stations off the air and accused the F.C.C. of violating its First Amendment rights."
+  },
+  {
+    "title": "Sugar Importer With Trump Ties Said to Maintain Abusive Labor Practices",
+    "link": "https://www.nytimes.com/2026/08/18/business/economy/trump-central-romana-sugar-forced-labor.html",
+    "summary": "A watchdog group said the Dominican company continued to violate labor standards after President Trump lifted an import ban last year."
+  },
+  {
+    "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
+    "link": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
+    "summary": "California, Colorado, Kentucky and New Jersey have taken the social media giant to trial in the first bellwether federal case over child harm."
+  },
+  {
+    "title": "Forty First Dates and Still Searching",
+    "link": "https://www.nytimes.com/2026/08/18/well/family/forty-first-dates-and-still-searching.html",
+    "summary": "Joseph Pascaretta has spent roughly $65,000 on high-end matchmaking services. Will it help him find the love of his life?"
+  },
+  {
+    "title": "Texas Tech University Is Using A.I. to Cut Left-Leaning Content",
+    "link": "https://www.nytimes.com/2026/08/18/us/texas-tech-artificial-intelligence-ideology-brandon-creighton.html",
+    "summary": "Texas Tech is using A.I. to cut left-leaning content in its curriculum. Some say the effort to ferret out forbidden topics is a dystopian academic nightmare."
+  },
+  {
+    "title": "An A.I. Tax Boom Could Curtail America’s Debt. But Not Solve It.",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/ai-national-debt-budget.html",
+    "summary": "The consequences of A.I. for the budget will largely hinge on whether — and to what extent — the technology reshapes the labor market."
+  },
+  {
+    "title": "The Little-Known Link Between Dementia and Epilepsy",
+    "link": "https://www.nytimes.com/2026/08/18/well/mind/dementia-epilepsy-risk.html",
+    "summary": "After he was diagnosed with “silent” epileptic seizures, doctors were able to treat his memory loss and confusion."
+  },
+  {
     "title": "Hayden Panettiere Grew Up in Front of the Camera. It Took a Toll.",
     "link": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-child-star-struggles.html",
     "summary": "The “Heroes” and “Nashville” star, who died Sunday at 36, endured personal struggles that were compounded by her public profile."
   },
   {
-    "title": "Hayden Panettiere Was in Cardiac Arrest When Authorities Responded to 911 Call",
-    "link": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html",
-    "summary": "After the authorities responded to a 911 call in Greenville, S.C., an initial police investigation found no evidence of “foul play or suspicious circumstances.”"
-  },
-  {
-    "title": "Colman Domingo Discusses His Emmy-Nominated Roles in ‘Euphoria’ and ‘Four Seasons’",
-    "link": "https://www.nytimes.com/2026/08/18/arts/television/colman-domingo-euphoria-four-seasons-emmys.html",
-    "summary": "The actor went from oracle to angel of vengeance in the HBO drama. In an interview, he discusses his two Emmy nods for two very different characters."
+    "title": "Everyone Watches Women’s Sports, Including ‘Ted Lasso’ Fans",
+    "link": "https://www.nytimes.com/2026/08/18/arts/television/ted-lasso-womens-soccer.html",
+    "summary": "The show’s focus on a women’s squad mirrors a broader increase in the popularity of women’s team sports. Now the series faces a challenge: pleasing old fans while welcoming new ones."
   },
   {
     "title": "The A.I.s Are Already Out of Control",
@@ -100,13 +100,8 @@
     "summary": "We look into the exploding business of buy-now-pay-later loans."
   },
   {
-    "title": "Rosie O’Donnell Just Knows Trump Is Watching Her Host ‘Jimmy Kimmel Live’",
-    "link": "https://www.nytimes.com/2026/08/18/arts/television/rosie-odonnell-jimmy-kimmel-trump.html",
-    "summary": "“And if you thought the president hated ‘Jimmy Kimmel Live’ when it was hosted by Jimmy Kimmel, buckle up, people. Buckle up!” O’Donnell said."
-  },
-  {
-    "title": "Chocó, Colombia, Faces Deeper Hardship After an Earthquake",
-    "link": "https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html",
-    "summary": "In Chocó, a remote region, “pain, hunger and homelessness await” survivors of last week’s earthquake, the governor said. Shakira visited to help draw awareness."
+    "title": "How NASA Engineers Are Keeping the Voyagers Alive",
+    "link": "https://www.nytimes.com/2026/08/18/science/nasa-voyagers-big-bang.html",
+    "summary": "A reworking of the spacecraft’s power systems could extend the nearly 50-year-old Voyagers’ exploration of interstellar space into the early 2030s."
   }
 ]

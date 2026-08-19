@@ -1,18 +1,28 @@
 [
   {
-    "title": "A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries",
-    "link": "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html",
-    "summary": "State Representative Angie Nixon, a progressive firebrand, defeated a moderate who dramatically out-raised her with grass-roots enthusiasm. Can it carry her to victory in November?"
+    "title": "How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/08/19/business/iran-hormuz-oman-us-navy.html",
+    "summary": "With Iran making ship traffic perilous, a U.S. operation offers a way out for some energy exports, stealthily shepherding tankers on dangerous journeys."
   },
   {
-    "title": "The Left Notches Another Win With This Secret Weapon: Old-Fashioned Organizing",
+    "title": "Trump, With Limited Options in Iran, Tries Economic Pressure — Again",
+    "link": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
+    "summary": "Iran has survived decades of sanctions. Faced with more, it is likely to escalate rather than surrender, analysts said."
+  },
+  {
+    "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran",
+    "link": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
+    "summary": "The Emirates has long been a major trading hub for Iran, and analysts say it has been key to Iranian efforts to evade international sanctions, which Emirati officials deny."
+  },
+  {
+    "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
+    "link": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
+    "summary": "Two high-profile cases that had spurred international condemnation of the country’s conduct in Gaza were transferred to the military police. Such investigations have rarely led to convictions."
+  },
+  {
+    "title": "Angie Nixon Notches Another Win for the Left Through Old-Fashioned Organizing",
     "link": "https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html",
-    "summary": "State Representative Angie Nixon scored a stunning upset on Tuesday in Florida’s Democratic Senate primary. Now comes the hard part: running as a progressive firebrand in a red state."
-  },
-  {
-    "title": "Mary Peltola and Dan Sullivan Advance in Key Alaska Senate Contest",
-    "link": "https://www.nytimes.com/2026/08/19/us/politics/peltola-sullivan-alaska-senate-primary.html",
-    "summary": "The Democratic former congresswoman and the incumbent Republican senator will face off in November. Whether a potential spoiler candidate with the same name as the senator qualifies alongside them has not been determined."
+    "summary": "State Representative Angie Nixon scored a stunning upset on Tuesday in Florida’s Democratic Senate primary. Her victory will test the strength of a democratic socialist in a red state."
   },
   {
     "title": "‘I’m Not That Informed on National Security,’ Graham Says in South Carolina Debate",
@@ -20,59 +30,64 @@
     "summary": "Senator Darline Graham made the remark in a debate against Representative Ralph Norman, her opponent in the runoff election to succeed her brother, Lindsey Graham. Here are five takeaways from the debate."
   },
   {
-    "title": "How Tech Executives Limit Their Kids’ Screen Time, and Trump’s Race to Finish His Ballroom",
-    "link": "https://www.nytimes.com/2026/08/19/podcasts/the-headlines/screen-time-kids-trump-ballroom.html",
-    "summary": "Plus, the political emails are coming for you."
+    "title": "A County Got Rich From Data Centers. Some Question ‘At What Cost?’",
+    "link": "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html",
+    "summary": "Loudoun County, Va., hosts more than 250 data centers that bring in huge tax revenues. But some officials and residents worry the county has become too dependent on that cash."
   },
   {
-    "title": "Trump’s Tariffs on Hold as President Claims Deal With Canada Is Near",
-    "link": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
-    "summary": "Prime Minister Mark Carney of Canada was less definitive about what the intense talks produced, saying “important work” remained."
+    "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
+    "link": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
+    "summary": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites."
   },
   {
-    "title": "With Limited Options, Trump Tries Economic Pressure on Iran — Again",
-    "link": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
-    "summary": "Iran has survived decades of sanctions. Faced with more, it is likely to escalate rather than surrender, analysts said."
+    "title": "‘It’s Bonkers’: Jennifer Hegseth’s Hands-On Role in Her Husband’s Pentagon",
+    "link": "https://www.nytimes.com/2026/08/19/style/jennifer-hegseth.html",
+    "summary": "After an 18-year career at Fox News, she is now her husband’s most influential adviser and de facto producer, shaping the job like no Pentagon spouse has before."
   },
   {
-    "title": "U.A.E. Halts Trade Ties With Iran and Says It Was Targeted With Missiles",
-    "link": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
-    "summary": "The Emirates has long been a major trading hub for Iran, and analysts say it has been key to Iranian efforts to evade international sanctions, which the country denies."
+    "title": "Everyone’s Using This A.I. Dictation App That I Want to Murder With a Hammer",
+    "link": "https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html",
+    "summary": "Wispr Flow is supposed to make writing effortless and magical. So I “wrote” this column with it."
   },
   {
-    "title": "Threatening Friends and Courting Enemies in Trump’s ‘Upside-Down World’",
-    "link": "https://www.nytimes.com/2026/08/18/us/politics/trumps-upside-down-world.html",
-    "summary": "The president’s hostility to allies like Oman, Canada and South Korea, and his affection for adversaries like North Korea, may still shock some. But it comes as little surprise after a decade of upheaval."
+    "title": "The A.I. in Google’s New Pixel 11 Is Not Very Helpful",
+    "link": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+    "summary": "The phone’s artificial intelligence can order groceries, book tables and take photos on a user’s behalf. But is it something people really want?"
   },
   {
-    "title": "How the Iran War Made Africa’s Richest Man Even Richer",
-    "link": "https://www.nytimes.com/2026/08/19/world/africa/dangote-iran-refinery-oil-nigeria.html",
-    "summary": "Africans have turned to one of their own for fuel as the world’s supplies run low. But they are not the only ones with the continent’s richest man on speed dial."
+    "title": "Markets Rally After U.S. Treasury Tries to Ease Bond Market Stress",
+    "link": "https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html",
+    "summary": "Government bond yields fell and stocks jumped on a move by the Treasury Department to double the amount of debt that it can buy back from investors."
   },
   {
-    "title": "Trump to Nominate Heidi Overton, a Top Domestic Policy Aide, for F.D.A. Commissioner",
-    "link": "https://www.nytimes.com/2026/08/18/health/heidi-overton-fda.html",
-    "summary": "Dr. Overton is a fierce opponent of abortion rights and a supporter of Health Secretary Robert F. Kennedy Jr.’s Make America Healthy Again agenda."
+    "title": "Trump and Canada’s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
+    "link": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html",
+    "summary": "After a deadline extension, the latest U.S. tariff threats seemed headed toward resolution on Wednesday, but questions lingered about what Canada would give up, and what it would get in exchange."
   },
   {
-    "title": "Natalie Harp, Trump’s Most Devoted Aide, Is Always by His Side. What Exactly Does She Do?",
-    "link": "https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html",
-    "summary": "President Trump’s White House aide Natalie Harp is always by his side. What, exactly, does she do?"
+    "title": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning",
+    "link": "https://www.nytimes.com/2026/08/19/science/moderna-merck-mrna-vaccine-melanoma.html",
+    "summary": "Moderna and Merck say the experimental vaccine prevented the return and spread of the cancer in high-risk melanoma patients."
   },
   {
-    "title": "Trump’s Ballroom Is Rising at Breakneck Speed: 20 Hours a Day, 7 Days a Week",
-    "link": "https://www.nytimes.com/2026/08/18/us/politics/trump-ballroom-construction.html",
-    "summary": "Although the fate of the ballroom is tied up in court, the Trump administration argues that the project is too far along to be stopped now."
+    "title": "What to Know About Melanoma",
+    "link": "https://www.nytimes.com/article/melanoma-skin-cancer-symptoms-risk.html",
+    "summary": "New therapies are transforming the treatment of the skin cancer, which can be deadly."
   },
   {
-    "title": "‘I’ve Hit My Limit’: Some New Yorkers Opt for Fun at Home to Save Money",
-    "link": "https://www.nytimes.com/2026/08/19/nyregion/nyc-high-cost-of-fun.html",
-    "summary": "When wages are low and activities are pricey, the frugal find new ways of socializing."
+    "title": "Trump Fired His Inspectors General. Their Replacements Have a Different Mission.",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/trump-inspector-general.html",
+    "summary": "President Trump is installing his allies in the offices of inspector general, which are meant to provide independent government oversight."
   },
   {
-    "title": "Boyfriend Who Abused Hayden Panettiere Had Returned to Her Life",
-    "link": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html",
-    "summary": "Despite the actress’s efforts to move on from a turbulent relationship with Brian Hickerson, they were together when she went into cardiac arrest and died."
+    "title": "Former Fauci Adviser Pleads Guilty to Trying to Conceal Covid-Related Records",
+    "link": "https://www.nytimes.com/2026/08/19/science/david-morens-covid-fauci.html",
+    "summary": "Dr. David Morens, a former N.I.H. official, admitted to attempts to conceal emails that discussed the origins of the pandemic."
+  },
+  {
+    "title": "Judge Is Asked to Block Inscription of Trump’s Name on Kennedy Center",
+    "link": "https://www.nytimes.com/2026/08/19/arts/music/judge-trump-name-kennedy-center.html",
+    "summary": "The request from a Democratic lawmaker follows a decision by the Trump-allied board to add “Restored and Renovated by President Donald J. Trump” to the building."
   },
   {
     "title": "How Wall St. Profits When Personal Injury Lawsuits Pay Out",
@@ -80,29 +95,14 @@
     "summary": "Personal injury cases have exploded, in number and magnitude, funded by companies betting on a win — and offering investors a piece of the action."
   },
   {
-    "title": "California Passes New Rule Regulating Replacement Car Tires",
-    "link": "https://www.nytimes.com/2026/08/18/us/california-tires-energy-efficient-standards.html",
-    "summary": "The rule to require efficient replacement tires was praised by environmentalists. But manufacturers warned that the change would hurt American companies and increase tire prices."
+    "title": "For Caitlin Simmers, Surfing Is a Dance Born on the Waves",
+    "link": "https://www.nytimes.com/2026/08/19/arts/dance/caitlin-simmers-surf-dance.html",
+    "summary": "Caitlin Simmers, a world champion surfer, sees her sport as dance. How does this translate? She’s as seamless as a ribbon."
   },
   {
-    "title": "Ukraine’s Ex-Defense Minister Calls for Election, Cementing Break With Zelensky",
-    "link": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-fedorov-zelensky-elections.html",
-    "summary": "Mykhailo Fedorov, a popular young leader who was fired last month, said Russia should not be allowed to dictate when Ukrainians can choose their next government."
-  },
-  {
-    "title": "Kyiv’s Dormition Cathedral is Revived After Russian Drone Strike",
-    "link": "https://www.nytimes.com/2026/08/19/world/europe/ukraine-kyiv-cathedral-russia-drone-strike.html",
-    "summary": "Volunteers and priests rallied to clean up Kyiv’s Dormition Cathedral, still smelling of smoke from a massive blaze, for an anniversary celebration."
-  },
-  {
-    "title": "Jessica Williams Discusses Her Emmy-Nominated Role in ‘Shrinking’",
-    "link": "https://www.nytimes.com/2026/08/19/arts/television/jessica-williams-shrinking-emmy.html",
-    "summary": "The actress has received an Emmy nomination for each season of the Apple TV comedy. She can’t think about winning."
-  },
-  {
-    "title": "The New Physics of Power",
-    "link": "https://www.nytimes.com/2026/08/18/opinion/us-israel-gaza-hezbollah-hamas-houthis.html",
-    "summary": "It doesn’t take much for small powers to gain a big advantage over the powerful."
+    "title": "Trump’s Lust for Vengeance Is Turning Into a Farce",
+    "link": "https://www.nytimes.com/2026/08/19/opinion/trumps-revenge.html",
+    "summary": "Revenge shapes the president’s priorities, drives his actions and structures the decisions of his government."
   },
   {
     "title": "Status Defines Friendship for Too Many Americans",
@@ -113,15 +113,5 @@
     "title": "After the Storm",
     "link": "https://www.nytimes.com/2026/08/19/briefing/hurricane-lala-aftermath.html",
     "summary": "We look at the aftermath of Hurricane Lala."
-  },
-  {
-    "title": "Rosie O’Donnell Rags on Trump’s Strait of Hormuz Claims",
-    "link": "https://www.nytimes.com/2026/08/19/arts/television/rosie-odonnell-late-night-trump-strait-of-hormuz.html",
-    "summary": "“I’ll put it this way: If the U.S. is in charge of the strait, then I’m also straight — and let’s face it, I’m not,” the guest host said on “Jimmy Kimmel Live.”"
-  },
-  {
-    "title": "The ‘Betting Coup’ Shaking Up Horse Racing",
-    "link": "https://www.nytimes.com/2026/08/19/business/horse-racing-betting-coup.html",
-    "summary": "When several horses wildly outperformed the odds at tracks at Saratoga and the Jersey Shore, bookmakers in London were stung and industry watchers suspected an elaborate plot."
   }
 ]

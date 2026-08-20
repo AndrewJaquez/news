@@ -25,6 +25,11 @@
     "summary": "With Iran making ship traffic perilous, a U.S. operation offers a way out for some energy exports, stealthily shepherding tankers on dangerous journeys."
   },
   {
+    "title": "Trump Threatens Economic Pain for Countries That Help Iran",
+    "link": "https://www.nytimes.com/2026/08/19/us/politics/trump-sanctions-iran.html",
+    "summary": "The president did not specify what actions he would take, and he has on other occasions abandoned threats to dramatically escalate the war with Iran."
+  },
+  {
     "title": "What to Know About Iran’s Economic Ties With Gulf Countries",
     "link": "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html",
     "summary": "The United Arab Emirates, Iran’s most important regional trading partner, announced a total embargo on transactions with Tehran on Tuesday."
@@ -35,9 +40,14 @@
     "summary": "The prince and his wife, whose relations with King Charles and the rest of the royal family have long been strained, will remain non-working royals, according to a person familiar with the decision."
   },
   {
-    "title": "U.S. Debt Hits $40 Trillion",
-    "link": "https://www.nytimes.com/2026/08/19/briefing/us-debt-hits-40-trillion.html",
-    "summary": "Also, Trump nominates a Kennedy ally to lead the F.D.A. Here’s the latest at the end of Wednesday."
+    "title": "Harry and Meghan’s Break with Britain and Planned Return: a Timeline",
+    "link": "https://www.nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html",
+    "summary": "The couple will remain non-working royals. It is unclear where they will live."
+  },
+  {
+    "title": "Queen Camilla Says It Was ‘Difficult’ to Keep Charles’s Cancer a Secret",
+    "link": "https://www.nytimes.com/2026/08/19/world/europe/camilla-charles-cancer-diagnosis-secret-charity.html",
+    "summary": "“I was just longing to let it out,” Camilla said in rare public comments about the king’s 2024 diagnosis, which was not immediately revealed. “But obviously I couldn’t.”"
   },
   {
     "title": "More of Trump’s Chosen Candidates Lose Republican Primaries",
@@ -50,19 +60,19 @@
     "summary": "Democrats in Alabama and beyond are trying to harness Black anger over the Supreme Court’s weakening of the Voting Rights Act and the Republican redistricting that followed."
   },
   {
+    "title": "Missouri Judge Says Redrawn Congressional Map May Be Used in Midterms",
+    "link": "https://www.nytimes.com/2026/08/19/us/missouri-redistricting-midterms.html",
+    "summary": "The decision was a win for Republicans, who have been pushing for the new map in an effort to help maintain the party’s narrow control in the U.S. House in November."
+  },
+  {
     "title": "In Wyoming’s G.O.P. Primaries, an Emphatic Rebuke of the Hard Right",
     "link": "https://www.nytimes.com/2026/08/19/us/elections/wyoming-republicans-moderate.html",
     "summary": "The Wyoming Freedom Caucus had ambitions for a total takeover of elected state government. But its candidates were rejected from the governor’s mansion to the Legislature."
   },
   {
-    "title": "Everyone’s Using This A.I. Dictation App That I Want to Murder With a Hammer",
-    "link": "https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html",
-    "summary": "Wispr Flow is supposed to make writing effortless and magical. So I “wrote” this column with it."
-  },
-  {
-    "title": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
-    "link": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
-    "summary": "The phone’s artificial intelligence can order groceries, book tables and take photos on a user’s behalf. But is it something people really want?"
+    "title": "Hating Matcha, Yet Loving Life, Made Him a TikTok Star at 89",
+    "link": "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html",
+    "summary": "Werner Kalecinski is a social media sensation among young Germans. How did he go from heartbroken widower to partying on a yacht?"
   },
   {
     "title": "North Korean Official Dismisses Reduced Drills Between US and South Korea",
@@ -75,9 +85,24 @@
     "summary": "The reversal of the plan, which had not been publicly disclosed, comes amid mounting confusion about how the administration is protecting the rights of unaccompanied minors."
   },
   {
-    "title": "‘It’s Bonkers’: Jennifer Hegseth’s Hands-On Role in Her Husband’s Pentagon",
-    "link": "https://www.nytimes.com/2026/08/19/style/jennifer-hegseth.html",
-    "summary": "After an 18-year career at Fox News, she is now her husband’s most influential adviser and de facto producer, shaping the job like no Pentagon spouse has before."
+    "title": "D.E.A. Joins Investigation Into Hayden Panettiere’s Death",
+    "link": "https://www.nytimes.com/2026/08/19/arts/television/hayden-panettiere-dea-investigation-drugs.html",
+    "summary": "The actress spoke candidly about her drug use and “the downfall of addiction.” The local police have said there is no evidence of foul play in her death."
+  },
+  {
+    "title": "What to Know About Hayden Panettiere’s Death",
+    "link": "https://www.nytimes.com/2026/08/19/arts/music/hayden-panettiere-death-what-to-know.html",
+    "summary": "The “Nashville” and “Heroes” star had released a memoir months before she died at 36."
+  },
+  {
+    "title": "Everyone’s Using This A.I. Dictation App That I Want to Murder With a Hammer",
+    "link": "https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html",
+    "summary": "Wispr Flow is supposed to make writing effortless and magical. So I “wrote” this column with it."
+  },
+  {
+    "title": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
+    "link": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+    "summary": "The phone’s artificial intelligence can order groceries, book tables and take photos on a user’s behalf. But is it something people really want?"
   },
   {
     "title": "Mamdani Sues City Council Over $10,000 Bonuses to Teachers’ Aides",
@@ -90,19 +115,19 @@
     "summary": "A draft report from the city estimates that 700,000 new units would need to be built over the next decade to accommodate the need for homes."
   },
   {
-    "title": "For Caitlin Simmers, Surfing Is a Dance Born on the Waves",
-    "link": "https://www.nytimes.com/2026/08/19/arts/dance/caitlin-simmers-surf-dance.html",
-    "summary": "Caitlin Simmers, a world champion surfer, sees her sport as dance. How does this translate? She’s as seamless as a ribbon."
+    "title": "Trump Wants to Influence Brazil. It’s Way Ahead of Him.",
+    "link": "https://www.nytimes.com/2026/08/20/opinion/trump-brazil-election-bolsonaro.html",
+    "summary": "The country’s coming election will not be decided by the American president."
   },
   {
-    "title": "Status Defines Friendship for Too Many Americans",
-    "link": "https://www.nytimes.com/2026/08/19/opinion/friendship-luxury-good.html",
-    "summary": "The four-year degree isn’t just an economic signal; it’s become a lifestyle determinant."
+    "title": "America Is About to Get More Expensive",
+    "link": "https://www.nytimes.com/2026/08/20/opinion/bond-market-interest-rates-affordability.html",
+    "summary": "The impact from the bond market sell-off could prove more enduring, wide-ranging and globally consequential than prior episodes of market volatility."
   },
   {
-    "title": "The ‘Crack Spread’ Is Going to Make Your Life Unpleasant",
-    "link": "https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html",
-    "summary": "Gas prices are going to remain high. Don’t blame the price of crude oil."
+    "title": "Jimmy Fallon Teases Trump’s Efforts to Rekindle North Korea Bromance",
+    "link": "https://www.nytimes.com/2026/08/20/arts/television/jimmy-fallon-trump-kim-jong-un.html",
+    "summary": "“Man, you know you’re depressed when you’re texting an old hookup from seven years ago,” Fallon said of the president and North Korea’s leader, Kim Jong-un."
   },
   {
     "title": "Derrick Parker, Known as New York’s ‘Hip-Hop Cop,’ Dies at 65",

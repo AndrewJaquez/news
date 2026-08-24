@@ -1,5 +1,20 @@
 [
   {
+    "title": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds",
+    "link": "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html",
+    "summary": "President Trump vowed to increase tariffs on cars, trucks, auto parts and steel to 50 percent starting Jan. 1, as the countries edged toward a full-blown trade war."
+  },
+  {
+    "title": "In Building His Border Wall, Trump May Bring Down a 110-Year-Old Church",
+    "link": "https://www.nytimes.com/2026/08/24/us/west-texas-border-wall-ruidosa-corazon-sagrado.html",
+    "summary": "A century ago, Mexican American families came together to build an adobe church near the border in West Texas. Can its bell toll again as the wall expansion nears?"
+  },
+  {
+    "title": "U.S. Military Kills 2 People in Attack on Boat in Pacific",
+    "link": "https://www.nytimes.com/2026/08/24/us/politics/military-boat-strike.html",
+    "summary": "The United States has killed at least 223 people since its campaign of boat strikes began nearly a year ago."
+  },
+  {
     "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
     "link": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
     "summary": "An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans."
@@ -12,27 +27,17 @@
   {
     "title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
     "link": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
-    "summary": "In his first foreign trip since taking office, Prime Minister Andy Burnham affirmed support for Kyiv despite new warnings from Moscow of potential consequences."
+    "summary": "In his first foreign trip since taking office, the British prime minister pledged to stand by Kyiv despite new warnings of potential consequences."
   },
   {
-    "title": "Canada Is ‘at War’ With U.S. Over Tariffs, and U.S.P.S. Publishes Plan to Restrict Ballots",
-    "link": "https://www.nytimes.com/2026/08/24/podcasts/the-headlines/canada-tariffs-usps-ballots.html",
-    "summary": "Plus, what it’s like to live next to a roller coaster."
+    "title": "Trump Lays It on the Line for Darline Graham Ahead of South Carolina Runoff",
+    "link": "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html",
+    "summary": "The president rallied for the sister of Lindsey Graham in her Senate run in South Carolina and pressured other allies to endorse her. A super PAC run by his advisers weighed in. Will it be enough?"
   },
   {
-    "title": "Iran Cracks Down on One Luxury Left to Its Youth: Coffee Shops",
-    "link": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html",
-    "summary": "In recent weeks, the police have closed dozens of cafes, often citing laws that stipulate women must veil in public. Experts say the closures are part of an effort to control public space."
-  },
-  {
-    "title": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran",
-    "link": "https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html",
-    "summary": "Treasury Secretary Scott Bessent is expected to announce an escalation of sanctions aimed at further isolating Iranian trade."
-  },
-  {
-    "title": "U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands",
-    "link": "https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html",
-    "summary": "The move to call off the high-profile event was communicated in June, South Korea said. President Trump shortened another joint military exercise earlier this month."
+    "title": "With Trump Against Him, Can Ralph Norman Win in South Carolina?",
+    "link": "https://www.nytimes.com/2026/08/24/us/politics/ralph-norman-trump-south-carolina.html",
+    "summary": "The ultraconservative congressman who has broken with the president on spending is hoping voters reward his experience, contrarian streak and all."
   },
   {
     "title": "Can Democrats Win Back the Senate? Why Their Chances Are Improving.",
@@ -40,19 +45,19 @@
     "summary": "Republicans still have some clear advantages on the map, but President Trump’s unpopularity has opened the door for an outcome that once seemed far-fetched."
   },
   {
-    "title": "As Democrats Struggle in Some Western States, Independents See an Opening",
-    "link": "https://www.nytimes.com/2026/08/24/us/politics/independent-candidates-challenge-republicans.html",
-    "summary": "From South Dakota to Alaska, independents are challenging incumbent Republicans and eschewing a Democratic label that Western voters find toxic."
+    "title": "Eon Huntley, the Democratic Socialist Running for Office While Working at Bergdorf",
+    "link": "https://www.nytimes.com/2026/08/23/style/eon-huntley-dsa-bergdorf-goodman.html",
+    "summary": "For Eon Huntley, who won his primary in New York in June, good clothes and populist policies go together."
   },
   {
-    "title": "Trump’s Economic Approach Draws Concern From Some Republicans",
-    "link": "https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html",
-    "summary": "A plan to lower tariffs on imported beef and trade tensions with Canada have compounded some G.O.P. worries about a central issue in the midterms."
+    "title": "How Should ‘Huckleberry Finn’ Be Taught?",
+    "link": "https://www.nytimes.com/2026/08/24/magazine/huckleberry-finn-teachers-students-schools.html",
+    "summary": "I traveled around the country to find out if “Adventures of Huckleberry Finn” still has a place in the classroom."
   },
   {
-    "title": "AIPAC Wants to Back This Republican, but He Has Some Reservations",
-    "link": "https://www.nytimes.com/2026/08/24/us/politics/aipac-rogers-michigan-senate.html",
-    "summary": "The pro-Israel group has been preparing to spend big for Mike Rogers, the Republican nominee for Senate in Michigan. Does he want that?"
+    "title": "How Farmers Are Staying Afloat as Crop Prices Plunge",
+    "link": "https://www.nytimes.com/2026/08/24/business/farmers-land-value-crop-prices-iowa.html",
+    "summary": "Most U.S. farmers will lose money this year. Landowners and investors are increasingly trying to make money from their land, not what can be grown from it."
   },
   {
     "title": "Farmers Struggle to Get Basic Services From Depleted Agriculture Dept.",
@@ -60,19 +65,24 @@
     "summary": "After the departure of thousands of federal workers, rural communities report problems obtaining loans, grants, technical assistance and support for infrastructure and other services."
   },
   {
-    "title": "In West Texas, Trump’s Border Wall Collides With Latino History",
-    "link": "https://www.nytimes.com/2026/08/24/us/west-texas-border-wall-ruidosa-corazon-sagrado.html",
-    "summary": "A century ago, Mexican American families came together to build an adobe church near the border. Can its bell toll again as the wall expansion nears?"
+    "title": "The Woman Guiding Tourists Through New York City’s Worst Day",
+    "link": "https://www.nytimes.com/2026/08/24/nyregion/the-woman-guiding-tourists-through-new-york-citys-worst-day.html",
+    "summary": "Christina Stanton offers a very specific and deeply personal tour of the World Trade Center site to remind visitors what happened 25 years ago."
   },
   {
-    "title": "Trump’s Summer of Fun Ends With IndyCar Race on Streets of D.C.",
-    "link": "https://www.nytimes.com/2026/08/23/us/politics/trump-indycar-race-dc-america-250.html",
-    "summary": "It was the final, major event planned for the nation’s 250th anniversary celebrations. The president took a lap."
+    "title": "More Companies Are Promising Cloud Seeding Can Make Rain",
+    "link": "https://www.nytimes.com/2026/08/24/climate/cloud-seeding-west-drought-rain.html",
+    "summary": "States are spending millions of dollars on cloud-seeding technology, backed by new data on its effectiveness — and driven by desperation for water."
   },
   {
-    "title": "California Cancels Talks With Paramount Over Warner Bros. Merger",
-    "link": "https://www.nytimes.com/2026/08/24/us/california-bonta-paramount-warner-settlement-talks.html",
-    "summary": "The attorney general of California, one of 12 states suing to block the $111 billion deal, accused Paramount of leaking and misrepresenting earlier settlement discussions."
+    "title": "The Ruthless Efficiency of Ultrapotent Street Drugs",
+    "link": "https://www.nytimes.com/2026/08/24/science/drugs-opioids-fentanyl-baltimore.html",
+    "summary": "Five decades after the “war on drugs” sought to make substance abuse unaffordable, illicit drugs are cheaper and more powerful than ever. A visit to Baltimore shows why."
+  },
+  {
+    "title": "Why Getting High Has Only Gotten Cheaper",
+    "link": "https://www.nytimes.com/2026/08/24/science/opioids-drugs-economics.html",
+    "summary": "The “war on drugs” sought to reduce substance abuse by driving up prices and lowering demand. Today, street drugs are less expensive and more dangerous than ever."
   },
   {
     "title": "Washington Post Ordered to Rehire Fired Columnist Karen Attiah",
@@ -85,14 +95,19 @@
     "summary": "RJ Shook of Shook Research said he paid Randall Lane, the former top editor at Forbes, for “services and guidance” in partnering with Forbes and later selling his research firm."
   },
   {
-    "title": "These Conservatives Want to Be Working Moms. The Manosphere Disapproves.",
-    "link": "https://www.nytimes.com/2026/08/24/us/conservative-women-manosphere-disapproval.html",
-    "summary": "At a conservative center for women leaders, interns told stories about their lives. One said a male classmate told her, “I don’t know if women should be lawyers.”"
+    "title": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
+    "link": "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html",
+    "summary": "Hugging Face, a start-up that was breached by rogue bots from OpenAI, is using the hack to push for openness in A.I. development."
   },
   {
-    "title": "How Should ‘Huckleberry Finn’ Be Taught?",
-    "link": "https://www.nytimes.com/2026/08/24/magazine/huckleberry-finn-teachers-students-schools.html",
-    "summary": "I traveled around the country to find out if “Adventures of Huckleberry Finn” still has a place in the classroom."
+    "title": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities",
+    "link": "https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html",
+    "summary": "When OpenAI’s agents went rogue in July, they demonstrated ingenuity and drive beyond what many experts imagined — a dangerous harbinger of what such bots could do in the future."
+  },
+  {
+    "title": "Dale Dickey Is Way Past Crying in Barney Suits",
+    "link": "https://www.nytimes.com/2026/08/24/arts/television/dale-dickey-widows-bay-emmy.html",
+    "summary": "Years ago, she donned a dinosaur costume to help make ends meet. Now she is a first-time Emmy nominee for her role in “Widow’s Bay.”"
   },
   {
     "title": "We’re in a New Era of Class Warfare. History Points to a Way Out.",
@@ -100,7 +115,7 @@
     "summary": "The class-based violence of the past was part of a broader struggle. Today, the violence is the end in itself."
   },
   {
-    "title": "Mark Carney Did What Canadians Elected Him to Do",
+    "title": "Canada Said No to America. It Will Reverberate Far Beyond Its Borders.",
     "link": "https://www.nytimes.com/2026/08/24/opinion/mark-carney-tariffs-canada-america.html",
     "summary": "Mark Carney has chosen suffering, but he did what Canadians elected him to do."
   },
@@ -110,8 +125,8 @@
     "summary": "One reporter traveled to understand how it is taught now."
   },
   {
-    "title": "As El Niño Dries Indonesia, Wildfires Intensify",
-    "link": "https://www.nytimes.com/2026/08/24/world/asia/indonesia-el-nino-borneo-fire.html",
-    "summary": "The unusual weather pattern and dried out peatlands, a kind of wetland, have been behind some of the country’s worst fire seasons. This year could be one."
+    "title": "Fast-Moving Reno Wildfire Forces Thousands to Evacuate in Nevada",
+    "link": "https://www.nytimes.com/2026/08/24/us/reno-nevada-hawk-fire-wildfire.html",
+    "summary": "The Hawk fire has burned more than 15,000 acres since it began on Saturday in the foothills of the Sierra Nevada near Reno."
   }
 ]

@@ -1,13 +1,18 @@
 [
   {
+    "title": "Why the United States Can’t Quit Its Wars",
+    "link": "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html",
+    "summary": "The country’s longest war came to an end exactly five years ago. Today it offers lessons for policymakers seeking to avoid an endless war in Iran."
+  },
+  {
     "title": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
     "link": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html",
     "summary": "Only a fraction of the over 2,500 missing are turning up among the dead, underscoring a bleak reality: The death toll is likely to keep rising for days to come."
   },
   {
-    "title": "China Says 261 Foreigners From 23 Countries Are Missing in Tibet Flood",
-    "link": "https://www.nytimes.com/2026/08/30/world/asia/tibet-nepal-flood-death-toll-china.html",
-    "summary": "The disclosure offered one of the clearest pictures yet of the disaster on the Chinese side of the border, where authorities have released few details."
+    "title": "What to Know About Deadly Flash Floods in Nepal and Tibet",
+    "link": "https://www.nytimes.com/2026/08/26/world/asia/nepal-tibet-floods-wtk.html",
+    "summary": "A massive landslide and glacial collapse may have caused catastrophic flooding even without heavy rainfall. More than 3,000 people remained missing."
   },
   {
     "title": "How Trump’s Policy Agenda Runs Through One Federal Court, in Texas",
@@ -18,11 +23,6 @@
     "title": "Deportees Sent to Liberia Recount Harrowing Details of U.S. Expulsion and Treatment by ICE",
     "link": "https://www.nytimes.com/2026/08/30/world/africa/us-deportation-flight-ice-detention-liberia.html",
     "summary": "Ten deportees said they experienced or witnessed what they called abusive or violent treatment by ICE. They spent months in detention, they said, before being sent to nations where they had no ties."
-  },
-  {
-    "title": "Why the United States Can’t Quit Its Wars",
-    "link": "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html",
-    "summary": "The country’s longest war came to an end exactly five years ago. Today it offers lessons for policymakers seeking to avoid an endless war in Iran."
   },
   {
     "title": "Postal Service Rule Could Bar Millions From Voting by Mail",
@@ -50,9 +50,9 @@
     "summary": "With “The Disappearers,” the Booker Prize-winning author has written his most personal novel yet."
   },
   {
-    "title": "He Was a Top Lawn Care Influencer on YouTube. Then Everything Went Haywire.",
-    "link": "https://www.nytimes.com/2026/08/30/magazine/greg-chism-youtube-bad-baby.html",
-    "summary": "Many people think Greg Chism is a freak — or worse. He says he was just following the incentives of the platform."
+    "title": "New York Is Relying on Office Conversions to Address Its Housing Crisis",
+    "link": "https://www.nytimes.com/2026/08/30/nyregion/nyc-conversions-analysis-pfizer.html",
+    "summary": "A New York Times analysis shows that the pace of office-to-residential conversions like the former Pfizer building, where two steel columns buckled in July, has quickened sharply."
   },
   {
     "title": "Who Will Rule the 2026 U.S. Open?",
@@ -60,18 +60,38 @@
     "summary": "The players, the rivalries and the dramas to follow at this year’s tournament."
   },
   {
-    "title": "The World Is a Room With a Piano Waiting to Be Played",
-    "link": "https://www.nytimes.com/2026/08/30/opinion/wonder-awe-aging.html",
-    "summary": "Like any life, mine has had its pain, yet from the outset it seems to have been graced by unbelievable people and events. An anthology of miracles."
+    "title": "15 People May Be Missing at Grand Canyon After Flash Flood",
+    "link": "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html",
+    "summary": "At least 62 people were evacuated on Saturday after flooding destroyed footbridges and damaged a campground and cabins near Bright Angel Creek in Arizona."
   },
   {
-    "title": "How Not to Announce a Measles Death",
-    "link": "https://www.nytimes.com/2026/08/30/opinion/measles-deaths-pennsylvania-shapiro.html",
-    "summary": "Josh Shapiro announced two measles deaths. Things went downhill fast."
+    "title": "He Was a Top Lawn Care Influencer on YouTube. Then Everything Went Haywire.",
+    "link": "https://www.nytimes.com/2026/08/30/magazine/greg-chism-youtube-bad-baby.html",
+    "summary": "Many people think Greg Chism is a freak — or worse. He says he was just following the incentives of the platform."
   },
   {
-    "title": "NASA’s Nancy Grace Roman Telescope Leaves Earth to Chart the Stars",
-    "link": "https://www.nytimes.com/2026/08/30/science/spacex-roman-telescope-launch.html",
-    "summary": "Astronomers will use data collected by Roman’s wide, deep gaze to study the dark universe and hunt for new worlds."
+    "title": "Dolly Parton and the ‘Pretty Darn Good’ Southern Church",
+    "link": "https://www.nytimes.com/2026/08/30/us/dolly-parton-southern-christianity.html",
+    "summary": "For many Americans, Ms. Parton represented an idealized style of faith: one centered in small rural congregations that prize community over ideology."
+  },
+  {
+    "title": "Dolly Parton’s Marriage to Carl Dean Was Fueled by Distance and Difference",
+    "link": "https://www.nytimes.com/2026/08/30/arts/music/dolly-parton-carl-dean-marriage-relationship.html",
+    "summary": "Dolly Parton met Carl Dean outside a Nashville laundromat in 1964. For decades, she was as protective of her marriage as he was fiercely private."
+  },
+  {
+    "title": "Sílvia Orriols’s Movement Used to Fight Fascism. Now Catalan Nationalism Fights Globalism.",
+    "link": "https://www.nytimes.com/2026/08/29/opinion/silvia-orriols-catalonia-nationalism.html",
+    "summary": "Sílvia Orriols is transforming Catalan nationalism."
+  },
+  {
+    "title": "India’s ‘Cockroaches’ Are Fighting Back",
+    "link": "https://www.nytimes.com/2026/08/29/opinion/india-gen-z-cockroach-movement.html",
+    "summary": "Inside India’s viral political movement."
+  },
+  {
+    "title": "Man Finds His Father’s Wedding Ring Decades After It Was Lost",
+    "link": "https://www.nytimes.com/2026/08/29/us/ohio-lost-found-wedding-ring.html",
+    "summary": "Using a metal detector, Jeff Arnett honored a request from his father, who lost his band while washing his car more than 40 years ago."
   }
 ]

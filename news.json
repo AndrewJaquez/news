@@ -1,8 +1,23 @@
 [
   {
+    "title": "At G20 Summit, Some U.S. Allies Push Back on Trump’s Economic Approach",
+    "link": "https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html",
+    "summary": "At a summit meant to showcase President Trump’s economic policies as a model for the world, Europeans complained about tariffs and the war with Iran."
+  },
+  {
+    "title": "At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports",
+    "link": "https://www.nytimes.com/2026/09/01/business/economy/bessent-china-iran-g20.html",
+    "summary": "Treasury Secretary Scott Bessent accused China for flooding the world with its cheap exports."
+  },
+  {
     "title": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
     "link": "https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html",
     "summary": "Iranian officials said the strikes caused significant damage, including killing four people and injuring several dozens at a wedding. Iran said it retaliated by firing on U.S. bases in the region."
+  },
+  {
+    "title": "U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break",
+    "link": "https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html",
+    "summary": "Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln, which came into the spotlight because of a tough deployment in the war in Iran."
   },
   {
     "title": "Putin Pledges Increased Strikes in Ukraine and Support for Iran",
@@ -15,19 +30,29 @@
     "summary": "The New York Police Department made public the names of some of the people involved in a seemingly random knife attack on a crowded Manhattan street, but questions remained."
   },
   {
+    "title": "‘Don’t Worry About Me’: Attacker’s Father Thought She Had Turned a Corner",
+    "link": "https://www.nytimes.com/2026/09/01/nyregion/times-square-stabbing-suspect.html",
+    "summary": "Pamela Cisneros was killed by the police in Times Square after she stabbed two people, one fatally. Her father said she had stopped going with him to her mental health appointments."
+  },
+  {
     "title": "Times Square Police Shooting Was Justified but Put Others at Risk, Experts Say",
     "link": "https://www.nytimes.com/2026/09/01/nyregion/times-square-shooting-stabbing-nypd.html",
     "summary": "Officers who stood around a woman wielding two kitchen knives, and then opened fire without clearing the area, risked harming themselves or passers-by, the experts said."
   },
   {
-    "title": "U.S. Launches New Attacks on Iran",
-    "link": "https://www.nytimes.com/2026/09/01/briefing/us-iran-strikes-global-bonds.html",
-    "summary": "Also, borrowing costs rise around the world. Here’s the latest at the end of Tuesday."
+    "title": "Six Takeaways From the Massachusetts Primaries",
+    "link": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-primary-election-results-takeaways.html",
+    "summary": "Senator Ed Markey, 80, trounced a younger challenger who had made an argument for generational change. Two other longtime Democratic lawmakers hung on, too."
   },
   {
-    "title": "Ed Markey Wins Massachusetts Democratic Senate Primary, Defeating Younger Challenger",
-    "link": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-senate-democratic-primary.html",
-    "summary": "The oldest senator in Massachusetts history used a progressive message to beat Representative Seth Moulton, 47, defying calls for generational change."
+    "title": "Longtime Democratic Congressman Defeats Progressive Rival in Massachusetts",
+    "link": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-democratic-primary-lynch-roath.html",
+    "summary": "Representative Stephen Lynch, 71, a centrist, beat Patrick Roath, 39, in a primary that reflected the party’s generational and ideological divides."
+  },
+  {
+    "title": "Former Biden White House Aide Wins Massachusetts Democratic House Primary",
+    "link": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-democratic-primary-6th-district.html",
+    "summary": "Dan Koh, who ran with the endorsement of former President Joseph R. Biden Jr., topped a crowded field to secure the nomination in the safely Democratic Sixth Congressional District."
   },
   {
     "title": "House Censures Republican Accused of Sexually Harassing Two Aides",
@@ -50,34 +75,39 @@
     "summary": "Amid a trade war, Canada’s Liberals swept three special votes and new polling suggested strong support for Prime Minister Mark Carney and his retaliatory tariffs against the U.S."
   },
   {
-    "title": "At G20 Meeting, Scott Bessent Accuses China of Flooding the World With Cheap Exports",
-    "link": "https://www.nytimes.com/2026/09/01/business/economy/bessent-china-iran-g20.html",
-    "summary": "Treasury Secretary Scott Bessent accused China for flooding the world with its cheap exports."
-  },
-  {
-    "title": "Why MAHA Rallied for a Mother Seeking Alternative Treatments for Her Son’s Cancer",
-    "link": "https://www.nytimes.com/2026/09/01/magazine/maha-cancer-treatment-doctors-cps.html",
-    "summary": "Dayna Mooney chose alternative remedies over the recommendations of her son’s doctors. Was that her right as a parent or a threat to his care?"
-  },
-  {
     "title": "Despite Duane Davis’s Conviction in Tupac Murder Trial, Some Still Seek Closure",
     "link": "https://www.nytimes.com/2026/09/01/arts/music/tupac-murder-duane-davis-keffe-d.html",
     "summary": "When a man was found guilty of orchestrating the murder of Tupac Shakur, it brought catharsis to many who knew the rapper. But questions remain even after the trial."
   },
   {
+    "title": "A.I. Is to Be Banned in N.Y.C. Elementary and Middle Schools",
+    "link": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+    "summary": "A new policy to be announced by the Department of Education bars younger students from using A.I., but stops short of a moratorium."
+  },
+  {
+    "title": "Missouri Voters Appear to Recall City Councilman Over Data Center Support",
+    "link": "https://www.nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html",
+    "summary": "Initial results showed that residents of Independence, Mo., voted overwhelmingly to recall an official who backed billions of dollars in tax breaks for a data center."
+  },
+  {
+    "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
+    "link": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+    "summary": "It proposed a new goal of limiting the “overshoot” of rising temperatures and eventually figuring out how to undo the temperature gains, a highly uncertain path."
+  },
+  {
     "title": "Judge Lets Case Against Tyler Robinson, Charlie Kirk Shooting Suspect, Go to Trial",
     "link": "https://www.nytimes.com/2026/09/01/us/charlie-kirk-shooting.html",
-    "summary": "The judge also allowed prosecutors to seek the death penalty against the man, who is accused of assassinating the conservative activist last year."
+    "summary": "The judge said prosecutors had presented enough evidence to try the man accused of killing the conservative activist last year, who pleaded not guilty."
   },
   {
-    "title": "A New World Order Is Coming. We Aren’t Ready.",
-    "link": "https://www.nytimes.com/2026/09/01/opinion/world-order-international-relations.html",
-    "summary": "We must be honest about the seriousness of the situation we’re in."
+    "title": "Is Steve Hilton the Future of Trumpism?",
+    "link": "https://www.nytimes.com/2026/09/02/opinion/steve-hilton-california-trump.html",
+    "summary": "Steve Hilton wants to ‘Make California Golden Again.’"
   },
   {
-    "title": "Did the Met Just Cancel the Wrong Fashionista?",
-    "link": "https://www.nytimes.com/2026/09/01/opinion/met-gala-anna-wintour-john-galliano.html",
-    "summary": "With John Galliano, Anna Wintour cannot seem to separate the man from his work."
+    "title": "My Home Is Besieged By Israeli Settlers. This Flag Is My Only Protection.",
+    "link": "https://www.nytimes.com/2026/09/02/opinion/israel-settlers-palestine-america.html",
+    "summary": "As Israeli settlers encroach on his home, one Palestinian American man has hoisted the American flag."
   },
   {
     "title": "Haitian Student, Despondent Over Ankle Monitor, Dies in Apparent Suicide",

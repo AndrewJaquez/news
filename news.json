@@ -1,33 +1,23 @@
 [
   {
+    "title": "Trump Administration Launches Hunt For Noncitizen Voter Fraud Before Midterms",
+    "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html",
+    "summary": "Voter fraud is exceedingly rare, but President Trump has fixated on rooting it out this year, claiming without evidence that tens of thousands of noncitizens are registered to vote."
+  },
+  {
     "title": "Trump’s Speed on the White House Ballroom Threatens to Outpace the Courts",
     "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-courts-ballroom.html",
     "summary": "In his breakneck construction of a grand ballroom and in many other initiatives, critics say, the president has tried to outrun judicial review."
   },
   {
-    "title": "Who Approves Trump’s Washington Makeover Projects?",
-    "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html",
-    "summary": "The Supreme Court gave a green light to the new White House ballroom, but several of the president’s other Washington projects remain stalled."
-  },
-  {
-    "title": "Kennedy Center Begins Removing Outdoor ‘Blue’ Sculpture",
-    "link": "https://www.nytimes.com/2026/09/01/arts/design/kennedy-center-sculpture-removal-blue.html",
-    "summary": "The towering artwork, added to the campus in 2019, was targeted for elimination after President Trump’s takeover of the center."
-  },
-  {
-    "title": "On Trump’s Ballroom, Chief Justice Finds Himself in an Unusual Spot: In Dissent",
-    "link": "https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html",
-    "summary": "Chief Justice John G. Roberts Jr. has been in the majority in divided cases more times than any other chief since 1953. But not this time."
-  },
-  {
-    "title": "Russia’s New Push to Torment Kyiv, and a Whistle-Blower’s Warning on Mail-In Voting",
-    "link": "https://www.nytimes.com/2026/09/02/podcasts/the-headlines/russia-kyiv-strikes-whistleblower-warning-mail-voting.html",
-    "summary": "Plus, hiking 2,190 miles at age 91."
-  },
-  {
     "title": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
     "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
-    "summary": "President Trump called on Iranians to “rise up and fight” on Tuesday as the United States seems increasingly bogged down after six months of conflict."
+    "summary": "The United States seems increasingly bogged down in Iran after six months of conflict, despite President Trump’s declarations of military dominance."
+  },
+  {
+    "title": "U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break",
+    "link": "https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html",
+    "summary": "Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln, which came into the spotlight because of a tough deployment in the war in Iran."
   },
   {
     "title": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
@@ -35,19 +25,29 @@
     "summary": "The American military said its barrage was retaliation against recent attacks on U.S. forces and marine traffic. Iranian officials said a wedding was hit and civilians killed."
   },
   {
-    "title": "At G20 Summit, Some U.S. Allies Push Back on Trump’s Economic Approach",
-    "link": "https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html",
-    "summary": "At a summit meant to showcase President Trump’s economic policies as a model for the world, Europeans complained about tariffs and the war with Iran."
+    "title": "How the Met’s Galliano Show Fell Apart",
+    "link": "https://www.nytimes.com/2026/09/02/style/john-galliano-met-exhibition-cancel-anna-wintour.html",
+    "summary": "Anna Wintour put her full power and prestige behind a designer convicted of an antisemitic hate crime. Behind the scenes, influential New Yorkers revolted."
   },
   {
-    "title": "Global Bond Rates Are Rising. What Should You Do Now?",
-    "link": "https://www.nytimes.com/2026/09/02/business/bond-rates-retirement-401k.html",
-    "summary": "If you own bonds, they may be in a broad fund that hasn’t lost much money. And that fund may do much better in the next several years."
+    "title": "Deadlocked Jury in Lindsay Clancy Trial Again Says It Can’t Reach a Verdict",
+    "link": "https://www.nytimes.com/2026/09/02/us/lindsay-clancy-trial-judge-questions-jurors.html",
+    "summary": "After roughly 30 hours of debate, jurors told the judge for a second time that they couldn’t reach unanimous agreement. He sent them back for one last try."
   },
   {
-    "title": "Employer Health Costs Are Expected to Spike in 2027",
-    "link": "https://www.nytimes.com/2026/09/02/business/health-insurance-increases.html",
-    "summary": "A new U.S. survey anticipates an average increase of 11 percent unless benefits are cut, the highest rate in decades. Other findings also predict a sharp rise."
+    "title": "Lindsay Clancy’s Trial Prompts Patients and Doctors to Rethink Postpartum Care",
+    "link": "https://www.nytimes.com/2026/09/02/well/doctors-patients-postpartum-mental-health-clancy-trial.html",
+    "summary": "Requests for advice from women with maternal mental health conditions, as well as health providers who care for them, have surged."
+  },
+  {
+    "title": "What Is ‘Narrative Art?’ The Lucas Museum Finally Shows Us Its Vision.",
+    "link": "https://www.nytimes.com/2026/09/02/arts/design/george-lucas-museum-narrative-art-opening.html",
+    "summary": "After several delays, George Lucas’s legacy project is finally ready to open. There’s less “Star Wars” than you might expect."
+  },
+  {
+    "title": "In Nepal and Tibet, Pollution on Glaciers Could Fuel More Flood Disasters",
+    "link": "https://www.nytimes.com/2026/09/02/climate/pollution-soot-glaciers-melting-himalayas.html",
+    "summary": "Darkened by soot from vehicles and factories, the region’s glaciers are absorbing more heat and melting at dangerous rates."
   },
   {
     "title": "The ‘Miracle House’ That Survived Nepal’s Floods",
@@ -55,9 +55,9 @@
     "summary": "People are coming to take photos of the green-painted house, which kept the Pyakurel family safe as the area all around them was destroyed by rampaging floodwaters."
   },
   {
-    "title": "I Need an IV Drip to Recover From My IV Drip",
-    "link": "https://www.nytimes.com/2026/09/02/magazine/iv-drip-vitamin-wellness.html",
-    "summary": "Wellness clinics are shooting people up with vitamins, but is the point to actually feel better — or the opposite?"
+    "title": "In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules",
+    "link": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+    "summary": "In a long-awaited decision, a federal judge said Google must change its ad tech business to address antitrust issues, but did not disclose the measures."
   },
   {
     "title": "Woman Killed in Times Square Stabbing Identified as Bank of America VP",
@@ -75,9 +75,14 @@
     "summary": "Officers who stood around a woman wielding two kitchen knives, and then opened fire without clearing the area, risked harming themselves or passers-by, the experts said."
   },
   {
-    "title": "Six Takeaways From the Massachusetts Primaries",
-    "link": "https://www.nytimes.com/2026/09/01/us/politics/massachusetts-primary-election-results-takeaways.html",
-    "summary": "Senator Ed Markey, 80, trounced a younger challenger who had made an argument for generational change. Two other longtime Democratic lawmakers hung on, too."
+    "title": "Leanne Morgan, the 60-Year-Old Breakout Comedy Star",
+    "link": "https://www.nytimes.com/2026/09/02/style/maybe-leanne-morgan-can-heal-america.html",
+    "summary": "The homey Southern comic is a red-state phenomenon with blue-state celebrity, big tours, a Netflix series and Judd Apatow’s adoration. How did she get here?"
+  },
+  {
+    "title": "As Trump Throws a Midterm Party, Some Vulnerable Republicans Send Regrets",
+    "link": "https://www.nytimes.com/2026/09/02/us/politics/trump-midterm-convention-republicans.html",
+    "summary": "Many members of Congress in the most competitive re-election races are skipping the chance to share a pep rally stage with President Trump."
   },
   {
     "title": "Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?",
@@ -85,29 +90,19 @@
     "summary": "For years, Democrats have failed to harness the anger of Montanans contending with out-of-state wealth driving up costs. This year, a smokejumper thinks he can succeed."
   },
   {
-    "title": "In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules",
-    "link": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-    "summary": "In a long awaited decision, the judge said Google must make some changes to its ad tech business to handle antitrust issues, but did not disclose the measures publicly."
+    "title": "How New York Times Reporters Traced Dark Money in Politics",
+    "link": "https://www.nytimes.com/2026/09/02/insider/how-reporters-trace-dark-money-in-politics.html",
+    "summary": "About $1 billion in anonymous contributions is coursing through midterm races across the country. Figuring out where the funds are coming from is no easy task."
   },
   {
-    "title": "In Egypt, Xi Challenges America’s Influence in the Middle East",
-    "link": "https://www.nytimes.com/2026/09/02/world/asia/china-egypt-xi-jinping-el-sisi.html",
-    "summary": "China’s leader, Xi Jinping, is seeking to deepen ties with a longtime U.S. security partner and to project a larger role for Beijing in a region rocked by war."
-  },
-  {
-    "title": "Netanyahu’s Israel Is Looking for a Fight in Every Direction",
-    "link": "https://www.nytimes.com/2026/09/02/world/middleeast/netanyahu-israel-election.html",
-    "summary": "The Israeli leader, facing a tough re-election contest, may need a security crisis to rally voters behind him and hold on to his job."
+    "title": "Eala-Mania Hits the U.S. Open, and There’s Joy in Little Manila",
+    "link": "https://www.nytimes.com/2026/09/02/nyregion/alex-eala-us-open-philippines-little-manila.html",
+    "summary": "The young Filipino star Alex Eala has charmed the tennis world and united her far-flung compatriots."
   },
   {
     "title": "Deaths of 2 Men in Los Angeles Police Custody Set Off Investigations",
     "link": "https://www.nytimes.com/2026/09/02/us/los-angeles-jail-inmate-beating.html",
     "summary": "Mayor Karen Bass questioned police training to handle mental health crises after the city released graphic video footage of officers’ actions."
-  },
-  {
-    "title": "Chevron Expansion in Venezuela Extends U.S. Influence Over Oil Riches",
-    "link": "https://www.nytimes.com/2026/09/02/business/energy-environment/chevron-venezuela-oil-trump.html",
-    "summary": "The U.S. energy giant, which stayed in the country after other Western companies left, will invest $7 billion in the country to more than double its production there."
   },
   {
     "title": "Is Steve Hilton the Future of Trumpism?",
@@ -120,13 +115,13 @@
     "summary": "I realized that in this country Indians were not supposed to be happy or to pursue happiness. We were supposed to suffer and to pursue suffering."
   },
   {
-    "title": "The Word Is Bond",
-    "link": "https://www.nytimes.com/2026/09/02/briefing/the-word-is-bond.html",
-    "summary": "We explain what is happening in the bond market."
+    "title": "Ask Us Anything About Our Midterm Reporting",
+    "link": "https://www.nytimes.com/2026/09/02/insider/ask-us-anything-about-our-midterm-reporting.html",
+    "summary": "Send us questions about our political coverage, polling and election results reporting. New York Times journalists will answer."
   },
   {
-    "title": "Attacks in Black Sea Threaten to Strangle Global Grain Supply",
-    "link": "https://www.nytimes.com/2026/09/02/world/europe/russia-ukraine-port-attacks-farmers-grain.html",
-    "summary": "Strikes on ports and vessels by both Russia and Ukraine have left farmers facing ruin and could cause another worldwide food shock."
+    "title": "Inside the Fight Against a Flesh-Eating Fly in Mexico",
+    "link": "https://www.nytimes.com/2026/09/02/world/americas/screwworm-facility-mexico.html",
+    "summary": "For the first time in a year, the U.S.-Mexico border partly reopened to cattle imports following a screwworm infestation across the region. The battle against the flesh-eating fly has only just begun deep in Mexico."
   }
 ]

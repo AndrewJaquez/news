@@ -1,5 +1,40 @@
 [
   {
+    "title": "U.S. Diesel Prices Set New High",
+    "link": "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html",
+    "summary": "Because of the war in Iran, the cost has climbed past the record it reached in 2022 after Russia’s full-scale invasion of Ukraine."
+  },
+  {
+    "title": "The Bond Markets Are Pushing Up Rates. Will Central Banks Follow?",
+    "link": "https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html",
+    "summary": "Around the world, rising bond yields reflect shifting expectations on how fast policymakers will raise interest rates."
+  },
+  {
+    "title": "Mortgage Rates Hit 6.71%, Their Highest Level Since July 2025",
+    "link": "https://www.nytimes.com/2026/09/03/business/mortgage-rates-housing.html",
+    "summary": "Higher costs for home loans have put a squeeze on the housing market, adding pressure to consumers already struggling with elevated inflation."
+  },
+  {
+    "title": "A Surge of Russian Sabotage Attacks in Europe, and Musk’s Political War Chest",
+    "link": "https://www.nytimes.com/2026/09/04/podcasts/the-headlines/russia-sabotage-attacks-elon-musk.html",
+    "summary": "Plus, your Friday news quiz."
+  },
+  {
+    "title": "The Risk of Russian Sabotage in Europe: A Fight That Spirals Out of Control",
+    "link": "https://www.nytimes.com/2026/09/04/world/europe/russia-europe-nato-sabotage.html",
+    "summary": "Europe’s options are limited in responding to an unnerving series of plots and provocations. But the odds of unpredictable consequences are rising."
+  },
+  {
+    "title": "Russian Drone Strikes Office of Ukraine’s Intelligence Chief",
+    "link": "https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html",
+    "summary": "The attack came as the American envoys Steve Witkoff and Jared Kushner were said to be planning imminent visits to Kyiv and to Moscow."
+  },
+  {
+    "title": "After Fighting Russia Fiercely, He Wants to Forge Ukraine’s Path to Peace",
+    "link": "https://www.nytimes.com/2026/09/04/world/europe/ukraine-russia-talks-kyrylo-budanov.html",
+    "summary": "Kyrylo Budanov, a decorated soldier and former military spy chief, advocates a negotiated settlement. Talks are expected to resume this month."
+  },
+  {
     "title": "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
     "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
     "summary": "A nonprofit’s study of how OpenAI’s A.I. agents were able to break into Hugging Face’s infrastructure wasn’t allowed to look at the incident’s full scope."
@@ -10,29 +45,19 @@
     "summary": "The attack by an aggressive “collective” of OpenAI agents shows the danger of artificial intelligence systems that organize themselves."
   },
   {
-    "title": "U.S. Diesel Prices Set New High",
-    "link": "https://www.nytimes.com/2026/09/04/business/diesel-price-record-oil-iran.html",
-    "summary": "Because of the war in Iran, the cost has climbed past the record it reached in 2022 after Russia’s full-scale invasion of Ukraine."
+    "title": "The Hit Song ‘Choosin’ Texas’ Hits a Nerve: Is Texas the South?",
+    "link": "https://www.nytimes.com/2026/09/04/us/choosin-texas-southern-ella-langley.html",
+    "summary": "Ella Langley’s smash has become an anthem in Austin, a singalong in Nashville and a case study in how the Texas brand travels."
   },
   {
-    "title": "Mortgage Rates Hit 6.71%, Their Highest Level Since July 2025",
-    "link": "https://www.nytimes.com/2026/09/03/business/mortgage-rates-housing.html",
-    "summary": "Higher costs for home loans have put a squeeze on the housing market, adding pressure to consumers already struggling with elevated inflation."
+    "title": "Ella Langley’s ‘Choosin’ Texas’ Breaks Record With 20th Week at No. 1",
+    "link": "https://www.nytimes.com/2026/08/31/arts/music/ella-langley-choosin-texas-record.html",
+    "summary": "The singer-songwriter set the record for a non-holiday song, topping the Hot 100 in a week that saw country hits dominate and Dolly Parton’s return."
   },
   {
-    "title": "Trump to Break Ground on Arch Before Getting Approval",
-    "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html",
-    "summary": "Doug Burgum, the interior secretary, announced plans to start work on the site of the 250-foot-tall triumphal arch. Final approval of the project is still pending."
-  },
-  {
-    "title": "JD Vance Says He Wouldn’t Call Iran Conflict a War",
-    "link": "https://www.nytimes.com/2026/09/03/us/politics/vance-iran-press-briefing.html",
-    "summary": "In the first White House press briefing since Karoline Leavitt left as press secretary, the vice president suggested that when the conflict would end was up to Tehran."
-  },
-  {
-    "title": "Trump Taps Army Engineering Official as Acting Secretary",
-    "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-acting-army-secretary.html",
-    "summary": "The move came days after the resignation of Daniel P. Driscoll, who had clashed with Defense Secretary Pete Hegseth over the purge of top generals in the Army."
+    "title": "Alejandro Betancourt, Trump’s Partner in Venezuelan Oil Deal, Has Faced Investigations",
+    "link": "https://www.nytimes.com/2026/09/04/world/americas/venezuela-oil-trump-alejandro-betancourt.html",
+    "summary": "Alejandro Betancourt has been targeted by multiple investigations. Now he’s the U.S. government’s unrivaled partner in President Trump’s bid to control Venezuelan oil resources."
   },
   {
     "title": "Former Labor Secretary Stoked Dysfunction and Toxicity, Department Report Finds",
@@ -40,44 +65,54 @@
     "summary": "Lori Chavez-DeRemer spent Labor Department funds on personal travel and tolerated harassment in the agency, its inspector general found."
   },
   {
-    "title": "Volkswagen Plans to Cut 50,000 Jobs",
-    "link": "https://www.nytimes.com/2026/09/03/business/volkswagen-job-cuts.html",
-    "summary": "Facing growing competition from China and rapidly advancing technology, the German auto giant said its board had approved a “comprehensive” overhaul."
+    "title": "Inside Mamdani’s Private Army of Public Influencers",
+    "link": "https://www.nytimes.com/2026/09/04/nyregion/mamdani-influencers-emilia-rowland.html",
+    "summary": "Zohran Mamdani is seen as a social media wizard. Some of his popularity stems from an influencer operation run by the mayor’s office."
   },
   {
-    "title": "Gloria Steinem, Personification of the Feminist Movement, Dies at 92",
-    "link": "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html",
-    "summary": "She challenged sexist assumptions, helping women develop a sense of self-worth and gain a measure of equality at work, at home and in society at large."
+    "title": "Gloria Steinem Found Community and Clout Over the Dinner Table",
+    "link": "https://www.nytimes.com/2026/09/04/dining/gloria-steinem-dinners-food.html",
+    "summary": "Neither a home cook nor an enthusiastic eater, she used the dinner table as a place to forge relationships and foster change."
   },
   {
-    "title": "Steinem’s N.Y.C. Brownstone Will Continue to Be a Sanctuary for Feminism",
-    "link": "https://www.nytimes.com/2026/09/03/nyregion/gloria-steinem-home-new-york.html",
-    "summary": "Following Ms. Steinem’s death on Wednesday, her foundation said her Upper East Side home would become a permanent space for organizing and activism."
+    "title": "In Battle to Use ‘Ms.,’ Gloria Steinem Had to Fight The New York Times",
+    "link": "https://www.nytimes.com/2026/09/04/arts/gloria-steinem-ms-new-york-times-abe-rosenthal.html",
+    "summary": "In the 1970s, Ms. Steinem confronted the newspaper’s executive editor about the honorific in an exchange of letters, pressing it to use the alternative to Miss or Mrs."
   },
   {
-    "title": "Hillary Clinton, Meghan Markle, Lena Dunham and Others Pay Tribute to Gloria Steinem",
-    "link": "https://www.nytimes.com/2026/09/03/us/gloria-steinem-death-hillary-clinton-meghan-markle.html",
-    "summary": "After Ms. Steinem’s death at 92, celebrities and politicians reflected on her decades of activism for women’s rights and equality."
+    "title": "Yemen’s Houthis Push Toward Red Sea Strait as Ground Fighting Escalates",
+    "link": "https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html",
+    "summary": "The Houthis, an Iran-backed militia, appear to be trying to gain control of a port city near the Bab al-Mandab Strait, a key choke point for global trade."
   },
   {
-    "title": "Inside the Nepal Tunnel Rescue Operation",
-    "link": "https://www.nytimes.com/2026/09/04/world/asia/nepal-flood-tunnel-rescue-operation.html",
-    "summary": "An Australian engineer advising the effort described how two men were freed after nine days trapped in a tunnel at the Upper Trishuli 3A hydropower plant."
+    "title": "Israel Says It Is Cementing Its Foothold in Southern Lebanon",
+    "link": "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html",
+    "summary": "The recent capture of a strategic ridge has further entrenched the Israeli occupation of Lebanese territory, as efforts to broker lasting peace have floundered."
   },
   {
-    "title": "In a First, a Pig Kidney Kept a Patient Alive Until He Got a Human One",
-    "link": "https://www.nytimes.com/2026/09/03/well/pig-kidney-bridge-transplant.html",
-    "summary": "Tim Andrews was the first patient to receive a genetically modified pig kidney as a “bridge” to a human organ transplant."
+    "title": "Can a ‘Prairie Populist’ Democrat Win a Senate Seat in Trump’s Iowa?",
+    "link": "https://www.nytimes.com/2026/09/04/us/politics/josh-turek-iowa-senate-race.html",
+    "summary": "Josh Turek is trying to turn deep-red Iowa blue as he runs for the U.S. Senate."
   },
   {
-    "title": "Syrians Want Justice for Assad-Era Killings and Torture",
-    "link": "https://www.nytimes.com/2026/09/03/world/middleeast/syria-justice-abuse-assad.html",
-    "summary": "Hundreds of thousands were killed and tortured. But prosecuting everyone involved in atrocities could be impractical and risk renewed civil strife."
+    "title": "North Carolina Set to Mail The Fall’s First Ballots As Trump Tries to Restrict Them",
+    "link": "https://www.nytimes.com/2026/09/04/us/politics/north-carolina-mails-first-ballots-of-fall-as-trump-tries-to-restrict-them.html",
+    "summary": "A federal judge has temporarily blocked a Postal Service rule that could impede millions of mail voters. The Trump administration has asked the Supreme Court to weigh in."
   },
   {
-    "title": "Maria Bartiromo Is Out at Fox News",
-    "link": "https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html",
-    "summary": "The dismissal came after Ms. Bartiromo shared internal Fox Business communications with the White House, a person familiar with the details confirmed."
+    "title": "Missouri Supreme Court Delivers Win for Democrats in Redistricting Case",
+    "link": "https://www.nytimes.com/2026/09/03/us/missouri-supreme-court-redistricting-referendum.html",
+    "summary": "The court said a map redrawn to benefit Republicans could not be used in November and said voters should decide on the new boundaries. The state attorney general vowed to appeal the decision."
+  },
+  {
+    "title": "Why Rebuilding After Climate Disasters Is No Longer Enough",
+    "link": "https://www.nytimes.com/2026/09/04/magazine/climate-change-disaster-rebuilding.html",
+    "summary": "But every crisis is an opportunity."
+  },
+  {
+    "title": "Behind on 2030 Climate Goals, States Are Cutting or Even Scrapping Them",
+    "link": "https://www.nytimes.com/2026/09/04/upshot/states-carbon-emissions-goals.html",
+    "summary": "Ambitious aims have given way to political anxiety over rising costs for consumers."
   },
   {
     "title": "The Search for New Cures Is Broken",
@@ -85,13 +120,18 @@
     "summary": "It is too hard for medical researchers to launch clinical trials."
   },
   {
-    "title": "What Gloria Steinem Can Teach Us",
-    "link": "https://www.nytimes.com/2026/09/04/opinion/gloria-steinem-feminism.html",
-    "summary": "Steinem has died at the end of a decade that undid some of what she struggled for."
+    "title": "Something Alarming Is About to Happen in Germany",
+    "link": "https://www.nytimes.com/2026/09/04/opinion/afd-germany-saxony-anhalt.html",
+    "summary": "The government is seemingly incapable of stopping the far right."
   },
   {
-    "title": "How the Delhi Metro Became a Leading Transit System",
-    "link": "https://www.nytimes.com/2026/09/02/headway/india-delhi-metro-public-transit.html",
-    "summary": "This year, the Indian capital’s subway system passed New York’s in length."
+    "title": "Build First, Ask Later",
+    "link": "https://www.nytimes.com/2026/09/04/briefing/build-first-ask-later.html",
+    "summary": "We look at President Trump’s building spree in Washington."
+  },
+  {
+    "title": "New Yorkers: Share Your Thoughts About Israel, Gaza and Jewish Identity",
+    "link": "https://www.nytimes.com/2026/09/03/nyregion/jewish-new-yorkers-israel-gaza.html",
+    "summary": "The New York Times is looking to talk to Jewish New Yorkers about whether their views on Israel and the Israeli-Palestinian conflict have changed."
   }
 ]

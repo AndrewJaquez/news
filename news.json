@@ -1,65 +1,5 @@
 [
   {
-    "title": "Germany’s ‘Firewall’ Against the Far Right Is Being Tested as Never Before",
-    "link": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html",
-    "summary": "A blowout win by the far-right Alternative for Germany party in a state election has revealed a split among voters about whether to uphold a decades-old strategy for sidelining extremists."
-  },
-  {
-    "title": "After Victory in German State, Far Right Needs Help to Take Power",
-    "link": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html",
-    "summary": "The Alternative for Germany, or AfD, does not have a straightforward path to governing Saxony-Anhalt, but a small populist party could clear the way."
-  },
-  {
-    "title": "AfD Victory in Saxony-Anhalt Sends a Signal to Europe",
-    "link": "https://www.nytimes.com/2026/09/06/world/europe/afd-germany-europe-far-right-saxony-anhalt.html",
-    "summary": "A vote in eastern Germany has given fresh momentum to hard-right parties hoping to win elections elsewhere on the continent next year, analysts said."
-  },
-  {
-    "title": "As War Grinds On, Trump Relishes Renovation Projects",
-    "link": "https://www.nytimes.com/2026/09/07/us/politics/trump-dc-makeover-projects.html",
-    "summary": "President Trump is basking in the momentum of the various projects he has spurred around downtown Washington."
-  },
-  {
-    "title": "How a Colorado School District Is Fighting Trump’s Anti-Transgender Push",
-    "link": "https://www.nytimes.com/2026/09/07/us/politics/jefferson-county-trump-transgender-lawsuit.html",
-    "summary": "Jefferson County, Colo., is one of the few public school systems to sue the Trump administration over demands that it revoke transgender protections or face funding cuts."
-  },
-  {
-    "title": "For Trump’s Former Fixer, a Tortured Path From ‘Rat’ to Reconciliation",
-    "link": "https://www.nytimes.com/2026/09/06/us/politics/michael-cohen-donald-trump-interview.html",
-    "summary": "The president has made peace with Michael D. Cohen, his onetime lawyer who turned against him. But contrary to Mr. Trump’s claims, Mr. Cohen has not recanted the testimony that helped convict his former boss."
-  },
-  {
-    "title": "Trump Posts Map Suggesting New Mexico Be Renamed as ‘New America’",
-    "link": "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html",
-    "summary": "The suggestion, posted on social media, appeared to be the latest in the president’s efforts to alter geographic names."
-  },
-  {
-    "title": "Cargo Plane Crashes at Miami Airport, Striking Vehicles",
-    "link": "https://www.nytimes.com/2026/09/06/us/plane-crash-amazon-miami-airport.html",
-    "summary": "Officials said five others were injured. Flight disruptions at Miami International Airport continued on Monday morning."
-  },
-  {
-    "title": "What to Know About Cargo Plane That Overran Its Runway, Killing 5 in Miami",
-    "link": "https://www.nytimes.com/2026/09/06/us/miami-plane-crash-what-we-know.html",
-    "summary": "The plane was operating as part of Amazon’s cargo fleet and had flown from Puerto Rico. It crashed into several vehicles after overrunning the runway."
-  },
-  {
-    "title": "For a Photographer, the Towers Were an Ever-Present Focal Point",
-    "link": "https://www.nytimes.com/2026/09/07/nyregion/twin-towers-photographs.html",
-    "summary": "Keith Meyers spent years photographing the waterfronts in and around New York City. The twin towers became a constant backdrop."
-  },
-  {
-    "title": "9/11 Shaped Their Lives, Even Though They’re Too Young to Remember It.",
-    "link": "https://www.nytimes.com/2026/09/07/nyregion/born-after-9-11-young-adults.html",
-    "summary": "They have no memory of the buildings missing from the skyline or airports without security lines. But they have strong feelings about how to regard the legacy of the attacks."
-  },
-  {
-    "title": "Bears in Los Angeles Are Getting Their Close-Ups, Ready or Not",
-    "link": "https://www.nytimes.com/2026/09/07/us/california-black-bears.html",
-    "summary": "California has 60,000 black bears, and they are venturing far from their usual habitat in search of food and shelter. It’s the humans who have to adapt."
-  },
-  {
     "title": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
     "link": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html",
     "summary": "New Canadian levies of up to 50 percent are expected to begin Tuesday, even as Washington warns of a new round of American tariffs."
@@ -70,9 +10,44 @@
     "summary": "In Colorado and across the country, higher costs, tariffs and cheap beef imports are affecting voters who will help determine which party controls the House next year."
   },
   {
-    "title": "In Peru, the Trump Administration Sees the Limits of Its Anti-China Push",
-    "link": "https://www.nytimes.com/2026/09/07/world/americas/peru-trump-china-economy.html",
-    "summary": "As Secretary of State Marco Rubio travels this week to Peru, its growing economic ties to China have raised tensions with the U.S., but show no signs of reversing course."
+    "title": "As War Grinds On, Trump Relishes Renovation Projects",
+    "link": "https://www.nytimes.com/2026/09/07/us/politics/trump-dc-makeover-projects.html",
+    "summary": "President Trump is basking in the momentum of the various projects he has spurred around downtown Washington."
+  },
+  {
+    "title": "Ousted Kennedy Center Chairman Buys Dismantled ‘Blue’ Sculpture",
+    "link": "https://www.nytimes.com/2026/09/07/arts/design/blue-sculpture-kennedy-center-rubenstein.html",
+    "summary": "David Rubenstein purchased the sculpture, which was removed from the center last week, from the artist’s foundation. He will display it at the National Gallery of Art."
+  },
+  {
+    "title": "Trump Posts Map Suggesting New Mexico Be Renamed as ‘New America’",
+    "link": "https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html",
+    "summary": "The suggestion, posted on social media, appeared to be the latest in the president’s efforts to alter geographic names."
+  },
+  {
+    "title": "Germany’s ‘Firewall’ Against the Far Right Is Being Tested as Never Before",
+    "link": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html",
+    "summary": "A blowout win by the far-right Alternative for Germany party in a state election has revealed a split among voters about whether to uphold a decades-old strategy for sidelining extremists."
+  },
+  {
+    "title": "After Victory in German State, Far Right Needs Help to Take Power",
+    "link": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html",
+    "summary": "The Alternative for Germany, or AfD, does not have a straightforward path to governing Saxony-Anhalt, but a small populist party could clear the way."
+  },
+  {
+    "title": "Officials Search for Answers After Fatal Miami Airport Cargo Plane Crash",
+    "link": "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html",
+    "summary": "The cargo plane, operated for Amazon, plowed into a public road and crashed into vehicles, killing five people and disrupting more than 200 flights over Labor Day weekend."
+  },
+  {
+    "title": "What to Know About Cargo Plane That Overran Its Runway, Killing 5 in Miami",
+    "link": "https://www.nytimes.com/2026/09/06/us/miami-plane-crash-what-we-know.html",
+    "summary": "The plane was operating as part of Amazon’s cargo fleet and had flown from Puerto Rico. It crashed into several vehicles after overrunning the runway."
+  },
+  {
+    "title": "Bears in Los Angeles Are Getting Their Close-Ups, Ready or Not",
+    "link": "https://www.nytimes.com/2026/09/07/us/california-black-bears.html",
+    "summary": "California has 60,000 black bears, and they are venturing far from their usual habitat in search of food and shelter. It’s the humans who have to adapt."
   },
   {
     "title": "Why Amy Klobuchar Wants to Run a State Beleaguered by Trump",
@@ -85,24 +60,24 @@
     "summary": "From Iowa to Michigan to Texas, key contests will offer clues about voters’ views of President Trump, progressive ideas, the war with Iran and more."
   },
   {
-    "title": "With a Gerrymander Vanquished, Wisconsin Democrats Aim for Control",
-    "link": "https://www.nytimes.com/2026/09/07/us/politics/wisconsin-legislature-democrats.html",
-    "summary": "The swing state of Wisconsin had one of the most undemocratic State Assembly maps in the country. Now Democrats have a chance to take control of the legislature."
+    "title": "Can a ‘Prairie Populist’ Democrat Win a Senate Seat in Trump’s Iowa?",
+    "link": "https://www.nytimes.com/2026/09/04/us/politics/josh-turek-iowa-senate-race.html",
+    "summary": "Josh Turek is trying to turn deep-red Iowa blue as he runs for the U.S. Senate."
   },
   {
-    "title": "Thousands of Serbs Gather to Mourn Ratko Mladic, the ‘Butcher of Bosnia’",
-    "link": "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html",
-    "summary": "The government insisted the funeral was a private affair, even as government ministers attended and state-controlled news media lavished praise on the convicted war criminal."
+    "title": "There Is Still a Void at Ground Zero. Here’s How We Fill It.",
+    "link": "https://www.nytimes.com/2026/09/07/arts/design/911-world-trade-center-development-neighborhood.html",
+    "summary": "At 25 years, the World Trade Center is an undeniable feat of urban redevelopment. Now we can make it a real neighborhood."
   },
   {
-    "title": "How ‘Hypermilers’ Are Trying to Beat High Gas Prices",
-    "link": "https://www.nytimes.com/2026/09/07/us/hypermile-car-gas-prices.html",
-    "summary": "Gas prices have risen sharply since the start of the Iran war. Some drivers are using special techniques to maximize their miles per gallon and save at the pump."
+    "title": "Caribbean Revelers Celebrate at Parade, Even as Many Are Missing",
+    "link": "https://www.nytimes.com/2026/09/07/nyregion/west-indian-american-parade-haitians.html",
+    "summary": "At the annual West Indian American Day Parade in Brooklyn, many Haitian New Yorkers targeted by an immigration crackdown were absent from the festivities."
   },
   {
-    "title": "Rivian R2 Review: A Tidier (in Size and Price) SUV Is Ready for the Suburbs",
-    "link": "https://www.nytimes.com/2026/09/07/business/rivian-r2-review.html",
-    "summary": "The electric automaker’s new R2 takes what works from its bigger, costlier brother and adds a host of features with the mass market in mind."
+    "title": "Social Media in China Is Getting Really Dark",
+    "link": "https://www.nytimes.com/2026/09/07/business/china-social-media-pessimism.html",
+    "summary": "The Chinese Communist Party has spent years trying to make “positive energy” the dominant mood of the country’s internet. It’s no longer working."
   },
   {
     "title": "Can Andre Agassi Enjoy Pickleball More Than He Hated Tennis?",
@@ -110,28 +85,18 @@
     "summary": "After years of relative quiet, the public is meeting “Andre 2.0” — a pickleball booster, an open book and a guy eager to build a less tortured relationship with competition."
   },
   {
-    "title": "The Film Industry Is Worried About Survival. France Wants to Save the Day.",
-    "link": "https://www.nytimes.com/2026/09/07/movies/france-south-korea-film-industry-hollywood.html",
-    "summary": "An A-list gathering in the French Riviera aimed to serve as a rallying cry for a sector threatened by YouTube, TikTok and artificial intelligence."
+    "title": "Why Labor’s Share of Wealth Is Shrinking",
+    "link": "https://www.nytimes.com/2026/09/07/opinion/labor-capitol-workers-income.html",
+    "summary": "Workers’ share of our national income is declining rapidly but we’re not sure why."
   },
   {
-    "title": "Is Roy Cooper Winning in North Carolina? Not if You Ask His Aides.",
-    "link": "https://www.nytimes.com/2026/09/07/opinion/roy-cooper-senate-carolina.html",
-    "summary": "Roy Cooper’s durable lead in a crucial Senate race is causing jitters."
+    "title": "Gloria Steinem Knew How to Live",
+    "link": "https://www.nytimes.com/2026/09/07/opinion/gloria-steinem-aging-feminism.html",
+    "summary": "I miss her already."
   },
   {
-    "title": "Somewhere, Roy Cohn Is Smiling",
-    "link": "https://www.nytimes.com/2026/09/07/opinion/roy-cohn-kai-bird-trump.html",
-    "summary": "Trump needed only one teacher."
-  },
-  {
-    "title": "Happy Labor Day!",
-    "link": "https://www.nytimes.com/2026/09/07/briefing/happy-labor-day.html",
-    "summary": "We’re loading up the grill."
-  },
-  {
-    "title": "They Went to Ukraine on the ‘Peace Express.’ Detours Are Likely Ahead.",
-    "link": "https://www.nytimes.com/2026/09/07/world/europe/ukraine-russia-witkoff-kushner-trump.html",
-    "summary": "The Trump administration had let the peace process enter such a freeze that a trip to Kyiv was just an initial step. Any new talks will happen alongside escalating fighting."
+    "title": "Thousands of Serbs Gather to Mourn Ratko Mladic, the ‘Butcher of Bosnia’",
+    "link": "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html",
+    "summary": "The government insisted the funeral was a private affair, even as government ministers attended and state-controlled news media lavished praise on the convicted war criminal."
   }
 ]

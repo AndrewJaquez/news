@@ -1,5 +1,25 @@
 [
   {
+    "title": "After 9/11, Documents Suggest New Yorkers Were Misled About Air Quality",
+    "link": "https://www.nytimes.com/2026/09/07/nyregion/sept-11-air-quality-cancer.html",
+    "summary": "New York City officials are making public more than 170,000 pages of documents related to the air quality around the World Trade Center site in the months after the Sept. 11 attacks."
+  },
+  {
+    "title": "There Is Still a Void at Ground Zero. Here’s How We Fill It.",
+    "link": "https://www.nytimes.com/2026/09/07/arts/design/911-world-trade-center-development-neighborhood.html",
+    "summary": "At 25 years, the World Trade Center is an undeniable feat of urban redevelopment. Now we can make it a real neighborhood."
+  },
+  {
+    "title": "Officials Search for Answers After Fatal Miami Airport Cargo Plane Crash",
+    "link": "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html",
+    "summary": "A cargo plane, operated for Amazon, plowed into two vehicles on Sunday, leaving five more injured and disrupting Labor Day weekend travel for thousands."
+  },
+  {
+    "title": "Amazon Plane Crash Starts Debate About Requiring a Buffer for Runways",
+    "link": "https://www.nytimes.com/2026/09/07/us/miami-crash-emas-buffer-runways.html",
+    "summary": "A technology involving crushable concrete has been credited with saving nearly 500 passenger lives by helping halt planes that overshot their landings."
+  },
+  {
     "title": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate",
     "link": "https://www.nytimes.com/2026/09/07/world/canada/tariffs-trade-war-carney-trump.html",
     "summary": "New Canadian levies of up to 50 percent are expected to begin Tuesday, even as Washington warns of a new round of American tariffs."
@@ -25,26 +45,6 @@
     "summary": "The suggestion, posted on social media, appeared to be the latest in the president’s efforts to alter geographic names."
   },
   {
-    "title": "Germany’s ‘Firewall’ Against the Far Right Is Being Tested as Never Before",
-    "link": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-election-saxony-anhalt-election.html",
-    "summary": "A blowout win by the far-right Alternative for Germany party in a state election has revealed a split among voters about whether to uphold a decades-old strategy for sidelining extremists."
-  },
-  {
-    "title": "After Victory in German State, Far Right Needs Help to Take Power",
-    "link": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html",
-    "summary": "The Alternative for Germany, or AfD, does not have a straightforward path to governing Saxony-Anhalt, but a small populist party could clear the way."
-  },
-  {
-    "title": "Officials Search for Answers After Fatal Miami Airport Cargo Plane Crash",
-    "link": "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html",
-    "summary": "The cargo plane, operated for Amazon, plowed into a public road and crashed into vehicles, killing five people and disrupting more than 200 flights over Labor Day weekend."
-  },
-  {
-    "title": "What to Know About Cargo Plane That Overran Its Runway, Killing 5 in Miami",
-    "link": "https://www.nytimes.com/2026/09/06/us/miami-plane-crash-what-we-know.html",
-    "summary": "The plane was operating as part of Amazon’s cargo fleet and had flown from Puerto Rico. It crashed into several vehicles after overrunning the runway."
-  },
-  {
     "title": "Bears in Los Angeles Are Getting Their Close-Ups, Ready or Not",
     "link": "https://www.nytimes.com/2026/09/07/us/california-black-bears.html",
     "summary": "California has 60,000 black bears, and they are venturing far from their usual habitat in search of food and shelter. It’s the humans who have to adapt."
@@ -65,9 +65,9 @@
     "summary": "Josh Turek is trying to turn deep-red Iowa blue as he runs for the U.S. Senate."
   },
   {
-    "title": "There Is Still a Void at Ground Zero. Here’s How We Fill It.",
-    "link": "https://www.nytimes.com/2026/09/07/arts/design/911-world-trade-center-development-neighborhood.html",
-    "summary": "At 25 years, the World Trade Center is an undeniable feat of urban redevelopment. Now we can make it a real neighborhood."
+    "title": "Social Media in China Is Getting Really Dark",
+    "link": "https://www.nytimes.com/2026/09/07/business/china-social-media-pessimism.html",
+    "summary": "The Chinese Communist Party has spent years trying to make “positive energy” the dominant mood of the country’s internet. It’s no longer working."
   },
   {
     "title": "Caribbean Revelers Celebrate at Parade, Even as Many Are Missing",
@@ -75,9 +75,14 @@
     "summary": "At the annual West Indian American Day Parade in Brooklyn, many Haitian New Yorkers targeted by an immigration crackdown were absent from the festivities."
   },
   {
-    "title": "Social Media in China Is Getting Really Dark",
-    "link": "https://www.nytimes.com/2026/09/07/business/china-social-media-pessimism.html",
-    "summary": "The Chinese Communist Party has spent years trying to make “positive energy” the dominant mood of the country’s internet. It’s no longer working."
+    "title": "Haitians Deported From U.S. Are Left Broke and Stranded",
+    "link": "https://www.nytimes.com/2026/09/06/world/americas/haiti-deportees.html",
+    "summary": "Hundreds have been deported to Haiti in recent weeks, and some say they have been left with no money, no protection from gangs and no place to go."
+  },
+  {
+    "title": "Elizabeth Holmes Documentary ‘You Can See Everything’ Upends Telluride",
+    "link": "https://www.nytimes.com/2026/09/07/movies/elizabeth-holmes-documentary-nathan-fielder-a24.html",
+    "summary": "The comic Nathan Fielder and the filmmaker Lance Oppenheim teamed up to interview the convicted executive for “You Can See Everything.”"
   },
   {
     "title": "Can Andre Agassi Enjoy Pickleball More Than He Hated Tennis?",
@@ -85,18 +90,13 @@
     "summary": "After years of relative quiet, the public is meeting “Andre 2.0” — a pickleball booster, an open book and a guy eager to build a less tortured relationship with competition."
   },
   {
-    "title": "Why Labor’s Share of Wealth Is Shrinking",
-    "link": "https://www.nytimes.com/2026/09/07/opinion/labor-capitol-workers-income.html",
-    "summary": "Workers’ share of our national income is declining rapidly but we’re not sure why."
+    "title": "There’s Something Better Than Happiness",
+    "link": "https://www.nytimes.com/2026/09/07/opinion/happiness-research-joy-mental-health.html",
+    "summary": "We ought to make it a point not to stay in our happy place for too long."
   },
   {
-    "title": "Gloria Steinem Knew How to Live",
-    "link": "https://www.nytimes.com/2026/09/07/opinion/gloria-steinem-aging-feminism.html",
-    "summary": "I miss her already."
-  },
-  {
-    "title": "Thousands of Serbs Gather to Mourn Ratko Mladic, the ‘Butcher of Bosnia’",
-    "link": "https://www.nytimes.com/2026/09/07/world/europe/ratko-mladic-funeral-serbia.html",
-    "summary": "The government insisted the funeral was a private affair, even as government ministers attended and state-controlled news media lavished praise on the convicted war criminal."
+    "title": "Somewhere, Roy Cohn Is Smiling",
+    "link": "https://www.nytimes.com/2026/09/07/opinion/roy-cohn-kai-bird-trump.html",
+    "summary": "Trump needed only one teacher."
   }
 ]

@@ -1,58 +1,43 @@
 [
   {
+    "title": "Bond Market Rebuffs Treasury’s $6 Billion Plan to Reduce Borrowing Costs",
+    "link": "https://www.nytimes.com/2026/09/09/business/economy/treasury-repurchase-bessent.html",
+    "summary": "The 10-year yield rose to its highest level in three years, suggesting investors were underwhelmed by the details of a move to buy back government bonds."
+  },
+  {
+    "title": "Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs",
+    "link": "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html",
+    "summary": "A worsening trade war and a spike in oil prices could create new economic risks as the president prepares to rally Republicans for the midterms."
+  },
+  {
+    "title": "Why Trump’s Republican Midterm ‘Convention’ Isn’t a Real Convention",
+    "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-republican-midterm-convention-gop-party.html",
+    "summary": "No nominations or formal party business will be happening, as they would at a traditional presidential convention. But the made-for-TV speeches will look much the same."
+  },
+  {
+    "title": "Texas Republicans Are Turning Against Data Centers. Will It Matter in November?",
+    "link": "https://www.nytimes.com/2026/09/09/us/texas-republicans-data-center-anger.html",
+    "summary": "The industry’s rapid expansion has scrambled traditional political alliances and forced G.O.P. leaders to respond to a backlash from some of their most reliable rural voters."
+  },
+  {
     "title": "Iran Signals Readiness to Escalate War With U.S. Amid Rising Economic Pressure",
     "link": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html",
     "summary": "The Iranian government is taking an increasingly aggressive approach as it confronts a growing economic threat and worries that its grip on the Strait of Hormuz is slipping, analysts say."
   },
   {
-    "title": "Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East",
-    "link": "https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html",
-    "summary": "The cost of crude has risen 40 percent since the start of the war in Iran, pushing up the price of gasoline, diesel and other refined fuels."
+    "title": "Iran’s Strikes on Base in Jordan Caused Limited Damage, U.S. Officials Say",
+    "link": "https://www.nytimes.com/2026/09/09/us/politics/iran-strikes-jordan-base.html",
+    "summary": "The latest round of fighting may result in reports of traumatic brain injuries among American service members, officials warned."
   },
   {
-    "title": "Why Trump Is Gathering Republicans in Texas, and Iran Targets U.S. Warships",
-    "link": "https://www.nytimes.com/2026/09/09/podcasts/the-headlines/trump-republicans-texas-iran-us-warships.html",
-    "summary": "Plus, the fake images flooding real estate listings."
+    "title": "Yemen Tilts Toward Full-Scale War as Saudi-Houthi Clashes Escalate",
+    "link": "https://www.nytimes.com/2026/09/09/world/middleeast/saudi-yemen-strilkes.html",
+    "summary": "With its oil-export routes once again under threat, Saudi Arabia is stepping up its military campaign against an old antagonist."
   },
   {
-    "title": "Trump’s Ability to Connect With Voters to Be Tested at Republican Midterm Convention",
-    "link": "https://www.nytimes.com/2026/09/08/us/politics/trump-republicans-midterms-voters.html",
-    "summary": "As Republicans face down tough midterm elections, President Trump has appeared out of step with the party on Iran, the economy and other issues."
-  },
-  {
-    "title": "The Establishment Pulls Through: Five Takeaways from the New Hampshire Primaries",
-    "link": "https://www.nytimes.com/2026/09/09/us/politics/new-hampshire-primaries-takeaways.html",
-    "summary": "The U.S. Senate race will feature familiar faces: former Senator John E. Sununu and Chris Pappas, a four-term congressman. Stefany Shaheen, a senator’s daughter, eked out a win in a House primary."
-  },
-  {
-    "title": "Trump’s Super PAC Starts to Unload Its War Chest, With New Group Booking $47 Million",
-    "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html",
-    "summary": "A recently created Republican group tied to the president’s super PAC is pumping cash into half a dozen key midterm races, with the largest amounts going toward Senate contests in Michigan and Ohio."
-  },
-  {
-    "title": "Missouri Supreme Court Sets Contempt Hearing in Fight Over House Map",
-    "link": "https://www.nytimes.com/2026/09/09/us/missouri-redistricting-congress-contempt.html",
-    "summary": "Amid conflicting rulings, Missouri’s highest court ordered the secretary of state to respond to claims that he violated an order on redistricting."
-  },
-  {
-    "title": "New Accuser Sues Foundations With Ties to Cesar Chavez",
-    "link": "https://www.nytimes.com/2026/09/09/us/cesar-chavez-lawsuit.html",
-    "summary": "The lawsuit, the first of its kind since revelations against the union leader emerged this year, accuses two foundations of failing to prevent “abusive, rogue and inappropriate” behavior."
-  },
-  {
-    "title": "Book Review: ‘Switzy,’ by Emma Cline",
-    "link": "https://www.nytimes.com/2026/09/06/books/review/switzy-emma-cline.html",
-    "summary": "In an impressive change of pace, Emma Cline’s new novel gets inside the head of a stoic businessman with dementia."
-  },
-  {
-    "title": "Trump Doled Out $45,000 Cash Gifts to Natalie Harp and Other Aides Last Year",
-    "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-natalie-harp-cash-gift-martin-harris.html",
-    "summary": "The money, listed as “cash gift for the holidays,” was detailed in financial disclosure forms released by the administration."
-  },
-  {
-    "title": "U.S. Takes Aim at New Target in Deadly Boat Strike Campaign",
-    "link": "https://www.nytimes.com/2026/09/09/world/americas/us-boat-strikes-south-america.html",
-    "summary": "U.S. military officials in the past two weeks have sunk six large fishing vessels accused of providing fuel to fast boats carrying drugs from South America."
+    "title": "Saudi Oil Exports Plunge as Spread of War Shuts Off Shipping Routes",
+    "link": "https://www.nytimes.com/2026/09/09/business/saudi-arabia-houthis-red-sea-oil-shipping.html",
+    "summary": "With few good options for safely shipping oil, Saudi Arabia’s exports have fallen to a 13-year low."
   },
   {
     "title": "He’s Seen Images of 9/11 From Just About Every Angle. Except This One.",
@@ -60,53 +45,63 @@
     "summary": "The 9/11 completist community wants to know and see everything. The Holy Grail? Pictures from inside the twin towers."
   },
   {
-    "title": "Three Jurors in Clancy Trial Describe Frustration With Holdout",
-    "link": "https://www.nytimes.com/2026/09/08/us/jurors-lindsay-clancy-trial.html",
-    "summary": "The three jurors, who voted to acquit Lindsay Clancy of murder, described the tense deliberations in an interview with a Boston TV station."
+    "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
+    "link": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
+    "summary": "At the company’s annual September product event, Apple also demonstrated its work on artificial intelligence and other new devices."
   },
   {
-    "title": "As He Backs ICE Crackdown, Nebraska Governor Employs Undocumented Workers",
-    "link": "https://www.nytimes.com/2026/09/09/us/jim-pillen-ice-nebraska-undocumented-workers.html",
-    "summary": "Gov. Jim Pillen’s family business is one of the nation’s largest pork producers. As he seeks re-election, he has aligned himself with President Trump’s anti-immigrant agenda even though his farms have taken on undocumented laborers."
+    "title": "60 Posts in 10 Hours: How Trump’s Social Media Reflects His Version of Reality",
+    "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-social-media-ai-reality.html",
+    "summary": "With an assist from A.I., President Trump offers a window into how he wants to be seen — and, critics say, a barometer of his mental state."
   },
   {
-    "title": "Un gobernador respalda a Trump pero contrata a trabajadores indocumentados",
-    "link": "https://www.nytimes.com/es/2026/09/09/espanol/ice-migrantes-nebraska-gobernador-trump.html",
-    "summary": "La empresa familiar del gobernador Jim Pillen es uno de los mayores productores porcinos de Estados Unidos. En su campaña por la reelección, se ha alineado con la agenda antinmigrante del presidente Trump, a pesar de que sus granjas han contratado a trabajadores indocumentados."
+    "title": "Trump Doled Out $45,000 Cash Gifts to Natalie Harp and Other Aides Last Year",
+    "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-natalie-harp-cash-gift-martin-harris.html",
+    "summary": "The money, listed as “cash gift for the holidays,” was detailed in financial disclosure forms released by the administration."
   },
   {
-    "title": "The Long Road to Rebuilding  Lahaina After the 2023 Wildfire",
-    "link": "https://www.nytimes.com/2026/09/09/magazine/maui-wildfire-hawaii-housing.html",
-    "summary": "Hawaii’s housing crisis was at a breaking point even before the fire. Since then, displaced families have struggled to rebuild their lives."
+    "title": "Toxic PFAS Cleanups at Military Sites Face Decades of Delay",
+    "link": "https://www.nytimes.com/2026/09/09/climate/pfas-military-bases-cleanup-delays.html",
+    "summary": "The Pentagon has again postponed PFAS cleanups at hundreds of military sites, in some cases up to 19 years, prompting bipartisan anger in Congress."
   },
   {
-    "title": "California, an Environmental Bastion, Warms to Nuclear Energy",
-    "link": "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html",
-    "summary": "The state is considering extending the life of its last nuclear power plant, Diablo Canyon, and allowing construction of new reactors to help meet its clean energy goals."
+    "title": "Why Israel Reacted With Fury to U.K. Sanctions on West Bank Settlements",
+    "link": "https://www.nytimes.com/2026/09/09/world/middleeast/israel-uk-west-bank-sanctions.html",
+    "summary": "The fierce retaliation of Prime Minister Benjamin Netanyahu’s government to the new restrictions is a reflection of his tough re-election fight, analysts say."
   },
   {
-    "title": "My Dad Died on Flight 93. I Miss the Way America Responded.",
-    "link": "https://www.nytimes.com/2026/09/09/opinion/911-flight-93-america-nation.html",
-    "summary": "My father died on 9/11, and a nation united behind my family, as well as others. We desperately need that sense of togetherness today."
+    "title": "Missouri Supreme Court Sets Contempt Hearing in Fight Over House Map",
+    "link": "https://www.nytimes.com/2026/09/09/us/missouri-redistricting-congress-contempt.html",
+    "summary": "Amid conflicting rulings, Missouri’s highest court ordered the secretary of state to respond to claims that he violated an order on redistricting."
   },
   {
-    "title": "Roy Cohn: ‘The Evil Forrest Gump of the 20th Century’",
-    "link": "https://www.nytimes.com/2026/09/09/opinion/roy-cohn-american-scoundrel-trump.html",
-    "summary": "A new book reveals how the infamous lawyer helped shape Donald Trump."
+    "title": "How Trump’s Mail Voting Plan Would Work",
+    "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-mail-in-voting-ballots-usps.html",
+    "summary": "The plan, which two dozen states have challenged as unconstitutional, puts in place new requirements about who can receive mail ballots."
   },
   {
-    "title": "Germany’s Right Turn",
-    "link": "https://www.nytimes.com/2026/09/09/briefing/germanys-right-turn.html",
-    "summary": "We take stock of the AfD’s success."
+    "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
+    "link": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
+    "summary": "Their warnings echo concerns that other artificial intelligence experts have voiced in recent months, as calls increase for a slowdown in the pace of development."
   },
   {
-    "title": "Jimmy Kimmel Weighs in on Trump’s New Look",
-    "link": "https://www.nytimes.com/2026/09/09/arts/television/jimmy-kimmel-trump-new-hair.html",
-    "summary": "Back from his summer vacation, the late night host wondered, “Is it possible to have a midlife crisis at 80 years old?”"
+    "title": "Blame Ronald Reagan",
+    "link": "https://www.nytimes.com/2026/09/09/opinion/80s-reagan-revolution-deregulation.html",
+    "summary": "We are suffering the consequences of the conservative revolution that began in the 1980s."
   },
   {
-    "title": "Apple Expected to Unveil a Folding iPhone at Annual Launch Event",
-    "link": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
-    "summary": "Fans of the company’s products widely believe it will unveil a folding smartphone at its annual launch event on Wednesday."
+    "title": "Democracy Is on the Ballot in Both America’s and Israel’s Elections",
+    "link": "https://www.nytimes.com/2026/09/08/opinion/israel-us-elections-midterms-netanyahu-trump.html",
+    "summary": "Israel and the United States each hold elections one week apart in the fall. The fate of their democracies lies in the balance."
+  },
+  {
+    "title": "What to Wear on Campus This Fall",
+    "link": "https://www.nytimes.com/2026/09/09/briefing/what-to-wear-on-campus-this-fall.html",
+    "summary": "The host of The Fashions explains. And we share what you’re wearing."
+  },
+  {
+    "title": "Video Shows Grocery Store Manager Saving Toddler From Oncoming Traffic",
+    "link": "https://www.nytimes.com/2026/09/09/world/americas/video-mexico-toddler-traffic-rescue.html",
+    "summary": "Luis Cruz dashed into a busy street in Puebla, Mexico, to pull a girl out of the path of an approaching S.U.V. Footage of the rescue has made him a local sensation."
   }
 ]

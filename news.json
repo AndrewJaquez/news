@@ -2,7 +2,7 @@
   {
     "title": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War",
     "link": "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html",
-    "summary": "Vice President JD Vance received sobering assessments about the war that did not line up with what he, along with President Trump and other top administration officials, were saying publicly."
+    "summary": "Vice President JD Vance received sobering assessments about the war that did not line up with what he, President Trump and other top administration officials were saying publicly."
   },
   {
     "title": "Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally",
@@ -10,49 +10,39 @@
     "summary": "The Iran-backed militia routed Yemeni government forces in Mokha, putting the group in a stronger position to attack ships in a crucial waterway for global trade."
   },
   {
-    "title": "U.S. Airstrikes Targeting Houthis Killed Scores of Civilians in Yemen",
-    "link": "https://www.nytimes.com/2026/09/10/us/politics/us-airstrikes-houthis-civilian-deaths.html",
-    "summary": "A new report found that most of the deaths occurred during President Trump’s second term as his administration pursued the Iran-backed group."
-  },
-  {
     "title": "Oil Prices Surge as Stocks and Bonds Wobble",
     "link": "https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html",
     "summary": "Crude oil hit its highest levels in months, bond yields continued to rise and stocks fell for a fourth consecutive session as investors worried about energy supplies and inflation."
   },
   {
-    "title": "Trump Wants to Give Out $5,000 Checks. It Would Cost More Than $1 Trillion.",
-    "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-check.html",
-    "summary": "The president’s idea to hand every American adult a “dividend” if Republicans keep control of Congress likely would need congressional approval, exacerbate the deficit and lead to a rise in inflation, experts said."
+    "title": "Some Republicans Balk at Trump’s $5,000 ‘Dividend’ Offer",
+    "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-republicans-inflation.html",
+    "summary": "The president’s call to send a $5,000 “dividend” to every American adult if Republicans win the midterms disturbed some members of his party."
   },
   {
-    "title": "Trump Announces $500 Rebates for Some Obamacare Customers,Weeks Before the Election",
-    "link": "https://www.nytimes.com/2026/09/10/business/trump-obamacare-rebates.html",
-    "summary": "The White House plans to send the money to people in 30 states who have higher incomes and are insured under the Affordable Care Act."
+    "title": "The Supreme Court Blocks Missouri’s Voting Map, Again",
+    "link": "https://www.nytimes.com/2026/09/10/briefing/supreme-court-voting-map-missouri.html",
+    "summary": "Also, Vance privately gathered unvarnished views of the Iran war. Here’s the latest at the end of Thursday."
   },
   {
-    "title": "Republicans Court Donors at Midterm Convention With $88,600 Photos and AI-Sponsored Suites",
-    "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-donors.html",
-    "summary": "Republican politicians, donors and lobbyists have been busy networking and partying on the sidelines of a midterm convention that is partly a fund-raiser."
+    "title": "What to Know About Missouri’s High-Stakes Election Map Battle",
+    "link": "https://www.nytimes.com/2026/09/10/us/missouri-redistricting.html",
+    "summary": "A dizzying volley of court rulings in recent days has created widespread confusion about which congressional boundaries will be in effect in November."
   },
   {
-    "title": "Supreme Court Again Blocks Republican-Backed Missouri Voting Map",
-    "link": "https://www.nytimes.com/2026/09/10/us/politics/supreme-court-missouri-congress.html",
-    "summary": "The ruling deferred to the state’s Supreme Court, which had invalidated G.O.P.-friendly district lines, saying voters must first have an opportunity to approve the map in a statewide referendum."
-  },
-  {
-    "title": "D.O.J. Escalates Threats to States in Battle for Election Records",
-    "link": "https://www.nytimes.com/2026/09/10/us/politics/department-of-justice-election-fraud-states.html",
-    "summary": "The department sent letters to at least 30 states demanding they retain election records, an outgrowth of President Trump’s baseless claims of widespread election fraud."
-  },
-  {
-    "title": "Denver Sues to Block Armed ICE Agents at Voting Sites",
-    "link": "https://www.nytimes.com/2026/09/10/us/elections/denver-ice-agents-voting-sites-lawsuit.html",
-    "summary": "The City of Denver and civil rights groups argued that sightings of ICE agents at polling places are having a chilling effect."
+    "title": "Trump Loyalist Joseph diGenova Quits ‘Grand Conspiracy’ Case",
+    "link": "https://www.nytimes.com/2026/09/10/us/digenova-steps-down-grand-conspiracy-case.html",
+    "summary": "The inquiry has sought to link disparate criminal inquiries into the president as a multiyear scheme to damage his political prospects."
   },
   {
     "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
     "link": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
-    "summary": "In a new report, the A.I. start-up added that it could not determine if the research was legitimate or nefarious, leading the company to shut down the work."
+    "summary": "In a new report, the A.I. start-up added that it could not determine whether the research was legitimate or nefarious, leading the company to shut down the work."
+  },
+  {
+    "title": "A.I. Could Possibly End Humanity. How Are Humans Supposed to Process That?",
+    "link": "https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html",
+    "summary": "The technology is far from the only existential risk our species faces. But weighing such cosmic fears can become a mind-bending exercise."
   },
   {
     "title": "The Mathematician Crushed Between OpenAI and Anthropic Over a Math Problem",
@@ -65,9 +55,9 @@
     "summary": "Air pollution from gas-fired power plants to run data centers is expected to add at least $20 billion in annual health care costs by 2028, the group warns."
   },
   {
-    "title": "Dudamel Lands in New York, With Big Ambitions and a Packed Schedule",
-    "link": "https://www.nytimes.com/2026/09/10/arts/music/gustavo-dudamel-starts-job-at-new-york-philharmonic.html",
-    "summary": "“This is not a job — it is a mission,” the new conductor of the New York Philharmonic said, starting a month of performances before taking the orchestra on a European tour."
+    "title": "The U.S. Open Has Been Quietly Releasing Tickets for Its Popular Tournament",
+    "link": "https://www.nytimes.com/2026/09/10/business/us-open-tennis-tickets.html",
+    "summary": "On Wednesday, hundreds appeared on Ticketmaster. The United States Tennis Association said it periodically released tickets it held for a variety of reasons."
   },
   {
     "title": "After a Difficult Loss, Nigeria Has Become a Source of Pain for Chimamanda Ngozi Adichie",
@@ -85,34 +75,9 @@
     "summary": "President Trump’s levies on a long, eclectic list of products from Canada have companies scrambling to figure out if their supply chains are affected."
   },
   {
-    "title": "Carney, at a Cabinet Retreat, Considers Further Trade Strikes Against the U.S.",
-    "link": "https://www.nytimes.com/2026/09/10/world/canada/carney-trump-canada-us-trade-war-tariffs.html",
-    "summary": "Canada’s retaliation this week against President Trump’s tariffs was met with more American tariffs and a closed U.S. border on some Canadian products."
-  },
-  {
     "title": "Gander Welcomed Americans in 2001. Now, U.S.-Canada Tensions Hit Home.",
     "link": "https://www.nytimes.com/2026/09/10/world/canada/9-11-gander-newfoundland-canada-us.html",
     "summary": "The Newfoundland town welcomed thousands of frightened airline passengers on Sept. 11, but 25 years later, mixed emotions run through anniversary plans amid an escalating trade war."
-  },
-  {
-    "title": "Memorial on Anniversary of Charlie Kirk’s Killing Splits a Utah Campus",
-    "link": "https://www.nytimes.com/2026/09/10/us/charlie-kirk-assassination-anniversary.html",
-    "summary": "The university where the conservative activist was shot last year has canceled classes for the day. While many students planned to attend a memorial, some said they just wanted to move on."
-  },
-  {
-    "title": "What Would Charlie Kirk Do Today?",
-    "link": "https://www.nytimes.com/2026/09/10/us/politics/charlie-kirk-killing-one-year.html",
-    "summary": "A year after the killing of the 31-year-old conservative youth leader, the movement he helped create has splintered. Would that be the case if he were still alive?"
-  },
-  {
-    "title": "UK Sanctions Against Israeli Settlers Divide British Rabbis",
-    "link": "https://www.nytimes.com/2026/09/10/world/europe/britain-israel-jews-sanctions-settlers.html",
-    "summary": "Prominent rabbis reacted with a mix of support, condemnation and concern about the ramifications for Jews in Britain."
-  },
-  {
-    "title": "A U.S. Open Match Ended at 3:30 a.m. It Wasn’t Over for the Workers.",
-    "link": "https://www.nytimes.com/2026/09/10/nyregion/us-open-late-night-workers.html",
-    "summary": "After the epic match between Carlos Alcaraz and Ben Shelton was finally done, cashiers, ushers and cleaning crews got to work. Their next shift was only hours away."
   },
   {
     "title": "Why is Apple’s New Foldable iPhone Duo $1,999?",
@@ -120,23 +85,33 @@
     "summary": "The company unveiled a new iPhone that costs $1,999. Here are the economics behind that price tag."
   },
   {
-    "title": "How the New iPhone Duo’s Glass Screen Bends Without Breaking",
-    "link": "https://www.nytimes.com/2026/09/10/science/iphone-duo-apple-foldable-glass.html",
-    "summary": "The screens of foldable phones are a triumph of materials science and microengineering."
+    "title": "Apple’s New iPhone Duo Is Here. How Do Consumer Technology Journalists Review It?",
+    "link": "https://www.nytimes.com/2026/09/10/insider/apple-iphone-duo-tech-reviews-journalists.html",
+    "summary": "Here’s the process for vetting new smartphones and gadgets at The Times and Wirecutter."
   },
   {
-    "title": "Big Tech Fooled America Once. The Second Time’s Not Going So Well.",
-    "link": "https://www.nytimes.com/2026/09/10/opinion/ai-big-tech-america-politics.html",
-    "summary": "We won’t get fooled again."
+    "title": "Justice Dept. Opens Inquiry Into Los Angeles Clippers’ Dealings With Kawhi Leonard",
+    "link": "https://www.nytimes.com/2026/09/10/us/politics/kawhi-leonard-clippers-nba-justice-department.html",
+    "summary": "The investigation, by the U.S. attorney’s office in Brooklyn, is in its earliest stages, leaving it unclear whether criminal charges will ensue."
   },
   {
-    "title": "Crypto, Gold and Foreign Money: Is This What the Presidency Is Now?",
-    "link": "https://www.nytimes.com/2026/09/10/opinion/interesting-times-jack-goldsmith.html",
-    "summary": "And how Trump gets away with it."
+    "title": "This Tiny Canadian Town Took In Americans on 9/11. It Would Again.",
+    "link": "https://www.nytimes.com/2026/09/10/opinion/911-canada-gander-newfoundland-come-from-away.html",
+    "summary": "A tiny slice of Newfoundland welcomed in stranded passengers."
   },
   {
-    "title": "Ancient Tombs, Untouched by Looters, Are Found Under Peru’s Sands",
-    "link": "https://www.nytimes.com/2026/09/10/world/americas/peru-tombs-chimu-archaeology.html",
-    "summary": "One archaeologist called the tombs “the discovery of the decade” as the first burials from the Chimu kingdom to have escaped centuries of plunder."
+    "title": "The Next Terrorist Attack Is Predictable",
+    "link": "https://www.nytimes.com/2026/09/10/opinion/911-ai-terrorist-attack-america.html",
+    "summary": "A.I.-driven cyber and biological attacks threaten not just American lives, but also the American government."
+  },
+  {
+    "title": "Get That Bag",
+    "link": "https://www.nytimes.com/2026/09/10/briefing/get-that-bag.html",
+    "summary": "We have tips about how to get your finances in order."
+  },
+  {
+    "title": "Toyohiro Akiyama, Japan’s Chain-Smoking ‘Space Antihero,’ Dies at 84",
+    "link": "https://www.nytimes.com/2026/09/10/world/asia/toyohiro-akiyama-dead.html",
+    "summary": "A journalist, he was the first Japanese person to enter space, joining a Soviet crew as part of a spectacular $35 million ratings stunt in 1990."
   }
 ]

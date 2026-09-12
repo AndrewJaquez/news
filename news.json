@@ -1,18 +1,28 @@
 [
   {
+    "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+    "link": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+    "summary": "In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry."
+  },
+  {
+    "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
+    "link": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
+    "summary": "Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial intelligence."
+  },
+  {
+    "title": "Why It’s Difficult for Tech Companies to Rein In A.I.",
+    "link": "https://www.nytimes.com/2026/09/12/technology/why-its-tough-for-tech-companies-to-keep-ai-out-of-trouble.html",
+    "summary": "Researchers say artificial intelligence is developing faster than the systems put in place to monitor and control it."
+  },
+  {
     "title": "How Trump Is Wielding Power to Stifle Speech",
     "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
     "summary": "President Trump has harnessed agencies across the government to curtail press freedoms, a sweeping campaign that free speech advocates say will have lasting effects."
   },
   {
-    "title": "In Doonbeg, Trump’s Irish Open Visit Prompts Protests and Praise",
-    "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html",
-    "summary": "As the U.S. president heads to his Doonbeg hotel for the Irish Open, locals expressed both appreciation for the resort’s economic benefits and opposition to his politics."
-  },
-  {
     "title": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
     "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
-    "summary": "The United States is officially neutral on an issue that had been a source of decades of violence in Northern Ireland until a 1998 peace deal."
+    "summary": "The United States has been officially neutral on an issue that was a source of decades of violence in Northern Ireland until a 1998 peace deal."
   },
   {
     "title": "Visa Issue Threatens U.S.-Brazil Cooperation on Crime",
@@ -20,24 +30,14 @@
     "summary": "Officials say the Trump administration is blocking some of Brazil’s efforts to expand cooperation on fighting transnational crime."
   },
   {
-    "title": "Inflation Complicates Trump’s Midterms Pitch to Voters",
-    "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html",
-    "summary": "Gas prices are high, mortgage rates are climbing and inflation remains well above target, complicating the president’s midterm appeal."
+    "title": "Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.",
+    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html",
+    "summary": "Iran and its allies now hold sway over two key oil shipping routes, and Tehran is setting the stage for a diplomatic win that could enhance its stature."
   },
   {
-    "title": "Republicans, Facing Midterm Peril, Try to Brand Democrats as Communists",
-    "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-democrats-communism-midterms.html",
-    "summary": "Communism, in the president’s hyperbolic telling, is a graver threat to the country than the Pearl Harbor or 9/11 attacks were. Whether this midterm strategy works is an open question."
-  },
-  {
-    "title": "Trump Wanted a New House Map in Missouri. Voters Got Chaos Instead.",
-    "link": "https://www.nytimes.com/2026/09/11/us/missouri-congressional-redistricting-chaos.html",
-    "summary": "The legal wrangling over a congressional map redrawn by Republicans has election officials, candidates and voters scrambling before November."
-  },
-  {
-    "title": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
-    "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
-    "summary": "Ship operators already faced severe risks in navigating the region, and now the danger is higher as Houthi militias assert control in the Red Sea."
+    "title": "Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.",
+    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html",
+    "summary": "A drone attack from Iraq forced Saudi Arabia to close its East-West pipeline, the kingdom said, threatening a key workaround to Iran’s Persian Gulf blockade."
   },
   {
     "title": "‘We Left in the Clothes We Were Wearing’: Yemenis Flee New Fighting",
@@ -50,14 +50,24 @@
     "summary": "A strategic location on the Red Sea afforded the city centuries of trading dominance — and makes it a coveted target in today’s fighting in the Middle East."
   },
   {
-    "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
-    "link": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
-    "summary": "Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial intelligence."
+    "title": "Republican Campaign Aide Is Fired Over Nazi Photo",
+    "link": "https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html",
+    "summary": "Senator Jon Husted, running in a high-stakes race in Ohio, dismissed his political director because of social media activity displaying a “complete lack” of judgment, a spokeswoman said."
   },
   {
-    "title": "Why It’s Difficult for Tech Companies to Rein In A.I.",
-    "link": "https://www.nytimes.com/2026/09/12/technology/why-its-tough-for-tech-companies-to-keep-ai-out-of-trouble.html",
-    "summary": "Researchers say artificial intelligence is developing faster than the systems put in place to monitor and control it."
+    "title": "Inflation Complicates Trump’s Midterms Pitch to Voters",
+    "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html",
+    "summary": "Gas prices are high, mortgage rates are climbing and inflation remains well above target, complicating the president’s midterm appeal."
+  },
+  {
+    "title": "Republicans, Facing Midterm Peril, Try to Brand Democrats as Communists",
+    "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-democrats-communism-midterms.html",
+    "summary": "Communism, in the president’s hyperbolic telling, is a graver threat to the country than the Pearl Harbor or 9/11 attacks were. Whether this midterm strategy works is an open question."
+  },
+  {
+    "title": "Republican Groups Rush to Paxton’s Aid in Texas After Staying on Sidelines",
+    "link": "https://www.nytimes.com/2026/09/12/us/politics/paxton-republican-pac-spending-midterms.html",
+    "summary": "An organization allied with Senate G.O.P. leaders has booked more than $51 million in ads. Now, Ken Paxton has a financial edge after months of being outspent by his Democratic rival."
   },
   {
     "title": "Naomi Klein and Astra Taylor Say the End of the World Is Now on the Table",
@@ -75,13 +85,8 @@
     "summary": "The $5,000 election promise shows how afraid Trump really is."
   },
   {
-    "title": "Walk This Way",
-    "link": "https://www.nytimes.com/2026/09/12/briefing/walk-this-way.html",
-    "summary": "Are there everyday activities that you can turn into a walk?"
-  },
-  {
-    "title": "New York Marks the 25th Anniversary of 9/11 at Ground Zero",
-    "link": "https://www.nytimes.com/2026/09/11/nyregion/9-11-anniversary-ceremony-nyc.html",
-    "summary": "At a ceremony in Lower Manhattan, elected officials and loved ones of those killed in the 2001 terror attacks gathered in solemn remembrance."
+    "title": "Manhattan Bus Lane Plan for 34th Street May Be Stuck in Gridlock",
+    "link": "https://www.nytimes.com/2026/09/12/nyregion/mamdani-bus-lane-34th-manhattan.html",
+    "summary": "Months after Mayor Zohran Mamdani said the city would proceed with a redesign of 34th Street that had been halted by the Trump administration, the plan is no closer to completion."
   }
 ]

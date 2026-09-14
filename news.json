@@ -1,13 +1,13 @@
 [
   {
-    "title": "As Fears of A.I. Catastrophe Magnify, Washington Stirs, but Mostly Slumbers",
-    "link": "https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html",
-    "summary": "President Trump has been at the forefront of the “what-me-worry?” crowd, refusing to engage on how to balance the risks and rewards of A.I."
-  },
-  {
     "title": "Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix",
     "link": "https://www.nytimes.com/2026/09/13/us/politics/congress-ai-risks-johnson-jeffries.html",
     "summary": "House Speaker Mike Johnson warned on Sunday of competitive risks from China, and Hakeem Jeffries, the minority leader, said Congress should start regulatory talks this week."
+  },
+  {
+    "title": "As Fears of A.I. Catastrophe Magnify, Washington Stirs, but Mostly Slumbers",
+    "link": "https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html",
+    "summary": "President Trump has been at the forefront of the “what-me-worry?” crowd, refusing to engage on how to balance the risks and rewards of A.I."
   },
   {
     "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
@@ -15,9 +15,9 @@
     "summary": "Dario Amodei’s 3,800-word letter laid out a three-step plan to rein in artificial intelligence."
   },
   {
-    "title": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda",
-    "link": "https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html",
-    "summary": "During a private fund-raiser, the former president warned that the technology could be “dangerous” if not managed urgently and with a clear plan."
+    "title": "King Charles Will Convene A.I. Leaders Amid Calls to Slow Development",
+    "link": "https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html",
+    "summary": "As alarm from the highest echelons of A.I. companies mounts, Buckingham Palace said the king would meet with executives to explore how the technology can be used for good."
   },
   {
     "title": "How Iran’s Hard-liners Blew Up the Peace Deal with Trump",
@@ -25,19 +25,19 @@
     "summary": "Opponents derailed the agreement with a clandestine effort to attack ships in the Strait of Hormuz, regime insiders say. Iran’s president was furious when he found out."
   },
   {
-    "title": "Iran Expected to Meet With Gulf Arab States as Mideast Conflict Widens",
-    "link": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
-    "summary": "Talks are expected tomorrow, officials said, as a ship was targeted in the Strait of Hormuz and Iranian allies in Yemen said they had launched a new attack on Saudi Arabia."
+    "title": "Oil Prices Jump on Energy Supply Worries",
+    "link": "https://www.nytimes.com/2026/09/13/business/oil-prices-jump-on-energy-supply-worries.html",
+    "summary": "Oil prices jumped and stock futures fell slightly on concerns that energy supplies from the Persian Gulf would be further diminished by a drone attack on a critical pipeline in Saudi Arabia."
   },
   {
-    "title": "Inside the Impeachment Trial that Threatened to End Ken Paxton’s Political Career",
-    "link": "https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html",
-    "summary": "Mr. Paxton, the Texas attorney general now running for the U.S. Senate, was accused of abusing the power of his office to protect a campaign donor. He was acquitted on all counts."
+    "title": "For Populist Democrats, a Movement Fueled by Anger at Both Parties",
+    "link": "https://www.nytimes.com/2026/09/13/us/democrats-populists.html",
+    "summary": "A generation shaped by the pandemic and rising prices has helped drive an emergence of Democratic candidates who say they are as fed up as voters are."
   },
   {
-    "title": "Angie Nixon, Candidate for Senate, Takes Florida by Storm",
-    "link": "https://www.nytimes.com/2026/09/13/us/politics/angie-nixon-florida-senate.html",
-    "summary": "The Democratic nominee for Senate faces strong headwinds in a decidedly Republican-leaning state. She has been a fighter, and an underdog, for years."
+    "title": "Celine Dion Begins Her Paris Comeback Concert Run",
+    "link": "https://www.nytimes.com/2026/09/13/arts/music/celine-dion-paris-comeback-concert.html",
+    "summary": "Her long-awaited concert return highlighted a side of the French-speaking superstar rarely seen in the United States."
   },
   {
     "title": "Inside the $440 Million Collapse of Guidepost Montessori",
@@ -45,9 +45,44 @@
     "summary": "A man with a vision set out to revolutionize preschool. It became a $440 million fiasco."
   },
   {
-    "title": "How One Man’s Quest for a Musketeer’s Bones Got Him Locked Up",
-    "link": "https://www.nytimes.com/2026/09/13/world/europe/wim-dijkman-musketeer-bones-dartagnan.html",
-    "summary": "A secret archaeological dig inside a Dutch church has led to drama worthy of Alexandre Dumas. Did Wim Dijkman really find the bones of the fourth musketeer? We may never know."
+    "title": "Did Trump Win the Battle Over the Smithsonian?",
+    "link": "https://www.nytimes.com/2026/09/13/arts/design/did-trump-win-the-battle-over-the-smithsonian.html",
+    "summary": "Lonnie G. Bunch III, who has led the institution since 2019, parried the White House until deciding it was time to go."
+  },
+  {
+    "title": "How the Smithsonian Might Choose Its Next Leader",
+    "link": "https://www.nytimes.com/2026/09/13/arts/design/smithsonian-lonnie-bunch-next-secretary-selection.html",
+    "summary": "With Lonnie G. Bunch III stepping down as the Smithsonian’s secretary, President Trump will have his best chance to control the institution."
+  },
+  {
+    "title": "Kennedy Center Warns of Bankruptcy Unless Trump’s Name Is Added",
+    "link": "https://www.nytimes.com/2026/09/13/arts/design/trump-kennedy-center-bankruptcy-closure.html",
+    "summary": "The caution, contained in a draft resolution to the center’s board, comes as a federal judge decides whether President Trump’s name should remain off the building."
+  },
+  {
+    "title": "Trump Promises to Lift Tariffs on Irish Whiskey After Appeals",
+    "link": "https://www.nytimes.com/2026/09/13/world/europe/trump-tariffs-irish-whiskey.html",
+    "summary": "President Trump’s decision, announced while visiting his golf course in Ireland, was the latest shift in his trade policies."
+  },
+  {
+    "title": "‘60 Minutes’ Prepares for a High-Pressure Premiere After Its Turbulent Shake-Up",
+    "link": "https://www.nytimes.com/2026/09/08/business/media/60-minutes-nick-bilton-bari-weiss.html",
+    "summary": "Nick Bilton, the new executive producer, has begun to put his stamp on the show. Up first: an exclusive interview with an officer who was aboard the F-15 fighter shot down over Iran."
+  },
+  {
+    "title": "How The Times Covers ‘60 Minutes’ and Other Journalists",
+    "link": "https://www.nytimes.com/2026/09/12/insider/60-minutes-former-nyt-colleagues-media.html",
+    "summary": "Journalists don’t want to become the story. But newsrooms — and the people who run them — are the story for Times media reporters."
+  },
+  {
+    "title": "What to Expect at the 2026 Emmy Awards",
+    "link": "https://www.nytimes.com/2026/09/13/business/media/emmys-what-to-expect.html",
+    "summary": "“The Pitt” could make history at Monday night’s celebration of the best in TV, while “Widow’s Bay” and “Hacks” battle it out in the best comedy race."
+  },
+  {
+    "title": "Unvaccinated Woman Likely Died of Measles Complications, Pa. County Coroner Says",
+    "link": "https://www.nytimes.com/2026/09/13/well/unvaccinated-woman-measles-complications-death.html",
+    "summary": "The case is the third reported death linked to a rapidly expanding outbreak that has sickened more than 670 people in the state."
   },
   {
     "title": "What’s Happening to TV Comedies Is Not Funny",
@@ -60,8 +95,8 @@
     "summary": "On second thought, I’m not that hungry."
   },
   {
-    "title": "Along Himalayan Floods’ Path, Wiped Out Towns and Mounting Grief",
-    "link": "https://www.nytimes.com/2026/09/13/world/asia/nepal-tibet-floods-school-children.html",
-    "summary": "Survivors tell the stories of the people and places buried under the mud after a disaster in Nepal."
+    "title": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
+    "link": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
+    "summary": "David Petraeus was at a rail station when a drone hit. Another train, with former Prime Minister Boris Johnson of Britain and other dignitaries, had just left, Ukrainian officials said."
   }
 ]

@@ -1,18 +1,48 @@
 [
   {
-    "title": "Trump’s Effort to Assert Control Over Elections Continues, Despite Court Loss",
+    "title": "Trump’s Effort to Assert Control Over Elections Continues Despite Supreme Court Loss",
     "link": "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-in-ballots.html",
     "summary": "President Trump has launched a broad, governmentwide effort to take more control of state-run elections and sow doubt about the outcome."
   },
   {
-    "title": "Trump Administration Moves to Integrate A.I. Into Medical Care Despite Concerns",
-    "link": "https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html",
-    "summary": "Federal projects are rolling out A.I. agents that offer therapy and prescribe medicine, raising concerns about safety and the influence of venture capital investors."
+    "title": "With Trump’s Plans Blocked, States Work to Restore Trust in Mail Voting",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/mail-ballots-trump-supreme-court-trust.html",
+    "summary": "President Trump’s efforts to restrict mail voting ahead of the midterms were thwarted by the Supreme Court, but they have sowed confusion and doubt among some voters."
   },
   {
-    "title": "Trump Rejects Talk of A.I. Regulation and Calls Out Anthropic’s CEO",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html",
-    "summary": "The president again rejected calls to try to regulate the industry, even as some of its leaders are speaking more openly about the risks of rapidly developing artificial intelligence."
+    "title": "New Poll Shows Democrats Have Midterms Momentum, and Trump Calls A.I. Fears ‘a Hoax’",
+    "link": "https://www.nytimes.com/2026/09/15/podcasts/the-headlines/new-poll-democrats-midterms-momentum-trump-ai-fears-hoax.html",
+    "summary": "Plus, the biggest night in TV."
+  },
+  {
+    "title": "Key U.S. Bond Rate Near 20-Year High as Oil Prices Keep Climbing",
+    "link": "https://www.nytimes.com/2026/09/15/business/bond-yields-oil-price-iran.html",
+    "summary": "The 10-year Treasury yield breached levels last seen in 2007, with intensifying worries about energy-driven inflation contributing to bond investors’ angst."
+  },
+  {
+    "title": "Warsh Set for Showdown With Trump as Fed Faces Pressure to Raise Rates",
+    "link": "https://www.nytimes.com/2026/09/15/business/fed-interest-rates-warsh.html",
+    "summary": "The Federal Reserve is expected to raise interest rates on Wednesday, putting Kevin M. Warsh, the chairman, at odds with the administration just before the midterms."
+  },
+  {
+    "title": "Carney Pitches Canada as a Haven of Investment Stability in a Chaotic World",
+    "link": "https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html",
+    "summary": "The prime minister brought together about 100 money managers in Toronto to promote Canada as the ideal place for their investments."
+  },
+  {
+    "title": "Architects of Japan’s Easy-Money Policies Are Changing Their Minds",
+    "link": "https://www.nytimes.com/2026/09/15/business/japan-economy-rates-abenomics.html",
+    "summary": "As the Bank of Japan weighs another rate increase on Friday, a divide over how Japan should confront inflation is widening."
+  },
+  {
+    "title": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran",
+    "link": "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html",
+    "summary": "The American presence in these countries has not shielded them from retaliation during the Iran war. Now they are hoping direct talks with Iran could help."
+  },
+  {
+    "title": "Universities Sound Warnings About A.I. Even as They Embrace It",
+    "link": "https://www.nytimes.com/2026/09/15/us/universities-ai-warnings-enthusiasm.html",
+    "summary": "As A.I. upends education, university leaders have been all over the map about how to respond. It can be very confusing for students."
   },
   {
     "title": "Nvidia’s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
@@ -20,93 +50,73 @@
     "summary": "Mr. Trump called Jensen Huang, Nvidia’s chief executive, while Mr. Huang was onstage in Los Angeles and criticized calls to slow down and regulate A.I."
   },
   {
-    "title": "As A.I. Fears Rise, Experts Suggest Focusing on the Humans in Charge",
-    "link": "https://www.nytimes.com/2026/09/14/us/ai-fears-human-role.html",
-    "summary": "Warnings from industry leaders about doomsday scenarios ignore the power that people have to control how artificial intelligence is used, policy experts say. They are urging lawmakers to act now."
+    "title": "Best and Worst Moments From the 2026 Emmys",
+    "link": "https://www.nytimes.com/2026/09/15/arts/television/emmys-best-worst-moments.html",
+    "summary": "There was plenty of history in Monday’s telecast, hosted by Mariska Hargitay, and also plenty of cringe."
   },
   {
-    "title": "Russian Businessman With Putin Ties Paid for Donald Trump Jr.’s Wedding Party",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/donald-trump-jr-wedding-russian-businessman.html",
-    "summary": "The payments, totaling hundreds of thousands of dollars, represented an extraordinary flouting of ethical norms for an American president’s family member."
+    "title": "‘Widow’s Bay’ Dominates, and 7 Other Takeaways From the 2026 Emmys",
+    "link": "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html",
+    "summary": "The Apple TV horror-comedy about a haunted island took home 14 Emmys, including the awards for best comedy, lead actor, writing, directing and supporting actor and actress."
   },
   {
-    "title": "Mitch McConnell Returns to Senate After Three Month Absence",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/mcconnell-senate-absence.html",
-    "summary": "Senator Mitch McConnell, the 84-year-old Kentucky Republican and former leader, had been absent for more than 13 weeks after a health incident, fueling questions about his ability to continue serving."
-  },
-  {
-    "title": "N.Y. Democratic House Candidate Admits to Bondage Photo Shoot",
-    "link": "https://www.nytimes.com/2026/09/14/nyregion/gallant-bondage-photos-democrat.html",
-    "summary": "Christopher Gallant, who is running against Representative Nick LaLota on Long Island, acknowledged that the photos that surfaced in media reports on Monday were legitimate."
-  },
-  {
-    "title": "Gavin Newsom Says He Won’t Run in 2028 if Kamala Harris Does",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/gavin-newsom-kamala-harris-2028-president.html",
-    "summary": "The comments made to CNN, if taken at face value, seemed to fly in the face of the California governor’s presidential ambitions."
-  },
-  {
-    "title": "Whistle-Blower: Federal Agents May Have Broken State Laws in Search For Voter Fraud",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/homeland-security-voter-fraud-investigation.html",
-    "summary": "Agents expressed concern about being directed by top Homeland Security leaders to use private information to look up voter records in state databases."
-  },
-  {
-    "title": "Emmys Red Carpet Photos: Meg Stalter, Mariska Hargitay, Noah Wyle and More",
-    "link": "https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-photos.html",
-    "summary": "Stars are arriving at the 78th Emmy Awards in Los Angeles. See what they’re wearing to celebrate TV’s biggest night."
-  },
-  {
-    "title": "Emmy Winners 2026: See the Updating List",
+    "title": "Emmy Winners 2026: See the Full List",
     "link": "https://www.nytimes.com/2026/09/14/arts/television/emmy-winners-list.html",
-    "summary": "The list of winners for the 78th Emmy Awards."
+    "summary": "Here are the winners from the 78th Emmy Awards."
   },
   {
-    "title": "Immigrants’ Lawyers Say U.S. Is Redacting Documents Proving Legal Status",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/immigrants-foia.html",
-    "summary": "Many noncitizens need immigration records the government has to prove their legal stay and resist deportation. The government is redacting and withholding those documents, lawyers say."
+    "title": "Our 13 Favorite Looks From the Emmys Red Carpet",
+    "link": "https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-best-looks.html",
+    "summary": "Bold colors, smart takes on classic suiting and simple elegance created memorable moments on Monday night."
   },
   {
-    "title": "Key West Feels the Pain of Trump Decision on Haitians",
-    "link": "https://www.nytimes.com/2026/09/14/us/haitian-workers-key-west-tourism.html",
-    "summary": "The end of legal protections for Haitian immigrants nationally has jolted the labor market in this remote vacation destination in Florida where many live and work."
+    "title": "An Heir to a Thai Beer Empire Accused His Brother of Sexual Abuse. Then He Took on His Family.",
+    "link": "https://www.nytimes.com/2026/09/15/world/asia/thai-singha-beer-family-abuse-accusations.html",
+    "summary": "Siranudh Scott, an heir to Thailand’s Singha beer empire, has prompted a rare public reckoning about a topic considered taboo."
   },
   {
-    "title": "Judge Blocks Trump Rule Aimed at International Students and Journalists",
-    "link": "https://www.nytimes.com/2026/09/14/us/politics/foreign-students-visas-trump-ruling.html",
-    "summary": "Judge F. Dennis Saylor IV wrote that the administration’s reasons for a rule limiting the length of stay for academics and journalists were “exceptionally weak.”"
+    "title": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
+    "summary": "Troy E. Meink’s comments were the first public acknowledgment of American weapons in orbit. The Pentagon has been preparing for potential conflict in space with Russia or China."
   },
   {
-    "title": "Bob Mackie, Cher and the Ultimate Revenge Dress",
-    "link": "https://www.nytimes.com/2026/09/14/style/bob-mackie-cher-tina-turner.html",
-    "summary": "The designer’s bedazzling, feathered creations made waves onstage, including at the Oscars in 1986."
+    "title": "It’s Boom Time in Kyrgyzstan, Courtesy in Part of the War in Ukraine",
+    "link": "https://www.nytimes.com/2026/09/15/world/asia/kyrgyzstan-economy-russia-war.html",
+    "summary": "The economy of the Central Asian nation grew by 11 percent last year, partly by becoming a key conduit for goods flowing into Russia."
   },
   {
-    "title": "Bob Mackie, Designer Who ‘Dressed Every Spangly Woman in Show Business,’ Dies at 87",
-    "link": "https://www.nytimes.com/2026/09/14/style/bob-mackie-dead.html",
-    "summary": "His sequined gowns and outrageous costumes threw clouds of glitter at American fashion for over half a century."
+    "title": "These Kinds of Moments Make Us Love Restaurants",
+    "link": "https://www.nytimes.com/2026/09/14/dining/restaurant-moments.html",
+    "summary": "Here are nine fleeting moments that made scouting the 50 best restaurants of 2026 memorable and meaningful."
   },
   {
-    "title": "Bob Mackie: A Life in Pictures",
-    "link": "https://www.nytimes.com/2026/09/14/style/bob-mackie-designer-photos.html",
-    "summary": "The designer was known for his flashy, sparkly designs for Cher, Diana Ross, Tina Turner and countless others."
+    "title": "The Dining Trends Chefs Are Seeing in 2026",
+    "link": "https://www.nytimes.com/2026/09/14/dining/chefs-dining-beverage-trends.html",
+    "summary": "A dozen of the chef’s from the 2026 edition of our 50 favorite restaurants list talk GLP-1s, diner drinking habits, A.I. and more."
   },
   {
-    "title": "Taryn Simon’s Giant Exhibition at the Guggenheim Tells the Story of America",
-    "link": "https://www.nytimes.com/2026/09/14/magazine/taryn-simon-guggenheim-exhibition.html",
-    "summary": "Taryn Simon’s new show at the Guggenheim Museum is an audacious attempt to document the story of modern America through the life of one F.B.I. agent."
+    "title": "New York City Has a New Tool to Update Its Streets: The Stripe Hog",
+    "link": "https://www.nytimes.com/2026/09/15/nyregion/road-cleaning-stripe-hog-nyc.html",
+    "summary": "City transportation officials have deployed a high-pressure water truck to blast away old street markings and make way for new bus lanes and safety improvements."
   },
   {
-    "title": "Risks for Clicks: Why Online Influencers Push Shock Content",
-    "link": "https://www.nytimes.com/2026/09/12/us/influencers-social-media-algorithm.html",
-    "summary": "A growing number of social media creators are pushing the boundaries of safety and good taste to feed algorithms and win followers."
+    "title": "Mamdani to Unveil Street Safety Plan in Move to Curb Pedestrian Deaths",
+    "link": "https://www.nytimes.com/2026/09/15/nyregion/mamdani-street-safety-vision-zero-reimagined.html",
+    "summary": "The plan, Vision Zero Reimagined, is a set of goals that includes speed-capping devices in some cars and reduced speed limits near hundreds more schools."
   },
   {
-    "title": "They Could Afford to Stand Up to Trump. Why Didn’t They?",
-    "link": "https://www.nytimes.com/2026/09/14/opinion/institutions-power-trump.html",
-    "summary": "The more the logic of capitalism pervades the rest of life, the less room there is for compassion, honor or heroism."
+    "title": "‘Every Awards Show Could Be Sponsored by Botox, but This One Stood Out’: 3 Writers Assess the Emmys",
+    "link": "https://www.nytimes.com/2026/09/15/opinion/emmys-widows-bay-the-pitt.html",
+    "summary": "Have we reached peak TV? Did we a long time ago?"
   },
   {
-    "title": "Steve Kolb, Head of C.F.D.A., Placed on Leave After PETA Protester Confrontation",
-    "link": "https://www.nytimes.com/2026/09/14/style/steve-kolb-cfda-leave.html",
-    "summary": "The Council of Fashion Designers of America said its chief executive, Steve Kolb, would be placed on leave “pending a full review” of an incident at the Cos fashion show."
+    "title": "The ‘But China!’ Dilemma Driving the A.I. Race",
+    "link": "https://www.nytimes.com/2026/09/15/opinion/ezra-klein-podcast-matt-sheehan.html",
+    "summary": "Can the U.S. regulate its A.I. industry without surrendering the A.I. race to China?"
+  },
+  {
+    "title": "Jimmy Fallon Doesn’t Trust Trump to Handle A.I. Concerns",
+    "link": "https://www.nytimes.com/2026/09/15/arts/television/jimmy-fallon-trump-ai.html",
+    "summary": "“We’re relying on Trump to beat A.I.; I don’t even think Trump can beat Wordle,” Fallon said."
   }
 ]

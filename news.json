@@ -1,26 +1,6 @@
 [
   {
-    "title": "Who Will Win the Midterms? Republicans Are Reeling.",
-    "link": "https://www.nytimes.com/2026/09/17/us/politics/midterms-map-republicans-democrats.html",
-    "summary": "The party is putting up a costly defense of states and districts that President Trump won easily in 2024. And in places like Georgia, strategists wonder if it’s too late."
-  },
-  {
-    "title": "Stung by Voting Rights Decision, Many Black Southerners Plan for November",
-    "link": "https://www.nytimes.com/2026/09/17/us/politics/black-voters-democratic-candidates-south.html",
-    "summary": "Black Democratic candidates for governor, the Senate and the House are hoping that attacks on Black representation will motivate more voters."
-  },
-  {
-    "title": "Jewish Leaders in Michigan Urge Support for El-Sayed’s Senate Bid",
-    "link": "https://www.nytimes.com/2026/09/17/us/politics/el-sayed-michigan-senate-jewish-petition.html",
-    "summary": "The public petition comes after other Michigan Jews registered their discontent with Abdul El-Sayed, the state’s Democratic Senate nominee."
-  },
-  {
-    "title": "The Deadly Choice Facing Many Gazans, and a New Disclosure of ‘Concerning’ A.I. Behavior",
-    "link": "https://www.nytimes.com/2026/09/17/podcasts/the-headlines/gaza-ruins-concerning-ai-behavior.html",
-    "summary": "Plus, the rise of shopping sites that don’t sell anything."
-  },
-  {
-    "title": "As a New Oil Power, China Gains More Sway Over Energy Markets",
+    "title": "China Stockpiled Oil, and Now It Could Dominate the Energy Landscape",
     "link": "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html",
     "summary": "The war with Iran revealed just how much influence the world’s biggest oil importer has over prices and other countries’ supplies of jet fuel, gasoline and diesel."
   },
@@ -28,6 +8,21 @@
     "title": "Global Economy Is Running Out of Wiggle Room",
     "link": "https://www.nytimes.com/2026/09/17/business/economy/iran-war-energy-prices.html",
     "summary": "Many countries blunted the most painful effects of the energy shock from the war in Iran. But prices remain elevated and risks are multiplying."
+  },
+  {
+    "title": "G.O.P. Representative Breaks With Trump in Ad Criticizing the Immigration Crackdown",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/salazar-florida-republican-immigration-trump.html",
+    "summary": "Representative María Elvira Salazar, a three-term representative from Miami, won re-election by 20 percentage points in 2024. Her ad suggests worry among some Republicans about their standing with Hispanic voters."
+  },
+  {
+    "title": "Hasan Piker’s Comments Create Headaches for Abdul El-Sayed",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/el-sayed-piker-terrorism-comments.html",
+    "summary": "Under pressure, the Democratic Senate nominee in Michigan this week rejected Hasan Piker’s argument that the U.S. has caused more terror than Al Qaeda."
+  },
+  {
+    "title": "Can a Republican Become Governor of New York? Blakeman Makes His Case.",
+    "link": "https://www.nytimes.com/2026/09/17/nyregion/bruce-blakeman-hochul-republican-governor.html",
+    "summary": "Bruce Blakeman is trying to unseat Gov. Kathy Hochul, a Democrat, attacking her on the economy, crime and immigration by using Trump-like tactics and A.I."
   },
   {
     "title": "OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior",
@@ -40,39 +35,54 @@
     "summary": "There has been considerable debate over regulating the artificial intelligence industry, but much of that effort has stalled. Cecilia Kang, a technology reporter for The New York Times, explains why."
   },
   {
-    "title": "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears",
-    "link": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
-    "summary": "The collected essays of Dario Amodei help explain why some people are so worried about artificial intelligence."
+    "title": "What Happens When A.I. Stops Doing What Humans Want?",
+    "link": "https://www.nytimes.com/2026/09/17/science/ai-alignment-misalignment.html",
+    "summary": "“Alignment” is the science of teaching A.I. to do what is in line with human preferences, ethics and judgment. But, at times, the systems have gone rogue."
   },
   {
-    "title": "Trump’s Minnesota Surge Threatened Democracy, Judge Warns",
-    "link": "https://www.nytimes.com/2026/09/17/us/politics/minnesota-judge-trump-immigration.html",
-    "summary": "In a rare interview, Patrick Schiltz, who served as the federal court’s chief judge last winter, called the administration’s actions “a grave threat to the rule of law.”"
+    "title": "A.I. Agents as ‘Co-Scientists’? This Lab Says They Could Speed Drug Research.",
+    "link": "https://www.nytimes.com/2026/09/17/well/ai-drug-discovery-stanford.html",
+    "summary": "A.I. is already a powerful tool for scientific discovery. Now, some biomedical researchers are teaching it to do even more."
   },
   {
-    "title": "Weird and Wonderful, the Lucas Museum Lands in L.A.",
-    "link": "https://www.nytimes.com/2026/09/17/arts/design/lucas-museum-los-angeles-star-wars.html",
-    "summary": "A billion-dollar behemoth that looks like a spaceship houses the art collection of the “Star Wars” filmmaker George Lucas and his wife, Mellody Hobson. It’s an instant landmark."
+    "title": "Trump Blasts the Fed But Spares Kevin Warsh After Interest Rate Hike",
+    "link": "https://www.nytimes.com/2026/09/17/business/trump-warsh-fed-interest-rates.html",
+    "summary": "The president blasted the rest of the Fed — and kept up his demand for a cut — but spared Fed Chairman Kevin M. Warsh from the criticism."
   },
   {
-    "title": "Carney Calls for E.U.-Canada Pact Amid ‘Ferocious Storm’",
-    "link": "https://www.nytimes.com/2026/09/17/world/europe/canada-carney-eu.html",
-    "summary": "Prime Minister Mark Carney told European lawmakers that an alliance would help to secure sovereignty and independence for his country. The moves come amid a historic low for U.S. ties with Canada."
+    "title": "Are Trump’s Official Papers His Personal Property?",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/the-docket-trump-presidential-records.html",
+    "summary": "The administration argues that presidential papers are like those of Supreme Court justices."
   },
   {
-    "title": "Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.",
-    "link": "https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html",
-    "summary": "The invitation by the E.U. for Canada to become an “associate member” is a sign of Mr. Trump’s brand of diplomacy, which often involves threatening America’s closest friends."
+    "title": "The Face of London in the 1960s Is Living Her Best Life",
+    "link": "https://www.nytimes.com/2026/09/16/style/twiggy-documentary.html",
+    "summary": "The face of London in the 1960s is living her best life at the age of 77."
   },
   {
-    "title": "The Hidden Human Cost of Kim Jong-un’s New Power",
-    "link": "https://www.nytimes.com/2026/09/17/world/asia/north-korea-exploitation-kim.html",
-    "summary": "The North Korean leader’s financial and diplomatic leverage rests on the brutal exploitation of his own people, from coal miners to diplomats, at home and abroad."
+    "title": "Trump Air Force One Photos Fuel Kennedy Center Demolition Speculation",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html",
+    "summary": "Images captured through the windows of Air Force One showed President Trump reviewing a poster with the title “Kennedy Center DEMOLISHED.”"
   },
   {
-    "title": "Trump Sanctions on Cuba Strands Thousands Of Shipping Containers",
-    "link": "https://www.nytimes.com/2026/09/17/world/americas/trump-sanctions-cuba-shipping-containers.html",
-    "summary": "The U.S. says its sanctions are not aimed at depriving Cuba of essential goods. Thousands of stranded shipping containers tell a different story."
+    "title": "Kennedy Center Closure Prompts Legal Fight Over Trump-Backed Renovation",
+    "link": "https://www.nytimes.com/2026/09/17/arts/music/kennedy-center-closure-emergency-hearing.html",
+    "summary": "The federal judge denied a Democratic lawmaker’s request for an emergency hearing on the closure, which began on Tuesday."
+  },
+  {
+    "title": "Yemen War Intensifies as Houthi Militia Advances on Marib",
+    "link": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
+    "summary": "Clashes between Iranian-backed Houthi fighters and Saudi-backed government forces have been reported near oil-rich Marib Province."
+  },
+  {
+    "title": "U.S. Strike on Iranian School May Have Been War Crime, U.N. Report Says",
+    "link": "https://www.nytimes.com/2026/09/17/world/asia/us-iran-school-strike-report.html",
+    "summary": "Mistakes that led to the deaths of more than a hundred children “went beyond negligence,” investigators said. They also cited a separate strike the same day that killed a reported 22 civilians."
+  },
+  {
+    "title": "Russia and China Veto U.S. Bid to Renew U.N. Monitoring of Iran Nuclear Program",
+    "link": "https://www.nytimes.com/2026/09/17/world/middleeast/un-iran-resolution-russia-china-veto.html",
+    "summary": "The conflict underscored the distance between world powers over the United States’ pressure campaign on Iran."
   },
   {
     "title": "To a Binational Tribe, Trump’s Border Wall Feels Like Betrayal",
@@ -80,9 +90,34 @@
     "summary": "An escalating confrontation on Native land southwest of Tucson threatens to upend decades of uneasy cooperation between the Tohono O’odham Nation and the United States."
   },
   {
-    "title": "Security Guards Offer Protection, But Get Paid Little in Return",
-    "link": "https://www.nytimes.com/2026/09/16/business/security-guard-danger-pay.html",
-    "summary": "A recent high-profile shooting outside a mosque and rising threats to houses of worship have focused attention on security guards. Now, unions are pressing for better pay and training."
+    "title": "How Trump’s New Green Card Policy Could Affect Immigrant Families",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/trump-green-card-benefits-immigrants.html",
+    "summary": "The policy, set to take effect Friday, would give immigration officers broader authority to deny permanent residency to people using public benefits."
+  },
+  {
+    "title": "C.J. Huff Rebuilt Joplin’s Devastated Schools. Then Came the Backlash.",
+    "link": "https://www.nytimes.com/2026/09/17/magazine/joplin-schools-superintendent-disaster-rebuild.html",
+    "summary": "A former superintendent in Joplin, Mo., is trying to apply what he learned to other shattered districts — and reckoning with the toll of the disaster on his own life."
+  },
+  {
+    "title": "The Next Gene-Editing Technology May Also Be the Oldest",
+    "link": "https://www.nytimes.com/2026/09/17/science/crispr-gene-editing-vipr.html",
+    "summary": "Scientists have discovered a powerful gene-targeting system in viruses. Billions of years old, VIPR seems to predate CRISPR and may be even more effective."
+  },
+  {
+    "title": "This Rare Gene Drastically Raises Lung Cancer Risk in People Who Never Smoked",
+    "link": "https://www.nytimes.com/2026/09/17/science/lung-cancer-gene-mutation-risk.html",
+    "summary": "The gene is found predominantly in Southern Appalachia and may be one of the most powerful cancer-risk mutations ever found."
+  },
+  {
+    "title": "Gustavo Dudamel’s New York Era Has Begun. Try to Keep Up.",
+    "link": "https://www.nytimes.com/2026/09/17/arts/music/gustavo-dudamel-new-york-philharmonic.html",
+    "summary": "The New York Philharmonic’s season started with a barnstorming tour of Manhattan to celebrate Dudamel’s arrival as music and artistic director."
+  },
+  {
+    "title": "Watching Bigots Erupt",
+    "link": "https://www.nytimes.com/2026/09/17/opinion/bo-french-university-texas-longhorns.html",
+    "summary": "This is what I see when I look at the picture Bo French hates."
   },
   {
     "title": "The $15,000 Settlement That Destroyed My Father’s Life",
@@ -90,18 +125,8 @@
     "summary": "A 35-foot fall didn’t kill Michael Wagner. The nearly 18-year failure of the safety net did. Before he died, he recorded 694 videos explaining how."
   },
   {
-    "title": "Moneyball",
-    "link": "https://www.nytimes.com/2026/09/17/briefing/college-sports.html",
-    "summary": "We look at revenue-sharing deals in college sports."
-  },
-  {
-    "title": "Late Night Slams Donald Trump Jr.’s Russian-Funded Wedding Party",
-    "link": "https://www.nytimes.com/2026/09/17/arts/television/late-night-donald-trump-jr-wedding.html",
-    "summary": "“Here comes the bribe, from a Russian guy,” Josh Johnson sang in response to news that a Russian businessman helped pay for the event."
-  },
-  {
-    "title": "What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?",
-    "link": "https://www.nytimes.com/2026/09/17/world/middleeast/e1-israel-west-bank-settlement.html",
-    "summary": "Israel’s right-wing government is opening bidding for thousands of housing units in a patch of the West Bank, a move that would thwart efforts at Palestinian statehood."
+    "title": "Jon Kyl, Senator Known for His Skills Behind the Scenes, Dies at 84",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/jon-kyl-dead.html",
+    "summary": "The Arizona politician rose to the second-highest position in the Republican-held Senate caucus thanks to his policy smarts and deft political sensibilities."
   }
 ]

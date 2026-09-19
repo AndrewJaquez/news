@@ -1,18 +1,28 @@
 [
   {
-    "title": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.",
-    "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
-    "summary": "The president seems driven chiefly by the sense that A.I. is the way to economic growth, and nothing can be allowed to stand in its way."
+    "title": "CNN and MS NOW Reporters Barred From White House After Trump Announces Ban",
+    "link": "https://www.nytimes.com/2026/09/19/business/media/trump-white-house-press-ban.html",
+    "summary": "The prohibition on certain journalists was a stark escalation in President Trump’s war on the media, and will probably face a legal challenge."
   },
   {
-    "title": "How Trump Became an A.I. Evangelist",
-    "link": "https://www.nytimes.com/video/us/politics/100000011154861/trump-ai-technology.html",
-    "summary": "President Trump had little interest in artificial intelligence until a fateful meeting in Las Vegas two years ago. Now, Mr. Trump sees A.I. as the defining technology of our age. Our White House correspondent Jonathan Swan tracks Trump’s journey to A.I. evangelist."
+    "title": "How Trump Is Wielding Power to Stifle Speech",
+    "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
+    "summary": "President Trump has harnessed agencies across the government to curtail press freedoms, a sweeping campaign that free speech advocates say will have lasting effects."
   },
   {
-    "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
-    "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
-    "summary": "The company is expected to reach $100 billion in annualized revenue this year, even as chief executive Dario Amodei calls for slowing down development of some advanced A.I. models."
+    "title": "How Trump’s Trade War Could Hurt Republican Efforts to Hold the Senate",
+    "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html",
+    "summary": "In a handful of border states and industrial states that could decide Senate control, the president’s standoff with Canada has drawn criticism from voters, including some who supported him in 2024."
+  },
+  {
+    "title": "Sherrod Brown Tries a New Retort to Criticism on Transgender Issues",
+    "link": "https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html",
+    "summary": "A spot from the Senate candidate in Ohio seeks to dismiss the Republican Party’s focus on transgender rights as a distraction from economic issues."
+  },
+  {
+    "title": "At DraftKings, AI Targets the Gamblers Likeliest to Lose",
+    "link": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
+    "summary": "Data science helps determine who receives betting incentives, but the company has resisted using similar technology to protect gamblers at risk of addiction."
   },
   {
     "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
@@ -20,19 +30,9 @@
     "summary": "A third-party test company inadvertently gave internet access to Google’s Gemini and other artificial intelligence models during cybersecurity testing."
   },
   {
-    "title": "F.A.A. to Roll Out New A.I. Tool for Washington Airports",
-    "link": "https://www.nytimes.com/2026/09/18/us/politics/faa-ai-dc-airports.html",
-    "summary": "The tool, called SMART, will crunch scheduling and weather data to predict and avoid delays. It will be deployed in the Washington region’s three major airports next week."
-  },
-  {
-    "title": "Trump Says He Has Banned CNN, MS NOW and Politico From White House",
-    "link": "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html",
-    "summary": "The president cited reporting from the outlets that he deemed “fake news.” It was unclear how such a ban would be enforced or defended in court."
-  },
-  {
-    "title": "Kennedy Center Supporters Rally Amid Fears of Trump’s Demolition",
-    "link": "https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html",
-    "summary": "Photos of President Trump reviewing a poster board with the title “Kennedy Center DEMOLISHED” spurred the largest gathering yet in support of the performing arts institution."
+    "title": "Creating a Kill Switch to Shut Down a Rogue A.I. Is Harder Than It Sounds",
+    "link": "https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html",
+    "summary": "A bipartisan group in Congress and Gov. Gavin Newsom of California have floated ideas for building a mechanism that would instantly power down an A.I. system. Only no one really knows how."
   },
   {
     "title": "U.S. and Denmark Reach Security Deal on Greenland, Trump Says",
@@ -40,68 +40,63 @@
     "summary": "The full contours of the deal were unclear, but Denmark and Greenland both indicated they expected an agreement to be signed soon."
   },
   {
+    "title": "Trump’s Security Deal With Greenland: What to Know",
+    "link": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-security-deal-what-to-know.html",
+    "summary": "President Trump insisted for months that the Danish territory should be part of the United States. Now, a security deal — not a takeover — seems to be on the table."
+  },
+  {
+    "title": "‘Nervous and Skeptical,’ Greenlanders Question the New Deal With Trump",
+    "link": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html",
+    "summary": "The U.S. president’s threats to seize Greenland left its people on edge, and with details scarce, the news of an agreement didn’t seem to be putting minds at ease."
+  },
+  {
+    "title": "A Small Country’s Huge Windfall from the War in Iran",
+    "link": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-boom.html",
+    "summary": "Oil-rich Guyana is enjoying red-hot growth. But the boom is magnifying tensions over corruption, inequality and strained ties with Venezuela."
+  },
+  {
+    "title": "How Guyana Is Feeding the Profits of Exxon Mobil, the Largest U.S. Oil Company",
+    "link": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-exxon-mobil.html",
+    "summary": "Exxon Mobil found a coveted growth engine in Guyana. Now it must navigate Guyana’s fractious politics and a territorial dispute with Venezuela."
+  },
+  {
     "title": "At Gettysburg, a Reporter Captured a Nation’s Loss, and His Own",
     "link": "https://www.nytimes.com/2026/09/17/us/gettysburg-samuel-wilkeson-175.html",
     "summary": "Samuel Wilkeson Jr. filed a report for The Times from the battlefield. Then he went looking for a Union officer, his son."
   },
   {
-    "title": "New Species of Cat Discovered for First Time in a Century",
-    "link": "https://www.nytimes.com/2026/09/18/science/tilcayo-new-cat-species-bolivia.html",
-    "summary": "The species, called a tilcayo, is smaller than a house cat and lives in the cloud forests of the Andes Mountains in Bolivia."
+    "title": "Share the Times Pages You Couldn’t Throw Away",
+    "link": "https://www.nytimes.com/2026/04/30/special-series/archives-anniversary-newspaper.html",
+    "summary": "The New York Times has been publishing for 175 years. Some of that history may be sitting in a shoe box under your bed."
   },
   {
-    "title": "Russia Aims to Inject Chaos Into Elections, U.S. Intelligence Finds",
-    "link": "https://www.nytimes.com/2026/09/18/us/politics/russia-election-disinformation-us-intelligence.html",
-    "summary": "The Kremlin is once again seeking to undermine confidence in American democracy with online influence campaigns, U.S. officials said."
+    "title": "Aaron Sorkin Goes Off Script",
+    "link": "https://www.nytimes.com/2026/09/19/magazine/aaron-sorkin-interview.html",
+    "summary": "The Oscar-winning writer returns to Facebook with “The Social Reckoning”— and surprises us with the revelation of why he is so drawn to uplift and romance."
   },
   {
-    "title": "James Talarico, Seeking Black Votes in Texas Senate Rate, Wins Crucial Endorsement",
-    "link": "https://www.nytimes.com/2026/09/18/us/politics/james-talarico-texas-senate-congressional-black-caucus.html",
-    "summary": "The Congressional Black Caucus’s political wing backed James Talarico, who defeated a Black opponent in the primary. He faces Ken Paxton, the Republican state attorney general, in November."
+    "title": "A.I. Is a Threat, but Not in the Way You Think",
+    "link": "https://www.nytimes.com/2026/09/19/opinion/ai-hugging-face-big-tech-danger.html",
+    "summary": "The threats from A.I. are real — and they’re ones we know how to deal with."
   },
   {
-    "title": "Republicans Are Now the ‘Elitist’ Party, Voters Say",
-    "link": "https://www.nytimes.com/2026/09/18/us/politics/republicans-elitist-party-voters-poll.html",
-    "summary": "We spoke to independents who have soured on Trump."
+    "title": "Has Trump Lost Touch With Reality?",
+    "link": "https://www.nytimes.com/2026/09/19/opinion/trump-ai-posts-reality-age.html",
+    "summary": "Three Opinions writers debate whether the president’s recent behavior is really that different from what we’ve seen from him over the years."
   },
   {
-    "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
-    "link": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
-    "summary": "Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program."
+    "title": "Fading Light",
+    "link": "https://www.nytimes.com/2026/09/19/briefing/fading-light.html",
+    "summary": "Fall officially begins on Tuesday, but evidence of the season seeps in more gradually."
   },
   {
-    "title": "Appeals Court Restricts Trump Administration Deportation Effort",
-    "link": "https://www.nytimes.com/2026/09/18/us/politics/appeals-court-trump-third-country-deportation.html",
-    "summary": "The ruling allows migrants to contest deportations to countries other than their place of origin. The case could head to the Supreme Court."
+    "title": "Tell Us What Questions You Have About Winter Getaways and Holiday Travel",
+    "link": "https://www.nytimes.com/2026/09/17/t-magazine/holiday-travel-questions.html",
+    "summary": "It isn’t too early to start thinking about end-of-year travel plans. We’re fielding reader questions about where to go and what to do."
   },
   {
-    "title": "Two Centuries On, Smithsonian Connects Jefferson’s Hair to Hemings’s Children",
-    "link": "https://www.nytimes.com/2026/09/18/arts/thomas-jefferson-sally-hemings-smithsonian-hair.html",
-    "summary": "A new book describes how cutting-edge genomics techniques yielded “extraordinary proof” that Thomas Jefferson fathered children with Sally Hemings."
-  },
-  {
-    "title": "Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger",
-    "link": "https://www.nytimes.com/2026/09/18/business/paramount-warner-bros-settlement.html",
-    "summary": "Seeking to settle a lawsuit with 12 states, Paramount has discussed measures to protect the editorial independence of CNN and the divestiture of Comedy Central."
-  },
-  {
-    "title": "Steven Kolb, CFDA Head, Resigns After Confrontation With PETA Protesters",
-    "link": "https://www.nytimes.com/2026/09/18/style/steven-kolb-cfda-resignation-peta.html",
-    "summary": "Steven Kolb, the head of the Council of Fashion Designers of America, has stepped down after a physical altercation at a runway show."
-  },
-  {
-    "title": "Why Israel Fears This Searing New Documentary",
-    "link": "https://www.nytimes.com/2026/09/18/opinion/israel-naza-movie-documentary.html",
-    "summary": "It’s hard to tell whether Israelis are enraged by “NAZA” because they think it’s full of lies, or because they know or fear it’s true."
-  },
-  {
-    "title": "The Kennedy Center Is Trump’s Most Grotesque Obsession",
-    "link": "https://www.nytimes.com/2026/09/18/opinion/culture/kennedy-center-trump.html",
-    "summary": "Nothing has so thoroughly highlighted his indefatigable petulance."
-  },
-  {
-    "title": "Duncan Sheik, Who Traded Pop Stardom for Broadway, Dies at 56",
-    "link": "https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html",
-    "summary": "Weary of the heartthrob label after his 1996 hit “Barely Breathing,” he pivoted to musical theater and won two Tonys for composing “Spring Awakening.”"
+    "title": "Millionaire Activist James Chambers Seeks Asylum in Spain",
+    "link": "https://www.nytimes.com/2026/09/19/world/europe/spain-chambers-asylum-us-extradition.html",
+    "summary": "Jailed in Madrid on an extradition request from the United States that his lawyer says is tied to pro-Palestinian activism, James Chambers fears persecution if returned."
   }
 ]

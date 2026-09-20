@@ -1,8 +1,18 @@
 [
   {
-    "title": "How Trump Is Wielding Power to Stifle Speech",
-    "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
-    "summary": "President Trump has harnessed agencies across the government to curtail press freedoms, a sweeping campaign that free speech advocates say will have lasting effects."
+    "title": "Trump Faced Loss After Loss. He Then Turned to a Familiar Target: The Press.",
+    "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-cnn-msnow-press-ban.html",
+    "summary": "The president’s ban of three media outlets from the White House fits a pattern of using the apparatus of government to crack down on his perceived enemies."
+  },
+  {
+    "title": "News Outlets Express Solidarity After Trump Bars Some Reporters",
+    "link": "https://www.nytimes.com/2026/09/19/us/politics/news-outlets-react-trump-media-ban.html",
+    "summary": "Some Democrats said President Trump’s ban was an attempt to control the press and distract voters as Republicans face deep challenges in the midterm elections."
+  },
+  {
+    "title": "Tracking Assault Weapons Bans Across the Country as Court Battles Continue",
+    "link": "https://www.nytimes.com/2026/09/19/us/politics/assault-weapons-bans-court-cases.html",
+    "summary": "Here are the states that have sought to limit access to some of the most lethal firearms, as gun restrictions face new legal challenges."
   },
   {
     "title": "Newsom Signs Bills Meant to Prevent Trump’s Interference in Midterms",
@@ -15,39 +25,34 @@
     "summary": "A spot from the Senate candidate in Ohio seeks to dismiss the Republican Party’s focus on transgender rights as a distraction from economic issues."
   },
   {
-    "title": "At DraftKings, AI Targets the Gamblers Likeliest to Lose",
-    "link": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
-    "summary": "Data science helps determine who receives betting incentives, but the company has resisted using similar technology to protect gamblers at risk of addiction."
+    "title": "California Cracks Down on Influencers’ Undisclosed Political Ads",
+    "link": "https://www.nytimes.com/2026/09/19/business/media/california-political-ads-influencers-law.html",
+    "summary": "Under a new law, creators could face fines of $5,000 per post if they don’t disclose that they were paid to make political content."
   },
   {
-    "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
-    "link": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
-    "summary": "A third-party test company inadvertently gave internet access to Google’s Gemini and other artificial intelligence models during cybersecurity testing."
-  },
-  {
-    "title": "Creating a Kill Switch to Shut Down a Rogue A.I. Is Harder Than It Sounds",
-    "link": "https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html",
-    "summary": "A bipartisan group in Congress and Gov. Gavin Newsom of California have floated ideas for building a mechanism that would instantly power down an A.I. system. Only no one really knows how."
-  },
-  {
-    "title": "‘Nervous and Skeptical,’ Greenlanders Question the New Deal With Trump",
-    "link": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-deal.html",
-    "summary": "The U.S. president’s threats to seize Greenland left its people on edge, and with details scarce, the news of an agreement didn’t seem to be putting minds at ease."
-  },
-  {
-    "title": "Trump’s Security Deal With Greenland: What to Know",
-    "link": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-security-deal-what-to-know.html",
-    "summary": "President Trump insisted for months that the Danish territory should be part of the United States. Now, a security deal — not a takeover — seems to be on the table."
-  },
-  {
-    "title": "In Significant Escalation, Houthis Claim Attacks on Saudi Capital",
+    "title": "In Significant Escalation, Houthis Attack Saudi Capital",
     "link": "https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html",
-    "summary": "The Houthis, an Iranian-backed militia, said they had fired a wave of missiles and drones at Riyadh, where residents reported explosions, and on Saudi oil facilities. Saudi Arabia has not commented on the claims."
+    "summary": "The Houthis, an Iranian-backed militia, said they had fired a wave of missiles and drones at Riyadh, and on Saudi oil facilities."
   },
   {
     "title": "India Is Again Squeezed Between the Threat of Trump Tariffs and Russian Oil",
     "link": "https://www.nytimes.com/2026/09/19/business/india-russia-sanctions-oil.html",
     "summary": "India is trying to secure affordable energy while preserving a crucial relationship with Washington, a balancing act made harder by turmoil in global energy markets."
+  },
+  {
+    "title": "A.I. Gone Rogue? Trump Proposes Not New Rules but an ‘A.I. Force.’",
+    "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-ai-force.html",
+    "summary": "The president proposed a follow-up to his Space Force but continued to dismiss worries about A.I.’s pace or potential for harm."
+  },
+  {
+    "title": "At DraftKings, AI Targets the Gamblers Likeliest to Lose",
+    "link": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
+    "summary": "Data science helps determine who receives betting incentives, but the company has resisted using similar technology to protect gamblers at risk of addiction."
+  },
+  {
+    "title": "The Rise of A.I. Is Raising Threats From Drones, Police Group Warns",
+    "link": "https://www.nytimes.com/2026/09/19/nyregion/artificial-intelligence-drones-police.html",
+    "summary": "The leaps being made in artificial intelligence and the plunging costs of drones pose dangers to cities across the United States, according to the Police Executive Research Forum."
   },
   {
     "title": "A.G. Sulzberger: The Story of America, Told in 15 Million First Drafts of History",
@@ -65,18 +70,18 @@
     "summary": "The Oscar-winning writer returns to Facebook with “The Social Reckoning”— and surprises us with the revelation of why he is so drawn to uplift and romance."
   },
   {
-    "title": "Trump and Xi Can Make Progress on A.I.",
-    "link": "https://www.nytimes.com/2026/09/19/opinion/trump-china-ai.html",
-    "summary": "Xi is in the driver’s seat, reflecting American weakness, but there still may be some space for limited advances."
-  },
-  {
     "title": "Has Trump Lost Touch With Reality?",
     "link": "https://www.nytimes.com/2026/09/19/opinion/trump-ai-posts-reality-age.html",
     "summary": "Three Opinions writers debate whether the president’s recent behavior is really that different from what we’ve seen from him over the years."
   },
   {
-    "title": "Behold the Most Handsome Melons in Mexico",
-    "link": "https://www.nytimes.com/2026/09/19/world/americas/mexico-melon-contest-veracruz.html",
-    "summary": "In the eastern city of Xalapa, what started as a joke among friends over two decades ago has become a vibrant annual tradition that highlights creativity and absurdity with melons."
+    "title": "What Happens on the Subway Doesn’t Stay on the Subway",
+    "link": "https://www.nytimes.com/2026/09/14/opinion/america-killing-abandoment.html",
+    "summary": "The American dilemma in one subway car."
+  },
+  {
+    "title": "Nepal’s Gen Z Is Taking on the World’s Polluters Over Climate Disasters",
+    "link": "https://www.nytimes.com/2026/09/19/world/asia/nepals-gen-z-is-taking-on-the-worlds-polluters-over-climate-disasters.html",
+    "summary": "The young government of Nepal, a nation with a tiny carbon footprint, is seeking reparations from the world’s major economies as it bears the brunt of collapsing Himalayan glaciers."
   }
 ]

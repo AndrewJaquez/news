@@ -1,20 +1,5 @@
 [
   {
-    "title": "China’s Leader Xi Seeks to Extend Truce with Trump During U.S. Summit",
-    "link": "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html",
-    "summary": "Facing an American president constrained by war and politics, China’s leader may seek to lock in a tactical truce while he shores up a fragile economy at home."
-  },
-  {
-    "title": "China’s Continued Control of Rare Earths Looms Over Trump-Xi Meeting",
-    "link": "https://www.nytimes.com/2026/09/21/business/china-rare-earth-summit.html",
-    "summary": "Manufacturers are struggling with constrained supplies as U.S. and Chinese officials negotiate over export restrictions with consequences for global industry."
-  },
-  {
-    "title": "Japan Meets With Trump, Hoping to Get His Help on China",
-    "link": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html",
-    "summary": "Japan’s prime minister will meet President Trump to discuss China’s economic and security pressure while also seeking to de-escalate tensions with Beijing."
-  },
-  {
     "title": "Why Xi Is Coming to Washington, and White House TV Feeds Go Dark",
     "link": "https://www.nytimes.com/2026/09/22/podcasts/the-headlines/xi-jinping-dc-white-house-press-ban.html",
     "summary": "Plus, the man who helped put bugs on the menu."
@@ -25,9 +10,19 @@
     "summary": "The White House has labeled critics terrorists, attributed violence to a left-wing conspiracy and investigated unions, nonprofits and other groups in a battle over free speech."
   },
   {
+    "title": "Trump Faces the Sting of a Media Boycott After Press Pool Withdrawal",
+    "link": "https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html",
+    "summary": "A boycott of the White House press pool by the major networks deprives the president of the oxygen of screen time. But he is still finding ways to get on the air."
+  },
+  {
     "title": "Will Alexandria Ocasio-Cortez Run for President in 2028? Here’s What She Said.",
     "link": "https://www.nytimes.com/2026/09/22/us/politics/aoc-2028-presidential-race.html",
     "summary": "In a wide-ranging interview, the New York congresswoman offered her most detailed insight yet into how she is thinking about a possible presidential run."
+  },
+  {
+    "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
+    "link": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
+    "summary": "Unlike celebrity influencers with large followings, these creators produce a blizzard of videos for a fraction of the cost of traditional online campaigns and, in the process, shift public conversation."
   },
   {
     "title": "Many Democrats Are Avoiding Kamala Harris. Abdul El-Sayed Is Welcoming Her.",
@@ -40,27 +35,42 @@
     "summary": "Americans have a pervasive sense they are being lied to. That has created an unpredictability in politics unseen since Donald Trump said he could shoot someone on Fifth Avenue without losing voters."
   },
   {
-    "title": "George W. Bush and Cornyn Leave Out Paxton as They Raise Cash for Senate Candidates",
-    "link": "https://www.nytimes.com/2026/09/21/us/politics/bush-cornyn-paxton-senate-fund-raiser.html",
-    "summary": "The former president and Texas senator are headlining a fund-raiser in Dallas for top Republican Senate candidates. Not included: Ken Paxton, the nominee in their own state."
+    "title": "Trump and Xi to Discuss A.I. Risks and Competition at US-China Summit",
+    "link": "https://www.nytimes.com/2026/09/22/business/economy/us-china-ai-competition.html",
+    "summary": "Artificial intelligence is on the agenda when leaders from the United States and China meet this week. But with little consensus on a path forward, expectations are limited."
   },
   {
-    "title": "Trump Faces the Sting of a Media Boycott After Press Pool Withdrawal",
-    "link": "https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html",
-    "summary": "A boycott of the White House press pool by the major networks deprives the president of the oxygen of screen time. But he is still finding ways to get on the air."
+    "title": "China’s Leader Xi Seeks to Extend Truce with Trump During U.S. Summit",
+    "link": "https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html",
+    "summary": "Facing an American president constrained by war and politics, China’s leader may seek to lock in a tactical truce while he shores up a fragile economy at home."
   },
   {
-    "title": "Trump’s U.N. Speech Comes at a Time of Tumult",
-    "link": "https://www.nytimes.com/2026/09/21/us/politics/trump-un-speech.html",
-    "summary": "The president, who has been dogged by the war in Iran and eroding alliances, is also expected to sign a security deal on Greenland and meet with world leaders."
+    "title": "How Unions Are Confronting A.I. Threats in the Workplace",
+    "link": "https://www.nytimes.com/2026/09/22/business/economy/unions-ai-negotiations.html",
+    "summary": "The machinists union shows how workers are negotiating for a say in the ways artificial intelligence is used in their workplaces."
   },
   {
-    "title": "Trump and Mamdani Show Their Unlikely Rapport, This Time in New York",
-    "link": "https://www.nytimes.com/2026/09/21/nyregion/trump-mamdani-meeting-nyc.html",
-    "summary": "Mayor Zohran Mamdani invited the president to his official residence in Manhattan, where the two spoke about policing, immigration and affordable housing."
+    "title": "The Big Threat Has Been Climate Change. Now Comes A.I.",
+    "link": "https://www.nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html",
+    "summary": "Both are human-caused, both are frightening, and one of them has raced to the forefront of the global conversation."
   },
   {
-    "title": "New Hope for Diagnosing C.T.E. in Brain Injured Patients",
+    "title": "Mathematics Isn’t Just a Game to Let A.I. Solve. History Shows Why.",
+    "link": "https://www.nytimes.com/2026/09/22/science/math-ai-history-understanding.html",
+    "summary": "In our field of applied mathematics, the long, human process of trial and error — not just the solutions themselves — is often what has led to progress."
+  },
+  {
+    "title": "Hayden Panettiere’s Death Caused by Overdose of Fentanyl and Other Drugs",
+    "link": "https://www.nytimes.com/2026/09/22/arts/television/hayden-panettiere-cause-death-fentanyl-drugs.html",
+    "summary": "Ms. Panettiere, who starred in “Heroes” and “Nashville,” died last month at the age of 36. Her death was ruled accidental."
+  },
+  {
+    "title": "Global Oil Price Drops Below $100 a Barrel",
+    "link": "https://www.nytimes.com/2026/09/22/business/saudi-oil-pipeline-hormuz.html",
+    "summary": "Investors anticipated that a damaged Saudi Arabian pipeline may be close to reopening, allowing more oil from the region to reach world markets."
+  },
+  {
+    "title": "C.T.E. Can’t Be Detected in the Living. New Brain Research Offers Hope.",
     "link": "https://www.nytimes.com/2026/09/22/science/cte-diagnosis-brain-injury.html",
     "summary": "Scientists are developing imaging techniques and blood tests that one day may enable doctors to identify the disease definitively in living patients."
   },
@@ -70,19 +80,9 @@
     "summary": "With Paramount and Warner Bros. under his control, Mr. Ellison will be “the Hollywood equivalent of Superman, Caesar and Midas combined.” But challenges remain."
   },
   {
-    "title": "The Big Threat Has Been Climate Change. Now Comes A.I.",
-    "link": "https://www.nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html",
-    "summary": "Both are human-caused, both are frightening, and one of them has raced to the forefront of the global conversation."
-  },
-  {
-    "title": "What to Know About Recent A.I. Hacks",
-    "link": "https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html",
-    "summary": "OpenAI, Google and others recently disclosed breaches by their artificial intelligence models that amplified concerns about the advancing capabilities of the technology."
-  },
-  {
-    "title": "Specter of Rogue A.I. Looms Over U.N. Talks on Digital Cooperation",
-    "link": "https://www.nytimes.com/2026/09/21/world/un-general-assembly-ai.html",
-    "summary": "Diplomats, dignitaries and tech experts gathered amid the United Nations General Assembly to debate how to address the threats and harness the potential of artificial intelligence."
+    "title": "What’s Next for Paramount",
+    "link": "https://www.nytimes.com/2026/09/22/business/dealbook/paramount-warner-deal-settlement.html",
+    "summary": "Hollywood watchers believe the studio prevailed over states seeking to block its deal for Warner Bros. Discovery. It’s now free to reshape the media industry."
   },
   {
     "title": "Earl Spencer Book Blasts Diana’s Treatment by UK Royal Family",
@@ -110,11 +110,6 @@
     "summary": "A Venezuelan immigrant, Wilber Rafael Garces Perez, was shot in Austin, Texas, on Sunday after a traffic stop. The shooting prompted calls from local officials for a transparent investigation."
   },
   {
-    "title": "German Leaders Prepare to Deny Far Right Access to Secret War Plan",
-    "link": "https://www.nytimes.com/2026/09/22/world/europe/germany-afd-secrets-restriction.html",
-    "summary": "With the Alternative for Germany party close to power in a German state, federal officials are planning to limit the group’s access to classified intelligence."
-  },
-  {
     "title": "They Had No Connection to Costa Rica. America Sent Them There Anyway.",
     "link": "https://www.nytimes.com/2026/09/22/opinion/trump-deportation-third-countries.html",
     "summary": "The Trump administration’s policy of deporting migrants to third countries is undermining a bedrock notion of international law for the past 75 years."
@@ -125,13 +120,13 @@
     "summary": "The National Book Awards longlists are a study in tedious political orthodoxy."
   },
   {
+    "title": "Talk of the Town",
+    "link": "https://www.nytimes.com/2026/09/22/briefing/ai-discussions.html",
+    "summary": "The conversation about A.I. is at a fever pitch."
+  },
+  {
     "title": "Late Night Responds to Trump’s White House Press Ban",
     "link": "https://www.nytimes.com/2026/09/22/arts/television/late-night-trump-white-house-press-ban.html",
     "summary": "“Have you tried presidenting better?” Jon Stewart said after Trump barred CNN, MS NOW and Politico, saying he was tired of their “negative stories.”"
-  },
-  {
-    "title": "South Korean President Calls for Easing Sanctions on the North",
-    "link": "https://www.nytimes.com/2026/09/21/world/asia/south-korea-president-interview-sanctions-trump-north-korea.html",
-    "summary": "President Trump should demand that North Korea freeze, not eliminate, its nuclear weapons program, President Lee Jae Myung said in an interview."
   }
 ]

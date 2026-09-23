@@ -22,12 +22,17 @@
   {
     "title": "White House Defends Trump’s Ban on CNN, MS NOW and Politico in Court Filing",
     "link": "https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html",
-    "summary": "President Trump determined that CNN, MS NOW and Politico were in  ‘violation of the standards of professionalism and decorum’ expected at the White House."
+    "summary": "President Trump determined that CNN, MS NOW and Politico were in “violation of the standards of professionalism and decorum” expected at the White House."
   },
   {
-    "title": "Trump Cites National Security as He Faces Pushback on Press Ban, D.C. Arch and More",
-    "link": "https://www.nytimes.com/2026/09/22/us/politics/trump-arch-national-security.html",
-    "summary": "The president is increasingly invoking the rationale while facing legal challenges to his plans, even in more curious cases like his triumphal arch, which he says will now include snipers and drones."
+    "title": "Trump Officials May Undo Nursing Home Mandates for Reporting Covid",
+    "link": "https://www.nytimes.com/2026/09/23/business/covid-nursing-homes-trump.html",
+    "summary": "The agency led by Dr. Mehmet Oz is proposing an end to weekly tracking of respiratory infections at the facilities where thousands of elderly residents died in the pandemic."
+  },
+  {
+    "title": "Bessent Failed to Report Holdings of JP Morgan Stock",
+    "link": "https://www.nytimes.com/2026/09/23/business/bessent-jp-morgan-stock.html",
+    "summary": "Treasury Secretary Scott Bessent’s finances were reviewed by the inspector general after Mr. Bessent incorrectly listed at least $100,000 of the stock, which was owned by his husband, as cash."
   },
   {
     "title": "How China’s Leader Plans to Win the Future With A.I.",
@@ -40,7 +45,7 @@
     "summary": "Energy Secretary Chris Wright is pitching a future of fossil fuel abundance. It’s not always an easy sell while war drags on and oil prices surge."
   },
   {
-    "title": "The Big Beautiful Bill Is Starting to Bite Before the Election",
+    "title": "One Big Beautiful Bill Is Starting to Bite Before the Election",
     "link": "https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html",
     "summary": "The tax cuts in President Trump’s signature achievement were the Republicans’ answer to voters’ economic struggles, but its health care and food assistance cuts are taking a toll."
   },
@@ -55,19 +60,9 @@
     "summary": "Texas and even Florida are the places to watch in November if a polling pattern holds."
   },
   {
-    "title": "They Kept Outsiders Away for 500 Years. Their World Is About to Change.",
-    "link": "https://www.nytimes.com/2026/09/23/magazine/darien-gap-road-panama-colombia.html",
-    "summary": "My father dedicated his life to studying the Indigenous group, and they may soon allow unprecedented development through their land. I went on a trek through the jungle to find out why."
-  },
-  {
-    "title": "Dolly Parton’s Estate in Turmoil After Extortion Accusations",
-    "link": "https://www.nytimes.com/2026/09/22/arts/music/dolly-parton-restraining-order-bryan-seaver.html",
-    "summary": "Ms. Parton’s manager requested a restraining order against the singer’s nephew and former security provider, accusing him of threats and intimidation."
-  },
-  {
     "title": "A Nor’easter Could Slam the East Coast This Week (or Not)",
     "link": "https://www.nytimes.com/2026/09/22/weather/noreaster-storm-flooding-virginia-new-york.html",
-    "summary": "A nor’easter in September is unusual. As its forecast took shape on Tuesday, there was still uncertainty over what it would do."
+    "summary": "A nor’easter in September is unusual. As its forecast took shape, there was still uncertainty over what it would do."
   },
   {
     "title": "‘It’s Really Busy Out There’: Storms in the Pacific Threaten Hawaii and Mexico",
@@ -75,19 +70,44 @@
     "summary": "An already busy Pacific hurricane season got a lot busier this week."
   },
   {
-    "title": "Why Germany’s Leader Merz Is Struggling to Sway Voters",
-    "link": "https://www.nytimes.com/2026/09/23/world/europe/germany-merz-afd-economy.html",
-    "summary": "As the far right surges, Chancellor Friedrich Merz’s unpopular economic policies and gruff manner have failed to sway voters turned by rivals’ promises of easy fixes."
+    "title": "Self-Driving Cars Are Getting Better. The Risks Are Getting Bigger.",
+    "link": "https://www.nytimes.com/2026/09/22/business/self-driving-cars-tesla-fsd.html",
+    "summary": "Self-driving systems are getting so good that drivers may overestimate the technology and not be prepared to respond when something goes wrong."
   },
   {
-    "title": "Jensen Huang vs. the A.I. Doomers",
+    "title": "They Kept Outsiders Away for 500 Years. Their World Is About to Change.",
+    "link": "https://www.nytimes.com/2026/09/23/magazine/darien-gap-road-panama-colombia.html",
+    "summary": "My father dedicated his life to studying the Guna people of Panama, and they may soon allow unprecedented development through their land. I went on a trek through the jungle to find out why."
+  },
+  {
+    "title": "How Scientists Contained a Threat That Could Have Destroyed Humanity",
+    "link": "https://www.nytimes.com/2026/09/23/us/asilomar-dna-ai-self-regulation-laws.html",
+    "summary": "A half-century ago, scientists and lawyers agreed to strict self-regulation in DNA research to avoid catastrophe. Can A.I. follow the same model?"
+  },
+  {
+    "title": "The Urgent Mystery of Where Viruses Hide",
+    "link": "https://www.nytimes.com/2026/09/22/science/virus-disappear.html",
+    "summary": "Some viruses appear to vanish when outbreaks dissipate, only to emerge again. Scientists don’t always know which animals they lurk in — and how to stop them from spilling back over."
+  },
+  {
+    "title": "Trump’s New Favorite Neighbor: Mexico",
+    "link": "https://www.nytimes.com/2026/09/23/world/americas/trump-mexico-trade-relations.html",
+    "summary": "President Trump built his political brand in part on bashing Mexico. Now his second presidency depends on deepening partnerships with the country."
+  },
+  {
+    "title": "Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
     "link": "https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html",
     "summary": "Jensen Huang, the chief executive of Nvidia, does not want you to be afraid of A.I."
   },
   {
-    "title": "MrBeast and Rajiv Shah: We’ve Seen What Video Can Do. Let’s Use It for Good.",
-    "link": "https://www.nytimes.com/2026/09/23/opinion/mrbeast-rajiv-shah-video.html",
-    "summary": "Video can help charity keep up with a changing world."
+    "title": "The Midterms Are the First Big Test for a New Movement",
+    "link": "https://www.nytimes.com/2026/09/23/opinion/independents-midterms-democrats.html",
+    "summary": "A third party can’t fix our politics. But there’s another way."
+  },
+  {
+    "title": "The Distrust Election",
+    "link": "https://www.nytimes.com/2026/09/23/briefing/the-distrust-election.html",
+    "summary": "We look at how voters feel about government."
   },
   {
     "title": "Seth Meyers Prefers Trump Without Audio",
@@ -95,8 +115,8 @@
     "summary": "“We don’t need to hear what he’s saying,” Meyers said after the president’s first event without the White House press pool. “He’s either bragging or lying, let’s just lose the sound.”"
   },
   {
-    "title": "Supreme Court Order Gives Parents Custody of Baby in Surrogacy Fight",
-    "link": "https://www.nytimes.com/2026/09/22/us/politics/supreme-court-surrogate-abortion-custody.html",
-    "summary": "A surrogate refused to have an abortion after the fetus was diagnosed with a serious heart problem. She asked the justices to block a court order giving custody to the biological parents."
+    "title": "$1 Billion Donation to University of Oregon Makes History",
+    "link": "https://www.nytimes.com/2026/09/23/us/billion-dollar-donation-university-oregon-phil-knight.html",
+    "summary": "The gift from Phil Knight, the Nike co-founder, is the largest known donation to a flagship university. It will fund a new engineering college."
   }
 ]

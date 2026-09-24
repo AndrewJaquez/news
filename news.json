@@ -1,30 +1,5 @@
 [
   {
-    "title": "Court Blocks Trump’s White House Ban on CNN, MS NOW and Politico",
-    "link": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html",
-    "summary": "Judge Timothy J. Kelly issued a temporary restraining order and told the White House to immediately restore the press credentials for the employees of the three news outlets."
-  },
-  {
-    "title": "Judge Blocks Trump’s Ban on Reporters, and How A.I. Is Driving Up Health Care Costs",
-    "link": "https://www.nytimes.com/2026/09/24/podcasts/the-headlines/trump-ban-press-ai-health-care-costs.html",
-    "summary": "Plus, the undamming of U.S. rivers."
-  },
-  {
-    "title": "Mary Peltola’s Campaign in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs",
-    "link": "https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html",
-    "summary": "Democrats hope that Mary Peltola can flip a Republican Senate seat in Alaska. Former aides describe a campaign and congressional office marked by chaos."
-  },
-  {
-    "title": "‘Survival Mode Time’: Republicans Accelerate Their Break With Trump",
-    "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-republicans-midterms-break.html",
-    "summary": "The dissent reflects growing unease about the party’s prospects in November, as the G.O.P. struggles to overcome the president’s unpopularity."
-  },
-  {
-    "title": "Timothy Mellon, a G.O.P. Billionaire, Pulls Back His Money From Senate Republicans",
-    "link": "https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html",
-    "summary": "Timothy Mellon, one of the party’s biggest donors in 2024, has so far withheld his midterm donations for Republican senators because he is unhappy about the failure to pass a key Trump priority."
-  },
-  {
     "title": "Beleaguered at Home, a Bellicose Netanyahu Heads to the U.N.",
     "link": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html",
     "summary": "Prime Minister Benjamin Netanyahu of Israel will take to the world stage while fighting for his political future in a critical national election."
@@ -35,14 +10,44 @@
     "summary": "Mayor Zohran Mamdani of New York continues to call the Israeli prime minister a war criminal. But Mr. Mamdani won’t join demonstrations against the prime minister on Thursday."
   },
   {
-    "title": "Trump Aides Seek to Jump Start Diplomacy With Iran as Crisis Widens",
-    "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-aides-iran-talks.html",
-    "summary": "Secretary of State Marco Rubio said that U.S. negotiators had restarted conversations about Iran’s nuclear program, but that there were no breakthroughs."
+    "title": "The ‘Monster’ Behind Russia’s Global Effort to Evade Western Sanctions",
+    "link": "https://www.nytimes.com/2026/09/24/business/russia-sanctions-evasion-a7.html",
+    "summary": "A Moscow firm uses shell companies and cryptocurrency to launder money, and a custom app to forge trade records, to help Russia bypass sweeping financial restrictions."
   },
   {
-    "title": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting",
-    "link": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
-    "summary": "In each incident, the technology appeared to be conducting mundane data collection and resorted to hacking techniques to get it, researchers said."
+    "title": "Europe Warns of Russia’s Hybrid Attacks but Struggles to Counter Them",
+    "link": "https://www.nytimes.com/2026/09/24/world/europe/russia-europe-warning-ukraine-war.html",
+    "summary": "If President Vladimir V. Putin was hoping to get Europeans’ attention, he’s succeeded with a series of close-call incursions. The question now is what they will do about it."
+  },
+  {
+    "title": "From 15,000 to 185 to Zero: Trump’s Claims of Illegal Voting in Nevada Fizzle",
+    "link": "https://www.nytimes.com/2026/09/24/us/politics/nevada-voters-homeland-security-trump.html",
+    "summary": "It was the Trump administration’s latest stumble in its effort to find proof of widespread noncitizen voting, despite decades of evidence that it is extremely rare."
+  },
+  {
+    "title": "Mary Peltola’s Campaign in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html",
+    "summary": "Democrats hope that Mary Peltola can flip a Republican Senate seat in Alaska. Former aides describe a campaign and congressional office marked by chaos."
+  },
+  {
+    "title": "Republicans Accelerate Their Break With Trump Ahead of Midterms",
+    "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-republicans-midterms-break.html",
+    "summary": "The dissent reflects growing unease about the party’s prospects in November, as the G.O.P. struggles to overcome the president’s unpopularity."
+  },
+  {
+    "title": "Bernadine Bluntly’s Brand Was Tradwife. Then She Got Divorced.",
+    "link": "https://www.nytimes.com/2026/09/24/style/ex-tradwife-influencer-bernadine-bluntly.html",
+    "summary": "What happens when a trad influencer leaves her husband, questions her beliefs, stops selling anti-feminism T-shirts — and still needs to make a living online?"
+  },
+  {
+    "title": "Google Is Sending an A.I. Data Center to Outer Space",
+    "link": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
+    "summary": "Next Thursday, Google is sending an experimental satellite into orbit that will have enough computing power to answer simple A.I. queries from space."
+  },
+  {
+    "title": "Can Tech Companies Like Google Really Put Data Centers in Space?",
+    "link": "https://www.nytimes.com/2026/09/24/technology/data-centers-in-space-science.html",
+    "summary": "Google is preparing to launch a satellite that can run its A.I. technologies from the heavens. But this is just a first step."
   },
   {
     "title": "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher",
@@ -50,24 +55,24 @@
     "summary": "The use of artificial intelligence by hospitals and health insurers is escalating their longstanding feud over paying for medical care."
   },
   {
-    "title": "How Three Times Tech Journalists Make Sense of A.I.’s Promise and Peril",
-    "link": "https://www.nytimes.com/2026/09/24/insider/nyt-journalists-artificial-intelligence.html",
-    "summary": "Artificial intelligence is advancing so fast that tech leaders say better safety controls are needed. Here’s how our reporters keep up."
+    "title": "A Weary Hollywood Celebrates the Prospect of Federal Funding",
+    "link": "https://www.nytimes.com/2026/09/24/movies/film-tax-credit-congress-bill.html",
+    "summary": "In response to an exodus of movie and TV production, a bill is being introduced in Congress that would use tax credits to subsidize filming in the United States."
   },
   {
-    "title": "Mark Carney Interview: Canada’s Leader Lays Out Vision for Breaking Reliance on U.S.",
-    "link": "https://www.nytimes.com/2026/09/23/world/canada/mark-carney-canada-us-trump-tariffs.html",
-    "summary": "In a wide-ranging interview, the Canadian leader laid out a detailed vision for breaking his country’s dependency on the United States."
+    "title": "What to Know About a Federal Film Tax Credit",
+    "link": "https://www.nytimes.com/2026/09/24/movies/film-tax-credits.html",
+    "summary": "There is bipartisan support behind a bill that is meant to lure movie and TV production back to the United States."
   },
   {
-    "title": "Oil Prices Rise and Bond Markets Remain on Edge",
-    "link": "https://www.nytimes.com/2026/09/24/business/oil-bonds-stocks-prices.html",
-    "summary": "The rise came a day after a sharp sell-off in government debt."
+    "title": "In San Francisco, It’s a Good Time to Be a Satirist",
+    "link": "https://www.nytimes.com/2026/09/24/us/san-francisco-ai-satire-artificial-intelligence.html",
+    "summary": "Artificial intelligence companies are becoming pervasive in the city, and a humorist finds them ripe for mocking."
   },
   {
-    "title": "Why Do the Trade Wars Keep Coming for Your Whiskey?",
-    "link": "https://www.nytimes.com/2026/09/24/dining/drinks/trump-canada-tariffs-trade-wars-whiskey.html",
-    "summary": "As the U.S. prepares to ban imports of Canadian spirits, it’s worth examining the reasons a relatively minor commodity looms so large."
+    "title": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom, Official Says",
+    "link": "https://www.nytimes.com/2026/09/24/world/middleeast/saudi-arabia-houthi-missile-attack-yemen-war.html",
+    "summary": "The Iran-backed militia in Yemen fired six ballistic missiles at cities in Saudi Arabia, a military spokesman said. There was no immediate comment from the Houthis."
   },
   {
     "title": "8 Sailors in U.S.S. Lincoln Strike Group Attempted Suicide, Navy Says",
@@ -75,23 +80,33 @@
     "summary": "The aircraft carrier with its crew of about 5,000 sailors has spent more than 300 days at sea."
   },
   {
-    "title": "A Corruption Scandal Is Reshaping Brazil’s Presidential Election",
-    "link": "https://www.nytimes.com/2026/09/24/world/americas/brazil-supreme-court-justice-moraes-vorcaro-trump.html",
-    "summary": "Explosive allegations of corruption are embroiling a Brazilian Supreme Court justice, Alexandre de Moraes, and reshaping the country’s high-stakes presidential election."
+    "title": "Mark Carney Interview: Canada’s Leader Lays Out Vision for Breaking Reliance on U.S.",
+    "link": "https://www.nytimes.com/2026/09/23/world/canada/mark-carney-canada-us-trump-tariffs.html",
+    "summary": "In a wide-ranging interview, Prime Minister Mark Carney described a tense, evolving relationship with President Trump."
   },
   {
-    "title": "How Worried Should We Be About the Midterm Elections?",
-    "link": "https://www.nytimes.com/2026/09/24/opinion/interesting-times-sarah-isgur-rick-pildes.html",
-    "summary": "And how we learn to trust elections again."
+    "title": "Canada Goose Is Ensnared in Trump’s Tariff War With Canada",
+    "link": "https://www.nytimes.com/2026/09/24/business/canada-goose-tariffs-trade-war.html",
+    "summary": "The United States is a key market for brands that manufacture jackets and parkas in Canada, such as Canada Goose and Moose Knuckles."
   },
   {
-    "title": "Desi Lydic Doesn’t Think We Need Any More ‘Melania’",
-    "link": "https://www.nytimes.com/2026/09/24/arts/television/desi-lydic-doesnt-think-we-need-any-more-melania.html",
-    "summary": "“Another Melania documentary?” Lydic said. “Melania, I love you, but unless you’re living with Nathan Fielder in this thing, no one is asking for this.”"
+    "title": "Trump’s Failure to Lead Is Costing America and the World",
+    "link": "https://www.nytimes.com/2026/09/24/opinion/trump-xi-washington-summit.html",
+    "summary": "Trump’s flailing presidency leaves Americans with the thinnest of hopes for this week’s summit: that he does not further damage the national interest."
   },
   {
-    "title": "Elizabeth Holmes to Transfer to Halfway House in August 2027",
-    "link": "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html",
-    "summary": "The founder of the blood-testing start-up Theranos was sentenced to 11 years in prison for fraud and had been serving time at a minimum-security federal prison in Texas."
+    "title": "The Big Show",
+    "link": "https://www.nytimes.com/2026/09/24/briefing/united-nations-general-assembly.html",
+    "summary": "We look at the United Nations General Assembly."
+  },
+  {
+    "title": "Have GLP-1 Drugs Changed How You Travel? Tell Us About It.",
+    "link": "https://www.nytimes.com/2026/09/24/travel/glp1-drugs-travel.html",
+    "summary": "The New York Times wants to know how a GLP-1 medication may have affected how readers plan vacations."
+  },
+  {
+    "title": "Son of Israeli Ambassador to U.S. Critically Hurt in West Bank Attack, Officials Say",
+    "link": "https://www.nytimes.com/2026/09/24/world/middleeast/israel-ambassador-leiter-son-west-bank-attack.html",
+    "summary": "Neria Leiter, a reserve soldier, sustained life-threatening injuries after a Palestinian man drove into a military checkpoint in the West Bank, the Israeli military said."
   }
 ]

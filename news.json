@@ -1,33 +1,13 @@
 [
   {
-    "title": "As Xi Visits Washington, Trump Plays Down China’s Actions Against U.S. Interests",
-    "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-xi-china-visit.html",
-    "summary": "Despite the rivalry between the United States and China, President Trump has repeatedly found ways to give President Xi Jinping of China a pass, portraying him more as a personal friend than a competitor."
+    "title": "Court Blocks Trump’s White House Ban on CNN, MS NOW and Politico",
+    "link": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html",
+    "summary": "Judge Timothy J. Kelly issued a temporary restraining order and told the White House to immediately restore the press credentials for the employees of the three news outlets."
   },
   {
-    "title": "Where Is the U.S. Beating China on A.I., and Where Is It Lagging?",
-    "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-us-china-trump-xi-economy.html",
-    "summary": "As Xi Jinping visits President Trump in Washington, his country lags behind the United States on A.I. development in key areas — but Beijing has advantages elsewhere."
-  },
-  {
-    "title": "As Trump Welcomes Xi, More Americans Have a Positive View of China",
-    "link": "https://www.nytimes.com/2026/09/23/us/politics/polls-us-china-trump-xi.html",
-    "summary": "Experts attribute the changing mood to fading memories of the coronavirus pandemic, awareness of China’s tech innovations and disaffection with President Trump’s trade wars."
-  },
-  {
-    "title": "At the U.N., Iran Says It Will Not Give Up Its Nuclear Program",
-    "link": "https://www.nytimes.com/2026/09/23/briefing/at-the-un-iran-says-it-will-not-give-up-its-nuclear-program.html",
-    "summary": "Also, hackers say they stole thousands of sensitive F.B.I. records. Here’s the latest at the end of Wednesday."
-  },
-  {
-    "title": "Trump Invites Putin to Attend Group of 20 Summit in Miami",
-    "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-putin-g20-summit.html",
-    "summary": "Many leaders are unlikely to welcome the Russian leader’s presence at the event because of his country’s war against Ukraine."
-  },
-  {
-    "title": "Trump Aides Seek to Jump Start Diplomacy With Iran as Crisis Widens",
-    "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-aides-iran-talks.html",
-    "summary": "Secretary of State Marco Rubio said that U.S. negotiators had restarted conversations about Iran’s nuclear program, but that there were no breakthroughs."
+    "title": "Judge Blocks Trump’s Ban on Reporters, and How A.I. Is Driving Up Health Care Costs",
+    "link": "https://www.nytimes.com/2026/09/24/podcasts/the-headlines/trump-ban-press-ai-health-care-costs.html",
+    "summary": "Plus, the undamming of U.S. rivers."
   },
   {
     "title": "Mary Peltola’s Campaign in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs",
@@ -35,19 +15,44 @@
     "summary": "Democrats hope that Mary Peltola can flip a Republican Senate seat in Alaska. Former aides describe a campaign and congressional office marked by chaos."
   },
   {
+    "title": "‘Survival Mode Time’: Republicans Accelerate Their Break With Trump",
+    "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-republicans-midterms-break.html",
+    "summary": "The dissent reflects growing unease about the party’s prospects in November, as the G.O.P. struggles to overcome the president’s unpopularity."
+  },
+  {
     "title": "Timothy Mellon, a G.O.P. Billionaire, Pulls Back His Money From Senate Republicans",
     "link": "https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html",
     "summary": "Timothy Mellon, one of the party’s biggest donors in 2024, has so far withheld his midterm donations for Republican senators because he is unhappy about the failure to pass a key Trump priority."
   },
   {
-    "title": "Fox News Finds Itself at Odds With Trump on Press Ban",
-    "link": "https://www.nytimes.com/2026/09/23/business/media/fox-trump-press-pool-ban.html",
-    "summary": "The home of Sean Hannity and Laura Ingraham has joined rival networks in suspending its coverage of pooled presidential events."
+    "title": "Beleaguered at Home, a Bellicose Netanyahu Heads to the U.N.",
+    "link": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html",
+    "summary": "Prime Minister Benjamin Netanyahu of Israel will take to the world stage while fighting for his political future in a critical national election."
   },
   {
-    "title": "Iowa Judge Dismisses Trump’s Lawsuit Against The Des Moines Register",
-    "link": "https://www.nytimes.com/2026/09/23/us/politics/des-moines-register-trump-lawsuit.html",
-    "summary": "The suit challenged a poll that showed Trump trailing Kamala Harris in the final weeks of the 2024 race. A judge warned that similar legal challenges could have a chilling effect on news reporting."
+    "title": "When U.N. Protesters Denounce Netanyahu, Mamdani Won’t Be Among Them",
+    "link": "https://www.nytimes.com/2026/09/24/nyregion/mamdani-netanyahu-un-general-assembly.html",
+    "summary": "Mayor Zohran Mamdani of New York continues to call the Israeli prime minister a war criminal. But Mr. Mamdani won’t join demonstrations against the prime minister on Thursday."
+  },
+  {
+    "title": "Trump Aides Seek to Jump Start Diplomacy With Iran as Crisis Widens",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-aides-iran-talks.html",
+    "summary": "Secretary of State Marco Rubio said that U.S. negotiators had restarted conversations about Iran’s nuclear program, but that there were no breakthroughs."
+  },
+  {
+    "title": "OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting",
+    "link": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
+    "summary": "In each incident, the technology appeared to be conducting mundane data collection and resorted to hacking techniques to get it, researchers said."
+  },
+  {
+    "title": "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher",
+    "link": "https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html",
+    "summary": "The use of artificial intelligence by hospitals and health insurers is escalating their longstanding feud over paying for medical care."
+  },
+  {
+    "title": "How Three Times Tech Journalists Make Sense of A.I.’s Promise and Peril",
+    "link": "https://www.nytimes.com/2026/09/24/insider/nyt-journalists-artificial-intelligence.html",
+    "summary": "Artificial intelligence is advancing so fast that tech leaders say better safety controls are needed. Here’s how our reporters keep up."
   },
   {
     "title": "Mark Carney Interview: Canada’s Leader Lays Out Vision for Breaking Reliance on U.S.",
@@ -55,9 +60,14 @@
     "summary": "In a wide-ranging interview, the Canadian leader laid out a detailed vision for breaking his country’s dependency on the United States."
   },
   {
-    "title": "Trump’s New Favorite Neighbor: Mexico",
-    "link": "https://www.nytimes.com/2026/09/23/world/americas/trump-mexico-trade-relations.html",
-    "summary": "President Trump built his political brand in part on bashing Mexico. Now his second presidency depends on deepening partnerships with the country."
+    "title": "Oil Prices Rise and Bond Markets Remain on Edge",
+    "link": "https://www.nytimes.com/2026/09/24/business/oil-bonds-stocks-prices.html",
+    "summary": "The rise came a day after a sharp sell-off in government debt."
+  },
+  {
+    "title": "Why Do the Trade Wars Keep Coming for Your Whiskey?",
+    "link": "https://www.nytimes.com/2026/09/24/dining/drinks/trump-canada-tariffs-trade-wars-whiskey.html",
+    "summary": "As the U.S. prepares to ban imports of Canadian spirits, it’s worth examining the reasons a relatively minor commodity looms so large."
   },
   {
     "title": "8 Sailors in U.S.S. Lincoln Strike Group Attempted Suicide, Navy Says",
@@ -65,43 +75,23 @@
     "summary": "The aircraft carrier with its crew of about 5,000 sailors has spent more than 300 days at sea."
   },
   {
-    "title": "He Changed the World of Organ Transplants. Would He Die Waiting for His Own?",
-    "link": "https://www.nytimes.com/2026/09/23/well/heart-transplant-surgeon-pig-kidney.html",
-    "summary": "A New York transplant surgeon’s experience waiting for a heart transplant laid bare the challenges of a system he had spent decades trying to fix."
+    "title": "A Corruption Scandal Is Reshaping Brazil’s Presidential Election",
+    "link": "https://www.nytimes.com/2026/09/24/world/americas/brazil-supreme-court-justice-moraes-vorcaro-trump.html",
+    "summary": "Explosive allegations of corruption are embroiling a Brazilian Supreme Court justice, Alexandre de Moraes, and reshaping the country’s high-stakes presidential election."
   },
   {
-    "title": "Tropical Storm Nolo Forms Near Hawaii",
-    "link": "https://www.nytimes.com/2026/09/23/weather/tropical-storm-nolo-hurricane-hawaii.html",
-    "summary": "Nolo, still a tropical storm for now, formed on Wednesday south of the state."
+    "title": "How Worried Should We Be About the Midterm Elections?",
+    "link": "https://www.nytimes.com/2026/09/24/opinion/interesting-times-sarah-isgur-rick-pildes.html",
+    "summary": "And how we learn to trust elections again."
   },
   {
-    "title": "Could Hurricane Polo Bring Rain to Southern California? Probably Not.",
-    "link": "https://www.nytimes.com/2026/09/23/weather/hurricane-polo-los-angeles.html",
-    "summary": "The storms won’t make landfall there, but even from a distance they could affect the state’s coastline."
+    "title": "Desi Lydic Doesn’t Think We Need Any More ‘Melania’",
+    "link": "https://www.nytimes.com/2026/09/24/arts/television/desi-lydic-doesnt-think-we-need-any-more-melania.html",
+    "summary": "“Another Melania documentary?” Lydic said. “Melania, I love you, but unless you’re living with Nathan Fielder in this thing, no one is asking for this.”"
   },
   {
-    "title": "At a Times Event, Dueling Visions on Climate Change and A.I.",
-    "link": "https://www.nytimes.com/2026/09/23/climate/climate-forward-chris-wright.html",
-    "summary": "Energy Secretary Chris Wright said the Trump administration does not want to ban U.S. diesel exports to curb high prices."
-  },
-  {
-    "title": "Melania Trump’s Busy Schedule: A New Show, a Foster-Care Bill and Reading Executive Orders",
-    "link": "https://www.nytimes.com/2026/09/23/us/politics/melania-trump-documentary-schedule.html",
-    "summary": "In a burst of activity this week, the enigmatic first lady told Americans what she has been up to after a quiet summer. Her activities have included filming a new documentary series about her life."
-  },
-  {
-    "title": "How Trump’s Iran War May Sink Republican Midterm Chances",
-    "link": "https://www.nytimes.com/2026/09/23/opinion/iran-war-midterms-trump-republicans.html",
-    "summary": "The president might be supercharging what already looked like a blue wave."
-  },
-  {
-    "title": "Our Forests Are Demanding a Sacrifice",
-    "link": "https://www.nytimes.com/2026/09/23/opinion/wildfires-trees-scientific-animism.html",
-    "summary": "Wildfire converted me from a tree-hugger to a tree-worshipper."
-  },
-  {
-    "title": "Hayden Panettiere Was Found Surrounded by Drugs, Report Details",
-    "link": "https://www.nytimes.com/2026/09/23/arts/television/hayden-panettiere-death-cause-fentanyl-overdose.html",
-    "summary": "The actress had completed a stint in rehab before she died last month from an overdose, the coroner’s office said. Her death was ruled an accident."
+    "title": "Elizabeth Holmes to Transfer to Halfway House in August 2027",
+    "link": "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html",
+    "summary": "The founder of the blood-testing start-up Theranos was sentenced to 11 years in prison for fraud and had been serving time at a minimum-security federal prison in Texas."
   }
 ]

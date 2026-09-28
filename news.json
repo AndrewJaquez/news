@@ -5,11 +5,6 @@
     "summary": "As their midterm picture darkens, and gas and diesel prices soar, some Republicans who backed the war for months are now changing their tune."
   },
   {
-    "title": "A Trump 2024 Campaign Ad Returns, Now Brought to You by the Government",
-    "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-ad-government-campaign.html",
-    "summary": "The ad, which ethics experts said could violate federal law, shows Mr. Trump vowing to “expel the warmongers” from the government and fight the “deep state,” even as he wages a war with Iran."
-  },
-  {
     "title": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power",
     "link": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
     "summary": "Ms. Peltola, the Democratic Senate candidate in Alaska, has complicated politics: She is pro-gun, pro-oil and pro-gas — but also pro-environment and especially pro-fish."
@@ -20,19 +15,19 @@
     "summary": "Washington State voters will get a chance to accept or reject the 9.9 percent income tax on millionaires approved by the Legislature, which broke the state’s taboo against levying income taxes."
   },
   {
+    "title": "A Trump 2024 Campaign Ad Returns, Now Brought to You by the Government",
+    "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-ad-government-campaign.html",
+    "summary": "The ad, which ethics experts said could violate federal law, shows Mr. Trump vowing to “expel the warmongers” from the government and fight the “deep state,” even as he wages a war with Iran."
+  },
+  {
+    "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says",
+    "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html",
+    "summary": "President Trump made the offer to Xi Jinping, China’s leader, said David Perdue, the ambassador to China. The White House later said the U.S. had no plans for such a sale."
+  },
+  {
     "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
     "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
     "summary": "The British counterterrorism police say the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday."
-  },
-  {
-    "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
-    "link": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
-    "summary": "The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance."
-  },
-  {
-    "title": "The Daredevil Aviator on Page 1",
-    "link": "https://www.nytimes.com/2026/09/27/nyregion/glenn-curtiss-plane.html",
-    "summary": "In 1910, there was no greater journalistic mission than following a plane with a train."
   },
   {
     "title": "Kyle MacLachlan: David Lynch’s Singular Weirdo Is Secretly a Normie",
@@ -40,13 +35,58 @@
     "summary": "The actor still hasn’t come to grips with the loss of David Lynch. He talks about that, his hesitation about taking a role in “Sex and the City” and his new memoir."
   },
   {
+    "title": "Nor’easter Weakens but Remains a Threat",
+    "link": "https://www.nytimes.com/2026/09/27/well/noreaster-weakens-but-remains-a-threat.html",
+    "summary": "The weekend’s storm is expected to continue to bring rain and the threat of floods to parts of the northern East Coast through the beginning of the week."
+  },
+  {
+    "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+    "link": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+    "summary": "The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance."
+  },
+  {
+    "title": "Did Anthropic’s A.I. Really Make a Scientific Discovery on Its Own?",
+    "link": "https://www.nytimes.com/2026/09/27/science/anthropic-biology-enzyme-mestre.html",
+    "summary": "An expert at the University of Copenhagen said his team had been sharing its research with the company’s A.I. model, Claude, and that its new finding matched their work."
+  },
+  {
+    "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
+    "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
+    "summary": "Dario Amodei, who is also the company’s chief executive, will join the president at the White House for a private dinner. Mr. Trump has dismissed his cautions."
+  },
+  {
+    "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+    "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+    "summary": "A scrappy science project led to a significant discovery: two new species of a rare organism that could elucidate a fundamental transition in the history of life on our planet."
+  },
+  {
+    "title": "Mark Carney Interview: Canada’s Leader Lays Out Vision for Breaking Reliance on U.S.",
+    "link": "https://www.nytimes.com/2026/09/23/world/canada/mark-carney-canada-us-trump-tariffs.html",
+    "summary": "In a wide-ranging interview, Prime Minister Mark Carney described a tense, evolving relationship with President Trump."
+  },
+  {
+    "title": "A Transcript From The Times Interview with Prime Minister Mark Carney of Canada",
+    "link": "https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html",
+    "summary": "New York Times journalists pressed the Canadian prime minister about a range of topics in an hourlong interview last week. Here’s a transcript of their conversation."
+  },
+  {
+    "title": "Saturday Night, No Mask Required, at the Last Ditch Lesbian Bar in Massachusetts",
+    "link": "https://www.nytimes.com/2026/09/27/us/last-ditch-lesbian-bar-covid-masks-massachusetts.html",
+    "summary": "Last Ditch, a bar and art space, ended its Covid mask requirement as a way to attract more people. What it got instead was outsized attention."
+  },
+  {
     "title": "The Mean Girls Presidency",
     "link": "https://www.nytimes.com/2026/09/27/opinion/donald-trump-administration-mean-girls.html",
     "summary": "Our government is being run by a clique of middle-aged guys."
   },
   {
-    "title": "Giant Pandas, Icons of China’s Soft Diplomacy, Arrive in Atlanta",
-    "link": "https://www.nytimes.com/2026/09/27/us/panda-zoo-atlanta-china-xi.html",
-    "summary": "A male named Ping Ping and a female named Fu Shuang landed on Sunday, days after China’s leader said he would dispatch “envoys of friendship” to the United States."
+    "title": "The Id, the Ego and the Superintelligence",
+    "link": "https://www.nytimes.com/2026/09/27/opinion/ai-philosophy-thinking-judgment.html",
+    "summary": "Artificial intelligence isn’t coming for philosophers’ jobs — it needs philosophers, and always will."
+  },
+  {
+    "title": "Recreational Aerial Craft Become Weapons in Myanmar’s War",
+    "link": "https://www.nytimes.com/2026/09/27/world/asia/myanmar-light-aircraft-war-weapons.html",
+    "summary": "Years after a coup, the military is increasingly using motorized paragliders and gyrocopters to bomb towns and villages in rebel-held territory."
   }
 ]

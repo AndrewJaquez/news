@@ -1,28 +1,13 @@
 [
   {
-    "title": "Mideast Oil Exports Rebound Even as Prices Remain Elevated",
-    "link": "https://www.nytimes.com/2026/09/29/business/oil-exports-strait-of-hormuz.html",
-    "summary": "More tankers are moving through the Strait of Hormuz as shippers gain confidence, but the global supply of oil is still below demand."
+    "title": "Judge Orders New York to Scrap Rollout of Second-Home Tax and Start Over",
+    "link": "https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html",
+    "summary": "A Staten Island judge sided with a group of homeowners who had sued the city over its introduction of the tax, dealing a blow to Mayor Zohran Mamdani."
   },
   {
-    "title": "Tankers Are Loading Oil Again From a Vital Saudi Pipeline",
-    "link": "https://www.nytimes.com/2026/09/29/business/oil-saudi-east-west-pipeline.html",
-    "summary": "Saudi authorities had taken the pipeline offline this month after it was damaged in a drone attack by an Iranian-backed Iraqi militia."
-  },
-  {
-    "title": "OpenAI Apologizes for Australia Medicare Hack",
-    "link": "https://www.nytimes.com/2026/09/29/world/asia/openai-australia-government-hack-apology.html",
-    "summary": "The company detailed how A.I. agents gained access to four government websites and acknowledged mishandling its response."
-  },
-  {
-    "title": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns",
-    "link": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
-    "summary": "The company’s researchers raised questions about the security of the model, known as GPT-6.1 Astra."
-  },
-  {
-    "title": "Dartmouth Provost Is the Latest College Professor Examined for A.I. Use",
-    "link": "https://www.nytimes.com/2026/09/29/us/college-professors-administrators-ai-dartmouth.html",
-    "summary": "Dartmouth said it would investigate its provost over A.I. accusations. Similar controversies on other campuses have prompted frustration among students."
+    "title": "Supreme Court Allows Rapid Third-Country Deportations, for Now",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html",
+    "summary": "The court also announced it would hear arguments in December on the legality of the Trump administration policy to swiftly deport immigrants to countries not their own."
   },
   {
     "title": "ICE Plans 5,000 New Hires to Help With Deportation Drive",
@@ -30,9 +15,9 @@
     "summary": "A similar surge last year resulted in undervetted officers initially being let in and then removed as the agency skipped basic checks for new recruits."
   },
   {
-    "title": "Body Camera Captured Incident Between ICE Agent and Driver in Austin",
-    "link": "https://www.nytimes.com/2026/09/29/us/ice-shooting-doordash-driver-austin-body-camera.html",
-    "summary": "Prosecutors say the man who was shot, Wilber Rafael Garces Perez, struck an agent with his car’s mirror before another agent shot him."
+    "title": "Man Shot by ICE Agent in Austin Is Charged With Assault",
+    "link": "https://www.nytimes.com/2026/09/29/us/ice-shooting-driver-austin-charges-body-camera.html",
+    "summary": "Prosecutors say Wilber Garces Perez struck an agent with his car’s mirror before another agent shot him. The charge reveals the existence of body camera footage of the shooting, though that video has not been released."
   },
   {
     "title": "Trump Administration Prepares to Ask Tax Filers if They Are U.S. Citizens",
@@ -40,19 +25,34 @@
     "summary": "The new question, included on a draft version of the primary tax form, comes as part of an anti-immigrant turn at an agency that long prioritized tax administration."
   },
   {
-    "title": "His Jet vs. Her Jeep: How Wealth Is Playing in the Midterms",
-    "link": "https://www.nytimes.com/2026/09/29/us/vivek-ramaswamy-amy-acton-wealth-class-ohio-midterms.html",
-    "summary": "In the so-called affordability election, two candidates for governor of Ohio are sparring over whether billionaires are the problem or the solution."
+    "title": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falters",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html",
+    "summary": "A Republican eager to prove the former special counsel was dishonest appeared to instead demonstrate his own confusion over basic facts."
   },
   {
-    "title": "A Tough Ad Reminds Nebraska Voters About a Brutal Crime and a Pardon",
-    "link": "https://www.nytimes.com/2026/09/29/us/politics/ad-watch-nebraska-senate-race.html",
-    "summary": "A group supporting Dan Osborn, the independent Senate candidate in Nebraska, is airing an ad attacking Senator Pete Ricketts, a Republican, for pardoning a man convicted of sexual assault."
+    "title": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models",
+    "link": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
+    "summary": "Employees and security researchers said that they had cautioned the company on safely testing its A.I. models and strengthening its corporate infrastructure, but that OpenAI did not listen."
   },
   {
-    "title": "Mamdani Announces Plan to Fight Antisemitism, Without Discussing Israel",
-    "link": "https://www.nytimes.com/2026/09/29/nyregion/mamdani-antisemitism-report-nyc.html",
-    "summary": "A report issued by Mayor Zohran Mamdani describes ways that New York City is funding hate crime prevention and celebrating the contributions of Jewish New Yorkers."
+    "title": "OpenAI Apologizes for Australia Medicare Hack",
+    "link": "https://www.nytimes.com/2026/09/29/world/asia/openai-australia-government-hack-apology.html",
+    "summary": "The company detailed how A.I. agents gained access to four government websites and acknowledged mishandling its response."
+  },
+  {
+    "title": "College Students Flex Their Power in A.I. Investment Frenzy",
+    "link": "https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html",
+    "summary": "Dorm Room Fund, a program that lets college students invest in their peers, raised a new $50 million fund as the competition for young founders ramps up."
+  },
+  {
+    "title": "In Nine Key Senate Races, Five Republicans Won’t Commit to Campaigning With Trump",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/republicans-senate-midterms-trump-campaign.html",
+    "summary": "Three campaigns left their positions unclear, and two said they would not join the president on the trail."
+  },
+  {
+    "title": "Victor Marx, Colorado Governor Nominee With Sensational Past, Splinters the G.O.P.",
+    "link": "https://www.nytimes.com/2026/09/29/us/victor-marx-colorado-republican-governor-candidate.html",
+    "summary": "Some Republicans in the state fear that the sensational biography of Victor Marx, their party’s candidate for governor, could drag down the rest of the ticket."
   },
   {
     "title": "Cornell University Rape Investigation: What We Know",
@@ -60,38 +60,38 @@
     "summary": "Prosecutors have reopened the case of a woman who said she was sexually assaulted on campus in 2024. The woman’s lawsuit brought renewed pressure to reopen the investigation."
   },
   {
-    "title": "Israeli Settlers Stop Soldiers From Returning Palestinians to Their Home",
-    "link": "https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html",
-    "summary": "The Supreme Court had ordered the military to ensure a West Bank family that fled violence could go back. But settlers blocked the effort, with the authorities accused of not doing enough to confront them."
-  },
-  {
     "title": "Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models",
     "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
     "summary": "In a series of private meetings, the company consulted religious scholars to help instill morality into its A.I. models — and make the case that Claude could be conscious."
   },
   {
-    "title": "Book Review: ‘This Cursed Beautiful Land,’ by Evan Gershkovich",
-    "link": "https://www.nytimes.com/2026/09/29/books/review/this-cursed-beautiful-land-evan-gershkovich.html",
-    "summary": "In “This Cursed Beautiful Land,” the journalist Evan Gershkovich explores what he learned while imprisoned in the country his parents fled."
+    "title": "What to Know About the Hacking Group ShinyHunters and Its F.B.I. Breach",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/shinyhunters-fbi-hacking-cybercriminal-group.html",
+    "summary": "The bureau was the latest target of the notorious gang of cybercriminals that steals sensitive personal data and sells it online."
   },
   {
-    "title": "I’m Exhausted. You’re Demoralized. We Weren’t Built for a World Like This.",
-    "link": "https://www.nytimes.com/2026/09/29/opinion/boring-politics-exhaustion.html",
-    "summary": "A greatly underappreciated virtue of other presidents was that you could forget about them for weeks at a time."
+    "title": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
+    "link": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
+    "summary": "Over 90 percent of Ukraine’s scientific discoveries have been attributed to Ukraine’s National Academy of Sciences, including advancements in astronomy and military technology."
   },
   {
-    "title": "Trump’s Luck Is Finally Running Out",
-    "link": "https://www.nytimes.com/2026/09/29/opinion/trump-midterms-republicans.html",
-    "summary": "Voters are showing a growing determination to repudiate his presidency."
+    "title": "What Life Looks Like in the ‘Fortress Cities’ Russia Is Trying to Break",
+    "link": "https://www.nytimes.com/2026/09/29/world/europe/ukraine-donbas-emergency-workers.html",
+    "summary": "Emergency workers have to move fast after Russian attacks in eastern Ukraine. Another could come at any moment."
   },
   {
-    "title": "How to Improve Schools",
-    "link": "https://www.nytimes.com/2026/09/29/briefing/how-to-improve-schools.html",
-    "summary": "We look at a few compelling proposals."
+    "title": "Trump Has Become Just Another Disappointing Politician",
+    "link": "https://www.nytimes.com/2026/09/29/opinion/trump-republicans-economy-midterms.html",
+    "summary": "His winning brand — outsider businessman — has withered."
   },
   {
-    "title": "Rubio Says Incident at UK Air Base RAF Fairford ‘Clearly Involved’ a Foreign Actor",
-    "link": "https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html",
-    "summary": "The U.S. secretary of state, Marco Rubio, told Fox News that what happened at a base used by U.S. bombers flying to Iran was “very serious,” without providing details."
+    "title": "Trump Is Going Viral in the Worst Ways",
+    "link": "https://www.nytimes.com/2026/09/29/opinion/trump-mideast-diplomacy-iran-ai.html",
+    "summary": "On the technological, diplomatic and biological fronts, Trump is creating a disaster."
+  },
+  {
+    "title": "MacArthur Foundation Announces 2026 ‘Genius Grant’ Winners",
+    "link": "https://www.nytimes.com/2026/09/29/arts/design/macarthur-foundation-announces-2026-genius-grant-winners.html",
+    "summary": "The 20 fellowship recipients across the arts, humanities and sciences will each receive an $800,000, no-strings-attached stipend for their work."
   }
 ]

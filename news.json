@@ -1,5 +1,20 @@
 [
   {
+    "title": "Trump’s Voluntary A.I. Policing Echoes What Biden Did. But Is It Enough Today?",
+    "link": "https://www.nytimes.com/2026/09/30/us/politics/trump-biden-ai.html",
+    "summary": "President Trump’s plan to let A.I. companies police themselves comes amid mounting examples that they are failing to put safeguards on the technology."
+  },
+  {
+    "title": "Congress Set to Leave Washington for the Midterms With No A.I. Progress",
+    "link": "https://www.nytimes.com/2026/09/30/us/politics/congress-ai-safety.html",
+    "summary": "Senate Democrats blocked a measure that would encourage, but not require, states to protect consumers from power rate hikes tied to data center growth, and had no limits on A.I. use or deployment."
+  },
+  {
+    "title": "Who Attended Trump’s AI Luncheon, and Who Sat Where",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/trump-ai-luncheon-guests-ceos.html",
+    "summary": "A seating chart of the meeting illustrated growing divisions within the artificial intelligence industry and how it is viewed by the White House."
+  },
+  {
     "title": "Panic and Heroics on FlyDubai Flight: ‘We Felt That This Was It’",
     "link": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-israel-dubai-flight-pilots-attack.html",
     "summary": "A routine flight turned terrifying when a violent altercation broke out inside the cockpit and the aircraft dropped 17,000 feet in two minutes. Passengers subdued a knife-wielding attacker."
@@ -7,42 +22,12 @@
   {
     "title": "FlyDubai Flight to Israel Diverted After Clash Between Pilots: What We Know and Don’t Know",
     "link": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html",
-    "summary": "Prime Minister Benjamin Netanyahu of Israel said one pilot stabbed another and may have attempted to crash the flight from Dubai to Tel Aviv. The plane landed in Saudi Arabia and all passengers were safe."
+    "summary": "Prime Minister Benjamin Netanyahu of Israel said one of the pilots may have been attempting to crash the flight from Dubai to Tel Aviv. The plane landed in Saudi Arabia and all passengers were safe."
   },
   {
-    "title": "After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future",
-    "link": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html",
-    "summary": "Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran."
-  },
-  {
-    "title": "American Forces Withdraw From Iraq 23 Years After Invading",
-    "link": "https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html",
-    "summary": "The Americans did not understand the country when they invaded in 2003. Over a correspondent’s many trips there, it was not clear that this ever changed much."
-  },
-  {
-    "title": "How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-    "link": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
-    "summary": "Meta is exploiting a lucrative tax break intended to support research and experimentation. Its own accountants say the gambit is risky."
-  },
-  {
-    "title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms",
-    "link": "https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html",
-    "summary": "The agency will examine whether A.I. labs have broken federal laws prohibiting companies from unfair and deceptive practices."
-  },
-  {
-    "title": "Troubles at Situational Awareness Point to Record Stock Market Leverage",
-    "link": "https://www.nytimes.com/2026/09/30/business/situational-awareness-stock-market-leverage.html",
-    "summary": "A meltdown at Situational Awareness, an A.I.-focused investment firm, is raising tough questions about the Wall Street banks that lent billions to the upstart firm."
-  },
-  {
-    "title": "Hispanic Voters on the Texas Border Have Soured on Trump",
-    "link": "https://www.nytimes.com/2026/09/30/us/politics/texas-border-trump-voters.html",
-    "summary": "In 2024, these voters were an essential part of the winning Republican coalition. Now, many feel abandoned and furious, complicating the party’s chances in November."
-  },
-  {
-    "title": "Ken Paxton, G.O.P. Nominee in Texas, Privately Said Trump’s Convention Hurt Him",
-    "link": "https://www.nytimes.com/2026/09/30/us/politics/ken-paxton-trump-midterm-convention.html",
-    "summary": "Ken Paxton, one of the party’s top Senate candidates and a Trump loyalist, said that “everybody’s numbers dropped” after the event, according to audio obtained by The Times."
+    "title": "Democrats Block Stock-Trading Bill, Denying the G.O.P. a Pre-Midterm Win",
+    "link": "https://www.nytimes.com/2026/09/30/us/politics/democrats-block-stock-trading-bill.html",
+    "summary": "A Republican measure to limit, but not bar, congressional stock trading faltered in the Senate as Democrats thwarted a G.O.P. bid to show progress on an issue that has rankled voters."
   },
   {
     "title": "Becerra and Hilton to Face Off in Televised California Governor Debate",
@@ -55,9 +40,14 @@
     "summary": "In a small Idaho town, a young mother is accused of killing her young twins. She blames the childhood vaccines they received."
   },
   {
-    "title": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
-    "link": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
-    "summary": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why."
+    "title": "Fed’s Watchdog Finds No Misconduct or Illegal Activity in Costly Renovations",
+    "link": "https://www.nytimes.com/2026/09/30/business/fed-renovations-trump-powell-report.html",
+    "summary": "A new report by the Federal Reserve’s independent inspector general concluded that a nearly $2.5 billion construction project was poorly managed but made no referrals to the U.S. attorney general."
+  },
+  {
+    "title": "Justice Dept. Tries to Rebuke Federal Judges for Speaking to The Times",
+    "link": "https://www.nytimes.com/2026/09/30/us/politics/justice-department-complaint-judges-schiltz.html",
+    "summary": "Judge Patrick J. Schiltz had warned that the administration’s actions “created a grave threat to the rule of law.” The attorney general accused him of “obvious bias.”"
   },
   {
     "title": "See How El Niño Is Washing Ashore in California",
@@ -70,48 +60,53 @@
     "summary": "Texas had a dry summer, and rain on Wednesday could run off the arid ground like water on concrete."
   },
   {
-    "title": "D.A. in Cornell Case Hopes to Speak to Accuser as He Weighs New Evidence",
-    "link": "https://www.nytimes.com/2026/09/29/nyregion/van-houten-cornell-district-attorney.html",
-    "summary": "District Attorney Matthew Van Houten said a woman’s report to the police in 2024 saying she had been raped at a fraternity did not support a criminal case. But he said he was now reaching out to her."
-  },
-  {
     "title": "Court Pauses Execution of Christa Pike, Tennessee’s Lone Woman on Death Row",
     "link": "https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html",
     "summary": "Christa Pike tortured and murdered a classmate in 1995. She had been set to die on Wednesday, the first woman executed in the state in 200 years."
   },
   {
-    "title": "Can Trump Legally Demolish the Kennedy Center? Experts Say Not Easily.",
-    "link": "https://www.nytimes.com/2026/09/30/arts/trump-demolish-kennedy-center.html",
-    "summary": "The president has entertained the idea of tearing down the performing arts venue. Analysts say any plan would face multiple daunting challenges."
+    "title": "Google Wants Hollywood to Stop Being So Afraid of Technology",
+    "link": "https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html",
+    "summary": "100 Zeros, a collaboration between Google and Range Media Partners, aims to give the tech giant a foothold in movies, TV and emerging forms of entertainment."
   },
   {
-    "title": "Trump’s New Tariffs Face a Familiar Court Challenge",
-    "link": "https://www.nytimes.com/2026/09/30/business/trump-tariffs-court-challenge.html",
-    "summary": "For the third time in less than two years, the Trump administration is set to return to court on Wednesday to defend its power to wage a punishing global trade war."
+    "title": "Legal Immigrants Lose Medicaid Coverage Under Trump’s Bill",
+    "link": "https://www.nytimes.com/2026/09/30/us/politics/immigrants-medicaid-trump-bill.html",
+    "summary": "Many immigrants without green cards will no longer be eligible for the health insurance program for low-income people."
   },
   {
-    "title": "E.E.O.C. Sues Harvard for Data on Diversity in Hiring Practices",
-    "link": "https://www.nytimes.com/2026/09/30/business/economy/harvard-eeoc-diversity-hiring.html",
-    "summary": "The Equal Employment Opportunity Commission filed a lawsuit asking a judge to compel the university to provide information on hiring practices that it said discriminated against white men."
+    "title": "A Hasidic Jew Protested Against an Israeli Flag. He May Be Deported.",
+    "link": "https://www.nytimes.com/2026/09/30/nyregion/anti-israel-protest-ice-detention.html",
+    "summary": "Yehonatan Ovadia, who opposed the mounting of the flag in a small New York town, belongs to a Hasidic branch that is anti-Zionist. He is now in ICE custody."
   },
   {
-    "title": "This Case Has Flown Under the Radar. It Won’t Stay There.",
-    "link": "https://www.nytimes.com/2026/09/30/opinion/supreme-court-john-roberts-religion.html",
-    "summary": "This case has flown under the radar, but it won’t stay there."
+    "title": "Salah Sarsour, Islamic Leader in Wisconsin, Can Be Deported, Judge Rules",
+    "link": "https://www.nytimes.com/2026/09/30/us/salah-sarsour-deportation-wisconsin.html",
+    "summary": "Salah Sarsour, a vocal supporter of Palestinian rights who leads the state’s largest Islamic group, says the case is politically motivated and plans to appeal the decision."
   },
   {
-    "title": "What Would John Maynard Keynes Say About A.I.? The Keynes Bot Told Us.",
-    "link": "https://www.nytimes.com/2026/09/30/opinion/john-maynard-keynes-ai-economist.html",
-    "summary": "Nearly a century ago, Keynes predicted that technology would liberate us from work. To imagine what he would think of artificial intelligence today, a Princeton economist used A.I."
+    "title": "D.A. in Cornell Case Hopes to Speak to Accuser as He Weighs New Evidence",
+    "link": "https://www.nytimes.com/2026/09/29/nyregion/van-houten-cornell-district-attorney.html",
+    "summary": "District Attorney Matthew Van Houten said a woman’s report to the police in 2024 saying she had been raped at a fraternity did not support a criminal case. But he said he was now reaching out to her."
   },
   {
-    "title": "Cornell’s Sexual Assault Case",
-    "link": "https://www.nytimes.com/2026/09/30/briefing/cornells-sexual-assault-case.html",
-    "summary": "We talk to a reporter on campus about what we know."
+    "title": "Chi Phi Says It Acted Quickly in 2024 to Expel Cornell Members Named in Sexual Assault Lawsuit",
+    "link": "https://www.nytimes.com/2026/09/30/us/cornell-university-7-chi-phi.html",
+    "summary": "The national organization of the Chi Phi fraternity at the center of a Cornell University sexual assault lawsuit explained publicly for the first time how it handled the episode."
   },
   {
-    "title": "As E-Bikes and Scooters Surge on New York Streets, So Do Fatal Crashes",
-    "link": "https://www.nytimes.com/2026/09/30/nyregion/e-bike-scooter-deaths-safety.html",
-    "summary": "More than two dozen people have died in crashes involving electric bikes and scooters in New York City this year. Officials are moving to address a growing safety crisis."
+    "title": "I Thought Things Had Gotten Better. The Cornell Case Breaks My Heart.",
+    "link": "https://www.nytimes.com/2026/09/30/opinion/cornell-jane-doe-sexual-assault.html",
+    "summary": "How could so little have changed?"
+  },
+  {
+    "title": "America Used to Be Cool. What Happened?",
+    "link": "https://www.nytimes.com/2026/09/30/opinion/america-cool-culture-soft-power.html",
+    "summary": "The world order is changing. So is the United States’ place in it."
+  },
+  {
+    "title": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+    "link": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
+    "summary": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why."
   }
 ]

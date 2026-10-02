@@ -1,8 +1,23 @@
 [
   {
-    "title": "Why Prosecutors May Face Legal Hurdles in the Cornell Investigation",
-    "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-investigation-prosecution-challenges.html",
-    "summary": "Experts in sexual assault cases said it may not be easy to win a conviction on the rape allegations that Jane Doe has made against fraternity members."
+    "title": "Trump Directed Use of Taxpayer Money for Ads Praising His Presidency",
+    "link": "https://www.nytimes.com/2026/10/02/us/politics/trump-ads.html",
+    "summary": "The government-funded ads show just how much President Trump has been able to use federal money for his own aims."
+  },
+  {
+    "title": "National Science Foundation Diverted $1.4 Billion in Science Funds Mandated by Congress",
+    "link": "https://www.nytimes.com/2026/10/02/us/politics/national-science-foundation-research-funds.html",
+    "summary": "The move, affecting about one-fifth of the National Science Foundation’s primary research budget, is the latest sign of how the White House is asserting more control over grants."
+  },
+  {
+    "title": "Judge Blocks Border Wall Construction in Big Bend in Texas",
+    "link": "https://www.nytimes.com/2026/10/02/us/border-wall-big-bend-texas.html",
+    "summary": "The ruling dealt a setback to the Trump administration’s plans for hundreds of miles of barriers that have drawn local opposition."
+  },
+  {
+    "title": "Man Accused of Sex Assault Seeks to Expunge Cornell’s Finding of Related Violation",
+    "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-accused-man-punishment-appeal.html",
+    "summary": "A panel found the man responsible for attempted sexual exploitation, barred him from contact with the woman and required him to take a class and write a paper."
   },
   {
     "title": "How The New York Times Is Reporting on the Cornell Rape Investigation",
@@ -10,32 +25,7 @@
     "summary": "Times editors explore the thinking behind our coverage of the explosive allegations that have roiled a campus and the country."
   },
   {
-    "title": "U.S. Labor Market Shifts to a Lower Gear",
-    "link": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-unemployment.html",
-    "summary": "The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs."
-  },
-  {
-    "title": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
-    "link": "https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html",
-    "summary": "The artificial intelligence boom has pushed up the stock market, even as interest rates have pulled it down, our columnist says."
-  },
-  {
-    "title": "Republicans Pull Money From North Carolina Senate Race As Midterm Prospects Dim",
-    "link": "https://www.nytimes.com/2026/10/02/us/midterms-election-republicans-north-carolina-kansas.html",
-    "summary": "As the Republicans try to hold their majority, the Senate Leadership Fund is diverting resources to Kansas, which has become a growing concern for the party."
-  },
-  {
-    "title": "Flurry of Lawsuits Shows Both Parties Preparing for Post-Election Challenges",
-    "link": "https://www.nytimes.com/2026/10/02/us/politics/lawsuits-democrats-republicans-post-election-challenges.html",
-    "summary": "Republicans are using the courts to hunt for noncitizen voters. Democrats worry the G.O.P. is trying make it harder for eligible voters to cast ballots — and paving the way to try to toss valid election results."
-  },
-  {
-    "title": "The Rich People Democrats Aren’t Talking About",
-    "link": "https://www.nytimes.com/2026/10/02/business/democrats-wealthy-taxes.html",
-    "summary": "As billionaires become a popular political target, a new book urges Washington not to lose sight of a much larger, and quieter, group of wealthy business owners."
-  },
-  {
-    "title": "How Flydubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
+    "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
     "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
     "summary": "A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster."
   },
@@ -45,14 +35,24 @@
     "summary": "Capt. Smit Machchhar, who was stabbed by his co-pilot midair between Dubai and Tel Aviv, said he “had to act” to prevent a crash despite serious injuries."
   },
   {
+    "title": "Airlines Set to Bring Israelis Back From U.A.E. After FlyDubai Cockpit Attack",
+    "link": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-dubai-uae-flights.html",
+    "summary": "The attack, on a flight from Dubai to Tel Aviv, halted the only direct service between the two cities since the war in Iran disrupted air traffic."
+  },
+  {
+    "title": "Why Were 4 Pilots Aboard FlyDubai Flight 1073?",
+    "link": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-flight-cockpit-stabbing-extra-pilots.html",
+    "summary": "After the co-pilot stabbed the captain, two pilots who were seated in the cabin intervened alongside passengers and safely landed the Boeing 737 in Saudi Arabia."
+  },
+  {
+    "title": "Christa Pike Unconscious and on Ventilator After Execution Attempt",
+    "link": "https://www.nytimes.com/2026/10/02/us/christa-pike-unconscious-what-next.html",
+    "summary": "Her condition raises questions about whether Tennessee could attempt to execute her again if she is incapable of understanding what is happening."
+  },
+  {
     "title": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar",
     "link": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html",
     "summary": "The Group of 7, which includes Britain, France and Japan, announced the release of 100 million barrels over four months, effective immediately."
-  },
-  {
-    "title": "Truckers Are ‘Just Trying to Hang On’ When a Fill-Up Tops $1,000",
-    "link": "https://www.nytimes.com/2026/10/02/us/truckers-diesel-costs.html",
-    "summary": "Truckers are among the hardest hit by the soaring cost of diesel fuel. High prices are forcing some to stay on the road for months and others to park their rigs."
   },
   {
     "title": "Sales of Hulking Pickups and S.U.V.s Sag as Fuel Prices Soar",
@@ -60,9 +60,34 @@
     "summary": "Sales of big pickup trucks and sport utility vehicles have dipped as more Americans buy hybrids and smaller cars."
   },
   {
-    "title": "Why U.S. Diesel Is So Important to Major Trading Partners",
-    "link": "https://www.nytimes.com/2026/10/02/world/americas/us-diesel-ban-trump-mexico-europe-brazil.html",
-    "summary": "Economies in Latin America and Europe rely on American diesel. Stopping exports could tip some countries into recession, hurting trade with the United States."
+    "title": "Republicans Pull Money From North Carolina Senate Race As Midterm Prospects Dim",
+    "link": "https://www.nytimes.com/2026/10/02/us/midterms-election-republicans-north-carolina-kansas.html",
+    "summary": "As the Republicans try to hold their majority, the Senate Leadership Fund is diverting resources to Kansas, which has become a growing concern for the party."
+  },
+  {
+    "title": "AIPAC Is Spending Millions to Elect Friends. It’s Also Making Enemies.",
+    "link": "https://www.nytimes.com/2026/10/02/us/politics/aipac-midterm-elections-spending-israel.html",
+    "summary": "The American Israel Public Affairs Committee has increasingly become a campaign issue unto itself. Some candidates have worn opposition from AIPAC as a badge of honor or made a point of rejecting the group’s support."
+  },
+  {
+    "title": "Flurry of Lawsuits Shows Both Parties Preparing for Post-Election Challenges",
+    "link": "https://www.nytimes.com/2026/10/02/us/politics/lawsuits-democrats-republicans-post-election-challenges.html",
+    "summary": "Republicans are using the courts to hunt for noncitizen voters. Democrats worry the G.O.P. is trying make it harder for eligible voters to cast ballots — and paving the way to try to toss valid election results."
+  },
+  {
+    "title": "California Sues to Block Trump From Weakening Fuel Economy Rules",
+    "link": "https://www.nytimes.com/2026/10/02/climate/california-trump-administration-fuel-economy.html",
+    "summary": "The lawsuit is the 97th the state has filed against the Trump administration over the past year and a half."
+  },
+  {
+    "title": "Powerful Wildfires Require a New Approach, California Report Finds",
+    "link": "https://www.nytimes.com/2026/10/02/us/los-angeles-wildfires-report.html",
+    "summary": "A report on the fires that devastated the Los Angeles area in early 2025 recommended that local governments take a broader approach to preparedness and emergency response."
+  },
+  {
+    "title": "He Wrote the Book on the Sedgwick ‘Family Disease,’ and Succumbed to It",
+    "link": "https://www.nytimes.com/2026/10/02/books/john-sedgwick-dead.html",
+    "summary": "John Sedgwick was born into an illustrious family, but privilege was only part of the story."
   },
   {
     "title": "Ukraine Reports First Combat Use of Its Own Ballistic Missile",
@@ -75,44 +100,19 @@
     "summary": "Ukraine showed European partners what it said were intercepted Russian plans to cut off major cities from power, heat and water this winter."
   },
   {
-    "title": "A ‘Family Disease’ Stalked the Sedgwicks. He Hoped to Escape It.",
-    "link": "https://www.nytimes.com/2026/10/02/books/john-sedgwick-dead.html",
-    "summary": "The writer John Sedgwick was born into an illustrious family, but privilege was only part of the story."
-  },
-  {
     "title": "Student Protests Rattle France as Police Clashes Bring Blockades and Tear Gas",
     "link": "https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html",
     "summary": "Days of unrest have affected more than 1,000 schools across France as high school students push for better standards."
   },
   {
-    "title": "Trump to Name Jay Clayton to Serve as A.I. Czar",
-    "link": "https://www.nytimes.com/2026/10/02/us/politics/trump-jay-clayton-ai-czar.html",
-    "summary": "The director of national intelligence will help develop new policies, and potentially regulations, for the rapidly evolving technology."
+    "title": "Trump Is Getting Desperate. It Shows.",
+    "link": "https://www.nytimes.com/2026/10/02/opinion/trump-target-ordinary-citizens.html",
+    "summary": "The Justice Department is trawling to find perpetrators on whom to pin conspiracies. Ordinary citizens are being ensnared."
   },
   {
-    "title": "Tennessee’s Botched Attempt to Execute Christa Pike Intensifies Concerns Over Lethal Injections",
-    "link": "https://www.nytimes.com/2026/10/02/us/tennessee-failed-executions-history.html",
-    "summary": "The failed attempt with Christa Pike has intensified bipartisan concerns about Tennessee’s ability to effectively carry out lethal injections."
-  },
-  {
-    "title": "Colleen Slemmer Was a Vibrant and Generous Presence, Her Mother Says",
-    "link": "https://www.nytimes.com/2026/10/01/us/colleen-slemmer.html",
-    "summary": "Ms. Slemmer was killed in 1995 by Christa Pike, whose execution in Tennessee was botched on Wednesday. Her family celebrated what would have been her 51st birthday last month."
-  },
-  {
-    "title": "This Mistake Doomed Biden. Trump Is Falling Into the Same Trap.",
-    "link": "https://www.nytimes.com/2026/10/02/opinion/trump-biden-economic-message.html",
-    "summary": "When leaders ignore people’s lived experience, their political messaging collapses."
-  },
-  {
-    "title": "We Are Clueless About What’s Coming",
-    "link": "https://www.nytimes.com/2026/10/01/opinion/interesting-times-podcast-spencer-klavan-nick-bostrom.html",
-    "summary": "Nick Bostrom is no longer worried about the apocalypse. Now he’s worried about utopia."
-  },
-  {
-    "title": "In the Stacks",
-    "link": "https://www.nytimes.com/2026/10/02/briefing/in-the-stacks.html",
-    "summary": "We introduce you to librarians across the country."
+    "title": "Why Cybertrucks, McMansions and ‘Greige’ Matter",
+    "link": "https://www.nytimes.com/2026/10/02/opinion/ezra-klein-podcast-debbie-millman.html",
+    "summary": "The modern right has a theory of beauty. Does the left?"
   },
   {
     "title": "Did You Buy $TRUMP Coin? Tell Us Your Experience.",
@@ -120,8 +120,8 @@
     "summary": "We want to hear from people who bought the $TRUMP memecoin, no matter the reason, and whether they made or lost money."
   },
   {
-    "title": "Fighting Intensifies in Yemen, Raising Fears Further of All-Out War",
-    "link": "https://www.nytimes.com/2026/10/02/world/middleeast/yemen-houthis-saudi-arabia-sanaa-taiz.html",
-    "summary": "Yemen’s capital, Sanaa, was bombarded overnight, after government forces reported some of the most intense clashes in years around Taiz, the country’s third largest city."
+    "title": "F.D.A. Found Cyclospora During Taylor Farms Inspection in Mexico",
+    "link": "https://www.nytimes.com/2026/10/02/health/cyclospora-taylor-farms-mexico.html",
+    "summary": "The discovery adds strong evidence that the outbreak that sickened thousands over the summer originated in the company’s fields or processing facility in northeastern Mexico."
   }
 ]

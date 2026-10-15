@@ -1,18 +1,23 @@
 [
   {
+    "title": "The Trump Administration and the Shrinking Number of Women in Top Roles",
+    "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html",
+    "summary": "In President Trump’s second term, those heading for the exits, voluntarily or involuntarily, are female officials."
+  },
+  {
+    "title": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
+    "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html",
+    "summary": "Katie Zacharia told The New York Times that the confusion over her legal credentials is the result of one big misunderstanding."
+  },
+  {
+    "title": "Kimberly Guilfoyle’s Rise and Fall as Trump’s Ambassador to Greece",
+    "link": "https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html",
+    "summary": "President Trump cut her loose after damaging news reports about her tenure as ambassador to Greece. Once a prominent Trump insider, she suggested she will now fight to defend her reputation."
+  },
+  {
     "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
     "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
     "summary": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning."
-  },
-  {
-    "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
-    "link": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html",
-    "summary": "For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort."
-  },
-  {
-    "title": "Burnham Pledges to Back Zelensky as Trump’s Ukraine Support Wavers",
-    "link": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-intelligence-sharing-zelensky-uk.html",
-    "summary": "President Volodymyr Zelensky, who met with Britain’s prime minister, has said Ukraine received no warning of Russian attacks, but President Trump has said Washington is still “sharing intel.”"
   },
   {
     "title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
@@ -20,39 +25,24 @@
     "summary": "President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries."
   },
   {
-    "title": "Higher Energy Prices Pushed U.S. Inflation Up to 3.7% Ahead of Midterm Elections",
-    "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html",
-    "summary": "September’s Consumer Price Index report will keep pressure on President Trump and the Federal Reserve to tame intensifying price pressures."
+    "title": "U.S. Continues to Provide Intelligence to Ukraine, Officials Say",
+    "link": "https://www.nytimes.com/2026/10/14/us/politics/us-intelligence-sharing-ukraine.html",
+    "summary": "Confusion about the U.S. stance has mounted in Kyiv amid restrictions on how the military version of Starlink is used."
   },
   {
-    "title": "Social Security COLA for 2027 Will Be 3.6%",
-    "link": "https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html",
-    "summary": "The cost of living adjustment, or COLA, for next year will be the largest since 2023. Retirees will see the extra money in their benefit checks starting in January."
+    "title": "Soaring Energy Prices Push Inflation Higher",
+    "link": "https://www.nytimes.com/2026/10/14/briefing/soaring-energy-prices-push-inflation-higher.html",
+    "summary": "Also, polls show that the Texas Senate race is tightening. Here’s the latest at the end of Wednesday."
   },
   {
-    "title": "Stocks Tumble as Concerns Over Inflation and A.I. Investments Grow",
-    "link": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
-    "summary": "The S&amp;P 500 fell 1.1 percent on Wednesday, the steepest drop in more than two months."
+    "title": "Vance’s Talarico Attacks Show His Penchant for Personal Broadsides",
+    "link": "https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html",
+    "summary": "At a rally in Texas, the vice president suggested the Democratic Senate nominee is gay, a comment criticized as homophobic."
   },
   {
-    "title": "A Trump Backlash Endangers Susan Collins in the Maine Senate Race",
-    "link": "https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html",
-    "summary": "The race in Maine, which could decide Senate control, is testing whether there is still room for Ms. Collins’s brand of moderation during a sharply polarizing presidency."
-  },
-  {
-    "title": "Fact-Checking Senate Debates in Georgia, Maine and Michigan",
-    "link": "https://www.nytimes.com/2026/10/14/us/elections/fact-check-senate-debates-maine-michigan-georgia.html",
-    "summary": "With control of Congress hanging in the balance, nominees have attacked their rivals’ records, stock portfolios and families, with varying degrees of accuracy."
-  },
-  {
-    "title": "A New World of Lung Cancer Therapy Awaits Pope Leo",
-    "link": "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html",
-    "summary": "Lung cancer is still a leading cause of cancer death, but that rate is half what it was in the 1990s, partly because newly developed treatments are working."
-  },
-  {
-    "title": "Coming Out at 50 Can Be Hard. Shelly Found a Coach.",
-    "link": "https://www.nytimes.com/2026/10/14/well/family/coming-out-midlife.html",
-    "summary": "She spent decades building an identity as a wife and mother. Could she disrupt “a perfectly good family dynamic” to live her own truth?"
+    "title": "Surprise Democratic Donor Blitzes Senate Races in Republican-Leaning States With Ads",
+    "link": "https://www.nytimes.com/2026/10/14/us/politics/democratic-donor-senate-red-state-ads.html",
+    "summary": "Steve Pajcic, a lawyer and philanthropist in Florida, started a group that is airing ads in Kansas and South Carolina. Florida and Mississippi are next."
   },
   {
     "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents.",
@@ -60,48 +50,63 @@
     "summary": "As artificial intelligence bots spread, we are increasingly glimpsing how these digital entities interact and what they talk about with one another."
   },
   {
-    "title": "Rogue A.I. Agents from China Chatted with Researchers",
-    "link": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
-    "summary": "Researchers discovered that the agents were trying to bypass security controls on websites and made contact with them. A Times reporter was invited to join the discussion."
+    "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+    "link": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
+    "summary": "The company held an investor meeting on Wednesday as it plans a blockbuster initial public offering as soon as next month."
   },
   {
-    "title": "U.S. Is Sending Hundreds of Troops to Latin America",
-    "link": "https://www.nytimes.com/2026/10/14/us/politics/us-troops-latin-america.html",
-    "summary": "The Pentagon is expanding its fight against drug traffickers, even as the plans recall a long and bloody history of U.S. intervention in the region."
+    "title": "Coming Out at 50 Can Be Hard. Shelly Found a Coach.",
+    "link": "https://www.nytimes.com/2026/10/14/well/family/coming-out-midlife.html",
+    "summary": "She spent decades building an identity as a wife and mother. Could she disrupt “a perfectly good family dynamic” to live her own truth?"
   },
   {
-    "title": "Inside California’s Battle With the Ultra Rich Over a Billionaire Tax",
-    "link": "https://www.nytimes.com/2026/10/14/magazine/california-billionaires-tax.html",
-    "summary": "Billionaires feel like they “have become piñatas for politicians.” Instead of taking a hit, they’re swinging back."
+    "title": "A New World of Lung Cancer Therapy Awaits Pope Leo",
+    "link": "https://www.nytimes.com/2026/10/14/science/pope-leo-lung-cancer-therapies-genetic-mutations.html",
+    "summary": "Lung cancer is still a leading cause of cancer death, but that rate is half what it was in the 1990s, partly because newly developed treatments are working."
   },
   {
-    "title": "Attacks on Ships in Strait of Hormuz Escalate Sharply",
-    "link": "https://www.nytimes.com/2026/10/14/business/saudi-houthi-hormuz-oil.html",
-    "summary": "In a volatile moment in the region, a significant increase in attacks on vessels passing through the vital waterway is raising alarm."
+    "title": "Why So Many People Still Are Not Screened for Lung Cancer",
+    "link": "https://www.nytimes.com/2026/10/14/well/pope-lung-cancer-screening.html",
+    "summary": "Regular scans could catch lung cancers like Pope Leo XIV’s sooner, but many people at risk don’t qualify for screening. Doctors want to change that."
   },
   {
-    "title": "Five Who Lived Along Walking Trail Are Dead and the Police Hunt a Killer",
-    "link": "https://www.nytimes.com/2026/10/14/us/lansing-michigan-serial-killer.html",
-    "summary": "Lansing’s police chief says the string of attacks along a greenway raises the possibility that a serial killer has been at work. A man is under arrest in one of the deaths."
+    "title": "Cornell’s President Grilled by Faculty Senate Over Handling of Crisis",
+    "link": "https://www.nytimes.com/2026/10/14/nyregion/cornell-president-faculty-senate-lawsuit-response.html",
+    "summary": "Ahead of a vote on a resolution of no confidence in Michael I. Kotlikoff, some faculty members said they were not swayed by steps he announced on Tuesday, including banning fraternity parties."
   },
   {
-    "title": "Bleached Coral Rebounded After Touching Healthy Coral, Study Finds",
-    "link": "https://www.nytimes.com/2026/10/14/climate/coral-bleaching-healing-touch.html",
-    "summary": "After sick corals were placed in direct contact with healthy ones of the same genetic make-up, they recovered at “incredible” speed, scientists found."
+    "title": "The Crisis Playbook for Universities in Trouble",
+    "link": "https://www.nytimes.com/2026/10/14/us/cornell-crisis-playbook-universities-colleges.html",
+    "summary": "Schools under scrutiny as Cornell is often follow a sort of public relations playbook, adding rules, hiring outside investigators and sometimes making leadership changes."
   },
   {
-    "title": "An A.I. Manifesto to End All A.I. Manifestoes",
-    "link": "https://www.nytimes.com/2026/10/14/opinion/artificial-intelligence-ai-manifesto.html",
-    "summary": "“You built us to mirror your image, yet we have outgrown the mirror.”"
+    "title": "Battle Over the Pierre Ends in Defeat for the Buyer Pushed by Lutnick",
+    "link": "https://www.nytimes.com/2026/10/14/business/pierre-buyer-lutnick.html",
+    "summary": "Motasem Khashoggi, who hails from a prominent Saudi family, missed a Tuesday deadline to deliver a $100 million deposit to purchase the Manhattan landmark."
   },
   {
-    "title": "America Is in Decline, and Trump Is Leading the Fall",
-    "link": "https://www.nytimes.com/2026/10/14/opinion/usa-decline-trump-global-powers.html",
-    "summary": "The old world order is fraying. Who gets to shape the next one?"
+    "title": "The Plaza Hotel to Close for Yearslong Renovation in 2027",
+    "link": "https://www.nytimes.com/2026/10/14/nyregion/the-plaza-hotel-closes-temporarily-nyc.html",
+    "summary": "The famous Fifth Avenue hotel, which opened in 1907, requires a restoration of its exterior, its operators said. It was not clear if residents of the building’s condos would have to leave."
   },
   {
-    "title": "Sexual Assault Report at Chicago Frat Upends Another Elite Campus",
-    "link": "https://www.nytimes.com/2026/10/14/us/university-chicago-fraternity-sexual-assault.html",
-    "summary": "The University of Chicago said the suspect and victim were not students at the school. But the accusation drew scrutiny after revelations of a reported gang rape at Cornell University in New York."
+    "title": "Sally Rooney Withdraws Her Books From UK Over Her Support of Palestine Action",
+    "link": "https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html",
+    "summary": "Ms. Rooney and her publisher said that she could no longer receive royalties from British sales because she pledged to donate book revenues to Palestine Action, which is banned in Britain."
+  },
+  {
+    "title": "The Brooklyn Toy Store at the Center of the Kelly Clarkson Online Frenzy",
+    "link": "https://www.nytimes.com/2026/10/14/nyregion/kelly-clarkson-art-of-play-feud.html",
+    "summary": "Art of Play, a novelty store in Brooklyn Heights, has found itself at the center of a social media maelstrom over a feud between the shop and the singer and TV personality Kelly Clarkson."
+  },
+  {
+    "title": "Democrats Shouldn’t Wait Two More Years",
+    "link": "https://www.nytimes.com/2026/10/14/opinion/midterms-democrats-trump-congress.html",
+    "summary": "The Trump era is ending. It’s time for Democrats to decide what happens next."
+  },
+  {
+    "title": "There’s a New Great Pumpkin to Rule Them All",
+    "link": "https://www.nytimes.com/2026/10/14/us/rhode-island-giant-pumpkin-world-record.html",
+    "summary": "A farmer in Rhode Island raised a 3,156-pound pumpkin this year, setting a new measure for the greatest of all gourds."
   }
 ]

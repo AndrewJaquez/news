@@ -1,5 +1,15 @@
 [
   {
+    "title": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
+    "link": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html",
+    "summary": "Election officials say they worry the administration could use its own unsubstantiated claims to contest the vote in November."
+  },
+  {
+    "title": "Trump Administration Sues California Over Voter Rolls",
+    "link": "https://www.nytimes.com/2026/10/15/us/politics/trump-administration-california-voter-rolls.html",
+    "summary": "The lawsuit seeks to temporarily block the state from counting mail ballots of voters it claims are likely noncitizens, opening a new front in the administration’s legal fights with election officials."
+  },
+  {
     "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
     "link": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
     "summary": "President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States."
@@ -10,19 +20,49 @@
     "summary": "Moscow is not winning on the battlefield. Instead, it is seizing an opening to inflict immense human suffering in Ukrainian cities."
   },
   {
-    "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
-    "link": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
-    "summary": "Ukrainian engineers are rushing to perfect A.I.-guided, jet-driven interceptors. Their goal: to stop a fast Russian threat in the latest round of a deadly tech duel."
+    "title": "Data Centers Become Targets in Wars in Ukraine, Russia and the Middle East",
+    "link": "https://www.nytimes.com/2026/10/15/business/russia-ukraine-data-centers-war.html",
+    "summary": "Military forces have sought to damage the computing hubs that power online services and artificial intelligence systems."
   },
   {
-    "title": "Inflation Data Undercuts Trump’s Economic Claims, and the Danger of New Jet-Powered Drones",
-    "link": "https://www.nytimes.com/2026/10/15/podcasts/the-headlines/inflation-jet-powered-drones.html",
-    "summary": "Plus, the legacy of a competitive eating champion."
-  },
-  {
-    "title": "Trump Cancels Planned Livestream of Fort Hood Shooter’s Execution",
+    "title": "Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter",
     "link": "https://www.nytimes.com/2026/10/15/us/trump-hasan-fort-hood-execution-livestream.html",
     "summary": "The president said only immediate families of the victims of the mass shooting in 2009 would witness the execution of Maj. Nidal Malik Hasan."
+  },
+  {
+    "title": "Many Figures Opposed Hegseth’s Plan to Livestream Fort Hood Shooter’s Execution",
+    "link": "https://www.nytimes.com/2026/10/15/us/politics/hegseth-livestream-execution-hasan.html",
+    "summary": "A retired general, a Catholic archbishop for the military and one of Maj. Nidal Malik Hasan’s victims were among those who had spoken out."
+  },
+  {
+    "title": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
+    "link": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
+    "summary": "Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers."
+  },
+  {
+    "title": "California’s Proposition 45 Brings the Sprawl Debate Back",
+    "link": "https://www.nytimes.com/2026/10/15/business/economy/californias-housing-proposition-45.html",
+    "summary": "Among the measures up for a vote in November is one that would amend the state’s landmark environmental law and make it easier to build large housing developments outside cities."
+  },
+  {
+    "title": "Mortgage Rates Hover at 7.4%, Highest Since 2023",
+    "link": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
+    "summary": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans."
+  },
+  {
+    "title": "Is the Fox Collie the Perfect Dog for Our Aimless Era?",
+    "link": "https://www.nytimes.com/2026/10/15/style/fox-collie-mcnab-dog-breed.html",
+    "summary": "A winemaker in Northern California is convinced that a dog once bred to herd sheep in the Scottish Highlands is the ideal pet for our uncertain times."
+  },
+  {
+    "title": "The Image of the Great Flood That Stuck With Me: Caskets Floating Away",
+    "link": "https://www.nytimes.com/2026/10/15/us/1993-great-flood-mississippi-midwest.html",
+    "summary": "Isabel Wilkerson remembers covering a flood powerful enough to disrupt the dead."
+  },
+  {
+    "title": "Democrats Worry About Tight Midterm Races in Maine, Michigan and Minnesota",
+    "link": "https://www.nytimes.com/2026/10/15/us/politics/peggy-flanagan-abdul-el-sayed-troy-jackson.html",
+    "summary": "Despite hopes for a blue wave, Democratic candidates in Minnesota, Maine and Michigan are facing local political headwinds and have struggled to open up clear daylight in the polls."
   },
   {
     "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
@@ -30,14 +70,9 @@
     "summary": "The Saudi military has expensive equipment, but the missiles and drones used by the Yemeni militia are difficult to detect and stop."
   },
   {
-    "title": "Families of Sailors Killed in Iran War Struggle for Compensation and Closure",
-    "link": "https://www.nytimes.com/2026/10/15/business/iran-war-hormuz-sailors-dead-compensation.html",
-    "summary": "Attacks near the Strait of Hormuz have claimed the lives of at least 25 seafarers. Their survivors are reeling."
-  },
-  {
-    "title": "Gulf Oil Is Still Flowing Despite a Surge in Attacks on Ships",
-    "link": "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html",
-    "summary": "Shipping operators are braving the Strait of Hormuz, but the risks are high and transportation costs have skyrocketed."
+    "title": "Iran-Backed Houthis Strike Presidential Palace, Yemen Says",
+    "link": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
+    "summary": "Two were killed when Houthi missiles struck the Maashiq Presidential Palace in Aden, a Yemeni minister said. Saudi Arabia has said Iran is fueling the country’s escalating conflict."
   },
   {
     "title": "As Texas Schools Add Police Officers to Campuses, Some Students Are Facing Serious Charges",
@@ -50,34 +85,9 @@
     "summary": "Una investigación muestra cómo niños de entre 10 y 13 años son remitidos al sistema legal por exabruptos comunes de su edad, o infracciones como vapear, que no representan una amenaza grave real."
   },
   {
-    "title": "Rosalind Eleazar on ‘Misty Green’ and ‘Slow Horses’",
-    "link": "https://www.nytimes.com/2026/10/15/movies/rosalind-eleazar-misty-green-slow-horses.html",
-    "summary": "Rosalind Eleazar is winning rapturous reviews for her turn as the very “humanly flawed” title character in “Misty Green,” from Chris Rock."
-  },
-  {
-    "title": "The Trump Administration and the Shrinking Number of Women in Top Roles",
-    "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html",
-    "summary": "In President Trump’s second term, those heading for the exits, voluntarily or involuntarily, are female officials."
-  },
-  {
-    "title": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
-    "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html",
-    "summary": "Katie Zacharia told The New York Times that the confusion over her legal credentials was the result of one big misunderstanding."
-  },
-  {
-    "title": "Democrats Worry About Tight Midterm Races in Maine, Michigan and Minnesota",
-    "link": "https://www.nytimes.com/2026/10/15/us/politics/peggy-flanagan-abdul-el-sayed-troy-jackson.html",
-    "summary": "Despite hopes for a blue wave, Democratic candidates in Minnesota, Maine and Michigan are facing local political headwinds and have struggled to open up clear daylight in the polls."
-  },
-  {
-    "title": "Vance’s Talarico Attacks Show His Penchant for Personal Broadsides",
-    "link": "https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html",
-    "summary": "At a rally in Texas, the vice president suggested the Democratic Senate nominee is gay, a comment criticized as homophobic."
-  },
-  {
-    "title": "A Megachurch Pastor is Running for Senate. Will Democrats Vote for Him?",
-    "link": "https://www.nytimes.com/2026/10/15/us/adam-hamilton-religious-democrats-candidates.html",
-    "summary": "As he seeks to unseat a Republican in Kansas, Adam Hamilton speaks of his work leading the state’s largest church — and making it appealing to nonreligious people."
+    "title": "Mamdani Taps His Social Media Charm on Behalf of Hochul, a Crucial Ally",
+    "link": "https://www.nytimes.com/2026/10/15/nyregion/hochul-mamdani-blakeman-election-campaign-ny-governor.html",
+    "summary": "Mayor Zohran Mamdani’s first campaign video for Gov. Kathy Hochul, in which he attacks her Republican rival, Bruce Blakeman, has some of the mayor’s hallmark appeal, but a bit less pizazz."
   },
   {
     "title": "Anti-Israel Protesters Pose a Purity Test That Even Mamdani Can’t Pass",
@@ -85,28 +95,18 @@
     "summary": "The enmity directed toward Mayor Zohran Mamdani from within the pro-Palestinian movement illustrates the challenge the wider left faces in corralling its insurgents."
   },
   {
-    "title": "Migrant Children Without Lawyers Face Fast-Tracked Deportations Alone",
-    "link": "https://www.nytimes.com/2026/10/15/us/lawyers-unaccompanied-migrant-children-deportations.html",
-    "summary": "For years, the government has helped secure lawyers for minors who arrive at the southern border. But a contract dispute has forced many children to face immigration judges alone."
-  },
-  {
-    "title": "How Trump Voters Feel About High Grocery Prices Ahead of The Midterms",
-    "link": "https://www.nytimes.com/2026/10/14/us/politics/trump-midterms-voters-grocery-prices.html",
-    "summary": "With the midterms nearing, some are venting frustration with the president while others are standing by him."
-  },
-  {
     "title": "Trump’s Democracy-for-Diesel Deal Shames Us All",
     "link": "https://www.nytimes.com/2026/10/15/opinion/trump-russia-oil-putin.html",
     "summary": "The president’s arrangement to import Russian diesel fuel is one more example of how he has sold out American democracy."
   },
   {
-    "title": "Choosin’ Texas",
-    "link": "https://www.nytimes.com/2026/10/15/briefing/texas-senate-race.html",
-    "summary": "We look at the costliest race in America."
+    "title": "He’s the Most Influential Podcaster in Silicon Valley. He Thinks We’re Getting This Wrong.",
+    "link": "https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html",
+    "summary": "Dwarkesh Patel on what the public doesn’t know about A.I."
   },
   {
-    "title": "Inside the Plague Research Labs at the Heart of a Russian Mystery",
-    "link": "https://www.nytimes.com/2026/10/15/science/russia-plague-laboratory-mystery.html",
-    "summary": "A Russian researcher, who died from an unknown illness, worked at a remote anti-plague facility. Few foreigners have visited these labs, which dot the former Soviet states, and are shrouded in secrecy."
+    "title": "Harvard Endowment Soars to $68 Billion Even as Federal Cuts Force Layoffs",
+    "link": "https://www.nytimes.com/2026/10/15/us/harvard-endowment-soars.html",
+    "summary": "The stock market has boosted Harvard’s wealth. But as federal funding slumps, the school is seeking corporate sponsors to underwrite research."
   }
 ]

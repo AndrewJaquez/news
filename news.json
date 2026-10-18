@@ -1,13 +1,18 @@
 [
   {
-    "title": "France in Shock After Protests Devolve Into Riots",
+    "title": "France in Shock After Protests Turn Into Riots, Damaging Buildings and Shops",
     "link": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
-    "summary": "After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it subsided on Sunday."
+    "summary": "After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it largely subsided on Sunday."
+  },
+  {
+    "title": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
+    "link": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html",
+    "summary": "As unrest surged across France this weekend, the most surprising attack came in the quiet city of Limoges, where rioters set fire to the city hall."
   },
   {
     "title": "Why Are There Protests in France?",
-    "link": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html",
-    "summary": "Student demonstrations converged on Saturday with a broader protest movement against rising living costs, heightening a national reckoning."
+    "link": "https://www.nytimes.com/article/france-student-protests-why.html",
+    "summary": "Rioters attacked city halls and shops over the weekend amid protests over living costs and poor school conditions."
   },
   {
     "title": "O.J. Simpson, a Secret Informant and a Decades-Old Mystery",
@@ -30,14 +35,14 @@
     "summary": "Farmers and ranchers have supported President Trump for a decade. But the war in Iran, tariffs and other administration policies have soured some on the G.O.P."
   },
   {
-    "title": "4 Takeaways From a Voting-Focused ‘No Kings’ Day",
-    "link": "https://www.nytimes.com/2026/10/17/us/politics/no-kings-day-takeways.html",
-    "summary": "Saturday’s gatherings were more subdued than some past events, and many prominent Democrats skipped them."
+    "title": "Some MAHA Voters in Arizona Question Their G.O.P. Ties",
+    "link": "https://www.nytimes.com/2026/10/18/us/maha-voters-republican-split.html",
+    "summary": "MAHA’s alliance with MAGA had energized voters to support President Trump’s 2024 campaign. Now, some aren’t so sure."
   },
   {
-    "title": "Key to Past Hurricane Cleanup, Some Immigrant Workers Fear Florida’s Raids",
-    "link": "https://www.nytimes.com/2026/10/16/us/immigration-ice-agents-hurricane-repairs.html",
-    "summary": "Concerns about the state’s immigration dragnet may keep the itinerant labor force at home, threatening Hurricane Isaias recovery efforts."
+    "title": "How a Dominican Man Became an ICE Target Before the NYC Shooting",
+    "link": "https://www.nytimes.com/2026/10/18/nyregion/nyc-ice-shooting-oscar-belgal.html",
+    "summary": "Oscar Belgal arrived in the city from the Dominican Republic in 2022. Chaos appeared to follow, ending in a fateful encounter with immigration agents."
   },
   {
     "title": "Oklahoma Families Faced the Hottest Summer Ever and an Electricity Crisis",
@@ -45,19 +50,9 @@
     "summary": "Record heat and a rising demand for electricity are closing in on Oklahoma families trying to keep the lights on and the AC running."
   },
   {
-    "title": "Pope Leo Addresses the Faithful a Day After Leaving the Hospital",
-    "link": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html",
-    "summary": "“This experience has made me feel a special closeness to all those who are battling illness and infirmity,” he said, in his first public appearance since his lung surgery."
-  },
-  {
     "title": "The Man Who Taught Us How to Pay Attention",
     "link": "https://www.nytimes.com/2026/10/18/magazine/john-berger-attention.html",
     "summary": "The works of the British art critic John Berger offer the antidote to our age of infinite scrolling."
-  },
-  {
-    "title": "Would You Press This Button?",
-    "link": "https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html",
-    "summary": "We may not want it to, but A.I. is asking us how to live."
   },
   {
     "title": "I Teach at a Business School. It’s Time to Shut Them Down.",
@@ -65,13 +60,13 @@
     "summary": "Students come in with noble intentions and leave with flawed expertise."
   },
   {
-    "title": "O.J.’s Accomplice?",
-    "link": "https://www.nytimes.com/2026/10/18/briefing/ojs-accomplice.html",
-    "summary": "After all these years, we found new developments in the O.J. Simpson case."
+    "title": "The Old World Order Is Over. This Is What Could Come Next.",
+    "link": "https://www.nytimes.com/2026/10/18/opinion/america-world-order-democracy-trump.html",
+    "summary": "Here are three scenarios for what the new global order might look like."
   },
   {
-    "title": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
-    "link": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
-    "summary": "The defense minister said people were killed and injured at a base in Alberta, but officials did not offer details on the cause."
+    "title": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+    "link": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
+    "summary": "Prime Minister Mark Carney said the “violent, fast-moving” fire on Saturday in the province of Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on Canadian soil."
   }
 ]

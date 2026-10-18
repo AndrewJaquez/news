@@ -1,5 +1,15 @@
 [
   {
+    "title": "France in Shock After Protests Devolve Into Riots",
+    "link": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
+    "summary": "Centrist and leftist leaders blamed each other after anti-government protests devolved into chaos."
+  },
+  {
+    "title": "Why Are There Protests in France?",
+    "link": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html",
+    "summary": "Student demonstrations converged on Saturday with a broader protest movement against rising living costs, heightening a national reckoning."
+  },
+  {
     "title": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
     "link": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
     "summary": "The Trump administration is ignoring the will of Congress and waiving new Russia sanctions amid fears that high energy prices will cost Republicans in next month’s elections."
@@ -25,48 +35,33 @@
     "summary": "Senator Bernie Sanders of Vermont has made a point of investing in Republican-leaning states. He rallied in Tampa for Ms. Nixon, the underdog Democratic nominee for Florida Senate."
   },
   {
-    "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
-    "link": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
-    "summary": "Riots broke out in several French cities alongside peaceful marches of tens of thousands of people demonstrating against rising living costs and poor school conditions."
-  },
-  {
     "title": "After School Shooting in Bend, Ore., a Community Tries to Recapture Its Identity",
     "link": "https://www.nytimes.com/2026/10/17/us/school-shooting-bend-oregon-identity.html",
     "summary": "Days after the shooting at Silver Rail Elementary School, the community is questioning its resilience — and safety."
   },
   {
-    "title": "Weak Links Start to Show in A.I. Borrowing",
-    "link": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
-    "summary": "Debt trouble at CoreWeave, Oracle and SoftBank raises questions about whether there are broader problems with the data center build-out."
+    "title": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
+    "link": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html",
+    "summary": "Rahul Gandhi is the descendant of three prime ministers. A surge of protests could give him a springboard to take on the nation’s current leader."
   },
   {
-    "title": "Corporate Tax Revenue Falls Even as Profits Soar Under Trump",
-    "link": "https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html",
-    "summary": "The annual decline was about $70 billion. Companies are writing off billions in A.I. investments, taking advantage of tax cuts that President Trump signed into law."
+    "title": "The Man Who Taught Us How to Pay Attention",
+    "link": "https://www.nytimes.com/2026/10/18/magazine/john-berger-attention.html",
+    "summary": "The works of the British art critic John Berger offer the antidote to our age of infinite scrolling."
   },
   {
-    "title": "50 Years In, What’s the Point of U2? Bono and the Edge Have Answers.",
-    "link": "https://www.nytimes.com/2026/10/17/magazine/bono-and-the-edge-interview.html",
-    "summary": "The longtime friends and creative partners on what U2 still means — and what would make them call it quits."
+    "title": "I Teach at a Business School. It’s Time to Shut Them Down.",
+    "link": "https://www.nytimes.com/2026/10/18/opinion/business-school-mba-harvard-cornell-cambridge.html",
+    "summary": "Students come in with noble intentions and leave with flawed expertise."
   },
   {
-    "title": "M.L.B. Playoff Ads With Sydney Sweeney and Megan Fox Draw Backlash",
-    "link": "https://www.nytimes.com/2026/10/16/business/media/mlb-playoffs-commercials-sydney-sweeney-novig.html",
-    "summary": "Commercials promoting a gambling platform and endorsing male enhancement have rankled fans, and even athletes. Who is in charge?"
+    "title": "Why I Canceled Russian Culture for Myself",
+    "link": "https://www.nytimes.com/2026/10/17/opinion/ukraine-russian-culture.html",
+    "summary": "A Russified education did not forbid access to my own culture, it just quietly weakened my instinct to reach for it."
   },
   {
-    "title": "Trump’s Bubble Is About to Burst",
-    "link": "https://www.nytimes.com/2026/10/17/opinion/trump-photo-zacharia-harp-doug-mills.html",
-    "summary": "The president’s crazy actions have Democrats on the cusp of victory — and they’ll be coming for him."
-  },
-  {
-    "title": "The Cringiest and Craftiest 2026 Midterm Ads",
-    "link": "https://www.nytimes.com/2026/10/17/opinion/midterms-election-politcal-ads-voters.html",
-    "summary": "Sex, video games and grandparents on the campaign trail."
-  },
-  {
-    "title": "NYC Subway Shooting in Midtown Leaves Man Dead",
-    "link": "https://www.nytimes.com/2026/10/17/nyregion/subway-shooting-man-dead-nyc.html",
-    "summary": "The shooting occurred on Saturday at the 7th Avenue Station on 53rd Street, near Times Square. The Police Department said there have been no arrests."
+    "title": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
+    "link": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
+    "summary": "The defense minister said people were killed and injured at a base in Alberta, but officials did not offer details on the cause."
   }
 ]

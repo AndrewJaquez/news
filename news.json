@@ -1,13 +1,8 @@
 [
   {
-    "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
-    "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
-    "summary": "The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine."
-  },
-  {
-    "title": "The Fight to Tax Billionaires, and Why NDAs Are Everywhere Now",
-    "link": "https://www.nytimes.com/2026/10/20/podcasts/the-headlines/tax-billionaires-ndas.html",
-    "summary": "Plus, a contentious character is back on “The Simpsons.”"
+    "title": "A ‘Doom Loop’ Threatens France as Populism Confronts Markets",
+    "link": "https://www.nytimes.com/2026/10/20/business/france-protests-bond-markets.html",
+    "summary": "The turmoil shows the profound challenges facing governments stuck between unhappy citizens and wary bond investors."
   },
   {
     "title": "France Protests Show Europe’s Shift Away From Centrist Politics",
@@ -15,9 +10,19 @@
     "summary": "Europe’s centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change."
   },
   {
-    "title": "France to Extend Curfews After a Night of Calm, Prime Minister Says",
+    "title": "France to Extend Curfews After Calm Night Follows Days of Riots",
     "link": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
-    "summary": "The restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the unrest face expedited trials."
+    "summary": "The restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials."
+  },
+  {
+    "title": "The Fight to Tax Billionaires, and Why NDAs Are Everywhere Now",
+    "link": "https://www.nytimes.com/2026/10/20/podcasts/the-headlines/tax-billionaires-ndas.html",
+    "summary": "Plus, a contentious character is back on “The Simpsons.”"
+  },
+  {
+    "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+    "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
+    "summary": "The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine."
   },
   {
     "title": "Republican National Committee Moves $50 Million to Help Midterm Candidates in Huge Cash Transfer",
@@ -25,9 +30,14 @@
     "summary": "The party apparatus is taking advantage of its enormous war chest, as well as a Supreme Court campaign-finance ruling this year, to send tens of millions into congressional races."
   },
   {
-    "title": "Taunting Trump Over Gas Prices, Iran Braces for Aftermath of U.S. Vote",
+    "title": "Iran, Taunting Trump Over Gas Prices, Braces for Aftermath of Midterm Elections",
     "link": "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html",
     "summary": "The midterm elections appear to be a factor for both sides in the war as President Trump weighs his next steps."
+  },
+  {
+    "title": "James Talarico on the Rage Economy, Billionaires and Flipping Texas",
+    "link": "https://www.nytimes.com/2026/10/20/podcasts/the-daily/james-talarico-interview-texas-midterms.html",
+    "summary": "Our interview with James Talarico, the Democratic nominee for Senate in Texas."
   },
   {
     "title": "Trump Announces $8 Billion Plan to Cover Farm Losses",
@@ -35,7 +45,7 @@
     "summary": "Under the Harvest Fuel Relief program, the Agriculture Department will provide economic aid for farmers hurt by high diesel prices."
   },
   {
-    "title": "Voters in Oil-Rich Alberta Reject Leaving Canada",
+    "title": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
     "link": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
     "summary": "Residents of the province were asked if they wish to remain in Canada or to hold another vote on breaking away, in a referendum that left both sides unhappy."
   },
@@ -43,6 +53,11 @@
     "title": "The Last Photos of Gloria Steinem",
     "link": "https://www.nytimes.com/2026/10/20/style/the-last-photos-of-gloria-steinem.html",
     "summary": "Before her death, the pioneering feminist posed for a fashion shoot. Now those pictures are part of her legacy."
+  },
+  {
+    "title": "Cornell’s Jane Doe Sent Letter to Faculty Senate Ahead of Vote",
+    "link": "https://www.nytimes.com/2026/10/20/nyregion/cornell-jane-doe-letter-president.html",
+    "summary": "In a letter, the former student said she felt “unsupported” after hearing about an exchange between the school president and her sorority sister. Officials disputed her account of the conversation."
   },
   {
     "title": "When Idaho Banned Abortion, OB-GYNs Fled. The Doctors Who Stayed Are Cracking.",
@@ -55,6 +70,11 @@
     "summary": "Thousands of Israelis living in the United States are expected to fly to Israel to vote in the country’s national election this month."
   },
   {
+    "title": "Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu",
+    "link": "https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html",
+    "summary": "Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu and Israel’s defense minister, a week before a pivotal election."
+  },
+  {
     "title": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
     "link": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html",
     "summary": "The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too."
@@ -65,7 +85,7 @@
     "summary": "Expected windfalls from I.P.O.s are drawing health leaders into a race for billions in new philanthropic dollars. A fragile aid system may be upended."
   },
   {
-    "title": "‘Covering AIDS and Living It’: When a Reporter Is Part of the Story",
+    "title": "A Star Reporter Had AIDS. He Wanted to Make It His Beat.",
     "link": "https://www.nytimes.com/2026/10/20/health/aids-hiv-jeffrey-schmalz-new-york-times-history.html",
     "summary": "Jeffrey Schmalz wrote unsparingly about why the political and medical cavalry would not arrive in time for him."
   },
@@ -75,9 +95,14 @@
     "summary": "Why do men in groups behave this way?"
   },
   {
-    "title": "Trumpism Is Backfiring",
-    "link": "https://www.nytimes.com/2026/10/20/opinion/ezra-klein-podcast-chrystia-freeland.html",
-    "summary": "Chrystia Freeland, a former Canadian deputy prime minister, explains why her country chose to fight back against Trump."
+    "title": "The History We Lost When Trump Tore Down the East Wing",
+    "link": "https://www.nytimes.com/2026/10/20/opinion/contributors/trump-east-wing-white-house.html",
+    "summary": "Mr. Trump appears to wish to be both president and first lady."
+  },
+  {
+    "title": "In the Kill Zone",
+    "link": "https://www.nytimes.com/2026/10/20/briefing/ukraine-kill-zone.html",
+    "summary": "We take a look at what’s happening on the front line of the war in Ukraine."
   },
   {
     "title": "Late Night Sends Off Trump’s Press Secretary After Just Five Days",

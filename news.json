@@ -1,63 +1,88 @@
 [
   {
+    "title": "Iowa, Usually Red, Is in Play This Midterm as Economic Woes Mount",
+    "link": "https://www.nytimes.com/2026/10/22/us/politics/iowa-farmers-republicans-trump.html",
+    "summary": "The Trump administration’s policies could cost Republicans in a state that is being hit hard by expensive diesel prices and uncertainty over trade."
+  },
+  {
+    "title": "Why Many Voters Are Unhappy With the Economy",
+    "link": "https://www.nytimes.com/video/business/100000011216716/why-many-voters-are-unhappy-with-the-economy.html",
+    "summary": "With the midterms approaching, the economy is a top concern for voters. Our chief economic correspondent, Ben Casselman, describes which aspects of the economy have voters so frustrated."
+  },
+  {
+    "title": "Chris Pappas Could Make History in New Hampshire’s Senate Race",
+    "link": "https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html",
+    "summary": "Chris Pappas, the Democratic nominee in New Hampshire, would make history if he won. On the campaign trail, he doesn’t dwell on it."
+  },
+  {
     "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
     "link": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
     "summary": "A series of lawsuits has created a new de facto regulatory regime as courts order companies like Meta and Google to change their business practices — and pay up."
   },
   {
-    "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
-    "link": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
-    "summary": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working."
+    "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
+    "link": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
+    "summary": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas."
   },
   {
-    "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
-    "link": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
-    "summary": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven."
+    "title": "Employers Shift Rising Health Care Costs Onto Millions of Workers",
+    "link": "https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html",
+    "summary": "New surveys show that increases in premiums and deductibles are forcing people to forgo treatments or doctor’s visits while budgets are strained by higher food and gas prices."
   },
   {
-    "title": "In San Francisco, a Family Earning $325,000 Qualifies for Government Aid",
-    "link": "https://www.nytimes.com/2026/10/21/us/san-francisco-cost-living-affordable-housing.html",
-    "summary": "With the A.I. boom driving up prices, the city is subsidizing child care for households with high incomes. Even with the help, families say they are struggling."
+    "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
+    "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+    "summary": "Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language."
   },
   {
-    "title": "The Dream House With a Radioactive Backyard",
+    "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+    "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+    "summary": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems."
+  },
+  {
+    "title": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
+    "link": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
+    "summary": "The details of the inquiry remain unclear, but it is one of the rare instances in which a Trump ally or appointee has been investigated for potential wrongdoing during the president’s second term."
+  },
+  {
+    "title": "Key Trump Health Adviser Resigns Ahead of Midterm Elections",
+    "link": "https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html",
+    "summary": "Calley Means, who helped unite Robert F. Kennedy Jr. and President Trump, pushed food reforms but grew frustrated with stalled progress on the MAHA agenda."
+  },
+  {
+    "title": "A Young Family in Niagara, N.Y., and a Backyard Full of Radioactive Waste",
     "link": "https://www.nytimes.com/2026/10/22/nyregion/niagara-new-york-radioactive-waste.html",
     "summary": "A young family thought they had escaped the toxic legacy of Love Canal with a dream house near a creek in the suburbs. Then the men in the hazmat suits showed up."
   },
   {
-    "title": "METRO with Sarah Koenig: Episode 2",
-    "link": "https://www.nytimes.com/2026/10/22/podcasts/karat-and-schtick.html",
-    "summary": "In New York’s diamond district, there’s a war on: real vs. fake. It’s hard to know which side is which."
+    "title": "Unsealed O.J. Simpson Records Prompt a Request for a New Investigation",
+    "link": "https://www.nytimes.com/2026/10/22/us/oj-simpson-accomplice-investigation.html",
+    "summary": "Tanya Brown said she believed someone helped O.J. Simpson get rid of the murder weapon. One of Mr. Simpson’s former lawyers called for a special prosecutor."
   },
   {
-    "title": "METRO with Sarah Koenig: Episode 1",
-    "link": "https://www.nytimes.com/2026/10/22/podcasts/nice-to-meet-you.html",
-    "summary": "Sarah Koenig goes on a whirlwind tour of New York City to find out what New Yorkers are worrying about."
+    "title": "He Told Us About an O.J. Accomplice. Then He Said He’d Lied. What Next?",
+    "link": "https://www.nytimes.com/2026/10/22/insider/oj-simpson-accomplice-1994-murder.html",
+    "summary": "A source said his brother had been with O.J. Simpson the night of the murders in 1994. But when we refused to pay, he retracted his story."
   },
   {
-    "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax",
-    "link": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
-    "summary": "The billionaire told Meta’s board that he planned to list his Silicon Valley home for sale. The company remade its stock structure to help him pay the tax if voters pass it."
+    "title": "Tom Skerritt, Who Had Key Roles in ‘Picket Fences’ and ‘Top Gun,’ Dies at 93",
+    "link": "https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html",
+    "summary": "His rugged good looks, commanding presence and versatility led to key roles in “M*A*S*H” and “Steel Magnolias,” and he won an Emmy on “Picket Fences.”"
   },
   {
-    "title": "Higher, Faster, Gnarlier: Have Roller Coasters Become Too Extreme?",
-    "link": "https://www.nytimes.com/2026/10/22/us/roller-coaster-safety.html",
-    "summary": "A coaster dares riders to be daring, with steep drops, high speeds and improbably tight curves. But safety has become a concern again after a man was thrown from his seat and died in Georgia."
+    "title": "Ebola Outbreak in Africa Reaches Widest Expansion Ever",
+    "link": "https://www.nytimes.com/2026/10/22/health/ebola-nigeria-congo-kenya.html",
+    "summary": "Health officials are urgently seeking answers about the origins of a case newly identified in Nigeria, the first in that West African nation."
   },
   {
-    "title": "After Six Flags Roller Coaster Death, Critics Call for Federal Oversight",
-    "link": "https://www.nytimes.com/2026/10/16/us/six-flags-roller-coaster-death.html",
-    "summary": "Regulation of amusement parks is left to the states, and deaths are rare. But some say stronger rules are needed."
+    "title": "Impeachment. It’s Not Just for Presidents.",
+    "link": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
+    "summary": "Trump’s grotesque rerun of the Gilded Age demands a rebuke."
   },
   {
-    "title": "‘A Golden Age of Science’ Brought to You by the White House",
-    "link": "https://www.nytimes.com/2026/10/22/opinion/interesting-times-tyler-cowen-michael-kratsios.html",
-    "summary": "The Trump administration’s plan to supercharge scientific discovery."
-  },
-  {
-    "title": "A Shifting Standard",
-    "link": "https://www.nytimes.com/2026/10/22/briefing/title-ix.html",
-    "summary": "We look at how Title IX keeps changing."
+    "title": "Trump Is Still Chasing His Yalta. Here’s What He Doesn’t Get.",
+    "link": "https://www.nytimes.com/2026/10/22/opinion/trump-ukraine-russia-war-yalta.html",
+    "summary": "Mr. Trump has been searching for his Yalta in the war in Ukraine ever since he returned to the Oval Office."
   },
   {
     "title": "The Brief, Messy Political Career of Paolo Zampolli, a Trump Ally",

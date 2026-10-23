@@ -1,43 +1,23 @@
 [
   {
-    "title": "Big Names Flock to Ruby-Red Florida to Sway Voters in Unexpectedly Close Contests",
-    "link": "https://www.nytimes.com/2026/10/23/us/politics/florida-republicans-midterms-.html",
-    "summary": "President Trump will rally on Friday in a Republican state where Democrats have their eye on several House races."
+    "title": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
+    "link": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html",
+    "summary": "Election officials say they worry the administration could use its own unsubstantiated claims to contest the vote in November."
   },
   {
-    "title": "The A.I.-Powered Cameras Watching Border Towns, and a Midterms Attack Ad Causes Outrage",
-    "link": "https://www.nytimes.com/2026/10/23/podcasts/the-headlines/ai-cameras-border-towns-midterms-ad.html",
-    "summary": "Plus, the Friday news quiz."
+    "title": "Here’s What Democrats Plan to Do With Their Power if They Win Back Congress",
+    "link": "https://www.nytimes.com/2026/10/23/us/politics/democrats-congress-majority-agenda.html",
+    "summary": "Democrats have campaigned on lowering living costs and holding the Trump administration accountable. This is a look at their to-do list if they win the majority."
+  },
+  {
+    "title": "Israeli Settlers Turn a Palestinian Rite Into a Gantlet of Violence and Fear",
+    "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-settlers-palestinians-harvest.html",
+    "summary": "This year’s olive harvest in the Israeli-occupied West Bank is the most violent in years, as settlers have attacked farmers and besieged homes, drawing condemnation from U.S. officials and others."
   },
   {
     "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
     "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
-    "summary": "The Israeli military said two soldiers had been killed, and Prime Minister Benjamin Netanyahu threatened to launch a major offensive in the Israeli-occupied territory."
-  },
-  {
-    "title": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?",
-    "link": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
-    "summary": "Mr. Eisenkot, an ex-military chief leading in the polls, calls the Israeli prime minister an “anti-leader.” But his low-key campaigning style is worrying supporters."
-  },
-  {
-    "title": "Hegseth Barred Trans Troops. Military Boards Are Rejecting Those Orders.",
-    "link": "https://www.nytimes.com/2026/10/23/us/trans-troops-military-boards-retain.html",
-    "summary": "The service members at Navy and Marine Corps hearings are finding ways to keep trans troops in uniform."
-  },
-  {
-    "title": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
-    "link": "https://www.nytimes.com/2026/10/23/world/europe/russia-ukraine-public-opinion.html",
-    "summary": "“Everything is fine” is a common refrain in a country used to adapting to a new normal."
-  },
-  {
-    "title": "Trump Asked Musk to Reverse Starshield Restrictions on Ukraine",
-    "link": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
-    "summary": "The call from the president about the Starshield network came after officials in Ukraine reported that they found new limits on the use of military drones in their war against Russia."
-  },
-  {
-    "title": "France Plans to Bolster Police Presence, Expecting New Protests",
-    "link": "https://www.nytimes.com/2026/10/23/world/europe/france-police-protests.html",
-    "summary": "Government officials are trying to avoid a repeat of last weekend’s unrest across the country, which injured police officers and damaged stores."
+    "summary": "The Israeli military said two soldiers and two attackers had been killed, and three soldiers wounded. Prime Minister Benjamin Netanyahu vowed to launch a major offensive in the Israeli-occupied territory."
   },
   {
     "title": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
@@ -50,34 +30,64 @@
     "summary": "Among the stakes in next month’s election is the long-running question of whether tax cuts can shape how people vote."
   },
   {
-    "title": "Alpha School Claims to Teach Kids Twice as Fast. Many Don’t Make It.",
-    "link": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html",
-    "summary": "Alpha School, a private network, is spreading into public education. While its students’ test scores are high, some parents and educators say it doesn’t live up to the hype."
+    "title": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
+    "link": "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html",
+    "summary": "President Trump’s novel deal-making is on display in upstate New York, where the administration is funneling Japanese funds into a government-owned chip factory."
   },
   {
-    "title": "Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers",
-    "link": "https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html",
-    "summary": "A bill to bolster the nation’s unemployment insurance program reflects the concern — and the risks — in Washington."
+    "title": "Global Oil Price Hits $116 a Barrel, Highest Since April",
+    "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+    "summary": "Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk."
   },
   {
-    "title": "The Bukeleization of Latin America Has Arrived",
-    "link": "https://www.nytimes.com/2026/10/23/world/americas/nayib-bukele-el-salvador-president.html",
-    "summary": "Nayib Bukele’s notoriously harsh and wildly popular security crackdown in El Salvador is spawning imitators and remaking the region."
+    "title": "Lawmakers Plan to Block Trump Nominees Over Ukraine Satellite Network Restrictions",
+    "link": "https://www.nytimes.com/2026/10/23/us/politics/senators-trump-nominees-ukraine-starlink.html",
+    "summary": "Senators have warned the White House they will withhold confirmation votes until the administration ensures the restoration of communications capabilities used by Ukraine’s military."
   },
   {
-    "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
-    "link": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
-    "summary": "Deep in cattle country, voter sentiments in an evangelical stronghold help explain why the country’s leftist president is the underdog in Sunday’s election."
+    "title": "How Long Will Russians Put Up With War? Here’s What They Told Us.",
+    "link": "https://www.nytimes.com/2026/10/23/world/europe/russia-ukraine-public-opinion.html",
+    "summary": "“Everything is fine” is a common refrain in a country used to adapting to a new normal."
   },
   {
-    "title": "Review of iPhone Duo: A New Chapter That Redefines a Smartphone’s Purpose",
+    "title": "Melania Trump Says She Brokered a Cease-Fire in a Starving Ukrainian City",
+    "link": "https://www.nytimes.com/2026/10/23/us/politics/ceasefire-ukraine-melania-trump.html",
+    "summary": "The first lady, who is positioning herself as an intermediary between two warring nations as her husband sides with Russia, said the agreement would allow residents to evacuate."
+  },
+  {
+    "title": "Apple’s Foldable iPhone Duo Arrives in Stores: Smartphone Review",
     "link": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
     "summary": "The first-generation Apple foldable may feel awkward, but it’s an intriguing step toward merging phones and tablets into one."
   },
   {
-    "title": "Melanoma Vaccine Ushers in New Hope for Cancer Patients",
-    "link": "https://www.nytimes.com/2026/10/23/well/cancer-vaccine-melanoma-study.html",
-    "summary": "Beyond melanoma, scientists are studying cancer vaccines for glioblastoma, pancreatic cancer and more."
+    "title": "Two Former F.B.I. Officials Charged With False Statements About Hunter Biden",
+    "link": "https://www.nytimes.com/2026/10/23/us/politics/hunter-biden-ex-fbi-officials-charged.html",
+    "summary": "The charges intensified the administration’s efforts to go after the law enforcement and intelligence personnel who cast doubt on unsubstantiated claims that Joseph R. Biden Jr. engaged in corrupt dealings in Ukraine."
+  },
+  {
+    "title": "How the Decline of Western NY Defined Kathy Hochul’s Politics",
+    "link": "https://www.nytimes.com/2026/10/23/nyregion/kathy-hochul-western-new-york-upbringing-governor.html",
+    "summary": "Gov. Kathy Hochul’s vision for New York has been largely shaped by her upbringing in a failing western New York town and her family’s move up from a trailer park to affluence."
+  },
+  {
+    "title": "Why Has This Teenager Tracked Down 11,377 Moths Since April?",
+    "link": "https://www.nytimes.com/2026/10/23/style/violet-clinton-teen-moth-research.html",
+    "summary": "Violet Clinton is doing award-winning entomological field research. Her dad still has to buy the beer for her moth bait."
+  },
+  {
+    "title": "Under U.S. Watch, Venezuela Grapples With Tensions Over Democracy",
+    "link": "https://www.nytimes.com/2026/10/23/us/politics/venezuela-trump-rubio-elections.html",
+    "summary": "President Trump says Venezuela is not ready for elections, and he focuses instead on its oil. But Secretary of State Marco Rubio is nudging talks between opposing politicians."
+  },
+  {
+    "title": "Chimps Steal Less Often From Their Friends, Even When Offered Pineapple",
+    "link": "https://www.nytimes.com/2026/10/23/science/stealing-chimps-friends.html",
+    "summary": "The discovery may hint at the roots of human norms around fairness and friendship."
+  },
+  {
+    "title": "Ambush of Salvadoran Soldiers Escalates Haiti’s Anti-Gang Mission",
+    "link": "https://www.nytimes.com/2026/10/23/world/americas/el-salvador-military-haiti-gangs.html",
+    "summary": "With four soldiers missing, Haiti’s new Gang Suppression Force, already off to a rocky start, is facing its first crisis."
   },
   {
     "title": "The Meaning of the Republican War Over Ramaswamy’s Vile Ad",
@@ -85,23 +95,13 @@
     "summary": "The G.O.P. nominee in Ohio has given conservatives space to reckon with the ethical degradation of Trumpism."
   },
   {
-    "title": "There Are Solutions to This Crazy Economy. Voters Will Hate Them.",
-    "link": "https://www.nytimes.com/2026/10/23/opinion/trump-economy-artificial-intelligence-midterms.html",
-    "summary": "Ahead of the midterms, Natasha Sarin and Catherine Rampell unpack the state of the economy — and how much responsibility the president bears for it."
+    "title": "What Hundreds of Focus Groups With Trump Voters Revealed",
+    "link": "https://www.nytimes.com/2026/10/23/opinion/ezra-klein-podcast-sarah-longwell.html",
+    "summary": "Sarah Longwell has conducted hundreds of focus groups with Trump voters, and many of them are feeling betrayed."
   },
   {
-    "title": "You Are Being Watched",
-    "link": "https://www.nytimes.com/2026/10/23/briefing/you-are-being-watched.html",
-    "summary": "Especially on the southern border."
-  },
-  {
-    "title": "Late Night Dunks on Trump for Planning to Rename an Ocean",
-    "link": "https://www.nytimes.com/2026/10/23/arts/television/late-night-trump-ocean.html",
-    "summary": "“Once again, 12 days before this election, it’s good to see him locked in on the really big issues,” Jimmy Fallon said on “The Tonight Show.”"
-  },
-  {
-    "title": "Drivers Are Livid After Vote to Ban NYC’s Horse Carriages",
-    "link": "https://www.nytimes.com/2026/10/23/nyregion/horse-carriage-vote-drivers-city-council.html",
-    "summary": "The City Council voted 40 to 7 to ban the carriages from Central Park starting in 2028. But the carriage drivers vowed to fight their loss of livelihood in court."
+    "title": "Are Fewer Teens Identifying as Gay or Bisexual? It’s Complicated.",
+    "link": "https://www.nytimes.com/2026/10/23/science/lgbt-teens-identification.html",
+    "summary": "New data have prompted questions about changes in teens’ sexual orientations. But researchers disagree on how much the numbers can really tell us."
   }
 ]

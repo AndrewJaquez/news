@@ -1,13 +1,8 @@
 [
   {
-    "title": "Iowa, Usually Red, Is in Play This Midterm as Economic Woes Mount",
-    "link": "https://www.nytimes.com/2026/10/22/us/politics/iowa-farmers-republicans-trump.html",
-    "summary": "The Trump administration’s policies could cost Republicans in a state that is being hit hard by expensive diesel prices and uncertainty over trade."
-  },
-  {
-    "title": "Why Many Voters Are Unhappy With the Economy",
-    "link": "https://www.nytimes.com/video/business/100000011216716/why-many-voters-are-unhappy-with-the-economy.html",
-    "summary": "With the midterms approaching, the economy is a top concern for voters. Our chief economic correspondent, Ben Casselman, describes which aspects of the economy have voters so frustrated."
+    "title": "Pete Ricketts’s Wealth Puts Class at the Center of Nebraska’s Senate Race",
+    "link": "https://www.nytimes.com/2026/10/22/us/politics/pete-ricketts-billionaire-nebraska-senate-race.html",
+    "summary": "In a year when the wealth of the rich soared while workers lost ground to inflation, class has become political, especially in the Nebraska Senate race."
   },
   {
     "title": "Chris Pappas Could Make History in New Hampshire’s Senate Race",
@@ -15,29 +10,24 @@
     "summary": "Chris Pappas, the Democratic nominee in New Hampshire, would make history if he won. On the campaign trail, he doesn’t dwell on it."
   },
   {
-    "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
-    "link": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
-    "summary": "A series of lawsuits has created a new de facto regulatory regime as courts order companies like Meta and Google to change their business practices — and pay up."
+    "title": "Bernie Sanders Gives $1 Million to Bolster El-Sayed and Counter AIPAC in Michigan",
+    "link": "https://www.nytimes.com/2026/10/22/us/politics/sanders-el-sayed-aipac-michigan.html",
+    "summary": "The transfer came day after the news that the pro-Israel lobby was planning to contribute as much as $9 million to defeat the Democratic nominee for Senate."
   },
   {
-    "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
-    "link": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
-    "summary": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas."
+    "title": "Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use",
+    "link": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
+    "summary": "The call from the president about the Starshield network came after officials in Ukraine reported that they found new limits on the use of military drones in their war against Russia."
   },
   {
-    "title": "Employers Shift Rising Health Care Costs Onto Millions of Workers",
-    "link": "https://www.nytimes.com/2026/10/22/business/health-insurance-costs-workers-premiums-deductibles.html",
-    "summary": "New surveys show that increases in premiums and deductibles are forcing people to forgo treatments or doctor’s visits while budgets are strained by higher food and gas prices."
+    "title": "Trump Goes to Iowa, Hoping to Stop Farmers From Voting Blue",
+    "link": "https://www.nytimes.com/2026/10/22/briefing/trump-iowa-roller-coaster-safety.html",
+    "summary": "Also, a top Trump health adviser resigns. Here’s the latest at the end of Thursday."
   },
   {
-    "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
-    "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
-    "summary": "Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language."
-  },
-  {
-    "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
-    "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
-    "summary": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems."
+    "title": "Stocks See Steepest Decline in Months Amid A.I. Worries",
+    "link": "https://www.nytimes.com/2026/10/22/business/stocks-oil-prices.html",
+    "summary": "The S&amp;P 500 index fell over 1.4 percent, its largest daily decline since July, while the tech-heavy Nasdaq slumped nearly 2.5 percent, that index’s biggest one-day decline since June."
   },
   {
     "title": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
@@ -50,9 +40,34 @@
     "summary": "Calley Means, who helped unite Robert F. Kennedy Jr. and President Trump, pushed food reforms but grew frustrated with stalled progress on the MAHA agenda."
   },
   {
+    "title": "New York City Passes Horse Carriage Ban, Ending a Central Park Tradition",
+    "link": "https://www.nytimes.com/2026/10/22/nyregion/nyc-horse-carriage-ban-workers-jobs.html",
+    "summary": "A passenger’s death in June became the impetus for the City Council to ban the practice, but the bill will likely face a court challenge before being implemented in 2028."
+  },
+  {
+    "title": "The History of the Carriage Horses in Central Park",
+    "link": "https://www.nytimes.com/2026/07/17/nyregion/is-new-yorks-love-hate-relationship-with-horse-carriages-over-at-last.html",
+    "summary": "After 165 years, the tourist ritual — which now costs $77.22 for the first 20 minutes — may be coming to an end. Here’s a tour through the archives."
+  },
+  {
     "title": "A Young Family in Niagara, N.Y., and a Backyard Full of Radioactive Waste",
     "link": "https://www.nytimes.com/2026/10/22/nyregion/niagara-new-york-radioactive-waste.html",
     "summary": "A young family thought they had escaped the toxic legacy of Love Canal with a dream house near a creek in the suburbs. Then the men in the hazmat suits showed up."
+  },
+  {
+    "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
+    "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+    "summary": "Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language."
+  },
+  {
+    "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+    "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+    "summary": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems."
+  },
+  {
+    "title": "Tom Skerritt, Who Had Key Roles in ‘Picket Fences’ and ‘Top Gun,’ Dies at 93",
+    "link": "https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html",
+    "summary": "His rugged good looks, commanding presence and versatility led to key roles in “M*A*S*H” and “Steel Magnolias,” and he won an Emmy on “Picket Fences.”"
   },
   {
     "title": "Unsealed O.J. Simpson Records Prompt a Request for a New Investigation",
@@ -65,28 +80,18 @@
     "summary": "A source said his brother had been with O.J. Simpson the night of the murders in 1994. But when we refused to pay, he retracted his story."
   },
   {
-    "title": "Tom Skerritt, Who Had Key Roles in ‘Picket Fences’ and ‘Top Gun,’ Dies at 93",
-    "link": "https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html",
-    "summary": "His rugged good looks, commanding presence and versatility led to key roles in “M*A*S*H” and “Steel Magnolias,” and he won an Emmy on “Picket Fences.”"
-  },
-  {
-    "title": "Ebola Outbreak in Africa Reaches Widest Expansion Ever",
-    "link": "https://www.nytimes.com/2026/10/22/health/ebola-nigeria-congo-kenya.html",
-    "summary": "Health officials are urgently seeking answers about the origins of a case newly identified in Nigeria, the first in that West African nation."
-  },
-  {
-    "title": "Impeachment. It’s Not Just for Presidents.",
+    "title": "The Real Trump Tower",
     "link": "https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html",
     "summary": "Trump’s grotesque rerun of the Gilded Age demands a rebuke."
   },
   {
-    "title": "Trump Is Still Chasing His Yalta. Here’s What He Doesn’t Get.",
-    "link": "https://www.nytimes.com/2026/10/22/opinion/trump-ukraine-russia-war-yalta.html",
-    "summary": "Mr. Trump has been searching for his Yalta in the war in Ukraine ever since he returned to the Oval Office."
+    "title": "I Have Never Seen the Online Right So Happy",
+    "link": "https://www.nytimes.com/2026/10/19/opinion/cornell-rape-political-right-smear.html",
+    "summary": "Online right-wingers are doxxing and smearing the accuser in the Cornell rape case, in tactics that reek of desperation."
   },
   {
-    "title": "The Brief, Messy Political Career of Paolo Zampolli, a Trump Ally",
-    "link": "https://www.nytimes.com/2026/10/22/style/paolo-zampolli-trump-friend-brief-political-career.html",
-    "summary": "He had an unlikely rise, from modeling agent to presidential special envoy. After his firing, he was unrepentant: “I need to make money.”"
+    "title": "Cancer Vaccine Cuts the Risk of Melanoma Recurrence, Merck and Moderna Report",
+    "link": "https://www.nytimes.com/2026/10/22/well/cancer-vaccine-melanoma-merck-moderna.html",
+    "summary": "Merck and Moderna released detailed results on an experimental vaccine to treat the skin cancer."
   }
 ]

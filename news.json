@@ -10,19 +10,14 @@
     "summary": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents."
   },
   {
+    "title": "Saudi Arabia Reopens Riyadh Airport After Weeks of Houthi Attacks",
+    "link": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+    "summary": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month and have threatened to strike it again."
+  },
+  {
     "title": "Introducing a New Way to Understand the Election: Times Voter Trends",
     "link": "https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html",
     "summary": "A timely demographic story we’ve never been able to tell before."
-  },
-  {
-    "title": "Latinos Are Now America’s Most Important Swing Voters",
-    "link": "https://www.nytimes.com/2026/10/25/us/politics/latino-voters-poll-midterm-elections.html",
-    "summary": "Latinos helped fuel President Trump’s return to the White House. But Democrats have won back the trust of many Hispanic voters over the past two years."
-  },
-  {
-    "title": "Democrats Have Edge Across Four Key House Races in Pennsylvania, Polls Find",
-    "link": "https://www.nytimes.com/2026/10/25/us/politics/polls-pennsylvania-house-midterms-battlegrounds.html",
-    "summary": "Democratic candidates are ahead in two, hold a narrow edge in a third and are tied in a fourth, new polling shows. The seats embody the fights playing out nationwide in the midterms."
   },
   {
     "title": "Israel’s High-Stakes Election: What to Know",
@@ -35,6 +30,11 @@
     "summary": "Sarah Koenig goes on a whirlwind tour of New York City to find out what New Yorkers are worrying about."
   },
   {
+    "title": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
+    "link": "https://www.nytimes.com/2026/10/25/business/california-colleges-costs.html",
+    "summary": "At the University of California campuses in Berkeley, Irvine and Santa Barbara, students get an unwitting education in navigating the housing market."
+  },
+  {
     "title": "The Other Bolsonaro Who Could Become Brazil’s Next President",
     "link": "https://www.nytimes.com/2026/10/24/world/americas/flavio-bolsonaro-brazil-election-president.html",
     "summary": "Flávio Bolsonaro, the son of the former president who was jailed over a coup plot, could be on the cusp of winning Brazil’s presidency."
@@ -42,7 +42,7 @@
   {
     "title": "Could Lula Be on the Brink of Defeat in Brazil’s Election?",
     "link": "https://www.nytimes.com/2026/10/24/world/americas/lula-brazil-election-president.html",
-    "summary": "Brazil’s President Luiz Inácio Lula da Silva faces an uphill battle for another term, in a high-stakes election that may reshape Latin America."
+    "summary": "Brazil’s President Luiz Inácio Lula da Silva, a leftist, faces an uphill battle for another term, in a high-stakes election that may reshape Latin America."
   },
   {
     "title": "What to Know About Brazil’s Election as Bolsonaro Faces Off With Lula",
@@ -50,28 +50,28 @@
     "summary": "Luiz Inácio Lula da Silva, the leftist incumbent, and Flávio Bolsonaro, the right-wing challenger, face off in a narrow race that could redefine the future of Latin America."
   },
   {
-    "title": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
-    "link": "https://www.nytimes.com/2026/10/25/business/california-colleges-costs.html",
-    "summary": "At the University of California campuses in Berkeley, Irvine and Santa Barbara, students get an unwitting education in navigating the housing market."
-  },
-  {
     "title": "He Helped Deport 200 People. Now He Has Misgivings.",
     "link": "https://www.nytimes.com/2026/10/25/magazine/ice-deputy-texas-police.html",
     "summary": "A deputy in small-town Texas became the local face of ICE’s national crackdown."
   },
   {
-    "title": "The Grace We Seek but Have Forgotten",
-    "link": "https://www.nytimes.com/2026/10/25/opinion/the-grace-we-seek-but-have-forgotten.html",
-    "summary": "We hurt one another, we fail one another, but we still have to figure out how to live with one another."
+    "title": "Netanyahu Won the Middle East and Lost the World",
+    "link": "https://www.nytimes.com/2026/10/25/opinion/israel-gaza-election-netanyahu-hamas.html",
+    "summary": "Both Israelis and Palestinians are trapped in the Netanyahu paradigm."
   },
   {
-    "title": "What Happens if Trump Doesn’t Like the Midterm Results?",
-    "link": "https://www.nytimes.com/2026/10/24/opinion/trump-midterm-elections-results-predictions.html",
-    "summary": "Hope, dread and the final stretch to Election Day."
+    "title": "The Factory in Phoenix That Could Save American Manufacturing",
+    "link": "https://www.nytimes.com/2026/10/23/opinion/ai-computer-chips-semiconductor-arizona-industry.html",
+    "summary": "America is figuring out the trick to reindustrialization, if it can learn the right lessons."
   },
   {
-    "title": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
-    "link": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
-    "summary": "After largely peaceful marches on Saturday, clashes broke out in the evening. But a large-scale police presence, 1,000 arrests and the rerouting of protest routes kept a lid on wholesale vandalism."
+    "title": "One Agent’s Doubts",
+    "link": "https://www.nytimes.com/2026/10/25/briefing/deportation-doubts.html",
+    "summary": "ICE pays local police to help with deportations. What’s it like for them?"
+  },
+  {
+    "title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
+    "link": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
+    "summary": "While the police kept a lid on vandalism, the huge number of protesters, and France’s fraught politics, suggest unrest could grow."
   }
 ]

@@ -1,23 +1,48 @@
 [
   {
+    "title": "Trump Administration Pressures California With Expanded Voter Fraud Investigation",
+    "link": "https://www.nytimes.com/2026/10/29/us/trump-doj-california-voter-rolls-midterms.html",
+    "summary": "The department has issued grand jury subpoenas to local election officials as part of a widening effort to prove unsubstantiated claims about large numbers of illegal voters in the state."
+  },
+  {
+    "title": "Judge Orders Trump Officials to Outline Election Demands Sent to States",
+    "link": "https://www.nytimes.com/2026/10/29/us/politics/trump-judge-election-lawsuit.html",
+    "summary": "A federal judge gave the government until noon on Friday to share which states had received letters trying to enlist them in an effort to find evidence of voter fraud."
+  },
+  {
+    "title": "Americans Keep Spending",
+    "link": "https://www.nytimes.com/2026/10/29/briefing/us-gdp-patrick-stewart.html",
+    "summary": "Also, Patrick Stewart dies at 86. Here’s the latest at the end of Thursday."
+  },
+  {
     "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
     "link": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
     "summary": "A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action."
   },
   {
-    "title": "U.S. GDP Increased 3.4% in Third Quarter",
-    "link": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
-    "summary": "The economy grew 3.4 percent in the third quarter, the fastest pace in a year. Strong spending and growth contrast with the poor marks many voters are giving the economy."
+    "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall Street",
+    "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+    "summary": "Amazon on Thursday became the latest tech company to announce swelling investments in A.I. amid stumbling share prices."
   },
   {
-    "title": "Inflation Accelerated in October, PCE Index Shows",
-    "link": "https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html",
-    "summary": "The Personal Consumption Expenditures index picked up in September, according to data released a day after the Federal Reserve’s decision to hold interest rates steady."
+    "title": "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
+    "link": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
+    "summary": "The chipmaker, whose largest investor is the U.S. government, reported that the A.I. boom’s domino effect had hurt sales to personal computer makers."
   },
   {
-    "title": "The Fed Risks Falling Behind in its Inflation Fight",
-    "link": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
-    "summary": "Federal Reserve officials are expected to restart rate increases in December, but the cadence of additional moves will depend on the data."
+    "title": "Patrick Stewart, ‘Star Trek’ Captain and Professor X on ‘X-Men,’ Dies at 86",
+    "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+    "summary": "The British actor was 86. He achieved pop-culture stardom as Capt. Jean-Luc Picard on “Star Trek: The Next Generation.”"
+  },
+  {
+    "title": "Patrick Stewart’s Many Roles, From ‘Star Trek’ to ‘Avengers: Doomsday’",
+    "link": "https://www.nytimes.com/2026/10/29/arts/patrick-stewart-best-moments-star-trek.html",
+    "summary": "The actor’s long and varied career included Shakespearean roles, “Star Trek: The Next Generation,” comedy and a stint in the Marvel Universe."
+  },
+  {
+    "title": "Taryn Simon Fills Guggenheim With Evidence in ‘Father Country I Do Love You’",
+    "link": "https://www.nytimes.com/2026/10/29/arts/design/taryn-simon-guggenheim-father-country-i-do-love-you.html",
+    "summary": "The photographer Taryn Simon spent a decade channeling an F.B.I. agent’s life into pictures. Is it good art? Does it matter?"
   },
   {
     "title": "Third-Party Spoilers, Long Fueled by Both Parties, Could Matter This Year",
@@ -25,9 +50,9 @@
     "summary": "The other Dan Sullivan in Alaska has drawn the most attention, but both parties are quietly trying to use little-known candidates in other battlegrounds to siphon votes, too."
   },
   {
-    "title": "The Red States That Could Decide the Senate",
-    "link": "https://www.nytimes.com/video/us/elections/100000011223984/the-red-states-that-could-decide-the-senate.html",
-    "summary": "Democrats need to flip four Republican-held Senate seats to regain the majority, but some of their targets are in states President Trump won by double digits in 2024. Our election data reporter Evan Reynolds explains just how difficult that might be."
+    "title": "Websites For Midterm Candidates Are Filled With A.I.-Written Text, Analysis Shows",
+    "link": "https://www.nytimes.com/2026/10/29/us/politics/campaign-websites-artificial-intelligence.html",
+    "summary": "The use of A.I. chatbots to write candidate biographies and policy positions is another way the technology is entangled with elections."
   },
   {
     "title": "Four Scenarios for How the Midterms Could Go",
@@ -35,9 +60,9 @@
     "summary": "Expectations are cresting for Democrats, and some kind of wave seems likely, but so much will depend on a few close Senate races."
   },
   {
-    "title": "After 28 Years Walking the Globe, Karl Bushby Is Almost Home",
-    "link": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
-    "summary": "Karl Bushby has walked 31,000 miles, crossing some of the world’s harshest landscapes. He plans to reach his mother’s house in England next week."
+    "title": "Polymarket and Kalshi Turn Midterm Elections Into a Multimillion Dollar Market",
+    "link": "https://www.nytimes.com/2026/10/29/technology/polymarket-kalshi-midterm-election-betting-wagers.html",
+    "summary": "Betting markets like Polymarket and Kalshi have transformed America’s democracy into a new kind of casino."
   },
   {
     "title": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
@@ -45,14 +70,39 @@
     "summary": "President Trump ensured Flávio Bolsonaro, who lost a presidential election in Brazil and faces multiple criminal investigations there, could enter the United States, U.S. officials said."
   },
   {
-    "title": "Ilhan Omar Investigation Involves New Scrutiny of Long-Disputed Marriage",
-    "link": "https://www.nytimes.com/2026/10/29/us/immigration-fraud-claims-ilhan-omar.html",
-    "summary": "Several current and former law enforcement officials said an Obama-era investigation found some evidence that Ms. Omar had entered into a sham marriage with a man suspected of being her brother."
+    "title": "Why Miami Is a Destination for Latin America’s Political Exiles",
+    "link": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
+    "summary": "The city’s Hispanic majority, news media reach and air links to Latin America have made it an ideal base for politicians escaping their home countries."
   },
   {
-    "title": "Spain Crash Investigators Focus on Train Traffic Controllers’ Role",
-    "link": "https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html",
-    "summary": "After the country’s second major rail disaster in a year, Spaniards were confronting questions about the safety of their once-vaunted rail system."
+    "title": "A Sailor Jumped From the U.S.S. Lincoln. The Navy Punished Him.",
+    "link": "https://www.nytimes.com/2026/10/29/us/politics/sailor-mental-health-uss-lincoln-navy.html",
+    "summary": "The case offers a rare look at the military’s handling of mental health issues during extended deployments."
+  },
+  {
+    "title": "Hegseth Fires Top Army General He Accused of Leaking Information to Media",
+    "link": "https://www.nytimes.com/2026/10/29/us/hegseth-army-general-sylvia-trump.html",
+    "summary": "Lt. Gen. Brett Sylvia was fired as part of a broad and highly unusual campaign to find and punish senior military officers who speak to reporters."
+  },
+  {
+    "title": "Bodacious A.I. Bots Are Stealing Jokes From Young Female Comedians",
+    "link": "https://www.nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html",
+    "summary": "Swiping jokes word for word, these bodacious bots mainly lift from young female comedians. What’s so insidious is how they’re subtly changing us, the audience."
+  },
+  {
+    "title": "China Is Not Happy About Fan-made A.I. Videos of Sun Wukong and Lin Daiyu",
+    "link": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
+    "summary": "Mash-up videos of beloved characters from Chinese classics — some made with A.I. — have caught the attention of the authorities."
+  },
+  {
+    "title": "Cuba’s Foreign Minister: We’ll Outlast Trump",
+    "link": "https://www.nytimes.com/2026/10/29/world/americas/cuba-foreign-minister-trump.html",
+    "summary": "The Trump administration is carrying out the most intense pressure campaign on Cuba in decades. The Cuban government says its plan is simply to endure."
+  },
+  {
+    "title": "U.S. Expels Cuban Diplomat After Fiery Showdown at United Nations",
+    "link": "https://www.nytimes.com/2026/10/29/us/politics/cuban-diplomat-expelled.html",
+    "summary": "Tensions have risen between the United States and Cuba as the Trump administration tries to force the island’s Communist government to make drastic changes."
   },
   {
     "title": "I Can Hear Everything",
@@ -60,19 +110,9 @@
     "summary": "The world can be tough to navigate with one working ear. Even now with two, I still face challenges."
   },
   {
-    "title": "Billionaire Tax Campaign Pins Its Hopes on Influencers and Social Media",
-    "link": "https://www.nytimes.com/2026/10/29/us/california-billionaire-tax-influencers.html",
-    "summary": "Supporters of a California wealth tax are short on cash and are relying on cheaper campaign methods to get their word out."
-  },
-  {
-    "title": "2026 Midterm Election Ballot Measures: What Races We’re Watching",
-    "link": "https://www.nytimes.com/2026/10/29/us/elections/ballot-questions-midterms-election.html",
-    "summary": "More than 140 statewide ballot measures will go before voters during the midterms. Here are the races we’re watching."
-  },
-  {
-    "title": "Suddenly, Empathy Isn’t So Toxic",
-    "link": "https://www.nytimes.com/2026/10/29/opinion/toxic-empathy-immigration-ice.html",
-    "summary": "Deport immigrants? Oh yes. But not this guy."
+    "title": "What’s Next for Israel? Four Writers Decode the Election Results.",
+    "link": "https://www.nytimes.com/2026/10/29/opinion/israel-elections-arab-parties.html",
+    "summary": "A round table discussion on what the future holds for Israel and its government."
   },
   {
     "title": "Why Are We Having Less Sex? Ask a Pornographer.",
@@ -80,13 +120,8 @@
     "summary": "Erika Lust wants to excite you."
   },
   {
-    "title": "Stacking Ballots",
-    "link": "https://www.nytimes.com/2026/10/29/briefing/alaska-midterms-cheesecake-factory.html",
-    "summary": "A tale of political intrigue from Alaska."
-  },
-  {
-    "title": "Russian Strike on Ukrainian Train Station Kills 14",
-    "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
-    "summary": "A deadly strike was a grim reminder that despite a rare local cease-fire around the Russian-occupied town of Oleshky, other communities remained under fire."
+    "title": "The New DNA Technology That Linked Ted Bundy to a 52-Year-Old Cold Case",
+    "link": "https://www.nytimes.com/2026/10/29/science/dna-ted-bundy-cold-case.html",
+    "summary": "Software known as STRmix was instrumental in identifying Mr. Bundy’s DNA in a decades-old sample."
   }
 ]

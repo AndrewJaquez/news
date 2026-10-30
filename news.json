@@ -5,9 +5,14 @@
     "summary": "The department has issued grand jury subpoenas to local election officials as part of a widening effort to prove unsubstantiated claims about large numbers of illegal voters in the state."
   },
   {
-    "title": "Judge Orders Trump Officials to Outline Election Demands Sent to States",
-    "link": "https://www.nytimes.com/2026/10/29/us/politics/trump-judge-election-lawsuit.html",
-    "summary": "A federal judge gave the government until noon on Friday to share which states had received letters trying to enlist them in an effort to find evidence of voter fraud."
+    "title": "Republicans Ramp Up Investigation Into Democratic Plan to Pack Alaska’s Ballot",
+    "link": "https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html",
+    "summary": "The Justice Department issued subpoenas, a House oversight committee sought interviews and the state opened its own inquiry into a Democratic plan to recruit a spoiler into a Senate race."
+  },
+  {
+    "title": "How Common Is Ballot Stacking? What to Know as Conflict Roils Alaska Senate Race.",
+    "link": "https://www.nytimes.com/2026/10/29/us/elections/ballot-stacking-alaska.html",
+    "summary": "As a conflict over candidates roils the Alaskan Senate race, here’s a look back at the political practice over the years."
   },
   {
     "title": "Americans Keep Spending",
@@ -15,19 +20,24 @@
     "summary": "Also, Patrick Stewart dies at 86. Here’s the latest at the end of Thursday."
   },
   {
-    "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
-    "link": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
-    "summary": "A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action."
+    "title": "No Clear Winner in Israel Election, Final Results Show",
+    "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+    "summary": "Prime Minister Benjamin Netanyahu’s party and its allies won 53 seats in Parliament, falling short of the outright majority needed to form a government. The main opposition bloc, led by Gadi Eisenkot, won 48."
   },
   {
-    "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall Street",
-    "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
-    "summary": "Amazon on Thursday became the latest tech company to announce swelling investments in A.I. amid stumbling share prices."
+    "title": "What Israeli Election Results Reveal About the Electorate",
+    "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-voter-data-takeaways.html",
+    "summary": "Some groups stood by Prime Minister Benjamin Netanyahu’s party, but support fell off among others. Turnout was also a striking factor in the election."
   },
   {
-    "title": "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
-    "link": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
-    "summary": "The chipmaker, whose largest investor is the U.S. government, reported that the A.I. boom’s domino effect had hurt sales to personal computer makers."
+    "title": "Polymarket Is Investigating Suspicious Bets on Israeli Election",
+    "link": "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
+    "summary": "The company said it was looking into hundreds of new accounts that had placed wagers in two markets related to the election on Tuesday."
+  },
+  {
+    "title": "Trump Erupted After Learning of Alina Habba’s $50 Million Deal",
+    "link": "https://www.nytimes.com/2026/10/29/us/politics/trump-alina-habba-mildon-deal.html",
+    "summary": "Angry about the scale of a contract signed by one of his former lawyers with the family of a wealthy pardon seeker, the president told allies he wanted some of the money to go to his future presidential library."
   },
   {
     "title": "Patrick Stewart, ‘Star Trek’ Captain and Professor X on ‘X-Men,’ Dies at 86",
@@ -35,44 +45,19 @@
     "summary": "The British actor was 86. He achieved pop-culture stardom as Capt. Jean-Luc Picard on “Star Trek: The Next Generation.”"
   },
   {
+    "title": "Patrick Stewart Brought Elegance To ‘Star Trek’ as Jean-Luc Picard",
+    "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-captain-picard-star-trek-the-next-generation.html",
+    "summary": "Led by the Shakespearean veteran in his role as Jean-Luc Picard, “Star Trek: The Next Generation” gracefully went where the franchise had never gone before."
+  },
+  {
     "title": "Patrick Stewart’s Many Roles, From ‘Star Trek’ to ‘Avengers: Doomsday’",
     "link": "https://www.nytimes.com/2026/10/29/arts/patrick-stewart-best-moments-star-trek.html",
     "summary": "The actor’s long and varied career included Shakespearean roles, “Star Trek: The Next Generation,” comedy and a stint in the Marvel Universe."
   },
   {
-    "title": "Taryn Simon Fills Guggenheim With Evidence in ‘Father Country I Do Love You’",
-    "link": "https://www.nytimes.com/2026/10/29/arts/design/taryn-simon-guggenheim-father-country-i-do-love-you.html",
-    "summary": "The photographer Taryn Simon spent a decade channeling an F.B.I. agent’s life into pictures. Is it good art? Does it matter?"
-  },
-  {
-    "title": "Third-Party Spoilers, Long Fueled by Both Parties, Could Matter This Year",
-    "link": "https://www.nytimes.com/2026/10/29/us/politics/midterms-third-party-independent-candidates.html",
-    "summary": "The other Dan Sullivan in Alaska has drawn the most attention, but both parties are quietly trying to use little-known candidates in other battlegrounds to siphon votes, too."
-  },
-  {
-    "title": "Websites For Midterm Candidates Are Filled With A.I.-Written Text, Analysis Shows",
-    "link": "https://www.nytimes.com/2026/10/29/us/politics/campaign-websites-artificial-intelligence.html",
-    "summary": "The use of A.I. chatbots to write candidate biographies and policy positions is another way the technology is entangled with elections."
-  },
-  {
-    "title": "Four Scenarios for How the Midterms Could Go",
-    "link": "https://www.nytimes.com/2026/10/29/upshot/midterm-elections-senate-house-scenarios.html",
-    "summary": "Expectations are cresting for Democrats, and some kind of wave seems likely, but so much will depend on a few close Senate races."
-  },
-  {
-    "title": "Polymarket and Kalshi Turn Midterm Elections Into a Multimillion Dollar Market",
-    "link": "https://www.nytimes.com/2026/10/29/technology/polymarket-kalshi-midterm-election-betting-wagers.html",
-    "summary": "Betting markets like Polymarket and Kalshi have transformed America’s democracy into a new kind of casino."
-  },
-  {
-    "title": "Trump and His Aides Helped Bolsonaro Flee Brazil and Enter U.S.",
-    "link": "https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html",
-    "summary": "President Trump ensured Flávio Bolsonaro, who lost a presidential election in Brazil and faces multiple criminal investigations there, could enter the United States, U.S. officials said."
-  },
-  {
-    "title": "Why Miami Is a Destination for Latin America’s Political Exiles",
-    "link": "https://www.nytimes.com/2026/10/29/us/flavio-bolsonaro-miami-exile.html",
-    "summary": "The city’s Hispanic majority, news media reach and air links to Latin America have made it an ideal base for politicians escaping their home countries."
+    "title": "Newly Freed American Describes His Years in Russian Prison",
+    "link": "https://www.nytimes.com/2026/10/29/world/europe/stephen-james-hubbard-russian-prison.html",
+    "summary": "Stephen James Hubbard, the retired teacher arrested soon after Russia’s full-scale invasion of Ukraine in 2022, said he sometimes lost hope."
   },
   {
     "title": "A Sailor Jumped From the U.S.S. Lincoln. The Navy Punished Him.",
@@ -85,14 +70,24 @@
     "summary": "Lt. Gen. Brett Sylvia was fired as part of a broad and highly unusual campaign to find and punish senior military officers who speak to reporters."
   },
   {
-    "title": "Bodacious A.I. Bots Are Stealing Jokes From Young Female Comedians",
-    "link": "https://www.nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html",
-    "summary": "Swiping jokes word for word, these bodacious bots mainly lift from young female comedians. What’s so insidious is how they’re subtly changing us, the audience."
+    "title": "I Can Hear Everything",
+    "link": "https://www.nytimes.com/2026/10/29/us/single-sided-deafness-hearing-aids.html",
+    "summary": "The world can be tough to navigate with one working ear. Even now with two, I still face challenges."
   },
   {
-    "title": "China Is Not Happy About Fan-made A.I. Videos of Sun Wukong and Lin Daiyu",
-    "link": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
-    "summary": "Mash-up videos of beloved characters from Chinese classics — some made with A.I. — have caught the attention of the authorities."
+    "title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
+    "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+    "summary": "Amazon on Thursday became the latest tech company to announce swelling investments in A.I. amid stumbling share prices."
+  },
+  {
+    "title": "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
+    "link": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
+    "summary": "The chipmaker, whose largest investor is the U.S. government, reported that the A.I. boom’s domino effect had hurt sales to personal computer makers."
+  },
+  {
+    "title": "How a Self-Described ‘Junkie’ Rode Synthetic Drugs to Oblivion — and Fame",
+    "link": "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html",
+    "summary": "An Estonian addict could barely keep pace with the new drugs flooding the market. His terrifying accounts of the cruel toll they took on his body held his country in its grip."
   },
   {
     "title": "Cuba’s Foreign Minister: We’ll Outlast Trump",
@@ -105,14 +100,24 @@
     "summary": "Tensions have risen between the United States and Cuba as the Trump administration tries to force the island’s Communist government to make drastic changes."
   },
   {
-    "title": "I Can Hear Everything",
-    "link": "https://www.nytimes.com/2026/10/29/us/single-sided-deafness-hearing-aids.html",
-    "summary": "The world can be tough to navigate with one working ear. Even now with two, I still face challenges."
+    "title": "Bodacious A.I. Bots Are Stealing Jokes From Young Female Comedians",
+    "link": "https://www.nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html",
+    "summary": "Swiping jokes word for word, these bodacious bots mainly lift from young female comedians. What’s so insidious is how they’re subtly changing us, the audience."
   },
   {
-    "title": "What’s Next for Israel? Four Writers Decode the Election Results.",
+    "title": "China Is Not Happy About Fan-made A.I. Videos of Sun Wukong and Lin Daiyu",
+    "link": "https://www.nytimes.com/2026/10/29/world/asia/china-ai-videos-sun-wukong-lin-daiyu.html",
+    "summary": "Mash-up videos of beloved characters from Chinese classics — some made with A.I. — have caught the attention of the authorities."
+  },
+  {
+    "title": "Bostonians Compete to Be Their Airport’s New Voice",
+    "link": "https://www.nytimes.com/2026/10/29/us/voice-logan-airport-contest-boston-accent.html",
+    "summary": "By Christmas, the winning voice will echo through Boston Logan International in recorded greetings and announcements that millions of travelers will hear."
+  },
+  {
+    "title": "‘We’ve Seen This Movie’: Four Writers on What’s Next for Israel",
     "link": "https://www.nytimes.com/2026/10/29/opinion/israel-elections-arab-parties.html",
-    "summary": "A round table discussion on what the future holds for Israel and its government."
+    "summary": "A round table discussion decoding the election results."
   },
   {
     "title": "Why Are We Having Less Sex? Ask a Pornographer.",
@@ -120,8 +125,8 @@
     "summary": "Erika Lust wants to excite you."
   },
   {
-    "title": "The New DNA Technology That Linked Ted Bundy to a 52-Year-Old Cold Case",
-    "link": "https://www.nytimes.com/2026/10/29/science/dna-ted-bundy-cold-case.html",
-    "summary": "Software known as STRmix was instrumental in identifying Mr. Bundy’s DNA in a decades-old sample."
+    "title": "Court Rejects Erin Patterson’s Appeal in Mushroom Murders Case",
+    "link": "https://www.nytimes.com/2026/10/29/world/asia/mushroom-murder-case-sentencing-appeal-australia.html",
+    "summary": "Judges took away the possibility of parole for an Australian woman, Erin Patterson, and rejected a bid to overturn her conviction over deadly beef Wellington lunch."
   }
 ]

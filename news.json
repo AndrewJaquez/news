@@ -1,5 +1,15 @@
 [
   {
+    "title": "In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda",
+    "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html",
+    "summary": "The new White House chief of staff is responsible for some of the most provocative policies of President Trump’s second term, as well as an aggressive approach to executive power."
+  },
+  {
+    "title": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration",
+    "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html",
+    "summary": "A wave of high-ranking women have left the Trump administration in the past year. Many were replaced by men."
+  },
+  {
     "title": "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections",
     "link": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html",
     "summary": "A looming impeachment push could put President Trump’s polarizing defense secretary in a standoff with Democrats and Republicans."
@@ -10,9 +20,9 @@
     "summary": "Jason Reding Quiñones joins what is expected to be a succession of departures at the Justice Department after the midterm elections, including that of the leader of the national security division."
   },
   {
-    "title": "Susie Wiles, Trump’s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations",
-    "link": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
-    "summary": "In a no-holds-barred interview with Joe Rogan, Calley Means, a former top health adviser, accused Susie Wiles of repeatedly bowing to lobbying pressures and fixating on campaign contributions."
+    "title": "The Evening: Trump Replaces Chief of Staff",
+    "link": "https://www.nytimes.com/2026/11/06/briefing/stephen-miller-trump.html",
+    "summary": "Plus, a surprisingly good jobs report. Here’s the latest at the end of Friday."
   },
   {
     "title": "How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections",
@@ -22,17 +32,12 @@
   {
     "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
     "link": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
-    "summary": "U.S. intelligence concluded that Alice Huang, a Chinese business executive who developed a close relationship with Nvidia’s leader, was an asset of Beijing’s Ministry of State Security."
+    "summary": "A memo that circulated among U.S. policymakers cited intelligence that Alice Huang, a Chinese executive who developed a relationship with Nvidia’s leader, was an asset of Beijing’s Ministry of State Security."
   },
   {
-    "title": "The Voters Who Powered the Blue Tsunami",
-    "link": "https://www.nytimes.com/video/us/elections/100000011265557/the-voters-who-powered-the-blue-tsunami.html",
-    "summary": "A younger, more diverse electorate than is typical in midterm elections helped drive Democrats’ decisive victory, along with gains among swing voters and support from some Republican voters. Nate Cohn, The New York Times’s chief political analyst, explains."
-  },
-  {
-    "title": "How Farmers’ Frustration With Trump’s Policies Helped Democrats",
-    "link": "https://www.nytimes.com/2026/11/06/business/farmers-election-trump-democrats.html",
-    "summary": "Anger over tariffs and higher costs because of the war in Iran led many Republican farmers and ranchers to vote blue — or stay home."
+    "title": "Southern Democrats Now Have a Chance to Lead. What Will They Do With It?",
+    "link": "https://www.nytimes.com/2026/11/06/us/southern-democrats-georgia-north-carolina.html",
+    "summary": "Sweeping midterm successes in Georgia and North Carolina have given the party an opportunity, and a test, to lay out a vision for governing in the South."
   },
   {
     "title": "Republicans’ Losses in New York’s Midterms Were Bad. Then Came Their Post-Election Freakout.",
@@ -45,54 +50,19 @@
     "summary": "A Virginia judge, empowered by quirks in maritime law, has overseen the salvage of the remote shipwreck for decades. Now her rule is being challenged."
   },
   {
-    "title": "Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread",
-    "link": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
-    "summary": "With a lot of information to process in a short time, many market watchers said that the moves were extreme — in both directions."
-  },
-  {
-    "title": "The Stock Market Can Be Volatile. Here’s How to Stay Calm.",
-    "link": "https://www.nytimes.com/2026/11/06/your-money/stock-market-volatility-investments.html",
-    "summary": "Feeling a bit wobbly? Here are four things to consider that might provide some peace of mind."
-  },
-  {
-    "title": "Gina Hinojosa Will Be Texas’s First Democratic Governor in Decades. Republicans Won’t Make It Easy.",
-    "link": "https://www.nytimes.com/2026/11/06/us/texas-governor-democrat-gina-hinojosa.html",
-    "summary": "After a sweeping Democratic victory, Governor-elect Gina Hinojosa will try to reshape a state molded by decades of conservative policymaking, with Republicans still in control of the State Senate."
-  },
-  {
-    "title": "Texas Led the Conservative Overhaul of Education. What Now?",
-    "link": "https://www.nytimes.com/2026/11/06/us/texas-conservative-education-reform-hinojosa.html",
-    "summary": "In Texas, teaching on race and gender was restricted, Christianity was encouraged and private school vouchers expanded. It may be hard for Democrats to reverse those policies."
-  },
-  {
-    "title": "Houston Police to Stop Alerting ICE During Traffic Stops",
-    "link": "https://www.nytimes.com/2026/11/06/us/houston-mayor-john-whitmire-immigration-ice-cooperation.html",
-    "summary": "Mayor John Whitmire has instructed Houston police to stop notifying immigration agents when they encounter someone without legal status during routine street stops."
-  },
-  {
-    "title": "U.S. Global Health Strategy Jeopardizes Prevention of Pandemics, Experts Warn",
-    "link": "https://www.nytimes.com/2026/11/06/us/politics/pandemic-prevention-african-countries.html",
-    "summary": "The Trump administration has been negotiating agreements with dozens of individual countries. Public health experts say a global agreement would be far more effective."
-  },
-  {
     "title": "Cornell Faculty Passes Vote of No Confidence Over Handling of Sexual Assault Case",
     "link": "https://www.nytimes.com/2026/11/06/nyregion/cornell-no-confidence-vote.html",
     "summary": "The largely symbolic vote serves as a sharp rebuke of campus leadership’s handling of an explosive rape allegation that put the university in the national spotlight."
   },
   {
-    "title": "A Cornell Fraternity Was Supposed to Have an Adviser on Hand. It Didn’t.",
-    "link": "https://www.nytimes.com/2026/11/06/nyregion/cornell-fraternity-sex-assault-adviser.html",
-    "summary": "University rules required Chi Phi to have a live-in adviser on the premises the night a woman said she was raped at the fraternity house. The organization had not hired one."
+    "title": "86 Deaths and Counting: N.Y.C. Fire Fatalities Have Nearly Doubled This Year",
+    "link": "https://www.nytimes.com/2026/11/06/nyregion/nyc-fire-deaths.html",
+    "summary": "The Brooklyn blaze that killed six people this week renewed focus on the soaring death toll and raised questions about whether e-bike batteries have played a role."
   },
   {
-    "title": "John D. Rockefeller IV, West Virginia Governor and Senator, Dies at 89",
-    "link": "https://www.nytimes.com/2026/11/06/us/politics/jay-rockefeller-dead.html",
-    "summary": "The rare Democrat in a fabled family of wealthy Republicans, he served 30 years as senator and helped bring health insurance to millions of low-income children."
-  },
-  {
-    "title": "New York Is Set to Take On Amazon Over Drivers, if Its Leaders Can Agree",
-    "link": "https://www.nytimes.com/2026/11/06/nyregion/amazon-regulation-mamdani.html",
-    "summary": "Mayor Zohran Mamdani backs a bill to stop Amazon from outsourcing its deliveries, which would be a blow to the company. The City Council speaker, Julie Menin, and business leaders have concerns."
+    "title": "Prosecutors Vow to Keep Pursuing Death Penalty in California",
+    "link": "https://www.nytimes.com/2026/11/06/us/california-prosecutors-death-penalty.html",
+    "summary": "Unless the next governor, Xavier Becerra, keeps commuting sentences, California’s death row is likely to slowly repopulate in the coming years."
   },
   {
     "title": "They Spent Millions to Keep Their Dream Cruise Afloat. It Died Anyway.",
@@ -105,13 +75,13 @@
     "summary": "“When he feels cornered, when he feels attacked, he fights back,” the columnist Carlos Lozada says of Donald Trump, who is now entering the lame-duck phase of his presidency. Columnists from across Times Opinion share their predictions for what the final two years of Trump’s term might look like — and they’re not pretty."
   },
   {
-    "title": "The Ruthless Ambition of Stephen Miller",
-    "link": "https://www.nytimes.com/2025/07/07/opinion/stephen-miller.html",
-    "summary": "The most powerful man in the West Wing is getting what he wants. Is Trump?"
+    "title": "After These Midterms, JD Vance Is in a Bind",
+    "link": "https://www.nytimes.com/2026/11/06/opinion/jd-vance-midterms.html",
+    "summary": "He will need to sell voters on a tarnished Trump brand."
   },
   {
-    "title": "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab",
-    "link": "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html",
-    "summary": "Production of the electric trucks will stop in the middle of 2027 to make room for increased production of its autonomous ride-share vehicle, Elon Musk said."
+    "title": "Zoo Atlanta Unveils Its New Pandas: Fu Shuang and Ping Ping",
+    "link": "https://www.nytimes.com/2026/11/06/us/atlanta-pandas.html",
+    "summary": "Two years after two other pandas were returned to China, giant pandas were back on display in Atlanta."
   }
 ]

@@ -1,23 +1,8 @@
 [
   {
-    "title": "Thomas Massie Moves to Force Vote on Impeaching Pete Hegseth",
-    "link": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
-    "summary": "Representative Thomas Massie, Republican of Kentucky, set in motion a vote that must occur by Wednesday. If the House approves the charges, it will prompt a Senate trial."
-  },
-  {
-    "title": "Trump Veers Back Into Claims of Rigged Election, Questioning Midterm Results",
-    "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
-    "summary": "President Trump, who initially said he would accept the midterm results, renewed his unsubstantiated claims that voting was manipulated."
-  },
-  {
-    "title": "Congress Has Reined In the Presidency Before. Here’s How to Do It.",
-    "link": "https://www.nytimes.com/2026/11/09/magazine/congress-trump-oversight-investigations-presidency.html",
-    "summary": "History tells us that constitutional oversight can be a powerful tool — if wielded correctly."
-  },
-  {
-    "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
-    "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
-    "summary": "An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department after a top Nvidia executive reached out to Commerce Department officials."
+    "title": "Nvidia’s Board Has a History of Letting Jensen Huang Get His Way",
+    "link": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html",
+    "summary": "Governance experts question whether the board, which is investigating Mr. Huang’s conduct, has been too deferential as he has turned Nvidia into a global giant."
   },
   {
     "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
@@ -25,88 +10,93 @@
     "summary": "President Trump told reporters Monday that he believed Jensen Huang’s account and said he did not recall receiving a briefing warning him about Mr. Huang’s liaison."
   },
   {
-    "title": "A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed",
-    "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
-    "summary": "As chips became essential components for A.I., executives like Nvidia’s Jensen Huang saw their personal wealth and profiles soar in a way the industry has not experienced before."
+    "title": "The Jensen Huang Affair",
+    "link": "https://www.nytimes.com/2026/11/10/podcasts/hardfork-jensen-huang-spy-affair.html",
+    "summary": "Nvidia’s C.E.O., Jensen Huang, admitted to having an affair with a suspected Chinese corporate spy. Everything that means for him and the A.I. industry, and what happens next."
   },
   {
-    "title": "Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot",
-    "link": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
-    "summary": "Congressional leaders raise concerns in a letter as Nvidia investigates its chief executive’s affair with a suspected Chinese spy."
+    "title": "Hegseth Faces Impeachment Charges, and Why Dead Birds Are Washing Up in California",
+    "link": "https://www.nytimes.com/2026/11/10/podcasts/the-headlines/pete-hegseth-impeachment-charges-birds-california-booker-prize.html",
+    "summary": "Plus, “the best writer you’ve never heard of.”"
   },
   {
-    "title": "The Evening: Fallout From Nvidia Revelations Continues",
-    "link": "https://www.nytimes.com/2026/11/09/briefing/nvidia-huang-hegseth.html",
-    "summary": "Plus, the best writer you’ve never heard of. Here’s the latest at the end of Monday."
+    "title": "Oil Prices Have Tumbled in November. Here’s Why.",
+    "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
+    "summary": "The global benchmark price is down more than $20 a barrel since late October, when it traded for around $113."
   },
   {
-    "title": "An Anti-Trump Protest. Police Threats. Inside a Rift in Diabetes Research.",
-    "link": "https://www.nytimes.com/2026/11/09/science/american-diabetes-association-turmoil.html",
-    "summary": "It began with a protest at an American Diabetes Association conference. Now a resulting boycott has caused a scientific slowdown, with no end in sight."
+    "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+    "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+    "summary": "The A.I. company’s pricing would make it one of the biggest ever public listings. It comes at a volatile moment amid fears that the A.I. boom may not be sustainable."
   },
   {
-    "title": "Could the Voter Backlash Against A.I. Actually Help the Economy?",
-    "link": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
-    "summary": "Voter backlash could threaten the data center boom. Some economists think that could be a good thing."
+    "title": "You May All Go to Hell, and Tommy Lee Jones Will Go to Texas",
+    "link": "https://www.nytimes.com/2026/11/10/arts/television/tommy-lee-jones-the-lowdown-texas.html",
+    "summary": "The private actor enjoys life with his horses in the Texas Hill Country, removed from the show-business fray. But he’s back on TV for the first time in decades, in “The Lowdown.”"
   },
   {
-    "title": "What Is Congress’s Plan to Speed Up Energy Permits?",
-    "link": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html",
-    "summary": "The sprawling bill, which has divided Democrats, would overhaul major environmental laws to streamline the permitting process."
+    "title": "California Voters Reject Prop. 40 Billionaire Tax Measure",
+    "link": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html",
+    "summary": "The outcome could hinder the wealth tax movement in California and across the country in future years."
   },
   {
-    "title": "For Years, She Felt Awful. Her Flexible Joints Held a Clue.",
-    "link": "https://www.nytimes.com/2026/11/09/well/heds-eds-hypermobile.html",
-    "summary": "Many people with hypermobility disorders spend years trying to figure out what’s wrong. Online communities are helping them connect the dots."
+    "title": "The Blue Wave Washed Across Much of America. But Not Here.",
+    "link": "https://www.nytimes.com/2026/11/10/us/south-dakota-republicans.html",
+    "summary": "By some measures, the Republican Party grew even stronger in South Dakota, one of the states that shifted the least toward Democrats in the midterms."
   },
   {
-    "title": "Supreme Court Allows Construction of Trump’s Border Wall in Big Bend",
-    "link": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
-    "summary": "The administration had asked the court to permit construction of a border wall in southwestern Texas, including areas within a national park."
+    "title": "Democrats Will Be in Charge of Congress. Elizabeth Warren Has a Plan for That.",
+    "link": "https://www.nytimes.com/2026/11/10/us/politics/democrats-elizabeth-warren-economic-plan.html",
+    "summary": "The Massachusetts senator said it is imperative that Democrats address economic pain after running campaigns that centered cost-of-living issues."
   },
   {
-    "title": "A Decade After Henry Worsley Died in Antarctica, His Son Tries to Reach the South Pole",
-    "link": "https://www.nytimes.com/2026/11/09/climate/max-worsley-antarctic-expedition.html",
-    "summary": "A decade after Max Worsley’s father died crossing the continent, he embarks this month on his own journey into the lonely land his father loved."
+    "title": "In Trump’s Washington, Prosecutors Can’t Count on Grand Juries to Take Their Side",
+    "link": "https://www.nytimes.com/2026/11/09/us/politics/doj-trump-grand-jury-indictments.html",
+    "summary": "In the past two weeks, prosecutors in the capital have failed to secure indictments in at least three cases, an acceleration of the problems the Justice Department has had with grand juries."
   },
   {
-    "title": "In a Democratic Wave, Even the Long Shots Defied the Odds",
-    "link": "https://www.nytimes.com/2026/11/09/us/politics/congress-democratic-long-shots.html",
-    "summary": "A handful of Democrats scored improbable victories in races against Republican incumbents who were favored to win."
+    "title": "El Niño Is Hitting California Hard",
+    "link": "https://www.nytimes.com/2026/11/10/climate/el-nino-california-flooding-fires-kelvin-wave.html",
+    "summary": "Rising sea levels and violent weather are testing residents in some of the most picturesque cities along the Pacific Coast."
   },
   {
-    "title": "Progressives Defied Their Party and Won Big. They Still Feel Ignored.",
-    "link": "https://www.nytimes.com/2026/11/09/us/politics/progressive-wins-midterms.html",
-    "summary": "As Democrats prepare to take power in Congress, some centrists are brushing off the victories of left-wing candidates. The left is pushing back."
+    "title": "Why the California Coast Has So Many Dead Birds",
+    "link": "https://www.nytimes.com/2026/11/10/us/california-sea-birds-dead-el-nino.html",
+    "summary": "Scientists say El Niño is exacerbating conditions by causing Pacific Ocean temperatures to rise."
   },
   {
-    "title": "Her Death From Dengue May Signal That the Disease Is Here to Stay",
-    "link": "https://www.nytimes.com/2026/11/09/us/dengue-united-states-florida-mosquitos.html",
-    "summary": "In the past, Americans were infected with dengue after being bitten by mosquitoes while traveling. But now, most of the current transmission is from local mosquitoes."
+    "title": "A New York Times Reporter on El Niño and His California Childhood",
+    "link": "https://www.nytimes.com/2026/11/10/insider/el-nino-california-climate.html",
+    "summary": "David Gelles, who covers a warming world for The New York Times, recalls natural disasters of his youth as he seeks to make sense of a powerful El Niño."
   },
   {
-    "title": "M. John Harrison’s ‘The End of Everything’ Wins Booker Prize",
-    "link": "https://www.nytimes.com/2026/11/09/books/booker-prize-winner-2026-science-fiction.html",
-    "summary": "M. John Harrison’s dystopian tale “The End of Everything” beat out higher profile books by Marlon James, Elizabeth Strout and Douglas Stuart."
+    "title": "Kenyan Domestic Worker Sentenced to 100 Lashes in Saudi Arabia",
+    "link": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
+    "summary": "The kingdom’s promised reforms don’t always match the realities of its justice system. Unmarried women, particularly foreign workers, face unique perils."
   },
   {
-    "title": "Book Review: ‘The End of Everything,’ by M. John Harrison",
-    "link": "https://www.nytimes.com/2026/10/13/books/review/m-john-harrison-end-of-everything.html",
-    "summary": "Very little is clear in M. John Harrison’s Booker-nominated novel “The End of Everything,” except that nothing is as it seems."
+    "title": "They Were Married for Decades Before the Parkinson’s Began. Then Came the Visions.",
+    "link": "https://www.nytimes.com/2026/11/10/opinion/living-with-a-visionary-parkinsons-animation.html",
+    "summary": "After 50 years of marriage, John found himself caring for his wife, an art curator grappling with Parkinson’s."
   },
   {
-    "title": "Trump Has Found His New Roy Cohn in Stephen Miller",
-    "link": "https://www.nytimes.com/2026/11/09/opinion/stephen-miller-roy-cohn-trump.html",
-    "summary": "Stephen Miller is the wartime consigliere Trump always wanted."
+    "title": "JD Vance Trots Out an Old Scapegoat",
+    "link": "https://www.nytimes.com/2026/11/10/opinion/vance-trump-midterms-israel.html",
+    "summary": "Contra the vice president, the cause of last week’s G.O.P. debacle is a conservatism of fools."
   },
   {
-    "title": "Paulina Porizkova: Why I Now Call Myself a Feminist",
-    "link": "https://www.nytimes.com/2026/11/09/opinion/paulina-porizkova-nyt-175.html",
-    "summary": "The former model looks back at what she wrote in The Times about feminism nine years ago."
+    "title": "The A.I. Spy Thriller",
+    "link": "https://www.nytimes.com/2026/11/10/briefing/nvidia-spy-scandal.html",
+    "summary": "We look into what’s going on at Nvidia."
   },
   {
-    "title": "Judge Denies Request to Throw Out Lindsay Clancy’s Murder Charges",
-    "link": "https://www.nytimes.com/2026/11/09/us/lindsay-clancy-trial-motions-denied.html",
-    "summary": "The judge also declined to investigate the lone juror who wanted to convict Ms. Clancy, saying it would invade his privacy and deter others from serving on juries."
+    "title": "Late Night Weighs In on Trump’s Hopes for the Afterlife",
+    "link": "https://www.nytimes.com/2026/11/10/arts/television/late-night-trump-midterms.html",
+    "summary": "The president told “60 Minutes” that he doesn’t want to go to hell. “America was like, ‘Then where have we been living the past three years?’” Jimmy Fallon said."
+  },
+  {
+    "title": "Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground",
+    "link": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
+    "summary": "President Vladimir V. Putin of Russia has shown a willingness to endure a high price to get what he wants in Ukraine, and he sees little reason to stop fighting now, analysts say."
   }
 ]

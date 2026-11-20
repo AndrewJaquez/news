@@ -15,19 +15,39 @@
     "summary": "The United States, China and Russia agreed to boost the supply of refined petroleum products, as oil prices spike because of the Iran war."
   },
   {
+    "title": "Top White House Cybersecurity Official Is Replaced",
+    "link": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
+    "summary": "The departure of Sean Cairncross comes after a series of technological outages affected U.S. companies and federal agencies in the past week."
+  },
+  {
+    "title": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
+    "link": "https://www.nytimes.com/2026/11/19/us/tech-outages-computer-networks.html",
+    "summary": "The recent spate of tech disruptions has forced Americans to reckon with how dependent they have become on worldwide computer networks."
+  },
+  {
+    "title": "What You Should Know About Downdetector Before the Next Big Tech Outage",
+    "link": "https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html",
+    "summary": "The website has been checked and cited often during an unusually busy week of technology problems, though its operators acknowledge its limitations."
+  },
+  {
     "title": "Anthropic’s Value Surges in Public Debut",
     "link": "https://www.nytimes.com/2026/11/19/briefing/anthropic-public-debut.html",
     "summary": "Also, U.N. court rules that Myanmar committed genocide. Here’s the latest at the end of Thursday."
   },
   {
-    "title": "The Bay Area Wonders: What Will Anthropic Workers Do With Their Wealth?",
-    "link": "https://www.nytimes.com/2026/11/19/us/anthropic-ipo-spending-wealth-san-francisco.html",
-    "summary": "San Francisco isn’t preparing for an Anthropic shopping spree after employees gain newfound affluence from the company’s initial public offering."
+    "title": "Anthropic Debuts on Wall Street as a $2 Trillion Company",
+    "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
+    "summary": "The San Francisco company was the first major A.I. lab to go public in a highly anticipated moment for the tech industry, before ending the day valued at $1.7 trillion."
   },
   {
-    "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
-    "link": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
-    "summary": "Lawmakers released confidential information showing the Commerce Department had approved sales of more than 800,000 A.I. chips to Chinese companies, some with military ties."
+    "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
+    "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+    "summary": "Many people who joined the A.I. company a few years ago might have had little reason to think how big Anthropic would become. They are now worth tens of millions of dollars, if not more."
+  },
+  {
+    "title": "How Much Anthropic Are You About to Own?",
+    "link": "https://www.nytimes.com/2026/11/19/upshot/anthropic-ipo-stock.html",
+    "summary": "See how much of the stock you may own through common index funds, like those found in retirement accounts."
   },
   {
     "title": "Whatever You Thought Texas Was, It’s Bigger and Bluer Than That",
@@ -35,9 +55,9 @@
     "summary": "After Democrats broke a decades-long Republican winning streak this month, Texans are reflecting on who gets to define the place they call home."
   },
   {
-    "title": "With Alaska’s Senate Vote Counted, What Comes Next in the Last Frontier?",
-    "link": "https://www.nytimes.com/2026/11/18/us/politics/alaska-senate-count.html",
-    "summary": "The race is scheduled to be certified next week, but the Justice Department is investigating after Republicans lodged cheating allegations against the eventual winner, Mary Peltola."
+    "title": "Justice Department Gives Up on Alaska Senate Lawsuit",
+    "link": "https://www.nytimes.com/2026/11/19/us/politics/justice-department-gives-up-on-alaska-senate-lawsuit.html",
+    "summary": "The Trump administration had sought to block certification of election results if Senator Dan Sullivan, a Republican, lost narrowly in his bid for re-election. Critics had called the suit meritless."
   },
   {
     "title": "Former Biden Chief, With Help From Alex Soros, Will Gather Aides of 2028 Hopefuls",
@@ -50,49 +70,29 @@
     "summary": "The G.T.A. series is more than just a crime simulator — it’s a cartoonish sendup of our country. What happens when reality outruns the joke?"
   },
   {
-    "title": "Army Warns Iowa of Toxic Cloud as It Prepares to Blow Up Old Ammo",
+    "title": "Amid Outcry, Army Delays its Plan to Blow Up Toxic Ammunition in Iowa",
     "link": "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html",
-    "summary": "Friday’s explosion will dispose of unstable material used in detonators. A plume of dangerous lead dust could travel up to 60 miles, according to the latest Army estimate."
+    "summary": "The Army had planned to detonate a cache of dangerous explosives on Friday, potentially creating a plume of toxic lead dust stretching for 60 miles. The explosion is now set for Monday."
   },
   {
-    "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
-    "link": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
-    "summary": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time."
+    "title": "Senate Passes Major Permitting Bill to Speed Up Energy Projects",
+    "link": "https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html",
+    "summary": "The bill would overhaul federal environmental laws to make it easier to build everything from gas pipelines to wind farms. But it faces hurdles in the House."
   },
   {
-    "title": "Inside a Rohingya Camp After a Genocide Ruling",
-    "link": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
-    "summary": "On Thursday, the International Court of Justice ruled that the atrocities against the Rohingya ethnic minority constituted a genocide waged by the Myanmar state. Before the decision, Hannah Beech, a New York Times correspondent, spent a week in the refugee camps in Cox’s Bazar, Bangladesh, home to at least 1.2 million Rohingya."
-  },
-  {
-    "title": "In a Rohingya Refugee Camp, Jubilation but Also Apprehension",
-    "link": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-genocide-refugee-camp.html",
-    "summary": "People gathered in the rain to hear the ruling on whether Myanmar had committed genocide, though they understood it might not change their lives anytime soon."
-  },
-  {
-    "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-    "link": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-    "summary": "The ruling by the International Court of Justice deals with issues relevant to the case brought against Israel alleging genocide in Gaza. Israel has rejected the charge."
-  },
-  {
-    "title": "They’re Prepping for a World Where the Internet Doesn’t Work",
-    "link": "https://www.nytimes.com/2026/11/19/style/outages-doomsday-prep-emergency.html",
-    "summary": "“DoorDash is not an emergency plan.”"
-  },
-  {
-    "title": "Intolerance of Uncertainty Is Rising in Young Adults",
-    "link": "https://www.nytimes.com/2026/11/18/well/mind/uncertainty-anxiety-jama-study.html",
-    "summary": "At a moment when technical glitches are stirring confusion and fear, a new analysis examines just how distressing uncertainty can feel."
-  },
-  {
-    "title": "What You Should Know About Downdetector Before the Next Big Tech Outage",
-    "link": "https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html",
-    "summary": "The website has been checked and cited often during an unusually busy week of technology problems, though its operators acknowledge its limitations."
+    "title": "The Permitting Bill Is Splitting the Environmental Movement",
+    "link": "https://www.nytimes.com/2026/11/18/climate/permitting-bill-baaja-environmentalists-energy.html",
+    "summary": "Speeding up approvals for clean energy could help fight global warming — but many green groups fear its other provisions go too far."
   },
   {
     "title": "Fiona the Hippo, Star of Cincinnati Zoo and Beyond, Dies After Eating Child’s Hat",
     "link": "https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html",
     "summary": "The beloved Nile hippopotamus became ill after eating a children’s hat that accidentally ended up in her enclosure."
+  },
+  {
+    "title": "Tinto Brass Has Died. He Directed the Erotic Epic ‘Caligula.’",
+    "link": "https://www.nytimes.com/2026/11/19/movies/tinto-brass-dead.html",
+    "summary": "“The moments of lust and desire” in his movies, he said, grew “out of the stories themselves,” transcending pornography. He was 93."
   },
   {
     "title": "California Storm Sweeps South, Prompting Some Evacuation Warnings in L.A.",
@@ -110,13 +110,13 @@
     "summary": "A cybersecurity expert isn’t sold on the theory that there is a connection between the many recent digital failures and crashes."
   },
   {
-    "title": "‘The Tuners’: The Hidden Contest at the International Chopin Piano Competition",
-    "link": "https://www.nytimes.com/2026/11/19/opinion/the-tuners-international-chopin-piano-competition.html",
-    "summary": "In the shadows of one of the world’s most prestigious piano contests, the piano tuners are battling through their own competition."
+    "title": "Watch: Natasha Sarin on Anthropic’s Historic I.P.O. and What’s Next for the Markets",
+    "link": "https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-natasha-sarin.html",
+    "summary": "In a live conversation, the economist Natasha Sarin discussed what a historic I.P.O. means for the markets and much more."
   },
   {
-    "title": "At Brooklyn Compound, ICE Officers Are Training on Conducting Car Stops",
-    "link": "https://www.nytimes.com/2026/11/19/nyregion/nyc-ice-training-traffic-stops.html",
-    "summary": "Immigration and Customs Enforcement was ordered to expand training on traffic stops. The exercises come after a series of officer-involved shootings during President Trump’s immigration crackdown."
+    "title": "Marsha Linehan Has Died. She Transformed Treatment for Personality Disorder.",
+    "link": "https://www.nytimes.com/2026/11/19/well/mind/marsha-linehan-dead.html",
+    "summary": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child."
   }
 ]

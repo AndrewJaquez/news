@@ -1,5 +1,10 @@
 [
   {
+    "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+    "link": "https://www.nytimes.com/2026/11/21/business/anthropics-debut-shows-the-disconnect-between-wall-street-and-silicon-valley.html",
+    "summary": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending."
+  },
+  {
     "title": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
     "link": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
     "summary": "The S&amp;P 500 ended the day down more than 10 percent from its recent high, in a symbolic measure of investors’ souring mood."
@@ -10,54 +15,9 @@
     "summary": "The S&amp;P 500 has fallen more than 10 percent from its recent high, crossing a threshold that signals investors have turned pessimistic about stocks."
   },
   {
-    "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
-    "link": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-    "summary": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff."
-  },
-  {
-    "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
-    "link": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
-    "summary": "Questions around the company’s accounting had surfaced amid revelations about its questionable chip sales in Asia."
-  },
-  {
-    "title": "The Evening: Are Nvidia Chips Helping Power the Chinese Military?",
-    "link": "https://www.nytimes.com/2026/11/20/briefing/nvidia-anthropic-ice.html",
-    "summary": "Plus, Trump is bullish on data centers. Here’s the latest at the end of Friday."
-  },
-  {
     "title": "Officials Find Cascade of Problems With ICE Training in Trump’s Immigration Crackdown",
     "link": "https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html",
     "summary": "In a draft report, officials found widespread training gaps as the Department of Homeland Security sought to rapidly hire and deploy 10,000 new officers."
-  },
-  {
-    "title": "Jury in Palisades Fire Trial Finds Man Guilty of Arson in Devastating Blaze",
-    "link": "https://www.nytimes.com/2026/11/20/us/la-fire-trial-arson.html",
-    "summary": "The defendant, Jonathan Rinderknecht, was found guilty on two counts. The verdict provides a measure of accountability for a painful chapter in recent L.A. history."
-  },
-  {
-    "title": "Trump Administration Says Army Can Blow Up Lead-Laced Explosives",
-    "link": "https://www.nytimes.com/2026/11/20/climate/iowa-lead-plume-ammunition-explosion.html",
-    "summary": "The detonation, now set for Monday, could create a cloud of lead dust stretching for miles over homes and farms, the Army has said. Environmental groups are seeking an emergency stay."
-  },
-  {
-    "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
-    "link": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
-    "summary": "If confirmed, the proof of the Riemann hypothesis would cement the field’s sense that no unsolved problem is safe from artificial intelligence."
-  },
-  {
-    "title": "Playing ‘Key of Life,’ Stevie Wonder Invites All to Match His Joy",
-    "link": "https://www.nytimes.com/2026/11/20/arts/music/stevie-wonder-songs-in-the-key-of-life-tour.html",
-    "summary": "Wonder’s optimism was refracted around Madison Square Garden as he performed his “Songs in the Key of Life” album on a 50th anniversary tour."
-  },
-  {
-    "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
-    "link": "https://www.nytimes.com/2026/11/20/business/judge-approves-7-billion-settlement-over-claims-that-roundup-caused-cancer.html",
-    "summary": "The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma."
-  },
-  {
-    "title": "Fiona the Hippo Died After Eating a Hat. Some Want Justice.",
-    "link": "https://www.nytimes.com/2026/11/20/us/fiona-hippo-internet-justice.html",
-    "summary": "Social media commenters have called for investigations, the release of zoo video footage and punishment for the parents of a child whose hat Fiona ingested."
   },
   {
     "title": "It’s a Bill on Energy Permits, but Trump’s Pet Projects Are Part of the Debate",
@@ -65,38 +25,53 @@
     "summary": "The pervasive presence of the president hovers over the bipartisan legislation to speed up construction of energy projects that are advancing through Congress."
   },
   {
-    "title": "Takeaways From Trump’s Post-Trip News Conference",
-    "link": "https://www.nytimes.com/2026/11/20/us/politics/trump-news-conference-asia-trip.html",
-    "summary": "President Trump called the trilateral meeting with Xi Jinping and Vladimir Putin in China an “amazing event.” He also said he would work with Democrats in Congress on key issues."
+    "title": "Powerful Health Panel Has Tumultuous First Meeting With RFK Jr’s Appointees",
+    "link": "https://www.nytimes.com/2026/11/20/well/rfk-jr-uspstf-panel-meeting.html",
+    "summary": "Since March 2025, the work of the U.S. Preventive Services Task Force has been at a standstill."
   },
   {
-    "title": "A Supermodel Will Finally Get Her Day in Court",
-    "link": "https://www.nytimes.com/2026/11/20/style/carre-otis-gerald-marie-lawsuit-sexual-abuse.html",
-    "summary": "Carré Otis spent years trying to serve her former agent in a lawsuit accusing him of sexual abuse. It took an international operation to make it happen."
+    "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+    "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+    "summary": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government."
   },
   {
-    "title": "California Storm Forecast to Hit Thanksgiving Week Amid High King Tides",
-    "link": "https://www.nytimes.com/2026/11/20/weather/california-thanksgiving-storm-king-tides.html",
-    "summary": "“We could have flooding in areas where we have never seen flooding before,” a forecaster with the National Weather Service said."
+    "title": "Hakeem Jeffries Thinks He’s the Man for This Moment",
+    "link": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html",
+    "summary": "The Democratic nominee for House speaker on investigating Trump, whether Chuck Schumer should be majority leader and if he’ll ever sit down with Stephen Miller."
   },
   {
-    "title": "As a Storm Floods Florida, Heavy Rain Will Creep Up the East Coast",
-    "link": "https://www.nytimes.com/2026/11/20/weather/tropical-storm-kyle-florida-rain-thanksgiving.html",
-    "summary": "A potential tropical storm off the coast of Florida is expected to move up the coast and could snarl Thanksgiving week travel."
+    "title": "Before a Fatal Building Collapse, Officials Signed Off on a Dubious Plan",
+    "link": "https://www.nytimes.com/2026/11/21/nyregion/flatbush-building-collapse-oversight.html",
+    "summary": "Experts say that the New York City Buildings Department approved a risky method of shoring up a structure next to a Brooklyn construction site. Months later, it collapsed."
   },
   {
-    "title": "John Grisham: Scott Colom Makes Me Proud of Mississippi",
-    "link": "https://www.nytimes.com/2026/11/20/opinion/colom-mississippi-grisham.html",
-    "summary": "As a kid, I once watched the Ku Klux Klan burn a cross in my hometown in Mississippi. Sixty years later, I look forward to shaking Mr. Colom’s hand and telling him I’m proud he’s my senator."
+    "title": "10 Days After Fatal Building Collapse, a Brooklyn Block Is in Limbo",
+    "link": "https://www.nytimes.com/2026/11/21/nyregion/brooklyn-building-collapse-flatbush-ave.html",
+    "summary": "A deadly collapse damaged an adjoining building, which city officials now say must be torn down. Residents of that building and others nearby are frustrated and anxious."
   },
   {
-    "title": "How Do You Investigate a President This Corrupt?",
-    "link": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
-    "summary": "The incoming House Oversight Committee chairman, Robert Garcia, lays out his committee’s top targets."
+    "title": "From ‘Stranger Things’ to Broadway, Everyone Knows Joe Keery",
+    "link": "https://www.nytimes.com/2026/11/21/theater/joe-keery-other-desert-cities-broadway.html",
+    "summary": "“Stranger Things” vaulted him to stardom. With his Broadway debut in “Other Desert Cities,” he wants to get back to “why I started doing this in the first place.”"
   },
   {
-    "title": "Bobby Ray Inman, Intelligence Official Under Carter and Reagan, Dies at 95",
-    "link": "https://www.nytimes.com/2026/11/20/us/bobby-ray-inman-dead.html",
-    "summary": "An admiral who was a well-regarded director of the National Security Agency and deputy director of central intelligence, he turned down a nomination from President Bill Clinton to be secretary of defense."
+    "title": "The Sisterhood Rocks!",
+    "link": "https://www.nytimes.com/2026/11/21/opinion/sister-snl-family-care-parents.html",
+    "summary": "But should daughters bear the brunt of their folks’ care?"
+  },
+  {
+    "title": "Trump, Xi and Putin’s New World Order",
+    "link": "https://www.nytimes.com/2026/11/21/opinion/trump-xi-putin-summit-china-ai-democrats.html",
+    "summary": "Autocrats, tech lords and a whole lot of hubris: a week in politics."
+  },
+  {
+    "title": "Who Owns Thanksgiving?",
+    "link": "https://www.nytimes.com/2026/11/21/briefing/who-owns-thanksgiving.html",
+    "summary": "How to claim a stake in the holiday, even if you’re not hosting."
+  },
+  {
+    "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
+    "link": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
+    "summary": "Pedro Sánchez, Europe’s most prominent left-wing leader, seems set to lose power in an election next week. Our reporter trailed his last-ditch effort to turn his campaign around."
   }
 ]

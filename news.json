@@ -1,5 +1,15 @@
 [
   {
+    "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+    "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+    "summary": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico."
+  },
+  {
+    "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+    "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+    "summary": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives."
+  },
+  {
     "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
     "link": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
     "summary": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code."
@@ -10,9 +20,9 @@
     "summary": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending."
   },
   {
-    "title": "Powerful Health Panel Has Tumultuous First Meeting With RFK Jr’s Appointees",
-    "link": "https://www.nytimes.com/2026/11/20/well/rfk-jr-uspstf-panel-meeting.html",
-    "summary": "Since March 2025, the work of the U.S. Preventive Services Task Force has been at a standstill."
+    "title": "Trump Moves to Restrict Congressional Oversight of Contractors",
+    "link": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
+    "summary": "The president’s executive order is the latest effort to blunt Democratic plans to investigate the administration’s actions."
   },
   {
     "title": "A New Trump Tactic to Restrict Transit Funding: Rewrite the Rules",
@@ -20,24 +30,14 @@
     "summary": "The changes could make it harder for dozens of projects across the country to get funding they have pursued for years."
   },
   {
-    "title": "Trump Moves to Restrict Congressional Oversight of Contractors",
-    "link": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
-    "summary": "The president’s executive order is the latest effort to blunt Democratic plans to investigate the administration’s actions."
-  },
-  {
-    "title": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead",
-    "link": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html",
-    "summary": "The Democratic nominee for House speaker will have a challenging job. We asked him how he plans to lead."
-  },
-  {
-    "title": "Sarah McBride, Barred From Capitol Bathrooms, Wins Top Post",
-    "link": "https://www.nytimes.com/2026/11/21/us/politics/sarah-mcbride-barred-from-capitol-bathrooms-wins-top-post.html",
-    "summary": "Republicans have targeted the Delaware Democrat, the first openly transgender member of Congress, since she came to Washington. Her party just elevated her to a key job."
-  },
-  {
-    "title": "The Army Rejected a Safer Option to Destroy Lead-Laced Explosives in Iowa",
+    "title": "The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa",
     "link": "https://www.nytimes.com/2026/11/21/climate/army-lead-azide-blast.html",
     "summary": "The Army had hired a firm to turn the explosives into harmless waste, but then dropped it in favor of a controlled blast that could launch lead dust across Iowa."
+  },
+  {
+    "title": "What to Know About the Planned Explosion in Iowa",
+    "link": "https://www.nytimes.com/2026/11/21/climate/what-to-know-about-the-planned-explosion-in-iowa.html",
+    "summary": "The Army intends to detonate a stockpile of lead azide on Monday at a facility in southeastern Iowa, sending a plume of toxic lead dust into the nearby community."
   },
   {
     "title": "From ‘Stranger Things’ to Broadway, Everyone Knows Joe Keery",
@@ -50,13 +50,13 @@
     "summary": "But should daughters bear the brunt of their folks’ care?"
   },
   {
-    "title": "The Financial Bubble Cycles Are Getting Worse",
-    "link": "https://www.nytimes.com/2026/11/16/opinion/ai-bubble-finance-crisis-deregulation.html",
-    "summary": "The financialization of our economy, now penetrating Silicon Valley, is generating storms that are both more frequent and more destructive."
+    "title": "Advice to Democrats: Impeach Trump’s Cabinet",
+    "link": "https://www.nytimes.com/2026/11/21/opinion/trump-xi-putin-summit-china-ai-democrats.html",
+    "summary": "Autocrats, tech lords and a whole lot of hubris: a week in politics."
   },
   {
-    "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
-    "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
-    "summary": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government."
+    "title": "The $2.4 Billion Auction Week: Big Sales, Bigger Expectations",
+    "link": "https://www.nytimes.com/2026/11/21/arts/design/art-auction-collectors-heirs-nazi-sothebys-christies-new-york.html",
+    "summary": "“Blossoming Chestnut Trees” became a symbol of the risk and gamesmanship that define the art market’s peak. Here are five takeaways from the marathon."
   }
 ]

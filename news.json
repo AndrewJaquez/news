@@ -1,8 +1,18 @@
 [
   {
+    "title": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
+    "link": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
+    "summary": "U.S. intelligence is said to show that the woman at the heart of the A.I. chip scandal was in touch with China’s Ministry of State Security during the period when she was in a relationship with Jensen Huang."
+  },
+  {
     "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
     "link": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
     "summary": "After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades."
+  },
+  {
+    "title": "Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’",
+    "link": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html",
+    "summary": "Senator-elect Abdul El-Sayed’s pitch for working together to enact universal health care illustrates how some newly elected Democrats are approaching the president."
   },
   {
     "title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
@@ -10,19 +20,9 @@
     "summary": "Chuck Hubbard, a retired journalist, defeated Representative Virginia Foxx in a conservative district."
   },
   {
-    "title": "Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame",
-    "link": "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html",
-    "summary": "A divide is emerging in the party over what caused its wipeout midterm defeats, foreshadowing a battle over how to move forward before 2028."
-  },
-  {
-    "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
-    "link": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
-    "summary": "The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham."
-  },
-  {
-    "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
-    "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-    "summary": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas."
+    "title": "Is Mexico Stepping Up in the War on Drugs?",
+    "link": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
+    "summary": "With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico."
   },
   {
     "title": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
@@ -35,24 +35,44 @@
     "summary": "Mr. Miller has promoted some of the second Trump administration’s most egregious falsehoods about immigration policy, the economy and political opposition."
   },
   {
-    "title": "Looking for the Formula to Stop an Apocalypse",
-    "link": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
-    "summary": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time."
-  },
-  {
     "title": "Easy Thanksgiving Recipes That Take Up Absolutely No Oven Space",
     "link": "https://cooking.nytimes.com/article/easy-thanksgiving-recipes-no-oven-space",
     "summary": "Dishes for the stovetop, the slow-cooker, the air fryer, the Instant Pot and more."
   },
   {
-    "title": "Andrew Scott on the Shattering Feat of Playing Ian Charleson in ‘Elsinore’",
-    "link": "https://www.nytimes.com/2026/11/22/movies/andrew-scott-elsinore-ian-charleson.html",
-    "summary": "Scott is the subject of Oscar chatter for his performance recreating the last months of Ian Charleson for the biopic “Elsinore.”"
+    "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+    "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+    "summary": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response."
   },
   {
-    "title": "What Does It Actually Mean to Write ‘Like a Human’?",
-    "link": "https://www.nytimes.com/2026/11/22/opinion/ai-writing-technology-human-colonialism.html",
-    "summary": "The hunt for A.I. writing has turned many of us into detectives. A Kenyan writer asks what we’re really looking for."
+    "title": "The District Attorney Who Declined to Charge the Men Accused of Sexually Assaulting Jane Doe",
+    "link": "https://www.nytimes.com/2026/11/22/nyregion/cornell-jane-doe-case.html",
+    "summary": "Matthew Van Houten, a district attorney in upstate New York, faced backlash over how he handled a woman’s rape allegation. He says he followed the law."
+  },
+  {
+    "title": "Rather Than Sell Their House, They Became Landlords Instead",
+    "link": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
+    "summary": "Homeowners say the rental income helps them cover their mortgage payments, but they must also learn to handle needed repairs and confront bad tenants."
+  },
+  {
+    "title": "How Six Americans Under 40 Are Saving for Retirement",
+    "link": "https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html",
+    "summary": "Whether they take a traditional path or go their own way, some younger workers are managing to build a nest egg while juggling other financial challenges."
+  },
+  {
+    "title": "How a Crash Into a Cruise Ship in New Orleans Became a ‘Miracle on the Mississippi’",
+    "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html",
+    "summary": "When a 525-foot tanker struck the docked American Heritage riverboat on Nov. 13, a rescue operation turned tragedy into triumph and led the nearly 200 aboard to safety."
+  },
+  {
+    "title": "A Riverboat Captain Recalls a Crash on the Mississippi",
+    "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html",
+    "summary": "Capt. Len Stewart had mere seconds to react before a 525-foot tanker crashed into the American Heritage, a riverboat in New Orleans with nearly 200 passengers on board."
+  },
+  {
+    "title": "A Punk Rocker’s Painful Wait for Wheelchair Repairs",
+    "link": "https://www.nytimes.com/2026/11/21/us/wheelchair-repair-delays-public-equity.html",
+    "summary": "Two private equity-backed companies now dominate the U.S. wheelchair market. For users, extended repair times can be dangerous and frustrating."
   },
   {
     "title": "Why Are We at the Mercy of the World’s Weirdest Men?",
@@ -60,8 +80,13 @@
     "summary": "No kings isn’t just about Trump."
   },
   {
-    "title": "Delta Delays Flights as Thanksgiving Travel Begins, After Automated System Falters",
-    "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
-    "summary": "The system that faltered is used to calculate the weight and balance of departing flights. The disruptions came after a nationwide ground stop that canceled thousands of flights last weekend."
+    "title": "Europe Needs to Save Itself",
+    "link": "https://www.nytimes.com/2026/11/22/opinion/europe-us-congress-allies.html",
+    "summary": "It’s easy to hope that our good old post-1945 Uncle Sam, holding his security umbrella over European and Asian allies, is back again. He isn’t."
+  },
+  {
+    "title": "Donald Hooton Sr., Who Crusaded Against Steroids in Sports, Has Died",
+    "link": "https://www.nytimes.com/2026/11/22/us/donald-hooton-sr-dead.html",
+    "summary": "After the suicide of his son, a high school pitcher who used steroids, Donald Hooton Sr. delivered blistering testimony before Congress. He was 76."
   }
 ]

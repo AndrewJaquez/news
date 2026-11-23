@@ -1,8 +1,43 @@
 [
   {
+    "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
+    "link": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
+    "summary": "The S&amp;P 500 was already set to rise on Monday, bouncing back from a sharp fall last week, before the news that Nvidia’s board had reinstated Mr. Huang sent shares soaring."
+  },
+  {
     "title": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
     "link": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
     "summary": "U.S. intelligence is said to show that the woman at the heart of the A.I. chip scandal was in touch with China’s Ministry of State Security during the period when she was in a relationship with Jensen Huang."
+  },
+  {
+    "title": "Why U.N. Climate Talks Collapsed, and How China’s Spies Set Sights on A.I. Chips",
+    "link": "https://www.nytimes.com/2026/11/23/podcasts/the-headlines/un-climate-talks-china-spies-ai-chips.html",
+    "summary": "Plus, remembering the Pope of Peppers."
+  },
+  {
+    "title": "Ukraine’s Attack Off Coast of Libya Shows Reach of Its Naval Drones",
+    "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+    "summary": "President Volodymyr Zelensky said that Ukrainian drones had sunk a corvette and hit a dry cargo vessel, in attacks that involved special operations forces."
+  },
+  {
+    "title": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
+    "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html",
+    "summary": "When the military refused to let them sign up, a band of aging men found their own way to wage war against Russia."
+  },
+  {
+    "title": "Measles Is a Growing Risk for Adults in the United States",
+    "link": "https://www.nytimes.com/2026/11/23/health/measles-adults-vaccine-boosters.html",
+    "summary": "The danger is greatest for those who are unvaccinated, but vaccinated people born before 1989 may no longer be sufficiently protected, medical experts said."
+  },
+  {
+    "title": "Grocers Take Losses on Thanksgiving Meal Bundles to Draw Shoppers",
+    "link": "https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html",
+    "summary": "While retailers like Walmart may profit from the deals because of their size, smaller grocer chains are feeling the squeeze."
+  },
+  {
+    "title": "D.N.C. Plans 12 Debates for the 2028 Presidential Primary, Starting in June",
+    "link": "https://www.nytimes.com/2026/11/23/us/politics/democrats-debates-2028-presidential-race.html",
+    "summary": "The national party also revealed some initial criteria for participating, including a pledge to denounce spending from supportive groups that do not disclose their donors."
   },
   {
     "title": "Democrats Clinch 258 House Seats, an Election-Year Record This Century",
@@ -15,29 +50,9 @@
     "summary": "Senator-elect Abdul El-Sayed’s pitch for working together to enact universal health care illustrates how some newly elected Democrats are approaching the president."
   },
   {
-    "title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
-    "link": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
-    "summary": "Chuck Hubbard, a retired journalist, defeated Representative Virginia Foxx in a conservative district."
-  },
-  {
-    "title": "Is Mexico Stepping Up in the War on Drugs?",
-    "link": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
-    "summary": "With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico."
-  },
-  {
-    "title": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine",
-    "link": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
-    "summary": "The first lady, who has little experience in international affairs, developed back channels to key figures on both sides of the conflict through her longtime agent."
-  },
-  {
-    "title": "Fact-Checking Stephen Miller, the New White House Chief of Staff",
-    "link": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html",
-    "summary": "Mr. Miller has promoted some of the second Trump administration’s most egregious falsehoods about immigration policy, the economy and political opposition."
-  },
-  {
-    "title": "Easy Thanksgiving Recipes That Take Up Absolutely No Oven Space",
-    "link": "https://cooking.nytimes.com/article/easy-thanksgiving-recipes-no-oven-space",
-    "summary": "Dishes for the stovetop, the slow-cooker, the air fryer, the Instant Pot and more."
+    "title": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
+    "link": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
+    "summary": "The Israeli prime minister, Benjamin Netanyahu calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests."
   },
   {
     "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
@@ -45,48 +60,48 @@
     "summary": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response."
   },
   {
-    "title": "The District Attorney Who Declined to Charge the Men Accused of Sexually Assaulting Jane Doe",
-    "link": "https://www.nytimes.com/2026/11/22/nyregion/cornell-jane-doe-case.html",
-    "summary": "Matthew Van Houten, a district attorney in upstate New York, faced backlash over how he handled a woman’s rape allegation. He says he followed the law."
+    "title": "SpaceX Sued By Oregon and Virginia Over A.I.-Generated Sexualized Images",
+    "link": "https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html",
+    "summary": "The states accused Elon Musk’s company of violating consumer protection laws with its Grok Imagine artificial intelligence tool, which created the images."
   },
   {
-    "title": "Rather Than Sell Their House, They Became Landlords Instead",
-    "link": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
-    "summary": "Homeowners say the rental income helps them cover their mortgage payments, but they must also learn to handle needed repairs and confront bad tenants."
+    "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
+    "link": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
+    "summary": "Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic. That’s making it harder for his own A.I. effort."
   },
   {
-    "title": "How Six Americans Under 40 Are Saving for Retirement",
-    "link": "https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html",
-    "summary": "Whether they take a traditional path or go their own way, some younger workers are managing to build a nest egg while juggling other financial challenges."
+    "title": "When It Comes to Nature vs. Nurture, How Much Do Our Genes Matter?",
+    "link": "https://www.nytimes.com/2026/11/23/science/missing-heritability.html",
+    "summary": "After centuries, the nature versus nurture debate still rages. Now the fight is over “missing heritability” — whether science can find a way to pinpoint inheritance in the human genome."
   },
   {
-    "title": "How a Crash Into a Cruise Ship in New Orleans Became a ‘Miracle on the Mississippi’",
-    "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html",
-    "summary": "When a 525-foot tanker struck the docked American Heritage riverboat on Nov. 13, a rescue operation turned tragedy into triumph and led the nearly 200 aboard to safety."
+    "title": "Colombia Marks 10 Years Since FARC Peace Deal: In Photos",
+    "link": "https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html",
+    "summary": "The conflict between Colombia’s government and a leftist rebel group ended in a historic 2016 accord. But Colombia is still waiting for true peace."
   },
   {
-    "title": "A Riverboat Captain Recalls a Crash on the Mississippi",
-    "link": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html",
-    "summary": "Capt. Len Stewart had mere seconds to react before a 525-foot tanker crashed into the American Heritage, a riverboat in New Orleans with nearly 200 passengers on board."
+    "title": "COP31 Climate Talks Broke Down. Now What?",
+    "link": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
+    "summary": "With big diplomatic efforts faltering, smaller pacts, local leaders and booming clean energy take center stage."
   },
   {
-    "title": "A Punk Rocker’s Painful Wait for Wheelchair Repairs",
-    "link": "https://www.nytimes.com/2026/11/21/us/wheelchair-repair-delays-public-equity.html",
-    "summary": "Two private equity-backed companies now dominate the U.S. wheelchair market. For users, extended repair times can be dangerous and frustrating."
+    "title": "The National Popular Vote and the End of the Electoral College as We Know It",
+    "link": "https://www.nytimes.com/2026/11/23/opinion/national-popular-vote.html",
+    "summary": "A presidential election in which the winner is decided by who gets the most votes is almost a reality."
   },
   {
-    "title": "Why Are We at the Mercy of the World’s Weirdest Men?",
-    "link": "https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html",
-    "summary": "No kings isn’t just about Trump."
+    "title": "China’s A.I. Freakout Is Coming. Just Wait.",
+    "link": "https://www.nytimes.com/2026/11/23/opinion/china-ai-race-control.html",
+    "summary": "There’s not much that bothers the Chinese state more than instability."
   },
   {
-    "title": "Europe Needs to Save Itself",
-    "link": "https://www.nytimes.com/2026/11/22/opinion/europe-us-congress-allies.html",
-    "summary": "It’s easy to hope that our good old post-1945 Uncle Sam, holding his security umbrella over European and Asian allies, is back again. He isn’t."
+    "title": "Your Nvidia Questions",
+    "link": "https://www.nytimes.com/2026/11/23/briefing/nvidia-jensen-huang.html",
+    "summary": "Reporters answered your queries about the scandal."
   },
   {
-    "title": "Donald Hooton Sr., Who Crusaded Against Steroids in Sports, Has Died",
-    "link": "https://www.nytimes.com/2026/11/22/us/donald-hooton-sr-dead.html",
-    "summary": "After the suicide of his son, a high school pitcher who used steroids, Donald Hooton Sr. delivered blistering testimony before Congress. He was 76."
+    "title": "Jessica Ramos Couldn’t Afford Her Campaign Manager. She Gave Him a Senate Job.",
+    "link": "https://www.nytimes.com/2026/11/23/nyregion/jessica-ramos-campaign.html",
+    "summary": "State Senator Jessica Ramos has been accused of violating New York election laws by hiring a political operative last year to simultaneously run her mayoral campaign and Senate office."
   }
 ]

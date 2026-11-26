@@ -1,53 +1,8 @@
 [
   {
-    "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices",
-    "link": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
-    "summary": "The latest escalation came as the administration confronts continued legal obstacles and new scrutiny from an incoming Democratic-led Congress."
-  },
-  {
-    "title": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
-    "link": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html",
-    "summary": "The Federal Reserve is widely expected to raise interest rates next month."
-  },
-  {
-    "title": "Why Aren’t the Midterms Over in Louisiana? Ask the Supreme Court.",
-    "link": "https://www.nytimes.com/2026/11/25/us/politics/why-arent-the-midterms-over-in-louisiana-ask-the-supreme-court.html",
-    "summary": "A landmark Supreme Court ruling reshaped the state’s congressional map and set up runoffs for two open seats."
-  },
-  {
-    "title": "Abrego Garcia Arrives in Spain After Voluntarily Leaving U.S.",
-    "link": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
-    "summary": "Kilmar Armando Abrego Garcia, who was wrongfully deported from the United States last year, arrived in Madrid on Wednesday, ending a 20-month legal fight."
-  },
-  {
-    "title": "How and Why You Should Spatchcock Your Turkey",
-    "link": "https://cooking.nytimes.com/article/how-to-spatchcock-thanksgiving-turkey",
-    "summary": "Taking the backbone out and splaying out your bird yields evenly cooked meat almost every time."
-  },
-  {
-    "title": "Anthropic’s Stock Debut Could Hurt Tech Start-Ups",
-    "link": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
-    "summary": "As the share price drops, it could act as a brake on Silicon Valley’s frenzied investing in younger companies."
-  },
-  {
-    "title": "Stock Sell-Off Continues as Investors Fret About A.I., Tariffs and Inflation",
-    "link": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
-    "summary": "Nvidia, Anthropic and other tech companies tumbled as investors also weighed developments in global trade and the path of interest rates."
-  },
-  {
-    "title": "Maury Povich, Now a Podcast Host, Predicted This Media Moment",
-    "link": "https://www.nytimes.com/2026/11/25/style/maury-povich-podcast-on-par.html",
-    "summary": "Families are messy and entertaining. He showed how compelling dysfunction could be long before it was everywhere."
-  },
-  {
-    "title": "California’s Tides Are in ‘Uncharted Territory’ as Water Surges Higher",
-    "link": "https://www.nytimes.com/2026/11/25/weather/california-king-tides-sf-la.html",
-    "summary": "Wednesday’s high tides could break records, forecasters warned."
-  },
-  {
-    "title": "What Are King Tides, and Why Is Everyone Talking About Them?",
-    "link": "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html",
-    "summary": "Because of El Niño, the Pacific Ocean is already higher than normal. This year, that could lead to some especially high tides."
+    "title": "Setting Up the Macy’s Thanksgiving Day Parade is Quite a Process. So Is Undoing it.",
+    "link": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-parade-preparation-setup.html",
+    "summary": "After a long preparation for the 100th anniversary procession, having time to rest will have to wait a few days for the crews."
   },
   {
     "title": "Thanksgiving Storm Is Expected to Hit East Coast With Heavy Rain and Flooding",
@@ -55,43 +10,98 @@
     "summary": "The storm, developing offshore, is expected to move inland over North Carolina and grind northeast through Thanksgiving Day."
   },
   {
-    "title": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
-    "link": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
-    "summary": "The Iran-backed Houthis are on a winning streak, securing strategic territory as they fight Saudi Arabia and its Yemeni allies in an asymmetrical war of attrition."
+    "title": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
+    "link": "https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html",
+    "summary": "The retreat of the stock market in recent days shows how President Trump’s push to reinstall the company’s chief executive has collided with the realities of his other policies."
   },
   {
-    "title": "Trapped on the Tarmac: 3-Hour Flight Delays Spike Under Trump",
-    "link": "https://www.nytimes.com/2026/11/25/upshot/tarmac-delays-flights-trump.html",
-    "summary": "Long delays have risen to levels not seen in more than 15 years, with no enforcement in sight."
+    "title": "A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records",
+    "link": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
+    "summary": "Three data providers say they have no evidence to support the online claim that insider trading generated a 9,000 percent return."
   },
   {
-    "title": "Visual Tour of NYC’s Holiday Store Windows: Macy’s, Saks and More",
-    "link": "https://www.nytimes.com/2026/11/25/style/nyc-holiday-store-windows.html",
-    "summary": "A 50-pound hippopotamus and a bedazzled seven-foot polar bear are among the standouts of this year’s handcrafted department-store displays."
+    "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
+    "link": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
+    "summary": "Nvidia and other tech companies fell as investors weighed developments in global trade and the path of interest rates."
   },
   {
-    "title": "Here’s How Democrats Should Investigate Trump’s Corruption",
-    "link": "https://www.nytimes.com/2026/11/25/opinion/trump-corruption-investigate-democrats.html",
-    "summary": "By focusing on corruption, Congress can make clear that President Trump and his allies are willing to harm other Americans for their own benefit."
+    "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices",
+    "link": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
+    "summary": "The latest escalation came as the administration confronts continued legal obstacles and new scrutiny from an incoming Democratic-led Congress."
   },
   {
-    "title": "Abandon All Hope, Ye Who Enter Airports",
-    "link": "https://www.nytimes.com/2026/11/25/opinion/airports-travel-holiday.html",
-    "summary": "Dante’s “Inferno” depicted a hell meant to punish sinners. Our airports are a hell meant to punish everyone."
+    "title": "After Extraordinary Iowa Explosion, Officials and Scientists Assess Fallout Risks",
+    "link": "https://www.nytimes.com/2026/11/25/us/iowa-army-ammunition-blast.html",
+    "summary": "Military and civilian authorities said the Army operation was a success. But testing will continue to make sure residents are safe from contamination."
   },
   {
-    "title": "Thanksgiving Travel",
-    "link": "https://www.nytimes.com/2026/11/25/briefing/thanksgiving-travel-delays.html",
-    "summary": "Why airport delays are on the rise."
+    "title": "Iowa Awaits All-Clear as Tests for Lead Continue",
+    "link": "https://www.nytimes.com/2026/11/25/us/iowa-detonation-lead-what-next.html",
+    "summary": "It will take some time for officials to examine the air, water and soil samples for contamination."
   },
   {
-    "title": "Late Night Rips Into Trump for Honoring Rudy Giuliani",
-    "link": "https://www.nytimes.com/2026/11/25/arts/television/late-night-trump-giuliani.html",
-    "summary": "Seth Meyers congratulated the former New York mayor and Trump ally for “A, receiving the Presidential Medal of Freedom and B, still being alive.”"
+    "title": "Easy Thanksgiving Recipes | Thanksgiving Recipes 2025 | NYT Cooking",
+    "link": "https://cooking.nytimes.com/article/easy-thanksgiving-recipes",
+    "summary": "These simple recipes for roast turkey, stuffing, pie crust and more will set you up for a spectacular meal."
   },
   {
-    "title": "As Bob Iger Exits Disney for Good, an Unwelcome Biography Arrives",
-    "link": "https://www.nytimes.com/2026/11/25/business/media/bob-iger-disney-robbie-whelan.html",
-    "summary": "“The House of Mouse” challenges the image the company’s former chief has cultivated over decades. He is scheduled to attend his final Disney board meeting next week."
+    "title": "Judge Blocks F.C.C. From Targeting Disney’s Local ABC Licenses",
+    "link": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
+    "summary": "A preliminary injunction halts an early regulatory review of the network’s operations in eight cities, including New York, Los Angeles and Chicago."
+  },
+  {
+    "title": "ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize",
+    "link": "https://www.nytimes.com/2026/11/25/us/ice-arrest-boston-lottery-winner.html",
+    "summary": "Ariel Velasquez-Morales, a native of El Salvador, smiled in a picture with a giant check. The image led immigration agents to him, and he is set for deportation."
+  },
+  {
+    "title": "Border Barrier Cannot be Removed for Decades, Texas Republicans and D.O.J. Agree",
+    "link": "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html",
+    "summary": "Just before Democrats take over the state government, Trump administration and outgoing Republican officials in Texas ink legal settlement barring removal of wire for 30 years."
+  },
+  {
+    "title": "A Pier Partially Collapses as California’s Tides Enter ‘Uncharted Territory’",
+    "link": "https://www.nytimes.com/2026/11/25/weather/california-king-tides-sf-la.html",
+    "summary": "High tide records were set in San Diego, Santa Barbara and Monterey on Wednesday."
+  },
+  {
+    "title": "What Are King Tides, and Why Is Everyone Talking About Them?",
+    "link": "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html",
+    "summary": "Because of El Niño, the Pacific Ocean is already higher than normal. This year, that could lead to some especially high tides."
+  },
+  {
+    "title": "Veruschka, One of the World’s First Supermodels, Has Died",
+    "link": "https://www.nytimes.com/2026/11/25/style/veruschka-dead.html",
+    "summary": "She rocketed to fame in Vogue and other magazines during the Swinging Sixties and had a memorable cameo in Antonioni’s hit film “Blow-Up.” She was 87."
+  },
+  {
+    "title": "Veruschka Was a Supermodel Before the Term Was Invented",
+    "link": "https://www.nytimes.com/2026/11/25/style/veruschka-supermodel-obituary.html",
+    "summary": "Her look made her a celebrity before models were known as celebrities."
+  },
+  {
+    "title": "Maury Povich, Now a Podcast Host, Predicted This Media Moment",
+    "link": "https://www.nytimes.com/2026/11/25/style/maury-povich-podcast-on-par.html",
+    "summary": "Families are messy and entertaining. He showed how compelling dysfunction could be long before it was everywhere."
+  },
+  {
+    "title": "Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65",
+    "link": "https://www.nytimes.com/2026/11/25/arts/music/andy-taylor-duran-duran-dead.html",
+    "summary": "He helped define the sound, and the look, of the 1980s with MTV-ready hits like “Rio” and “Hungry Like the Wolf.”"
+  },
+  {
+    "title": "The Ensemble Cast of a New York Sitcom Is Suddenly Running the Country",
+    "link": "https://www.nytimes.com/2026/11/25/opinion/nyc-jeffries-schumer-mamdani-aoc-trump.html",
+    "summary": "Remember when New York was an island off this nation’s coast?"
+  },
+  {
+    "title": "I’m a Therapist. I Wish These Patients Would Not Cut Off Their Family Members.",
+    "link": "https://www.nytimes.com/2026/11/25/opinion/politics-family-midterms-voting-holidays.html",
+    "summary": "More than a third of Americans report losing relationships with friends or family because of political differences."
+  },
+  {
+    "title": "Mamdani Wins Against Landlords in Rent Freeze Lawsuit",
+    "link": "https://www.nytimes.com/2026/11/25/nyregion/mamdani-rent-freeze-legal-challenge-apartments.html",
+    "summary": "A Manhattan judge handed a victory to Mayor Zohran Mamdani by dismissing a lawsuit filed by landlords over a rent freeze for rent-stabilized apartments."
   }
 ]
